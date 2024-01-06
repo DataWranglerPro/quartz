@@ -1,0 +1,3 @@
+Required textbook: “Introduction to Probability Models,” Author: Sheldon Ross, Academic Press: 11th edition, ISBN: 978-0124079489 Recommended textbook: “Introduction to Probability,” Author: Dimitri Bertsekas and John Tsitsiklis, Athena Scientific; 2nd edition, ISBN: 978-1886529236
+
+Textbook: Operations Research: Applications and Algorithms, by Wayne L. Winston, 4th Edition, (ISBN13: 978-0534380588 ISBN-10: 0534380581).

@@ -1,0 +1,1 @@
+I dabbled in Googles [[machine learning]] [[Python]] library. I did 13 lessons on it but never truly got good at it. 

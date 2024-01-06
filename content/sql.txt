@@ -1,0 +1,453 @@
+	SET NOCOUNT ON;
+
+DECLARE @ReportDate datetime
+ 
+-- Today's date 
+SET @ReportDate = DateAdd(dd, DateDiff(dd, 0, GetDate()), 0)
+
+-- Two weeks ago
+SET @ReportDate = DateAdd(ww, -2, @ReportDate)
+--SELECT @ReportDate
+
+IF OBJECT_ID('tempdb..#GetAll','u') IS NOT NULL
+BEGIN
+DROP TABLE #GetAll
+END
+
+CREATE TABLE #GetAll
+(
+	Name nvarchar(450),
+	ReportID uniqueidentifier,
+	RequestType nvarchar(50),
+	TimeStart datetime,
+	TimeEnd datetime,
+	TimeRendering int,
+    Status nvarchar(50),
+    InstanceName nvarchar(50),
+    UserName nvarchar(300),
+    Sunday bit DEFAULT 0,  
+    Monday bit DEFAULT 0,
+    Tuesday bit DEFAULT 0,
+    Wednesday bit DEFAULT 0,
+    Thursday bit DEFAULT 0,
+    Friday bit DEFAULT 0,
+    Saturday bit DEFAULT 0
+)
+
+IF OBJECT_ID('tempdb..#Pass','u') IS NOT NULL
+BEGIN
+DROP TABLE #Pass
+END
+
+CREATE TABLE #Pass
+(
+	Name nvarchar(450),
+	ReportID uniqueidentifier,
+	RequestType nvarchar(50),
+	TimeStart datetime,
+	TimeEnd datetime,
+	TimeRendering int,
+	TimeProcessingMinutes int,
+	TimeRenderingMinutes int,
+    Status nvarchar(50),
+    InstanceName nvarchar(50),
+    UserName nvarchar(300),
+    Sunday bit DEFAULT 0,  
+    Monday bit DEFAULT 0,
+    Tuesday bit DEFAULT 0,
+    Wednesday bit DEFAULT 0,
+    Thursday bit DEFAULT 0,
+    Friday bit DEFAULT 0,
+    Saturday bit DEFAULT 0
+)
+
+IF OBJECT_ID('tempdb..#Fail','u') IS NOT NULL
+BEGIN
+DROP TABLE #Fail
+END
+
+CREATE TABLE #Fail
+(
+	Name nvarchar(450),
+	ReportID uniqueidentifier,
+	RequestType nvarchar(50),
+	TimeStart datetime,
+	TimeEnd datetime,
+	TimeRendering int,
+	TimeProcessingMinutes int,
+	TimeRenderingMinutes int,
+    Status nvarchar(50),
+    InstanceName nvarchar(50),
+    UserName nvarchar(300),
+    Sunday bit DEFAULT 0,  
+    Monday bit DEFAULT 0,
+    Tuesday bit DEFAULT 0,
+    Wednesday bit DEFAULT 0,
+    Thursday bit DEFAULT 0,
+    Friday bit DEFAULT 0,
+    Saturday bit DEFAULT 0
+)
+
+IF OBJECT_ID('tempdb..#PassSummary','u') IS NOT NULL
+BEGIN
+DROP TABLE #PassSummary
+END
+
+CREATE TABLE #PassSummary
+(
+	Name nvarchar(450),
+	AVG_MI_TimeProcessing decimal(18,12),
+	STDEV_MI_TimeProcessing decimal(18,12),
+	AVG_HR_TimeStart decimal(18,12),
+	STDEV_HR_TimeStart decimal(18,12),
+	AVG_MI_TimeStart decimal(18,12),
+	STDEV_MI_TimeStart decimal(18,12),
+	PercentFail decimal(18,12),
+    Sunday bit DEFAULT 0,  
+    Monday bit DEFAULT 0,
+    Tuesday bit DEFAULT 0,
+    Wednesday bit DEFAULT 0,
+    Thursday bit DEFAULT 0,
+    Friday bit DEFAULT 0,
+    Saturday bit DEFAULT 0
+)
+
+IF OBJECT_ID('tempdb..#FailSummary','u') IS NOT NULL
+BEGIN
+DROP TABLE #FailSummary
+END
+
+CREATE TABLE #FailSummary
+(
+	Name nvarchar(450),
+	AVG_MI_TimeProcessing decimal(18,12),
+	STDEV_MI_TimeProcessing decimal(18,12),
+	AVG_HR_TimeStart decimal(18,12),
+	STDEV_HR_TimeStart decimal(18,12),
+	AVG_MI_TimeStart decimal(18,12),
+	STDEV_MI_TimeStart decimal(18,12),
+	PercentFail decimal(18,12),
+    Sunday bit DEFAULT 0,  
+    Monday bit DEFAULT 0,
+    Tuesday bit DEFAULT 0,
+    Wednesday bit DEFAULT 0,
+    Thursday bit DEFAULT 0,
+    Friday bit DEFAULT 0,
+    Saturday bit DEFAULT 0
+)
+
+INSERT #GetAll (Name, ReportID, RequestType, TimeStart, TimeEnd, TimeRendering, Status, InstanceName, UserName)
+	SELECT C.Name
+			,E.ReportID			
+		  ,Case E.Requesttype
+		   WHEN 1 THEN 'Subscription' 
+		   WHEN 0 THEN 'Report Launch'
+		   ELSE ''
+		   END as RequestType
+		  ,E.TimeStart 
+		  --,datediff(mi, E.timeStart, E.TimeEnd) as TimeProcessing
+		  --,E.TimeRendering/(1000*60) as TimeRendering
+		  ,E.TimeEnd
+		  ,E.TimeRendering
+		  ,E.Status
+		  ,E.InstanceName
+		  ,E.UserName
+     FROM Reportserver.dbo.ExecutionLog E
+     JOIN Reportserver.dbo.Catalog C
+       ON E.ReportID = C.ItemID
+    WHERE DateAdd(dd, DateDiff(dd, 0, E.TimeStart), 0) >= @ReportDate
+		AND E.RequestType = 1 -- Subscription
+		AND c.Name <> '' 
+	ORDER BY c.Name
+
+INSERT #Pass (Name, ReportID, RequestType, TimeStart, TimeEnd, TimeRendering, TimeProcessingMinutes, TimeRenderingMinutes, Status, InstanceName, UserName)
+	SELECT E.Name
+			,E.ReportID			
+		  ,E.Requesttype
+		  ,E.TimeStart 
+		  ,E.TimeEnd
+		  ,E.TimeRendering
+		  ,datediff(mi, E.TimeStart, E.TimeEnd) as TimeProcessingMinutes
+		  ,E.TimeRendering/(1000*60) as TimeRenderingMinutes
+		  ,E.Status
+		  ,E.InstanceName
+		  ,E.UserName
+     FROM #GetAll E
+    WHERE E.Status = 'rsSuccess' -- only capture best case scenarios
+	ORDER BY E.Name	
+
+INSERT #Fail (Name, ReportID, RequestType, TimeStart, TimeEnd, TimeRendering, TimeProcessingMinutes, TimeRenderingMinutes, Status, InstanceName, UserName)
+	SELECT E.Name
+			,E.ReportID			
+		  ,E.Requesttype
+		  ,E.TimeStart 
+		  ,E.TimeEnd
+		  ,E.TimeRendering
+		  ,datediff(mi, E.TimeStart, E.TimeEnd) as TimeProcessingMinutes
+		  ,E.TimeRendering/(1000*60) as TimeRenderingMinutes
+		  ,E.Status
+		  ,E.InstanceName
+		  ,E.UserName
+     FROM #GetAll E
+    WHERE E.Status <> 'rsSuccess' -- only capture worst case scenarios
+	ORDER BY E.Name	
+
+-- How often do the reports run?
+-- Look back as far as a month to determine execution pattern
+UPDATE t
+SET t.Sunday = a.Sunday, 
+t.Monday = a.Monday, 
+t.Tuesday = a.Tuesday, 
+t.Wednesday = a.Wednesday, 
+t.Thursday = a.Thursday, 
+t.Friday = a.Friday,
+t.Saturday = a.Saturday
+FROM #Pass t
+JOIN (
+SELECT sub.ReportID,
+		SUM(sub.Sunday) as Sunday,
+		SUM(sub.Monday) as Monday,
+		SUM(sub.Tuesday) as Tuesday,
+		SUM(sub.Wednesday) as Wednesday,
+		SUM(sub.Thursday) as Thursday,
+		SUM(sub.Friday) as Friday,
+		SUM(sub.Saturday) as Saturday
+FROM (
+SELECT DISTINCT E.ReportID,
+		datepart(dw, E.TimeStart) as DayOfWeek,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 1 THEN 1
+			ELSE 0
+		END as Sunday,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 2 THEN 1
+			ELSE 0
+		END as Monday,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 3 THEN 1
+			ELSE 0
+		END as Tuesday,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 4 THEN 1
+			ELSE 0
+		END as Wednesday,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 5 THEN 1
+			ELSE 0
+		END as Thursday,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 6 THEN 1
+			ELSE 0
+		END as Friday,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 7 THEN 1
+			ELSE 0
+		END as Saturday
+ FROM Reportserver.dbo.ExecutionLog E
+WHERE DateAdd(dd, DateDiff(dd, 0, E.TimeStart), 0) >= DateAdd(mm, -1, @ReportDate)
+	AND E.RequestType = 1 -- Subscription
+	AND E.Status = 'rsSuccess' -- Only capture best case scenarios
+) sub
+GROUP BY sub.ReportID
+) a on (a.ReportID = t.ReportID)
+	
+--select * from #Pass
+
+
+UPDATE t
+SET t.Sunday = a.Sunday, 
+t.Monday = a.Monday, 
+t.Tuesday = a.Tuesday, 
+t.Wednesday = a.Wednesday, 
+t.Thursday = a.Thursday, 
+t.Friday = a.Friday,
+t.Saturday = a.Saturday
+FROM #Fail t
+JOIN (
+SELECT sub.ReportID,
+		SUM(sub.Sunday) as Sunday,
+		SUM(sub.Monday) as Monday,
+		SUM(sub.Tuesday) as Tuesday,
+		SUM(sub.Wednesday) as Wednesday,
+		SUM(sub.Thursday) as Thursday,
+		SUM(sub.Friday) as Friday,
+		SUM(sub.Saturday) as Saturday
+FROM (
+SELECT DISTINCT E.ReportID,
+		datepart(dw, E.TimeStart) as DayOfWeek,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 1 THEN 1
+			ELSE 0
+		END as Sunday,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 2 THEN 1
+			ELSE 0
+		END as Monday,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 3 THEN 1
+			ELSE 0
+		END as Tuesday,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 4 THEN 1
+			ELSE 0
+		END as Wednesday,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 5 THEN 1
+			ELSE 0
+		END as Thursday,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 6 THEN 1
+			ELSE 0
+		END as Friday,
+		CASE 
+			WHEN datepart(dw, E.TimeStart) = 7 THEN 1
+			ELSE 0
+		END as Saturday
+ FROM Reportserver.dbo.ExecutionLog E
+WHERE DateAdd(dd, DateDiff(dd, 0, E.TimeStart), 0) >= DateAdd(mm, -1, @ReportDate)
+	AND E.RequestType = 1 -- Subscription
+	AND E.Status <> 'rsSuccess' -- Only capture worst case scenarios
+) sub
+GROUP BY sub.ReportID
+) a on (a.ReportID = t.ReportID)
+	
+--select * from #Fail
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+INSERT #PassSummary (Name, AVG_MI_timeProcessing, STDEV_MI_timeProcessing, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, PercentFail)
+SELECT p.Name,
+		AVG (ISNULL(p.TimeProcessingMinutes, 0)) as AVG_timeProcessing,
+		ISNULL( STDEV (ISNULL(p.TimeProcessingMinutes, 0)), 0) as STDEV_timeProcessing,
+		p.Sunday,
+		p.Monday,
+		p.Tuesday,
+		p.Wednesday,
+		p.Thursday,
+		p.Friday,
+		p.Saturday,
+		(SELECT count(*)*1.0 FROM #Fail f WHERE f.Name = p.Name) / (count(*) + (SELECT count(*)*1.0 FROM #Fail f WHERE f.Name = p.Name)) as PercentFail
+FROM #Pass p
+GROUP BY p.Name, p.Sunday, p.Monday, p.Tuesday, p.Wednesday, p.Thursday, p.Friday, p.Saturday
+
+UPDATE t2
+SET t2.AVG_HR_timeStart = t1.AVG_HR_timeStart,
+t2.STDEV_HR_timeStart = t1.STDEV_HR_timeStart,
+t2.AVG_MI_timeStart = t1.AVG_Mi_timeStart,
+t2.STDEV_MI_timeStart = t1.STDEV_Mi_timeStart
+FROM #PassSummary t2
+JOIN (
+SELECT Name,
+		AVG(DATEPART(hh,TimeStart)) as AVG_HR_timeStart,
+		ISNULL (STDEV(DATEPART(hh,TimeStart)), 0) as STDEV_HR_timeStart,
+		AVG(DATEPART(mi,TimeStart)) as AVG_Mi_timeStart,
+		ISNULL (STDEV(DATEPART(mi,TimeStart)), 0) as STDEV_Mi_timeStart
+FROM #Pass
+GROUP BY Name
+) t1 on (t1.Name = t2.Name)
+
+--
+
+INSERT #FailSummary (Name, AVG_MI_timeProcessing, STDEV_MI_timeProcessing, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, PercentFail)
+SELECT f.Name,
+		AVG (ISNULL(f.TimeProcessingMinutes, 0)) as AVG_timeProcessing,
+		ISNULL( STDEV (ISNULL(f.TimeProcessingMinutes, 0)), 0) as STDEV_timeProcessing,
+		f.Sunday,
+		f.Monday,
+		f.Tuesday,
+		f.Wednesday,
+		f.Thursday,
+		f.Friday,
+		f.Saturday,
+		count(*) / ((SELECT count(*)*1.0 FROM #Pass p WHERE p.Name = f.Name) + count(*)) as PercentFail
+FROM #Fail f
+GROUP BY f.Name, f.Sunday, f.Monday, f.Tuesday, f.Wednesday, f.Thursday, f.Friday, f.Saturday
+
+UPDATE t2
+SET t2.AVG_HR_timeStart = t1.AVG_HR_timeStart,
+t2.STDEV_HR_timeStart = t1.STDEV_HR_timeStart,
+t2.AVG_MI_timeStart = t1.AVG_Mi_timeStart,
+t2.STDEV_MI_timeStart = t1.STDEV_Mi_timeStart
+FROM #FailSummary t2
+JOIN (
+SELECT Name,
+		AVG(DATEPART(hh,TimeStart)) as AVG_HR_timeStart,
+		ISNULL (STDEV(DATEPART(hh,TimeStart)), 0) as STDEV_HR_timeStart,
+		AVG(DATEPART(mi,TimeStart)) as AVG_Mi_timeStart,
+		ISNULL (STDEV(DATEPART(mi,TimeStart)), 0) as STDEV_Mi_timeStart
+FROM #Fail
+GROUP BY Name
+) t1 on (t1.Name = t2.Name)
+
+--select * from #PassSummary
+--select * from #FailSummary
+
+SELECT p.Name,
+		p.AVG_MI_TimeProcessing as AVG_MI_TimeProcessing_PASS,
+		p.STDEV_MI_TimeProcessing as STDEV_MI_TimeProcessing_PASS,
+		p.AVG_HR_TimeStart as AVG_HR_TimeStart_PASS,
+		p.STDEV_HR_TimeStart as STDEV_HR_TimeStart_PASS,
+		p.AVG_MI_TimeStart as AVG_MI_TimeStart_PASS,
+		p.STDEV_MI_TimeStart as STDEV_MI_TimeStart_PASS,
+		p.PercentFail as PercentFail,
+		p.Sunday as Sunday_PASS,
+		p.Monday as Monday_PASS,
+		p.Tuesday as Tuesday_PASS,
+		p.Wednesday as Wednesday_PASS,
+		p.Thursday as Thursday_PASS,
+		p.Friday as Friday_PASS,
+		p.Saturday as Saturday_PASS,
+
+		f.AVG_MI_TimeProcessing as AVG_MI_TimeProcessing_FAIL,
+		f.STDEV_MI_TimeProcessing as STDEV_MI_TimeProcessing_FAIL,
+		f.AVG_HR_TimeStart as AVG_HR_TimeStart_FAIL,
+		f.STDEV_HR_TimeStart as STDEV_HR_TimeStart_FAIL,
+		f.AVG_MI_TimeStart as AVG_MI_TimeStart_FAIL,
+		f.STDEV_MI_TimeStart as STDEV_MI_TimeStart_FAIL,
+		f.Sunday as Sunday_FAIL,
+		f.Monday as Monday_FAIL,
+		f.Tuesday as Tuesday_FAIL,
+		f.Wednesday as Wednesday_FAIL,
+		f.Thursday as Thursday_FAIL,
+		f.Friday as Friday_FAIL,
+		f.Saturday as Saturday_FAIL
+FROM #PassSummary p
+LEFT JOIN #FailSummary f on (p.Name = f.Name)
+UNION
+SELECT f.Name,
+		p.AVG_MI_TimeProcessing as AVG_MI_TimeProcessing_PASS,
+		p.STDEV_MI_TimeProcessing as STDEV_MI_TimeProcessing_PASS,
+		p.AVG_HR_TimeStart as AVG_HR_TimeStart_PASS,
+		p.STDEV_HR_TimeStart as STDEV_HR_TimeStart_PASS,
+		p.AVG_MI_TimeStart as AVG_MI_TimeStart_PASS,
+		p.STDEV_MI_TimeStart as STDEV_MI_TimeStart_PASS,
+		ISNULL(p.PercentFail, 1.0) as PercentFail,
+		p.Sunday as Sunday_PASS,
+		p.Monday as Monday_PASS,
+		p.Tuesday as Tuesday_PASS,
+		p.Wednesday as Wednesday_PASS,
+		p.Thursday as Thursday_PASS,
+		p.Friday as Friday_PASS,
+		p.Saturday as Saturday_PASS,
+
+		f.AVG_MI_TimeProcessing as AVG_MI_TimeProcessing_FAIL,
+		f.STDEV_MI_TimeProcessing as STDEV_MI_TimeProcessing_FAIL,
+		f.AVG_HR_TimeStart as AVG_HR_TimeStart_FAIL,
+		f.STDEV_HR_TimeStart as STDEV_HR_TimeStart_FAIL,
+		f.AVG_MI_TimeStart as AVG_MI_TimeStart_FAIL,
+		f.STDEV_MI_TimeStart as STDEV_MI_TimeStart_FAIL,
+		f.Sunday as Sunday_FAIL,
+		f.Monday as Monday_FAIL,
+		f.Tuesday as Tuesday_FAIL,
+		f.Wednesday as Wednesday_FAIL,
+		f.Thursday as Thursday_FAIL,
+		f.Friday as Friday_FAIL,
+		f.Saturday as Saturday_FAIL
+FROM #PassSummary p
+RIGHT JOIN #FailSummary f on (p.Name = f.Name)
+
+
+DROP TABLE #GetAll
+DROP TABLE #Pass
+DROP TABLE #Fail
+DROP TABLE #PassSummary
+DROP TABLE #FailSummary

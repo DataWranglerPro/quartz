@@ -1,0 +1,1 @@
+Title: Introduction to Statistical Quality Control o Author: Douglas C. Montgomery o Date and Edition: 2012 7th E
