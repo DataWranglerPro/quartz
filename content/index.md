@@ -1,5 +1,5 @@
 ---
-title: Welcome to Hedaro
+title: Home - Welcome to Hedaro
 draft: false
 ---
 
