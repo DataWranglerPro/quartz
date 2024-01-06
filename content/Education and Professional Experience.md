@@ -7,13 +7,17 @@ Highlights of my time from Elementary school all the way up to High school.
 	* My dad told me that when I was still living in [[colombia]], I was working on a math problem (I can't remember what the exact problem was). He told me I figured it out on my own. My dad was very happy and gave me a hug. He was a math teacher and I am happy he was proud of me.
 ## Elementary
 * It took me around 2.5 years to learn the English language through the ESL (English as a Second Language) program.
-* I started to loose my eye sight in the 1st grade (to this day, I still blame the Nintendo for my loss of vision)
-* I did not talk in school up until the second grade
+* I started to loose my eye sight in the 1st grade (to this day, I still blame the Nintendo for my loss of vision).
+* I did not talk in school up until the second grade.
 * Around the 2nd or 3rd grade, I scored very high (I do not remember the score) in a math test. This was the first memory that showed me I was good at math.
-* I learned in the 3rd grade to study. I kept failing quizzes and I think the teacher encouraged us to study. It was in third grade that I started to learn to memorize and test myself on the material I was studying. This was an aha moment for me. I needed to be taught how to study.
+* I learned in the 3rd grade to study. I kept failing quizzes and I think the teacher encouraged us to study. It was in third grade that I started to learn to memorize and test myself on the material I was studying. 
+
+> [!info] 
+> This was an aha moment for me: I needed to be taught how to study.
+
 * I was not that good at the English language and even if I made an effort, getting A's in the English subject was not a reality for me.
 * I remember finishing my work early and then getting in trouble for playing with what ever I had handy by my desk.
-* I wanted to be in the "gifted" program for smart kids. Thy were treated much better than the regular kids. I convince the teacher to let me take the test to get in. I took the test but failed. I remember the test was hard and I did not get in.
+* I wanted to be in the "gifted" program for smart kids. Thy were treated much better than the regular kids. I convinced the teacher to let me take the test to get in. I took the test but failed. I remember the test was hard and I did not get in.
 * I was introduced to the computer in 5th grade (yes it was a MAC). I enjoyed playing number munchers.
 ## Middle School
 * I joined a typing class in which I really did not learn to type very well. I did enjoy playing all those computer games we had access to.
