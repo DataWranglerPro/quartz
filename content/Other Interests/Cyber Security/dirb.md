@@ -1,0 +1,7 @@
+- dirb http://192.168.1.106/
+	- uses common.txt word list
+	- cd /usr/share/wordlists/dirb
+- dirb skips when a warning is detected, to avoid this use:
+	- dirb http://192.168.1.106/ -w
+- to use a word list
+	- dirb http://192.168.1.106/ -w /usr/share/wordlists/dirb/big.txt

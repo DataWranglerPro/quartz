@@ -1,0 +1,2 @@
+- Is someone listening on potr N
+	- netstat -atn | grep 9090

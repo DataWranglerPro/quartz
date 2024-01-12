@@ -1,3 +1,23 @@
+- [[WAF (Web Application Firewall)]]
+- [[dirb]]
+- [[torrent]]
+- [[traceroute]]
+- [[osint]]
+- [[dns]]
+- [[python_cyber|python]]
+- [[nitko]]
+- [[nmap]]
+- [[netstat]]
+- [[command_execution]]
+- [[netcat]]
+- [[hydra]]
+- [[ssh]]
+- [[ftp]]
+- [[ctf_machines]]
+- 
+
+
+
 * [[Comptia Security+]]
 * [[wifi]]
 * Training Courses
