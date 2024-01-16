@@ -1,0 +1,37 @@
+- considered social engineering
+- high level process
+	- start a fake AP with the same name as the target network
+	- disconnect a client from target network
+	- wait for them to connect to fake AP
+	- automatically display a web page asking them for user/pass
+- Make sure you copy as close as possible the login of the router page
+- Same steps as captive portal attacks
+
+# Fluxion
+- This software will do the following for us automatically
+   - start a fake AP with the name of target network
+   - start a webserver with a fake login page
+   - disconnect all clients from the network
+   - display login page when client connects to fake AP
+   - checks entered password and makes sure it is the correct one
+- install from git
+   - cd fluxion
+   - cd install
+   - bash install.sh
+   - cd ..
+   - fluxion.sh
+- How to use
+   - cd fluxion
+   - bash fluxion.sh
+   - press 1 for English
+   - select 1 from all channels
+   - select number of tsrget netwrkk
+   - select 1 to select hostapd as attack option
+   - If you have captured the handshake
+      - enter path of handshake file so it can verify it has the correct password
+         - i.e. /root/handshake.cap
+   - type yes to use aircrack-ng to verify handshake
+   - select 1 to create ssl certificate
+   - select 1 to select web interface
+   - select number for generic English one or a router specific brand
+

@@ -1,2 +1,3 @@
 - [[RICKdiculouslyEasy]]
+	- [[Resources-RICKdiculouslyEasy|Resources]]
 - 

@@ -1,0 +1,1 @@
+- WPA methods work on WPA2
