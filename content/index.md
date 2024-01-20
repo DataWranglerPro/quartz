@@ -10,7 +10,7 @@ draft: false
 > 
 > * [[Education and Professional Experience]]
 > ---
-> 
+>
 > ### My Core 4
 > These are the specific skills I am specialized in.
 > * **[[Automation]]**
@@ -22,8 +22,8 @@ draft: false
 > * **[[Training]]**
 > 	* Excel in one-to-one training, with a strong ability to create effective training materials.
 
-****
 You can contact me at david@hedaro.com
+
 
 
 

@@ -7,6 +7,24 @@ Now I will admit that the road to automation is quite often not the path of leas
 # The road to automation
 Here is the process I have over the years replicated over and over. I didn't read it in a book, I wasn't taught it in school, I didn't learn it from my boss, it just came naturally.
 
+``` mermaid
+flowchart TD
+    A(Learn Task) --> B(1-on-1 training)
+    B --> C(existing documentation)
+    C --> D{Did I Learn the Task?}
+    D -->|No| B
+    D -->|No| C
+    D -->|Yes| E(update documentation)
+    E --> F(Automate the Task)
+    F --> G{automation working?}
+    G --> |No| F
+    G --> |Yes| H(document new automated process)
+    H --> I(create developer guide)
+    I --> J(offload the task)
+    J --> K(pick up a new task)
+    K --> A
+```
+
 ### Let me set the scene for you
 When I start a brand new job, the first goal I set is simple, learn whatever task I am assigned to take over. I usually have one team member sit with me and they go over the task. Documentation might be provided, but in general, most of my information gathering at this point is from whoever is teaching me the task.
 
