@@ -33,7 +33,7 @@ flowchart TD
 	- The moment you skip a step, this is when the person reading your instructions will get stuck.
 	- Yes, even document the obvious steps, and the steps that rarely happen.
 - After the document is written, re-read it from the beginning to the end to see if you missed anything or if something was not written clearly.
-- Put the document away and done read it for at least a few days.
+- Put the document away and don't read it for at least a few days.
 - Read it again and see if what you wrote makes sense.
 	- You will notice that after you stepped away from the document and read it again, there will be things you are going to change.
 - The next time you perform the task, use your instructions.

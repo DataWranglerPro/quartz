@@ -1,0 +1,28 @@
+# How to pick the right price?
+
+- Price to Value discrepancy
+	- Customers will buy if the value they are getting is perceived higher than the price they are paying
+- Virtuous cycle of price
+	- Don’t do this
+		- Look at marketplace
+		- Take the average
+		- Go slightly below to remain "competitive"
+		- Provide what the competition provides but with a "little more"
+		- End up at a value proposition of "more for less"
+	- The problem is that you end up giving more for less money and the business eventually fails
+	- The solution is to increase your prices
+- High Prices = High Value
+	- Charging higher prices makes the perception that your product or service has higher value
+- GOAL: be so much more expensive that the consumer must paus and think "this cannot be the same category of solution as everyone else" thereby making you a category of one
+- When you are starting out
+	- Just sell one product 0 to 1 million business
+	- Introduce second product line 1 to 3 million
+	- Instead of having different price point products, adjust the payment terms per customer
+		- Wealthy - pay entire fee up front
+		- Well off - Pay in two to three payments
+		- Poor - increase payments (more payments they make the lower the monthly/weekly payment)
+- ==People will look at their monthly payments== and not the total price of the product or fee or the total length of contract
+- Strategy:
+	- Instead of charging $99 per month
+	- Charge an upfront fee $500 and them charge $99 per month
+		- This will help you make more faster and help you cover any costs to get the product sold

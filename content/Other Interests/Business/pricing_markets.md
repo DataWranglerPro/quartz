@@ -1,0 +1,29 @@
+# How to pick the right market to start your business in?
+
+- The three levers of success
+	- **MARKET** - Look at your market and see if the market is growing, normal (growing at the same pace as ppl or the economy), or declining
+		- Avoid marketplaces that are declining or dying
+		- If you are in a growing or normal market place then continue to the second lever
+	- **OFFER** - What are you selling. Make a good offer so that you don't have to be as great at persuasion.
+	- **PERSUASION** - Your ability to persuade. This is the least important lever of the three.
+		- Note: The purpose of copy (persuasion) is not to make the customer understand but to feel understood
+- The four variables to look for when picking a market
+	- **PAIN** - The customer has to be in absolute pain. I do not want to sell them something that is convenient for them or sell them something that is nice to have.
+	- **PURCHASING POWER** - Does the customer have the money to pay for my product or service?
+	- **EASY TO TARGET** - Is the customer easy to target? Is there already a list of their names, emails, phone numbers? Do they congregate in a specific location, area. Can you easily reach them via ads, phone, email, in person?
+	- **GROWING** - Pick a market that is growing
+- The three main markets that exists and how to find your sub market
+	- Health - we want good health
+	- Wealth/Money - we want to have money
+	- Relationships - we want to be in love
+	- Your goal:
+		- Find a unique avatar that solves a unique problem, in a unique way, that overcomes their biggest worry or objection
+- Riches are in the niches
+	- The more specific your avatar is or the more specific your product is:
+		- The easier it will be to know your market, pay for ads, come up with copy, easier to communicate to customer
+		- Niche down so you can charge more for your product
+		- Example
+			- Time management book - $19 - Targets everyone, no unique avatar or unique process
+			- Time management for Sales Professionals - $99 - More specific avatar and you are solving specific problems for sales professionals so that they can make more money
+			- Time management for outbound B2B sales - $499 - Even more specific avatar. One deal might pay for the book.
+			- Time management for outbound B2B - Power Tools and Gardening sales - $1,997 - Instead of selling to anyone who needs time management, you are selling to sales professionals. Instead of selling to all sales professionals, you are selling to outbound B2B sales professionals. Instead of selling to all outbound B2B sales professionals, you are selling to those selling Power Tools and Gardening services/products. This makes the customer say "this product is made just for me, there is nothing like this". This takes your product into a category of one.

@@ -1,0 +1,87 @@
+- Identify Dream Outcome that their customers want
+	- Your goal is to make the journey from where they currently are to their final destination as easy as possible
+	- Make sure the dream outcome is as specific as possible
+	- Formula
+		- {specific outcome} in {time period} without {biggest pain and/or fear}
+		- i.e. Lose 20 pounds in 6 weeks without any exercise
+		- i.e. I help moms with over three kids lose weight within 6 months without having to go to the gym or having to change what their family is eating
+		- Your goal is to solve a problem so well others are asking you how you did it
+		- You have to know the actual thing you are solving
+- List out all the perceived problems
+	- What are the things preventing the customer from getting to where they want to go?
+	- What are they struggling with?
+	- What is every intricate step they are going to have to do in order to see success with your product or service?
+	- Note that each problem has multiple components to it
+	- As an entrepreneur, our job is to solve problems
+	- Go through this process
+		- Start with a problem
+		- List all related problems that fall under the dream outcome category
+			- i.e. This is not worth it >> this will not be financially worth it
+		- List all related problems that fall under the perceived likelihood of achievement category
+			- i.e. Won't work for me specifically >> It won't work for me specifically
+		- List all related problems that fall under the time delay category
+			- i.e. Will take too long to do >> It will take too long for me to do
+		- List all related problems that fall under the effort and sacrifice category
+			- i.e. Won't be enjoyable >> I won't enjoy it at all
+- Repeat steps 2-5 for every possible perceived problem
+	- This will give us a long list of problems we can use to come up with solutions and ultimately provide value
+	- You will also find out how many problems you are currently not solving
+	- Having a solution for all of these problems will position you in the marketplace as a company that
+		- Understands your customers problems better than anyone else
+		- Has solutions to problems other companies have not even thought about
+		- Your customers will feel understood and as a result increase their belief that you will be able to solve their problem
+- If you need more problems to solve
+	- List what you customer needs to do prior to needing your product or service
+	- List what your customer needs to do after using your product or service
+- Turn all those problems into solutions
+	- This will eliminate all possible failures for the customer
+	- Ie. Problem = buying healthy food, grocery shopping
+		- It's hard, it's confusing, I won't like it, I will suck at it
+		- Solution is to create a product = How to make buying healthy food easy and enjoyable, so that anyone can do it (specially busy moms!)
+	- Problem = takes too much time
+		- Solution = How to buy healthy food quickly
+	- Problem = is expensive
+		- Solution = How to buy healthy food for less than your current grocery bill
+	- Note that not everyone will have all these problems in their head, but since we don't know we solve all of them to potentially reach all possible customers
+- How to make your product or service high margin and high value
+	- Sales to fulfillment continuum
+		- Easy to Sell | hard to sell
+		- Hard to fulfill | easy to fulfill
+		- If something is easy to sell, it is usually hard to fulfill
+		- If something is hard to sell, it is usually easy to fulfill
+		- Strategy - Start with the things that are easy to sell and work your way towards the things that are hard to sell
+			- It's better to start selling at a high price point with low numbers of customers so that you have the money to learn the skills. You then can solve a new problem (come up with another product/service) at a lower price point. You will have the testimonials from your other customers and the new customers think they are getting a deal because you are now charging less money.
+			- i.e. Tesla started selling cars at $250,000. It was hard for Tesla to make the cars and expensive to build at the beginning. Their customers were very few with lots of money that wanted to buy into the Tesla vision.
+				- Over time Tesla started selling $100,000 cars that were accessible to more people.
+				- And now they are selling $30,000 cards that a large number of people can afford.
+			- Don't worry if the expensive service/product is not scalable. Worry about getting cashflow, easy things to sell but harder to fulfill. As you get better you can provide similar service for less money over time.
+	- i.e. It is easier to sell services that do everything for the client (harder to fulfill as you are stuck doing everything)
+		- Harder to fulfill services/products are usually more expensive (you can sell at a high price point)
+		- At this point you are not worrying about scale, so this makes it easier when starting out
+	- i.e. It is harder to sell a course (need to be good at persuasion) but it is easy to create and deliver the course
+- The delivery vehicles "the How"
+	- List the problem and all the ways to solve that problem
+	- One on one solutions
+		- i.e. Take customer to the grocery store and show them hew to buy healthy foods
+		- i.e. buy the food for the customer and deliver it to their home
+- One to many
+	- i.e. Take a group to the grocery sore
+	- i.e. create a course that shows them how to buy healthy foods
+- Process used to think of ways to solve problem (helps come up with products/services)
+	- One-on-one, small group, one to many
+	- Do it with you, do it for you, do it yourself
+	- Level of support (text, chat, email, help desk, phone, zoom, expert)
+	- Videos, podcast, book, live stream
+	- Speed and convenience (24/7,9-5,M-F,how fast will you get back to customer)
+	- 10x to 1/10th Test
+		- If I charge 10X, what else will I give the customer to justify that price (helps you grow)
+		- If I had to provide more value but charge 1/10th less, what would I do? (helps to make you more efficient)
+- Trim & stack for Max Profit & Value
+	- Rate according to
+		- Low value | high cost (trim these)
+		- Medium value | low cost (trim these)
+		- High value | low cost (keep these)
+		- High value | high cost (keep these)
+- Strategy - keep all the solutions that provide high value. Try to only keep a couple of the high cost solutions and make sure they are the ones that provide the most value so that they are worth it to you.
+	- Make sure your solutions solve the problem in the context of value (dream outcome, likelihood, time, effort)
+	- Make sure you have 80% margin (if it cost you $200, sell at $1000)
