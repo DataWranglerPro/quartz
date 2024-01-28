@@ -3,7 +3,7 @@ title: Home - Welcome to Hedaro
 draft: false
 ---
 
-![[hdr_hompage.png]]
+![[hs_03.jpg]]
 
 > [!tip] Hi there!
 > My name is David and I have made over 1.2 million dollars working in Information Technology. I have cataloged the last 17 years of my journey, aspiring that my experiences may prove beneficial to others.
@@ -26,8 +26,9 @@ draft: false
 You can contact me at david@hedaro.com
 
 # Other Interests
-| [[Business]] | Notes taken from Alex Hormozi teaching material |
+|  |  |
 | ---- | ---- |
+| **[[Business]]** | **Notes taken from Alex Hormozi teaching material** |
 | **[[Cyber Security]]** | **All my personal Cyber Security Notes** |
 | **[[2024 Financial Peace University Class\|Financial Peace University]]** | **Personal finance class notes** |
 | **[[Networking]]** | **Basic networking knowledge** |

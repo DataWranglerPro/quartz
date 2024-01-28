@@ -156,11 +156,125 @@ round-trip min/avg/max = 0.143/0.180/0.217 ms
 ```
 
 # Connecting to the outside world
-I tried pinging it via my local windows machine but no luck.
+The host and all the images in the network can ping each other. This is built in out of the box with Containerlab. If you wanted your lab to be available to the internet, I suggest you use [[zerotier]].
 
-TO DO: Try installing zerotier in wsl and see if we can see the network that way
+- Install [[zerotier]] on node you want to access via the internet
+- Install [[zerotier]] on a jump node you can access via the internet
+	- jump node - an image that is only used to access the other images it has access to
+	- i.e. you would connect via ssh to the jump node and then ssh into anoy other node in the lan
+
+**Let's go through an example:**
+The only steps I am missing here is installing and setting up [[zerotier]].
+## yaml
+In this example we will use the zero1 node as our jump node. Zero1 will have access to alpine1 and kali1.
+``` sh
+└─$ cat apline.clab.yml
+name: apline_connect
+
+topology:
+  nodes:
+    alpine1:
+      kind: linux
+      image: alpine:latest
+    kali1:
+      kind: linux
+      image: kalilinux/kali-rolling
+    zero1:
+      kind: linux
+      image: zerotier/zerotier
+
+  links:
+    - endpoints: ["alpine1:eth1", "kali1:eth1"]
+```
+
+## create the network
+``` sh
+└─$ sudo containerlab deploy --topo apline.clab.yml
+```
+
+| Name | IPv4 Address |
+| ---- | ---- |
+| clab-apline_connect-alpine1 | 172.20.20.2/24 |
+| clab-apline_connect-kali1 | 172.20.20.3/24 |
+| clab-apline_connect-zero1 | 172.20.20.4/24 |
+
+## Connect to my personal zerotier network
+We need to shell into zero1 and connect to our [[zerotier]] network.
+
+**Note:** replace NETWORK_ID with your real number
+
+``` sh
+docker exec -it clab-apline_connect-zero1 sh
+zerotier-cli join NETWORK_ID
+```
+When you successfully joined, you will see: **200 join OK**
+
+Now log into [[zerotier]], and make sure you allow your node into the network. I would label the machine "containerlab" so you know what this ip points to. To allow the node into your network, simply select the checkbox at the left and you are in!
+
+![[Pasted image 20240128084602.png]]
+
+The IP that [[zerotier]] gave me for the zero1 node is 10.147.17.242
+## Install ssh
+Now that we are in zero1, we need to install ssh (port=22) so we have a way to shell into this node via another computer.
+
+``` sh
+apt-get install openssh-server
+service ssh start
+```
+
+Now that we have enabled ssh, we need to create a user and a password. After you create a new user, it should prompt you to add a password.
+``` sh
+adduser USER_NAME_GOES_HERE
+```
 
 
+# Connect to your network via the internet
+Remember that the IP address that is available via the internet is 107.13.68.216. But only the approved machines in the [[zerotier]] network have access to zero1.
+
+My personal Windows machine is part of my [[zerotier]] netowrk, so let's try to ssh into it.
+
+``` sh
+PS C:\Users\17862> ssh 10.147.17.242
+The authenticity of host '10.147.17.242 (10.147.17.242)' can't be established.
+ECDSA key fingerprint is SHA256:wWejrpZbMn+Ri+UfRblf/4Siocs6EvijMavXvfyune8.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '10.147.17.242' (ECDSA) to the list of known hosts.
+david@10.147.17.242's password:
+Linux zero1 5.15.133.1-microsoft-standard-WSL2 #1 SMP Thu Oct 5 21:02:42 UTC 2023 x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+david@zero1:~$
+```
+
+Success!
+
+Now let me show you that I can ping the other two nodes in the containerlab network.
+
+``` sh
+david@zero1:~$ ping 172.20.20.2
+PING 172.20.20.2 (172.20.20.2) 56(84) bytes of data.
+64 bytes from 172.20.20.2: icmp_seq=1 ttl=64 time=1.08 ms
+64 bytes from 172.20.20.2: icmp_seq=2 ttl=64 time=0.101 ms
+^C
+--- 172.20.20.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 0.101/0.591/1.081/0.490 ms
+david@zero1:~$ ping 172.20.20.3
+PING 172.20.20.3 (172.20.20.3) 56(84) bytes of data.
+64 bytes from 172.20.20.3: icmp_seq=1 ttl=64 time=0.204 ms
+64 bytes from 172.20.20.3: icmp_seq=2 ttl=64 time=0.100 ms
+^C
+--- 172.20.20.3 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1071ms
+rtt min/avg/max/mdev = 0.100/0.152/0.204/0.052 ms
+```
+
+This means if I setup ssh in the kali1 or alpine1 nodes, I can log into those machines. This makes it pretty easy to move around the network. Of course, the best part is that I can reach my homelab from the internet. 
 # Commands
 - See a summary of the network
 ``` sh
