@@ -21,9 +21,16 @@ draft: false
 > 	* Proficient in creating clear and comprehensive instructions, as well as developing documents that cover background, analysis, results, and recommendations.
 > * **[[Training]]**
 > 	* Excel in one-to-one training, with a strong ability to create effective training materials.
+> 
 
 You can contact me at david@hedaro.com
 
+# Other Interests
+| [[Business]] | Notes taken from Alex Hormozi teaching material |
+| ---- | ---- |
+| **[[Cyber Security]]** | **All my personal Cyber Security Notes** |
+| **[[2024 Financial Peace University Class\|Financial Peace University]]** | **Personal finance class notes** |
+| **[[Networking]]** | **Basic networking knowledge** |
 
 
 

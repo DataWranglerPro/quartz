@@ -1,0 +1,31 @@
+- Attack the competitions methodology not their character
+	- Make sure your way of serving the customer is better
+- If you are the leader in the market
+	- If a competitor is doing it better than you, copy the better methodology and get rid of the competition
+- Remember you are not going to win because you have better Pandas tutorials
+	- You win on accountability and service
+	- People are paying you for you to pay attention
+	- The trainer duties
+		- Do one lesson (1 hr)
+		- reach out to the customer(s) (2hr)
+			- Make sure they are understanding the lesson
+			- Answer any questions about the lesson
+			- Make sure they are watching the lesson
+			- Make sure they are typing out all of the code and running it on their computers
+			- Encourage them to take independent notes they can refer back when they get stuck
+			- Ask them if they know anyone else who would also benefit from taking this course
+				- Send those to a link to schedule appointment with me so I can close them
+- Remember you are not going to win because you have a real estate license and can help buyers and sellers
+	- You win on accountability and service
+	- People are paying you for you to pay attention
+	- The agent duties
+		- Reach out to potential customers (2 hr)
+			- Schedule an appointment to Mikaela or the best sales person in the team
+		- Reach out to the existing customer(s) (2hr)
+			- Make sure they are understanding the process and where in the process they are
+			- Make sure they understand the forms
+			- Answer any questions
+			- Make sure they are taking care of the items they need to do
+			- Make sure to remind them of any deadlines
+			- Ask them if they know anyone else who wants to buy or sell
+				- Schedule an appointment to Mikaela or the best sales person in the team

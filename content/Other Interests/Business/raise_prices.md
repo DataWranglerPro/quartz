@@ -1,0 +1,16 @@
+# How to Raise Prices?
+- 1000 to 2000
+	- Sell product at 3000
+		- One payment of 2000 and another payment of 1000, 30 days later
+		- Or save 1000 today and get it at 2000
+	- Sell product at 3000
+		- One payment of 1000 and another payment of 2000, 30 days later
+		- Or if you just pay another 1000 today, get it at 2000, that is an instant savings of 1000
+- 2000 to 3000
+	- Sell product at 4000
+		- Two payments of 2000
+		- Or save 1000 today and get it at 3000
+- If you are splitting the payment, try to charge more on the first payment
+	- This will help cover initial costs of onboarding a new customer
+- Make sure the that prepayment (the first payment) is very close to the actual price you are targeting
+	- This makes the customer feel that they only need to pay "a little" more to buy the whole product and get a good deal

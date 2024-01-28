@@ -1,0 +1,18 @@
+- Infomercial strategy to make your product look more valuable
+	- Instead of charging $19.99 for 20 knifes, charge $19.99 for one knife and as a bonus you get 19 other knifes for free
+	- The idea is that you first present the customer with a solution and what is costs. At this point they may be on the fence and not ready to buy.
+		- You then add on bonuses and more bonuses to get them to say yes.
+		- Give them one time bonuses instead of giving them discounts
+	- To implement this
+		- Pick the service you are currently offering
+			- Break it into different parts
+				- One will be the core product
+				- The other pieces will be bonuses used to get the buyer to say yes
+- If you can make the bonus worth more than the core product, this will make the customer feel they are getting a deal
+- Make sure the bonuses actually solve a problem
+- If possible, add testimonials to the bonuses
+- You have to place a price tag to each bonus to let the customer know how valuable the bonus is
+- If possible, get other companies to give you services or pay you to give their services to your customers
+	- This is the best situation as it cost zero to offer bonuses
+	- You can also give other ppl products with discounts
+	- Why would they pay you? Because you are bringing them clients at a lower fee than using facebook adds/or other marketing fees

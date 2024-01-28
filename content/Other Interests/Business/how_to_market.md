@@ -1,0 +1,346 @@
+# Create a high ticket/premium front end offer
+
+- If you make the initial offer cheap, you are trying to sell on price
+	- This means the customer is choosing you over another company simply based on price.
+		- The company that can give the most for the cheapest price wins. This is not the game we want to play as eventually, we will go broke.
+- Your goal is to make your offer unique enough so that it cannot be compared to another solution out in the market. You want to be in a category of one.
+	- This will make you immune to price comparisons. If you are being price compared to others, that means the customer thinks they will get the same product/service anywhere and they are simply trying to pay the least for it.
+- How to create and sell an irresistible offer
+	- Get them on the phone (when setting up the appointment)
+		- Make your company look busy and highly desirable
+			- i.e. Did you hear about us from the local news story on best bootcamps
+			- i.e. Have you heard about our owner from all the articles he has been featured in
+			- i.e. He doesn't have a lot of openings for the next three weeks, but I might be able to get you in tomorrow night because there was a last minute cancellation
+		- Set the appointment
+		- Find out why the customer wants to buy product or service
+			- i.e. Why are you selling/buying
+			- i.e. What might be happening in their personal lives that they now need to sell or buy a home
+			- These reasons that are unique to this person will help you get the sale
+		- Have the customer fill out an intake questionnaire before you get on the initial phone call
+			- The goal is to find out the reasons why they want to sell or buy
+			- Have them fill it out as soon as they sign up online or hand it to them as soon as they come into your office. If they do it in person, give them time to fill it out and review it before you start talking to them about your product/services. This makes the customer feel you truly care about their challenges.
+		- State the qualifications required for them to be a client
+			- Have you been pre-approved and would you be able to show me a letter from bank/loan office?
+			- Will you commit to being truthful and answering phone/email in a timely matter?
+			- Are you legally allowed to sell the property?
+			- Have you saved enough money for a down payment, inspections, reports, etc.?
+			- Do you consider yourself a person of integrity? Customer: yes. You: Great, because we only work with people who have the same values as us.
+			- When we say we are going to be somewhere, we mean it. Are you the type of person that keeps their commitments? Customer: yes. You: We are going to send you 3 reminders between now and then to help you keep that commitment. Is this your cell phone number? Great, I will send them a text with the date time and location and name of person they will meet with. See you soon, click. Send text immediately after.
+		- Ask the pre frame questions
+			- Is the house vacant?
+			- Are there personal belongings in the property, are you planning to remove them and when?
+			- What is your dream outcome?
+			- How long have you been thinking about selling/buying? What has taking you so long?
+			- Have you sold/bought in the past? What was your experience like?
+			- Have you had any negative experiences working with real estate agents? Tell me about those?
+			- How soon do you want to sell/buy? Are there other properties you are selling/buying now or in the future?
+			- It's not easy to buy a house in Raleigh and in the current market. Would you take my recommendations so we have the best chance to get you into a house?
+			- It can take a long time to sell a home. Would you take my recommendations so we have the best chance to get your house sold?
+			- How much do you think the house is worth? How did you come up with that number?
+			- How long do you think it will take? How did you come up with that number?
+			- What do you think a realtor will do?
+			- Is it more important that you sell fast or that you get the most money?
+			- Is it more important that the house is on acreage or that it is in a certain zip code?
+		- Asking them questions is important
+			- Slows them down
+			- Gets them in the right frame of mind to make a purchasing decision
+			- Reminds them of why they are buying/selling
+- You need to charge high prices up front because you need enough money to buy ads.
+	- Price anchor
+		- A price that is much higher than the price they will pay today
+		- You can slip in the price during the sales presentation
+		- It can be the price that it will cost if they try to do it on their own
+		- It can be the price of a competitor
+		- Consider adding bonuses to offer if the customer is hesitant
+	- Splinter stack
+		- This is the process of splitting your services into pieces
+			- You have the main service
+			- Other products/services can be used as bonuses
+			- i.e. The examples two programs below are identical. When you split up the program and say these are extra bonuses you are getting, it makes it seem much more valuable.
+				- Before = a 6 week boot camp
+				- After = A 6 week boot camp with the following perks
+					- Personalized Meal prep
+					- Personal accountability coach
+					- Personal grocery list
+					- Local restaurant guide
+					- Recipes
+					- 3 workouts a week with trainer
+					- Online accountability group
+			- The goal is to make the offer unique, special, and not comparable to the other real estate firms in the area. This allows you to charge a premium.
+	- Scarcity
+		- Make it seem there is a limited supply
+		- We only have x spots available this month
+		- Ask them to sign listing agreement today before one of our other agents fills that spot with their clients
+	- Urgency
+		- Time is almost up. Helps makes the customer make a decision quickly
+		- This promotion ends tomorrow and I don't know when we will run this promotion again
+			- Rotate promotions so this is a true statement
+		- I stop taking new clients after the 20th of the month, so you have 2 days to make a decision.
+		- I have one more spot left for the January group, sign up today so you don’t lose any more time
+	- Crazy guarantee
+		- We are so confident that we will blow you away in our world class service that I offer a personal satisfaction guarantee. If in 3 months you don't get an offer on your home, you can cancel our contract at anytime. Best case scenario, your home is sold, worst case, you are free to use another real estate firm, you have no risk.
+	- Bribe
+		- People like to get things for free
+		- Offer services you would normally charge for or the customer will normally pay for
+			- If you sign up today, we will pay for your home inspection
+		- Give them two options (high price vs low price but with recurring $)
+			- We will gift you the $600 bootcamp if you sign up for membership today
+			- I will give you access to my entire digital library of vides/books worth $14,000 if you become a monthly subscriber ($400 per month)
+	- Down sell/up sale for continuity
+		- This means after their initial purchase, you get the customer to become a monthly payer of some service
+		- No one wants a membership they want a result and a deadline
+			- Make sure you sell them a service that has an end date. People pay more for services that are not on continuity (subscription)
+		- Charge them the most at the beginning when they are the most committed and excited
+			- Don't give them something for free, when they are excited and then try to sell them something expensive after the honeymoon phase is gone
+			- Ie. $100 a week for 12 weeks, When that period is over, they can continue at $50 a week.
+				- The $50 week seems like a bargain since it was costing them double at the beginning
+	- Example: Free 6 week challenge
+		- We offer the customer a chance to loose n lbs in 6 weeks
+		- If they succeed, we offer cash/credits to the customer to stay at the facility
+			- The customer either pays the $600 for the bookcamp or becomes a member of the gym
+		- This is a unique and cool offer in the gym space
+
+# Get paid to acquire customers
+
+- Create high ticket front end product
+- Make more money on front end sales that leads or ad costs
+- Never need marketing budget ever again
+- Process
+	- Day 1 - $100 for paid ads on high ticket irresistible offer
+	- You get 10 leads and $10 per lead
+	- Schedule appointments. Let's say only 7 agreed to meet
+	- From the seven, 3 or 4 will actually show up for the appointment
+	- From those 4, you sell two at $600 for the 6 week program
+	- This means out of 10 leads, you closed 2, which is 2/10 = 20%
+	- This means it cost you $100 to make you $1,200 dollars
+	- Repeat process
+	- You are limited by
+		- Time to schedule customers
+		- People to do the bootcamp
+		- Capacity of building
+
+# Get them to show up
+- Issues
+	- Getting the leads to schedule
+	- Getting the leads to show up to appointment
+- Get them scheduled
+	- Have an automated calendar on your thank you page
+	- You need to get them scheduled and in your building as fast as possible before they lose interest or get cold feet
+	- Best practices
+		- Allow same day or next day appointments only
+		- Only schedule 3+ days out under extreme circumstances
+			- Why? Because you will get a lot of no shows
+		- Give them a reason why you can only take appointments day of or next day
+			- i.e. I am looking for clients who are ready to buy or ready to sell and are just not thinking about it.
+			- i.e. I am booked out all month but I might be able to get you in today or tomorrow night because there was a last minute cancellation
+			- i.e. David is booked out for the next two weeks, but he actually has an opening tomorrow at 5:30pm and he never has openings. Do you want that 5:30 spot after you get off work?
+		- If you are on the phone, tell them that you will send them a text with the date time and location and name of person they will meet with. See you soon, click. Send text immediately after.
+			- This helps you end the call so you can move on to the next lead.
+		- The human mind is really good at picking up bs. So you yourself have to be convinced that there really is x number of spots left or that you can only pick up one more client.
+		- Number of outreach attempts
+			- The more attempts are made to get someone to show up for the appointment the more changes are the person thinks it is important and show up.
+			- 15 reach out attempts during the first 3 days
+				- Calls, text, emails
+			- Once they are scheduled, send them a daily reminder of their appointment
+			- Day of appointment
+				- Send two text
+					- One is a video text in the morning
+					- Second is a goofy picture showing the front of the building or a landmark so they know where you are located. This reinforces you are likable real people
+		- Video texts	
+			- 15 to 20 second videos saying the customers name is powerful
+			- i.e. Hey David,  one of the Realtors/Brokers at EXIT. We are real people and this is our office. Show the front door and signage. Right across from Wells Fargo(land mark). You were referred to me by Candy and she told me you are interested in selling your home. I see you are on the schedule for tonight at 5:30pm. So I just wanted to send you this video to introduce myself and let you know I am excited to meet you. Text me back what size shirt you want and ill put it aside for you. Can't wait to see you soon. (big smile and wave)
+		- All of the steps above can be mostly automated with technology.
+
+# Get them to buy
+- Get over the fact that you are bothering people
+- Get over the fact that people will say no
+- You have to take money from people that do not know you
+	- You have to convince people
+	- You have to sale to people in order to help people
+- Selling is serving
+	- If you don't like helping people make decisions that will better themselves, then this is not for you. But of course you do. Helping people selling and buying their homes was the reason you are in the business.
+- A sale is made up of 3 transfers
+	- A transfer of believe in the service
+		- You need to believe in your brokerage and its services
+	- A transfer of confidence that the customer can reach their goals
+		- You have to believe you can help them because you yourself have helped others buy and sell
+	- A transfer of conviction that the customer can overcome circumstances
+		- All of the things people tell themselves to decide not to make a change
+- Strategies to overcome peoples negative beliefs
+	- If everyone is telling you that you are too expensive or that they are broke
+		- This means when they ask for a price, you are giving them a number
+		- If someone asks you how much does it cost to sell my home or how much does it cost to buy a home
+			- You say, it depends on your goal
+			- This gives price context
+			- Customers ask for a price because they don't know what else to ask
+	- Make all sales calls or conversations the same so you have a consistent outcome
+- Sales system
+	- Make sure the environment is consistent
+		- The lobby and selling space are giving the customers clues about the buying process
+	- Potential customer walks into the door
+		- Greet the customer by name within 10 seconds
+			- Run if you have to
+			- This tells the customer you care about customer service
+	- Make sure they sign in
+		- Have a stack of sign in sheets
+			- Make up names if you have to or ask some of your current clients to write down their names
+			- The name sheet should be busy
+	- Have a crazy testimonial wall in the waiting area
+		- These are testimonials of people you have worked with
+		- You want it to cover the entire wall, floor to ceiling
+		- Print out all the great reviews and stick on wall
+		- Nice posts on social media, print and stick on wall
+		- Texts, emails, anything that clients have said positively about you, print and place on wall
+	- Have them fill out the pre sale intake questionnaire
+		- This will improve your close rate
+		- You can fill it with the sales person or the front desk person
+		- Squat down to their eye level and explain the questions
+			- People like when you inconvenience yourself for others
+	- After they had a few minutes to browse through the testimonials, escort them to the sales area
+	- Set up your sales table so you never sit across from your customer
+		- Sit shoulder to shoulder on the same side
+	- Have lots of chairs around your desk so it seems you have a lot of people who want your attention
+	- Have a big stack of signed contracts nearby (even if you have to pull all the contracts from the last two years)
+		- This tells them you are an authority and you are in demand
+		- Seems to show that others have signed up with you recently
+		- Also adds scarcity because you are almost full and cannot handle any more clients
+	- Begin the sales conversation
+		- You will close the sale if the customer felt understood
+			- When you went through the overview of the pain, you were able to restate back to them accurately, exactly how they felt and the struggles they were experiencing.
+		- The only three things that need to come out of your mouth
+			- Questions
+			- Restatements
+			- Anecdotal statements (3 stories used to break a belief)
+		- The two things they need to agree with you on
+			- Would it be worth the price of the service for you to get …. Dream outcome
+			-  Ask: What would it take for you to believe that EXIT can get you … dream outcome
+				- Use testimonials, break wrong personal beliefs
+				- Once they believe the service will get them to their goal, the sale has been made
+
+# Use the closer formula
+
+- C - clarify why they are here
+	- Why did you come in today, why did you sign up from program name?
+	- The purpose of these questions is to establish a gap. There is something they want to achieve that they currently do not have and have not been able to achieve or maintain after achieving.
+	- If they say I am just curious how much my home is worth or curious how the real estate market is.
+		- Say, I'm sorry I should have asked a better question to find out what you want. What are you hoping to accomplish or improve as a result of coming here? Are you interested in selling/buying a home?
+- L - label them with the problem you plan on solving
+	- Highlight their current state to the current state they desire
+		- So what I am hearing you say is that you want to sell your home as fast as possible but you need help with that process? Did I get that right?
+	- Get their stats
+		- Do you want to sell asap, next month, next year?
+		- Do you want to buy asap, next month, next year?
+		- So if I get your home sold quickly and make you more money than you think you won't get mad at me right? Fake laugh… They will also fake laugh but it works.
+- O - Overview their past pains and experiences
+	- Go over the reasons they want to sell
+	- Go over bad experiences with other realtors or transactions
+	- Go over any issues/pains they think they will face going through the process of selling/buying
+	- Ask them, what steps have you taken to prepare the home for sale or what steps have you taken to buy a home. I cannot help you get the house or sell the house until you have told me what you have done so far.
+	- Go over any steps, people they worked with in the past. Align yourself with what worked and contrast your services with what did not work for them. Find out who they were, how long they tried for.
+- S - Sell them the vacation
+	- Tell them about the fun stuff and after they are a client, teach them the rest
+	- Remind them of their past negative experiences and tell them it was not their fault. Tell them how your services will solve all their past issues.
+	- So when you were with X firm, they didn't tell you …., they didn't inform you of …, let me guess they brought it up the last minute panaking… fake laugh
+	- You goal is to keep coming back to what did not work in the past, tell them why and how your services will make sure it is done right
+	- After all of that tell them. Do you think if you had all those steps and support your selling experience would be different?
+- E - Explain away their concerns
+	- Say what they belief
+	- Say why it is wrong
+	- Say what is right
+	- Say why it is right
+	- Show proof (remember the wall of testimonials)
+- R - Reinforce their decision
+	- Now that you have told them why they have failed in the past or had bad experiences, now its time to tell them why they will success
+	- I know you are going to like this program. In order to give you the spot, I need to make sure you can do the following three things (_,_,_).
+		- Ask them questions about the three things that they need to do in order to have a successful sale or purchase
+	- We also do weekly check-ins to make sure we are doing our job and make any adjustments if needed
+	- Sounds amazing right, so do you want one of the last spots? Well you are in luck because we are not sure how many more of these promotions we are going to run.
+	- After they say yes
+		- Do you have your id on you?
+		- Start filling out the contract for them with the id they gave you
+		- Awesome, let me trade your id with the payment card you want to use
+		- Chit chat while you get the card number on their card
+	- Steps to reinforce the decision
+		- Hand written invitation to our next event
+		- A call from the owner welcoming them that night or the next day
+		- A t-shirt or swag
+- Obstacles you will face in a sales call
+	- Stalls/delay
+		- I need to think about it
+		- I'll call you tomorrow with my card
+		- Theory: People don't like to make decisions because they don't want to make the wrong decision or make a mistake. Confront the issue by asking for all the variables they need to make a decision. Think through the decision with them. If they have no idea what they need to do to think it through then do it for them. Most people think about three things before joining a firm. One, do you think this firm will help me get leads and show me how to work with clients. Two, Do you want to do it with EXIT? Three, do you think you can be a more successful agent at EXIT? Great, if you said yes to all those three questions, then there is nothing to think about. You can also talk about best case scenario and worst case scenario.
+	- Decision making
+		- I need to talk to my husband
+		- I never make decisions alone
+		- Theory: You have to let the person know that their husband already OK with the decision you are about to make. Find past agreements with spouse. Like does your husband know you are not happy with your current firm? Would your husband support you if you were in a firm that took the time to train you to be successful? Right, so why would he be against you joining EXIT? Does your husband know you are here?
+	- Price
+		- I can't afford it
+		- I don't have money for that right now
+		- It's not in my budget
+		- Theory: The person does not think what ever you are trying to sell has enough value. You may have to decrease their effort, or decrease time, or increase likelihood they will succeed.
+
+
+# Process
+- Buy Ads
+	- Refresh ads every so often
+- Make sure you have good offers
+- Make sure the leads are getting worked
+- Make sure you are following up
+- When you are on a sales call
+	- Clarify why you are there
+	- Clarify the problem
+	- Go over their past pain
+	- Sell them the (dream outcome) and explain how we can take them there (fill the gap, from where they are to where they want to go)
+
+
+# Numbers that matter
+- CAC - cost of acquisition
+	- How much does it cost me to acquire a customer
+		- Sales commission + ad cost + marketing team + software used + any cost associated with getting the customer
+- LTV - The total gross profit that I will get from one customer
+	- i.e. $9 cost of delivering food, selling the service for $10, customer pays us $700 per month
+		- Means we only have a 10% margin
+		- Means we will only make 10% of 700 which is $70 per month
+		- Means we should not spend more than $70 on CAC
+- Your LTV needs to be at least 3 times as much as your CAC
+	- LTV >= 3*CAC
+	- i.e.
+		- If you have 80% margins and sell the product at $1000
+		- Means you make $800 per month, this is your LTV
+		- Means your CAC needs to be 800/3 = $266.66
+- 30 Day cash - The amount of money you will make in 30 days per customer
+	- Can you generate enough money from the business to cover the CAC with 30 days?
+		- This means you will pay back the cost of acquiring the customer by day 30 and make money after day 30
+	- Your goal is within 30 days to make enough money minus expenses to at least be able to pay for the CAC
+
+## Example:
+- CAC = $200, customer acquired Day 1
+- Person pre-paid the service for $50 Day 7
+- Person completed payment or was sold additional services and paid us $200 Day 30
+- You then continue to sell to the person Day 60, 90, 120, etc
+- So this means you break even on day 30 and everything else is profit
+
+# Is your business profitable?
+Goal = 30 day cash >= 2*(cost of acquiring customer + cost of fulfilling service to customer)
+
+## Example:
+- Cac = 100
+- Fulfill service = 100
+- CFA (client financed acquisition) >= 2* (100+100) = 400
+	- You have to be able to collect at least 400 dollars within the first 30 days. If you are able to do this, you can use the 400 to pay off all costs associated with the customer and have 200 left over. Repeat.
+
+# Do not Market like this
+- Spend some money on ads
+	- The ad is for a low priced offer (first 21 days for $10 as an example)
+- Some leads come in
+	- Then they start to call the leads or pay someone to call the leads for them
+- Some of the leads convert to sales
+- Then wait to see how many customers stay after their 21 day offer has expired and start to pay full price
+- So since some of the leads bought the ad, and some of those stayed after the 21 day promotion, it seems like the money spent on ads worked.
+- The owner then looks at his customer count and notices that even though he is getting new clients every month from his ads the customer count is staying relatively the same. Why?
+- The problem is that in most businesses, customers leave (this is called churn). So the customers gained from the ads is just making up for the customers lost that month. The worst part is that you are paying to keep your customer count at a certain number and eventually this will put you out of business.
+- To summarize the strategy not to follow
+	- Create a discount in the front end and make money on the back end
+		- Create ads with huge discounts in order to get new customers
+		- Those that stay after the promotion will be paying the full price and you will get your money back. You will then start to profit from those customers after the promotion ends.
+	- This strategy will make you lose money to get new customers and will not guarantee that over time your customer count will increase.

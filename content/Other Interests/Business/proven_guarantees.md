@@ -1,0 +1,28 @@
+Strategies to reduce risk for the customer so they don't have to worry if the service/product did not work for them.
+
+- Unconditional guarantees
+	- For any reason money back guarantee
+	- You can use this for customers that are hesitant to purchase not all customers
+	- This is a calculated risk as some will want their money back. But the idea is that you will get more customers to say yes to offset those who back out
+- Conditional guarantees
+	- Terms and conditions to them
+	- FRAMEWORK = You don't have to make a decision today. If you don't achieve X in Y time we will…..
+	- i.e.
+		- If you go through the course and don't achieve XX, I will give you 2X or 3X of the price of the course
+		- If you don't achieve X by Y time, I will continue to work for you for free until you achieve X
+		- I will pay for airfare and hotel if you think the conference was not worth it
+			- Limit to customers who left day 1. If they stayed for the entire conference, then they will not get refunded
+		- Send us your taxes for last year and we will pay you per hour the time spend with us
+		- If you don't achieve X by Y time, you can cancel the contract with no fees
+		- Until you don't get into contract, you don't have to pay for our services
+- Anti-guarantees and performance
+	- Let the customer know why you don't offer a money back guarantee. All sales are final and this is the reason why.
+	- i.e. once you see the information, you can't unsee it. This makes it seem your product is more valuable.
+	- The performance guarantee
+		- If customer does achieve X, they don't have to pay
+		- The customer in general has unlimited upside potential
+		- You have to make sure your product works
+- Naming guarantees
+- Be bold with your guarantees
+- You can stack guarantees
+	- Ie. First 30 is unconditional and after 30 is conditional

@@ -112,7 +112,7 @@ Looking at the writeups, it seems like netdiscover is a popular tool. I'm not su
 This seems like a winner! It doesn't tell me which are VirtualBox IPs but it did retrieve the results much faster and in a clean format.
 
 # Using Nmap to determine the right IP
-Nmap is a network mapper that we can use to find the OS (operating system) behind an IP address. Let's run some of these IPs through nmap and see if we can find the VirtualBoz ones.
+Nmap is a network mapper that we can use to find the OS (operating system) behind an IP address. Let's run some of these IPs through nmap and see if we can find the VirtualBox ones.
 
 ``` sh
 (base) root@kali:~# nmap -O 192.168.86.154

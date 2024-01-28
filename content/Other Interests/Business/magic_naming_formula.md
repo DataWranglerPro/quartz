@@ -1,0 +1,53 @@
+# How to make your customers know your offer is for them and that it will solve their problem the way they want it to be solved
+
+- MAGIC
+	- M - Make a magnetic reason
+	- A - Announce the Avatar
+	- G - Give them a goal
+	- I - Indicate a time interval
+	- C - Complete with a container word
+- Not everything needs to be named this way but it is a good formula to have in mind
+- Examples
+	- free six weeks lean by Halloween
+	- 88% off 12 week bikini blueprint
+	- Free 21 day Mommy makeover
+	- 60 minute make your friends jealous Model hair system
+	- Six weeks stress release challenge
+	- Highland Creek Moms - $1,500 off your kids braces
+	- 5 clients in 5 days blueprint
+	- 14 Day Find your perfect product launch
+	- Fill your gym in 30 days (Free!)
+- What to do when promotions fatigue
+	- Change the images on the ads/offers (change every 7 days)
+	- Change the video on the offer (change every 7 days)
+	- Change the copy/words on the ad (change every 3 weeks)
+	- Change the headline of the offer (change every quarter)
+	- Change the duration of the offer (once a year)
+		- 1 month > 28 days or 30 days or 31 days
+		- 1 month > 4 weeks
+		- 7 days > 1 week > 164 hours
+- Another template for ads
+	- First part is the time interval
+		- 7 days
+		- 1 week
+	- The second part is the outcome/benefit
+		- 7 day sixpack
+		- 42 day detox
+		- 1 week Pandas ninja
+	- The third part is a power word
+		- 1 week Pandas ninja blueprint
+		- 1 week Learn Pandas program
+		- 1 week Learn Pandas course
+		- 1 week Learn Pandas challenge
+	- Make sure the picture/video make sense
+		- Black and green for males
+		- Permanent marker font works for both genders
+	- The first line of copy
+		- Call out the avatar, who this ad is for 
+		- Also call out who we are not looking for
+	- The second line is the sub heading
+		- Tied back to the main headline
+			- Wouldn't it be nice to learn pandas in just 7 days?
+			- Have you noticed that is seems everyone know Pandas except you? Do you know you can actually learn pandas in just one week and its not hard at all.
+	- Then a link/button to landing page
+		- Make sure the landing page matches with ad

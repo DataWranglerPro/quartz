@@ -1,0 +1,47 @@
+# How to Launch a New Product
+
+==DO NOT JUST PUT AN AD THAT SAYS, HERE Is OUT NEW ---------, HERE IS THE LINK, SIGNUP/BUY IT…. This does not work==
+
+- Let people start to know about your new product well in advanced (one month out)
+	- Target your free group, your current customers (warmer group)
+	- Create a post with a count down timer and the logo of the new product
+		- You don't even need to have the product ready
+		- No copy needed, just write it is coming…
+- A week later do the same thing but with less days in the count down timer
+	- We are about 3 weeks out at this point
+	- You can also send one email
+- A week later do the same thing but with less days in the count down timer
+	- We are about 2 weeks out at this point
+	- You can also send one email
+- 10 days before the actual launch date, you start to max marketing
+	- Do 5 emails, one every other day
+	- Your goal is address any concerns someone might have
+	- Tell them what is in it for them, get them excited
+	- Exaggerate the issues people are having, the things they are struggling with
+		- Then tell the customer how this product will solve the issue
+	- You can pick a problem in each email and provide a solution
+	- It's ok to recycle the same points, just say them a different way
+		- Note that not everyone will read every email
+	- Text on the off days
+		- One bullet summary of previous email
+- 1 day to go
+	- Just send an email saying one day left, no copy needed
+- Launch day
+	- Email 6 times that day
+		- The reason is you want to be at the top of their inbox
+	- They can be as simple as 4 hours left
+	- If you have their phone numbers
+		- Text them
+			- Keep them super short
+			- Distill the emails into one bullet
+			- Have a link so they can sign up
+- Note on the last 48 hours
+	- Your goal is to push the link to the sign up page
+	- They don't need to buy the product at this point
+	- The easiest thing to do is to opt in and schedule an appointment
+		- At the appointment, you get them to sign up and actually make the purchase
+	- If it’s a warm list of clients you already have, the link should be to schedule an appointment
+	- Note you will have no shows
+	- Have consultations every 30 minutes
+	- Have a referral program
+		- Bring a friend and give them a discount (from 2800 to 4000)

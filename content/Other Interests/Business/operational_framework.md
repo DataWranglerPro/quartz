@@ -1,0 +1,13 @@
+- List out the desired outcomes that need to happen
+	- Click - how to get new customers. Get them to click on ads, to schedule an appointment
+	- Close - get them to actually purchase
+	- Resale - keep customers or have them buy other products/services
+- Front end sales
+- Make the customer click the ad and schedule and appointment
+	- This might be automated via ads/website
+- Calling leads that are not yet customers (2 hours)
+- Orientation (30 minutes to one hour)
+	- A walkthrough of the program, what they get, what they need to do, and finally ask for the close
+	- Find out how much time does it take to go through this per customer
+- Resale
+	- Here are the tasks needed to help retain current customers (2 hours)

@@ -20,6 +20,8 @@
 - [[wireless]]
 - [[post_connection_attacks]]
 * [[Comptia Security+]]
+* [[bug_bounty]]
+* [[rlogin]]
 * Training Courses
 	* Work Related
 		* Cyber awareness challenge
