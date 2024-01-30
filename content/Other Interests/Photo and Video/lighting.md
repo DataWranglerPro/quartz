@@ -1,0 +1,9 @@
+- Have the person you are filming facing the light source
+- Have one or two decorative lights
+- Create separation between target and background
+- You want the background to be blurry
+- Have one artificial light on the left side of camera
+- Potentially a smaller one on the right to remove any shadows
+- Potentially another one in the back shining at the back of head
+- Change iso, aperture, frame rate, and white balance
+- Place eyes on the top third of frame

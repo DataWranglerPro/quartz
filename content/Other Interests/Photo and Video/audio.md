@@ -1,0 +1,16 @@
+- Lavalier (Lav)
+	- Omni directional
+	- Good for interviews, youtube, hidden mic
+- Shotgun
+	- Captures what is directly in front
+	- Good for distance recording, ambient noises, atmosphere noise
+- Recorder
+	- You can connect multiple mics into this unit
+	- Not really needed for most people
+- If room has a lot of echo
+	- Add furniture to room
+	- Hang a large thick blanket and speak towards it, this will dampen the sound
+- Issues with background noises
+	- Close windows
+	- Turn AC off
+	- Turn fridge off

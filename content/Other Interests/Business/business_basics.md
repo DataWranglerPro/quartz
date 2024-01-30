@@ -1,0 +1,34 @@
+- Start with the skills you already have
+	- What problems have you solved in your life
+		- Make it faster, make it easier to solve
+- Pick an existing business model (do it faster, do it easier)
+- Replicate what someone has already done, iterate, make it better, make it your own
+- Business is:
+	- You are just selling stuff
+	- You are just solving a problem and selling stuff to a stranger
+- Set up a business:
+	- LLC
+	- Bank account
+	- Need a way to process payments
+- Promote business:
+	- Reach out to people who you know one on one
+	- Make content about the stuff that you do
+	- Cold calls, cold emails, door knocking
+	- Run paid ads
+		- not the first thing you should do. You want to physically talk to folks so you start to learn who your target customer is. What they like, what words they use.
+	- Rule of 100
+		- If you do one of the four things above for 100 days, you will succeed. Most people cannot do it.
+			- 100 reach outs or 100 minutes creating content or $100 on ads…. Do it everyday for 100 days
+- How to win at business:
+	- You have to really get good at something, you get good at something by doing it many times
+	- You only learn through doing
+	- The hard part is doing the stuff everyday consistently over time
+- Tactics:
+	- Offer the thing for free
+	- Ask them to buy the next time
+	- If they say no, ask them why
+	- Fix the issue(s)
+	- Ask again for the buy
+	- If they say no, ask them why
+	- Fix the issue(s)
+	- If they still say no, ask for a review and a referral

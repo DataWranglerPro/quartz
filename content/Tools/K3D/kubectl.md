@@ -1,0 +1,77 @@
+A command line tool used to interact with a Kubernetes cluster.
+
+- How to get the version of k3d/k3s
+	- k3d version
+- Creating clusters
+	- Create a cluster named mycluster with just a single server node
+		- k3d cluster create mycluster
+	- Create a cluster with many options
+		- k3d cluster create mycluster --api-port 6550 --servers 1 --agents 3 --port 30000-32767:30000-32767@server[0] --volume /home/thklein/git/github.com/iwilltry42/k3d-demo/sample:/src@all
+			- Servers - This refers to the master nodes
+			- Agents - This refers to the worker nodes
+			- api-port - specify the port on which the cluster will be accessible (e.g. via kubectl) on the localhost. In this example, port 6550
+			- port - what ports do you want to pass to the docker host. Add all possible ports so they can all be accessed via NodePort. You cannot change this after the cluster is created.
+				- Try to add a smaller range since adding too many is expensive and you may run out of memory.
+				- For example: --port 8888:30080
+					- Make the NodePort in the service.YAML file match 30080
+					- To access the container just go to the IP of the machine running k3d on port 8888
+			- volume - specify additional bind-mounts. In this example we are mounting the local directory to /src.
+				- @all means this will happen on all nodes in the cluster
+- How to get a list of all clusters
+	- k3d cluster list
+- How to get a list of all the pods
+	- kubectl get pods
+- How to get a list of all the services
+	- kubectl get services
+- How to create a namespace
+	- kubectl create namespace ENTER_NAME_HERE
+	- To switch to the newly created namespace, type kubens ENTER_NAME_HERE
+- How to stop the cluster
+	- k3d cluster stop ENTER_NAME_HERE
+- How do you start the cluster
+	- k3d cluster start ENTER_NAME_HERE
+- How to delete the cluster
+	- k3d cluster delete ENTER_NAME_HERE
+- How to get a list of all nodes
+	- k3d node list
+- How to delete a node
+	- k3d delete node ENTER_NAME_HERE
+- How do I stop a node
+	- k3d stop node ENTER_NAME_HERE
+- How do I start a node
+	- k3d start node ENTER_NAME_HERE
+- How to create a deployment
+	- kubectl create deployment nginx --image-nginx
+		- This will attempt to pull the image from dockerhub
+		- After it is created, you should also get a new pod
+- How to create a deployment using a YAML file
+	- kubectl apply -f FILE_NAME_GOES_HERE.yaml
+- How to list all deployments
+	- kubectl get deployment
+- How to get all replicasets
+	- kubectl get replicaset
+	- This manages the replicas of a pod
+- How to edit a deployment
+	- kubectl edit deployment ENTER_NAME_HERE
+- How to get logs of a pod
+	- kubectl logs ENTER_POD_NAME_HERE
+- How to get the five most recent lines of the logs in a pod
+	- kubectl logs --tail=5 ENTER_POD_NAME_HERE
+- How to get a shell of a pod
+	- kubectl exec --stdin --tty ENTER_POD_NAME_HERE -- /bin/bash
+	- kubectl exec -it ENTER_POD_NAME_HERE -- /bin/bash
+	- Type exit to get out of the shell
+- How to get more information of a pod
+	- kubectl describe pod ENTER_POD_NAME_HERE
+- How to delete deployment
+	- kubectl delete deployment ENTER_DEPLOTMENT_NAME_HERE
+	- kubectl delete -f ENTER_FILE_NAME.yaml
+- How to get the details of a service
+	- kubectl describe service ENTER_SERVICE_NAME_HERE
+	- Endpoints contain the IP addresses of all the pods
+		- kubectl get pods -o wide
+- How to get a list of everything that is running on the cluster
+	- kubectl get all
+	- kubectl get all -A
+- How to find all running services the cluster was created with
+	- kubectl cluster-info

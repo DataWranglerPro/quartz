@@ -1,0 +1,25 @@
+- Exposure - The overall brightness of your image
+	- ISO - digitally adds more light to the picture
+		- The higher the number the brighter the image will be
+		- The higher the number the more grainy/noisy the image will be
+		- The idea is to get ISO as low as possible
+	- Shutter Speed - the amount of time each frame is exposed to light
+		- The lower the shutter speed, the longer each frame is exposed to light
+		- Suggestions
+			- 1/100 and above for action shots
+			- Make shutter speed to double the frame rate for a "natural" film look (i.e. 24fps=>1/50)
+	- Aperture - the amount of light let in through the opening of the lens
+		- Pick a high f/stop number to make everything in focus
+			- Good for landscape, action, wide shots
+		- Pick a low f/stop number
+			- Makes things in front and behind target blurry. Only the target is sharp
+			- Good for interviews, cinematic look
+- Latitude/Dynamic Range - The amount of dark to bright light the sensor can handle
+	- Cheaper cameras have a lower latitude and the dark or bright parts of the image are blown up
+- Picture profile - the in camera color grading that is put into your image
+- White balance - gives a specific value to the color white
+- Focal length - the angle of view that the lens lets into the camera
+- Frame rate - the amount of frames per second that the camera records
+	- Non action shots - Always shoot at 24 fps. Shutter speed at ~1/60
+	- For slow motion shots - Shoot at 60 fps
+	- 30 fps will give you a fake, tv broadcast, home movies look

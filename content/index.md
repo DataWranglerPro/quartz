@@ -32,6 +32,7 @@ You can contact me at david@hedaro.com
 | **[[Cyber Security]]** | **All my personal Cyber Security Notes** |
 | **[[2024 Financial Peace University Class\|Financial Peace University]]** | **Personal finance class notes** |
 | **[[Networking]]** | **Basic networking knowledge** |
+| **[[photo_and_video\|Photo and Video]]** | **Notes on how to take better pics/videos** |
 
 
 

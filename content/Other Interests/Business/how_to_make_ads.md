@@ -1,0 +1,72 @@
+- Keep track of data and keep the ones that work
+	- i.e. test 150 ads and looking at the data only 5 were doing good, keep those. Repeat.
+- How to make fresh new ads (mix and match ideas below)
+	- Headline
+		- Duration, say how long the service is for
+		- Tie the headline to increase someone status is that is who you are targeting
+		- Curiosity
+		- Negative headline, fear based
+		- Challenge
+	- Copy
+		- Short or long is fine
+		- Tie benefits in
+		- If it is status, include so that you can….
+		- Describe, don't tell
+		- Add scarcity, urgency, and authority
+		- The 12 copy commandments checklist
+			- Headline comes first, this must sell the customer
+				- Curiosity is king, different is ideal, sexy works
+			- Say what only you can say
+			- Always call out who you are looking for and who you are not
+			- Reason why
+				- Always tell the customer why you are running the promotion
+				- The word because is a very influential word, use it
+			- Damaging information you admit to
+				-  always own your flaws
+				- This makes the statement that follow more believable
+				- If you can make this with humor, you get bonus points
+			- Show don't tell
+			- Show status if possible
+			- Use urgency and scarcity whenever possible
+			- Implied authority
+				- If you got $20k more for a seller, say it
+				- If you were able to negotiate something for the buyer, say it
+			- P.S. is a power statement, the headline and the P.S. statement are the most read parts of an ad.
+				- Always have a ps statement and make it strong
+			- Clear next steps
+				- Make it very very very simple
+				- i.e. if you want X, click the button
+				- i.e. on the next page, fill out your information, then select a convenient time that you can come in that you won't miss
+			- Third grade level
+				- You do not want people to pause when reading your ad
+				- Do not write complex sentences or use big words
+				- Fancy = friction, simple=sales
+				- Keep copy at a third grade reading level
+	- Page name/Business name
+		- Have multiple versions
+		- Use descriptive names for your business name
+	- Image
+		- Increase the contrast of all images
+		- Try black and white
+		- Try banners
+		- Try diagonal banners
+		- Try group pics
+		- Selfies
+		- People in front of a house
+		- People enjoying meals inside home
+		- People enjoying bbq in backyard
+		- People decorating home
+		- Moving truck bringing in new furniture
+		- Sellers on vacation while agent working to get home sold
+		- Cartoon emoji to images tends to do well
+	-  video
+		- Using flashcards in a video
+		- Changing background scenery
+		- Iphone videos vs professional video
+		- Add subtitles
+		- Use for pitching or facility tour
+		- Use a whiteboard
+		- Group testimonial
+		- Average joe testimonial
+		- Selfie testimonial while walking
+		- Agent handing the keys over to new owner

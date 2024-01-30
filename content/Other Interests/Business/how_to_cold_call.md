@@ -1,0 +1,78 @@
+- Set goals
+	- How many will I do in one day, one week, one month? i.e. 5 dials per day
+		- Set a time to make the calls (ie. from 8am-9am)
+	- Find out how many calls are needed to get one appointment
+		- After you know this number, make that a goal.
+- List Creation
+	- Have your list ready before each day starts
+	- Print out the persons you will contact
+		- This will prevent distractions from computer
+		- Write notes to the paper and transfer the notes afterwards
+- Script
+	- Have your script ready before each day starts
+	- Have all objections and answers for them
+- What to track
+	- \# of dials
+	- \# of agents reached (person actually picked up call)
+	- \# of appointments set
+	- Objections received
+		- See if there is something you are saying or not saying that is triggering the same objections
+		- Also this helps you prepare beforehand so you are ready when they come on the next call
+	- Tip: If you make 40 calls and 5 pick up the phone, you are doing ok.
+- Calls
+	- Each call should be between 3-4 minutes
+	- If you get a gatekeeper say "Tom, please"
+	- If you get voicemail, press zero on your keypad to return to gatekeeper
+		- Is Tom in the office today?
+		- Do you see him? Can you find out if he is there? Is there someone over there that knows?
+		- Could you page them? Cell phone?
+		- Could you transfer me?
+- If phone fails
+	- Call before 8, after 5
+	- Email
+	- Text
+	- Linkedin
+- Voicemail
+	- Fight the urge to leave a voicemail
+	- Only use as last resort
+	- Wait at least until the fifth touch before leaving one
+	- When leaving a voicemail
+		- Speak slowly and clearly
+		- Tell them name and phone number so they can call you back
+		- Be vague (your script should only be said live)
+		- Make a note that you left a voicemail
+		- Ex: Hi Tom, it's David. I'm calling from Exit Realty. You can reach me at xxx xxx xxxx. Again that number is xxx xxx xxxx. Thank you so much and look forward to talking to you soon.
+- When agent picks up the call
+	- Script
+		- There is no perfect script
+		- Make sure you have one along with objections responses
+		- Example to ask for appointment
+			- I'd like to set up a meeting to share more information on Tuesday or Wednesday at 5:30. Which date and time works best for you?
+	- Objections
+	
+	- If you get hung up on, do not take it personally. Keep improving, keep going.
+	- #1 questions is what do you do, what does exit do? This is not an objection
+	- Print out objections so you can immediately reply to the objections
+	- Most common
+		- I am not interested
+			- You know… we should really get together. How about tomorrow at 5:30 or 6:00, which time works best for you?
+			- You know that is what other agents have said the first time I called them. Most people say they are not interested before they see what they are not getting at their current firm and what they will get after joining EXIT. Are you available….
+		- I'm too busy
+			- I'll tell you what, if after 15 minutes you don't see a fit. That's OK! We can shake hands and part ways, no problem. At least at that point you would know more about EXIT and I would know more about you. Maybe one of our agents will get to work with you on a future deal. Are you available….
+			- That's exactly why I called! I figured you would be, so I want to find a time that is more convenient for you. Are you available….
+		- I am happy with my current firm
+			- I hear that. When was the last time you looked at what other firms are offering their agents? This is exactly why I want to meet with you. Are you available….
+			- Did you know EXIT is the only Real Estate company that has a special deal with facebook and google for running ads? This saves our agents money and brings them more leads. This is exactly why I want to meet with you. Are you available….
+			- I understand how you feel. Janice felt the same way when she first heard about EXIT and it wasn't until she learned more about EXIT that she found out she wasn't getting the support she needed. This could also be your story. Are you available….
+			- Awesome! If you are happy with your current firm, you shouldn't even think about changing. All I want to do is show you what EXIT offers agents. And even if it doesn't make sense to switch firms, I can at least give you an idea what other firms are providing their agents. Are you available….
+		- Could you send me more information
+			- Sure. Tell me what you are looking for? I can sent you more information, no problem. The challenge is that there is so much to send that it often creates more questions as a result. Why don't we set up a time to meet and I can make sure all of the information you want is explained to you. Are you available….
+	- Post call
+		- Did you hit your goal?
+		- What did you do great?
+		- Did you hustle?
+			- Not give up
+			- Not just leave a voicemail
+		- Record data
+			- Date and what happened in the call
+			- Make a note if they said they will be ready in a few months
