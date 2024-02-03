@@ -13,10 +13,10 @@ draft: false
 >
 > ### My Core 4
 > These are the specific skills I am specialized in.
-> * **[[Automation]]**
+> * **[[automation|Automation]]**
 > 	* Skilled in automating tasks, including compiling data from diverse sources, preparing it for analysis, and automating decision-making using techniques such as Linear Programming and Probability.
-> * **[[Data Analysis]]**
-> 	* Proficient in utilizing pattern recognition techniques to identify patterns in data, enabling the creation of programmable logic for computer-based decision-making. 
+> * **[[Data]]**
+> 	* Proficient in reading data from various sources, manipulating data, analyzing data, and troubleshooting issues with the code that interacts with it. 
 > * **[[Documentation]]**
 > 	* Proficient in creating clear and comprehensive instructions, as well as developing documents that cover background, analysis, results, and recommendations.
 > * **[[Training]]**

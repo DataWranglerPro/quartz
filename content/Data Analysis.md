@@ -27,7 +27,7 @@ The is no way around it, you have to be a numbers person if you want to play the
 		* [[single exponential smoothing]]
 		* [[double exponential smoothing]]
 		* [[triple exponential smoothing]]
-* [[Data Wrangling]]
+* [[Data]]
 	* Read data from websites and from flat files to create specific reports for Mikaela and her agents on Real Estate data. I used [[Jupyter Notebook]] and [[Pandas]]
 * 
 
