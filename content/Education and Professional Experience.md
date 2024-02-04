@@ -17,7 +17,7 @@ Highlights of my time from Elementary school all the way up to High school.
 
 * I was not that good at the English language and even if I made an effort, getting A's in the English subject was not a reality for me.
 * I remember finishing my work early and then getting in trouble for playing with what ever I had handy by my desk.
-* I wanted to be in the "gifted" program for smart kids. Thy were treated much better than the regular kids. I convinced the teacher to let me take the test to get in. I took the test but failed. I remember the test was hard and I did not get in.
+* I wanted to be in the "gifted" program for smart kids. They were treated much better than the regular kids. I convinced the teacher to let me take the test to get in. I took the test but failed. I remember the test was hard and I did not get in.
 * I was introduced to the computer in 5th grade (yes it was a MAC). I enjoyed playing number munchers.
 ## Middle School
 * I joined a typing class in which I really did not learn to type very well. I did enjoy playing all those computer games we had access to.
