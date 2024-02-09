@@ -1,0 +1,1 @@
+You know what people with no debt and no payments can do? Anything they want! Now you can truly live and give like no one else by building wealth, becoming insanely generous, and changing your family tree. Your focus and sacrifice got you here. You made it. You lived like no one else, and now you get to live and give like no one else!
