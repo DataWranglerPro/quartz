@@ -1,3 +1,10 @@
+
+# Uninstall Distro
+``` sh
+wsl --list
+wsl --unregister kali-linux
+```
+
 # PowerShell
 - wsl --list --verbose
 - wsl --list --online
@@ -23,17 +30,21 @@ $ sudo apt install kali-archive-keyring
 
 
 # Update Kali
-$ sudo apt-get clean 
-$ sudo apt-get update 
-$ sudo apt-get upgrade -y 
+``` sh
+sudo apt-get clean 
+sudo apt-get update 
+sudo apt-get upgrade -y 
+```
 
 
 # to shutdown vm:
+``` sh
 wsl --shutdown
 wsl -l -v
+```
 
  
-# getting bridge mode
+# getting bridge mode (does not work)
 - loginto kali
 - run commands
 ``` sh

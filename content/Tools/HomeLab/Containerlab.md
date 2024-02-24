@@ -283,3 +283,95 @@ sudo containerlab graph
 sudo containerlab destroy --topo apline.clab.yml
 ```
 
+- upgrade containerlab
+``` sh
+sudo containerlab version upgrade
+```
+
+# Use cases
+- Connect all images directly to host IP
+``` sh
+name: alpine_connect
+
+topology:
+  nodes:
+    alpine1:
+      kind: linux
+      image: alpine:latest
+      network-mode: host
+```
+
+* Expose a specific port to host IP
+``` sh
+name: apline_connect
+
+topology:
+  nodes:
+    alpine1:
+      kind: linux
+      image: zerotier/zerotier
+      ports:
+        - 8888:22
+```
+
+- Failed MACVLAN attempt (will not work with WSL2)
+``` sh
+name: alpine_connect
+
+topology:
+  nodes:
+    alpine1:
+      kind: linux
+      image: alpine:latest
+
+  links:
+    - type: macvlan
+      endpoint:
+        node: alpine1
+        interface: eth1
+      host-interface: eth0
+```
+
+- Connect to all docker instances via Apache Guacamole
+	- You first need a user-mapping.xml file
+		- Depending on what you add to the network, you will have to update this file
+		- Yes, this is not secure, user beware
+``` xml
+<user-mapping>
+
+    <!-- Per-user authentication and config information -->
+    <authorize username="USERNAME" password="PASSWORD">
+        <protocol>vnc</protocol>
+        <param name="hostname">localhost</param>
+        <param name="port">5900</param>
+        <param name="password">VNCPASS</param>
+    </authorize>
+
+</user-mapping>
+```
+- Here is the yaml 
+	- Note you need both the guacd and guacamole images
+	- The binds section just maps the file located locally to the directory in the guacamole image
+		- We also need to set the GUACAMOLE_HOME environment variable to make this work
+	- I had to set the GUACD_HOSTNAME after I deployed the network, but the good news is that every time I deploy it, the ip numbers stay the same.
+``` sh
+name: guacamole_topo
+
+topology:
+    nodes:
+      guacamole:
+        kind: linux
+        image: guacamole/guacamole
+        binds:
+          - user-mapping.xml:/etc/guacamole/user-mapping.xml
+        env:
+          GUACD_HOSTNAME: 172.20.20.2
+          GUACAMOLE_HOME: /etc/guacamole
+        ports:
+          - 8080:8080
+      guacd:
+        kind: linux
+        image: guacamole/guacd
+        ports:
+          - 4822:4822
+```
