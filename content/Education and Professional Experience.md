@@ -246,18 +246,18 @@ Highlights of all my employment history after graduating from the [[University o
 	* [[python]] - I am still stuck using the standard library
 	* [[Windows Powershell]] - Used a lot to automate the set up of tools and environment variables
 	* [[pl sql]] - Going to the database is not a daily task for me, but I have access to it when I need it
-	* [[jenkins]] - The [[CI CD]] tool we use to test applications and generate reports
+	* [[Jenkins]] - The [[CI CD]] tool we use to test applications and generate reports
 	* [[java]] - All the tests are written in [[junit]]
-	* [[groovy]] - The language used mainly for [[jenkins]]
+	* [[Groovy]] - The language used mainly for [[Jenkins]]
 	* [[gitlab]] - Version control
 	* [[Microsoft OneNote]] - This is the best alternative to Obsidian at work
 	* [[Microsoft Teams]] - This is how we mainly communicate
 * I am also [[manage]] a team of 5 team members
-* The big win for me is picking up a new technology, [[jenkins]]
+* The big win for me is picking up a new technology, [[Jenkins]]
 	* The backend uses [[Rancher]] [[Kubernetes]] and I am responsible for maintaining the [[pod]] configuration files.
 	* I also maintain all the pipelines and shared libraries
-	* [[jenkins]] reminds me a lot of all my [[Web Programming]] work as there are a lot of moving parts.
-* I have not had the opportunity to use any [[Data Analysis]] skills but I can see how a tool like [[jenkins]] can be used to create a pipeline that handles a lot of the steps to read, prepare, analyze, and display the data.
+	* [[Jenkins]] reminds me a lot of all my [[Web Programming]] work as there are a lot of moving parts.
+* I have not had the opportunity to use any [[Data Analysis]] skills but I can see how a tool like [[Jenkins]] can be used to create a pipeline that handles a lot of the steps to read, prepare, analyze, and display the data.
 * I continue to create documentation for all my tasks and train team members as often as possible
 * I am now creating exams at work to test team members skill level via [[Microsoft Forms]]
 
