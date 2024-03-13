@@ -33,7 +33,7 @@ pipeline {
 # Test/Development Process
 At a high level, all development was done in [[Eclipse]] using a common branch for all the pipelines and the shared library. I had access to a Development folder in Jenkins where I had copies of all the production pipelines. I had the ability to point to my git branches in this development area and do all my development and testing here.
 
-I usually had a branch for the pipeline, the shared library, and an application I was attempting to run tests against. At times you may be able to get away with a simply replay and some editing of the [[jenkinsfile]].
+I usually had a branch for the pipeline, the shared library, and an application I was attempting to run tests against. At times you may be able to get away with a simple replay and some editing of the [[jenkinsfile]].
 
 # Shared Library
 There was a separate [[gitlab]] repository that was referred to as the shared library. This repo contained most of the [[Groovy]] code for [[Jenkins]] and at the top of every pipeline, we imported this library.
