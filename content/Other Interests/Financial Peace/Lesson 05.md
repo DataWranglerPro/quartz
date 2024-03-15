@@ -2,17 +2,15 @@
 - 50 minutes
 
 # Lesson Prep
-- [ ] This lesson and future ones cover all Baby Steps
-- [ ] Scissors
-- [ ] Remember to encourage people to keep going
+- [ ] This lesson will help class members understand what living on the plan looks like
+- [ ] This lessons and the ones in the future will not talk about a specific baby step
+	- [ ] Remind everyone that they are important regardless on what Baby Step they are in
 
 # Checklist
 - [ ] Welcome to Lesson 5! We’re halfway through the course! The next five lessons are all about life on the plan. Everything we learn next is to help you move forward in the Baby Steps and make sure you don’t lose your momentum or throw off any progress you’ve made.
 - [ ] Review the [[2024 Financial Peace University Class#The 7 Baby Steps|Baby Steps]]
-- [ ] Celebrate plasectomies!
-	- [ ] Did anyone cut up their credit cards since we last met?
 - [ ] Do a budget checkup
-	- [ ] What category has been a budget buster?
+	- [ ] How has budgeting impacted the way you spend and save?
 - [ ] Instruct everyone to turn to page 81 in their Member Workbook
 - [ ] Take attendance and watch the video
 - [ ] Look for your coordinator cue before the One-Minute Takeaway to get ready for the Activity
