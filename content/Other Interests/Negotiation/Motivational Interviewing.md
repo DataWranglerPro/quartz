@@ -1,0 +1,83 @@
+- Mindset
+	- Your goal is to guide the person on why and how they might change. Play the role of a guide
+		- Do not tell them what to do
+		- Hold back your views on the person and their words
+		- Clear your mind, and just listen and guide
+- General Framework
+	- Calibrated questions
+	- Mirrors/labels
+	- Paraphrase/summaries
+- How to motivate a person to make a change?
+	- You do not do this by scaring them, forcing them, humiliating them, shaming them. This creates a back and forth. Where you defend your position, the other person defends their position, and at the very best you end up in the same place you started.
+	- You need to allow the person to explore their current situation in relation to something they value (something that is important to them)
+	- Avoid trying to force someone to change, change has to come from the person
+- Ambivalence is a common human experience and a stage in the normal process of change
+	- Ambivalence means someone wants something and also wants something else at the same time (I want to quit smoking but at the same time I do not. They get stuck in this state and never change)
+- Resolving ambivalence can be a key to change, and, indeed, once ambivalence has been resolved, little else may be required for change to occur.
+- Change and motivation to change is triggered by discrepancy
+	- Discrepancy is the difference between how things currently are and how one would want things to be (one’s goals)
+	- When a behavior is seen conflicting with personal goals (health, success, family, happiness, positive self-image), change is more likely to occur.
+- So the challenge is to first intensify and then resolve ambivalence by developing discrepancy between the actual present and the desired future.
+- Motivational interviewing involves selective responding to speech in a way that resolves ambivalence and moves the person toward change.
+- The method of motivational interviewing involves exploration more than exhortation, and support rather than persuasion or argument.
+- The interviewer’s tone is not one of imparting things (such as wisdom, insight, reality) but rather of eliciting, of finding these things within and drawing them out from the person. It requires finding intrinsic motivation for change within the person and evoking it, calling it forth.
+- Change comes from the person so the change the persons won goals and values
+- When motivational interviewing is done properly, it is the client rather than the counselor who presents the arguments for change.
+
+# Techniques
+- Discovery/investigation Phase
+	- Use calibrated questions to encourage the client to talk
+	- Use mirrors and labels to make the client feel understood
+- Create the Illusion of control
+	- Use calibrated questions to elicit certain kinds of speech (change talk) and selectively mirror/label the elements of client speech that enhance motivation for change, promote the resolution of ambivalence, and reinforce behavior change.
+	- People are often more persuaded by what they hear themselves say than by what other people tell them.
+	- When motivational interviewing is done well, it is not the counselor but the client who gives voice to concerns, reasons for change, self-efficacy, and intentions to change.
+	- The practitioner may invite (not impose) new perspectives and resolutions that are compatible with the client’s value system.
+- The goal is to identify the clients goals, select strategies based on those goals and the clients readiness.
+- If information is exchanged from you to the client. Use calibrated questions, mirroring, labeling to understand the personal interpretation of the client on the information provided
+- Phase 1
+	- Because the overall goal in Phase 1 is to resolve ambivalence and build motivation for change, the amount of work to be done will depend on the person’s starting point. Some people come to counseling already quite convinced that there are ample reasons for them to make a change, and there is little left to do in Phase 1 except to gain a clear understanding of those reasons from the client’s perspective.
+	- Are they ready, willing, and able to make the change? Your job is to talk through each of these dimensions to see where they are at.
+- Phase 2
+	- Phase 2 involves strengthening commitment to change and developing a plan to accomplish it.         
+- Ask a calibrated question and follow-up with a label
+	- Avoid asking three questions in a row (general rule)
+	- Use 2 or 3 labels per question asked
+	- 50% of the conversation should be labels
+- Summaries
+	- Use them throughout the conversation
+	- Use labels + paraphrasing
+	- Shows you have been listening
+	- Allows the other person to keep talking
+	- Allows the other person to hear themselves
+- Don’t use
+	- But and yet since they negate the previous statement
+- Use
+	- On one hand
+	- On the other hand
+	- At the same time
+- Help nudge the person to talk about change
+	- Ruler method
+		- Ask them from a scale of 1 to 10
+		- How important is  to you?
+		- After they answer
+			- What made you choose 
+			- What would it take to go from  ___ to a higher number
+	- Ask what and how questions to move them towards change talk
+		- What worries you about the current situation?
+		- How has this stopped you from doing what you want in life?
+		- What do you think will happen if you don’t change anything?
+		- How would you like for things to be different?
+		- What would be the advantages of making this change?
+		- How confident are you that you can make this change?
+		- What personal strengths do you have that will help you make this change?
+		- What do you think you might do?
+		- What would you be willing to try?
+		- How much do you want this?
+	- Ask extreme questions
+		- What concerns you the most
+		- What do you imagine is the worst
+		- What might be the best results
+		- If you where completely successful, how would things be different?
+	- Have the person compare old memories when they were not addicted
+	- Have the person tell you how their life would be different in the future (10+ years) if they change or if they don’t change
