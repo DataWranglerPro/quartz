@@ -88,6 +88,9 @@ We headed to the Delta ticket counter. It took me three tries, but I finally got
 
 The flight from RDU to Atlanta was pretty smooth. It was only about 1.5 hours. I got sandwiched between two guys who slept the whole time. A little water, some sun chips and in no time we were in Atlanta. We have a four hour layover, so the next stop was getting some food. I suggested we eat at TGI Friday's. When we were told the waiter "a table for 16", he screamed! Lol! I think he was super happy to get the extra tips. Remember that most of the people on this trip don't know each other, so it was good to sit down and chat a bit. We have teachers, retirees, students, an electrician, a basketball coach, and of course a Techie. We actually have another church (Rise church) joining us and it was the pastor's wife of that church that forgot her passport. Jason and Larissa reunited with us while we were waiting for our Quito flight. They made it with plenty of time to spare, especially since her flight got delayed about 30 minutes. Upon boarding, I got extremely lucky and got myself a window seat with no neighbors, yay! The flight came with a blanket, a pillow, and some headphones. So far, so good. The flight is 4 hours and 45 minutes long. I think I may just watch a movie.
 
+![[Pasted image 20240404121821.png]]
+I found it interesting to see that my home town Buga (~1.5 hr drive from Cali) was only a 1 hour plane ride away from Quito.
+
 ![[Pasted image 20240329102722.png|400x500]]
 
 Many hours later, we finally arrived in Quito. In both flights, the pilots landed so smoothly, this was not the norm, I was very impressed. We went through customs and off to pick up our bags. The team leader Tim was told he needed to renew his passport, but he told me he might not. We had a long 2 hour bus ride to [[Ecuador2024_cotacachi|Cotacachi]], it was very bumpy, and I needed to use the restroom badly. On a positive note, the bus was huge, very nice, and very comfortable. Right before we got in the bus we met the local church leaders, the Penleys'. I took a very cold shower and a very quick one that night. I think we went to bed around 1:30 in the morning East Coast time. I ended up in a room with two other guys.
@@ -144,6 +147,14 @@ Afterwards, it was the bus ride to El Cercado. We had the same format as yesterd
 
 # 03/21/2024 - Thursday
 We started off with our morning walk, we have been eating so much I decided to skip coffee and a pastry. I guess miracles are real. Tim remembered another bakery close by and we headed that way. He was looking for some chocolate pastries of some sort. He found them and decided to buy all eighteen of us one. They were sort of a very large cake pop. Breakfast and then our devotional. We have one person each day share something from the Bible to the group. This morning it was Brooke's turn and we went over Isaiah chapter 54:2-5, 15 through 17. The verse that stood out was verse 16. It reminds us that God created everything, even weapons that are used to harm us. The verse specifically says God "created the destroyer to wreck havoc". It then follows this up with, "no weapon forged against you will prevail". Shortly after we were on the bus and heading to the Iglesia El Camino. After worship, the pastor actually went over the God test. It's a series of questions to start a conversation with people and to see where they are spiritually. The format seems a little unnatural to me, but this is what we were going to do this morning. 
+
+> [!NOTE]
+> **What is the Gospel?**
+> The gospel is the good news that God became man in Jesus Christ.
+> 
+> He lived the live that we should have lived and died the death we should have died in out place.
+> 
+> Three days later he rose from the dead, proving that he is the son of God and offering the gift of salvation and forgiveness of sins to anyone who repents and believes in him
 
 We got back on the bus and headed straight to the mission. We got back into the same prayer walk group and headed towards the square in front of the basilica. There wasn't much of a game plan, we started at the corner and began to pray. An indigenous man started up a conversation with us. He mentioned he was Catholic and attended a small group that consisted of about 150 indigenous members. He mentioned evangelical churches appear to feel superior, without sin, puts other denominations down, and he did not like that. He actually knew a few English words, he told me his family visits him and they spoke English. It seems he had picked up some vocabulary over time. I asked him if the tribes get along. He said yes, they get together to talk about issues in the community and to push the government for things they need. He says the government treats them like they are not worth much. 
 
