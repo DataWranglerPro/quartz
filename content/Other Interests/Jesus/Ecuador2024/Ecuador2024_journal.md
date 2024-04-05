@@ -89,7 +89,7 @@ We headed to the Delta ticket counter. It took me three tries, but I finally got
 The flight from RDU to Atlanta was pretty smooth. It was only about 1.5 hours. I got sandwiched between two guys who slept the whole time. A little water, some sun chips and in no time we were in Atlanta. We have a four hour layover, so the next stop was getting some food. I suggested we eat at TGI Friday's. When we were told the waiter "a table for 16", he screamed! Lol! I think he was super happy to get the extra tips. Remember that most of the people on this trip don't know each other, so it was good to sit down and chat a bit. We have teachers, retirees, students, an electrician, a basketball coach, and of course a Techie. We actually have another church (Rise church) joining us and it was the pastor's wife of that church that forgot her passport. Jason and Larissa reunited with us while we were waiting for our Quito flight. They made it with plenty of time to spare, especially since her flight got delayed about 30 minutes. Upon boarding, I got extremely lucky and got myself a window seat with no neighbors, yay! The flight came with a blanket, a pillow, and some headphones. So far, so good. The flight is 4 hours and 45 minutes long. I think I may just watch a movie.
 
 ![[Pasted image 20240404121821.png]]
-I found it interesting to see that my home town Buga (~1.5 hr drive from Cali) was only a 1 hour plane ride away from Quito.
+I found it interesting to see that my home town Buga (~1.5 hr flight from Cali) was only a 1 hour plane ride away from Quito.
 
 ![[Pasted image 20240329102722.png|400x500]]
 
