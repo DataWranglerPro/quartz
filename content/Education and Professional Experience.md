@@ -197,7 +197,7 @@ Highlights of all my employment history after graduating from the [[University o
 	* I decided to write a few more books via [Amazon KDP](https://www.amazon.com/stores/author/B017QTA7DW)
 		* **SQL 101** - a very basic cheat sheet. I will admit this book is pretty bare bones.
 		* **Try Python - for beginners: Book 1** - This was a quick tutorial on how to use the [[IPython Notebook]] which is now called the [[Jupyter Notebook]].
-		* **Try Python - for Excel Developers: Book 1** - This was another quick tutorial on how to go from [[Microsoft Excel]] to [[pandas]]. 
+		* **Try Python - for Excel Developers: Book 1** - This was another quick tutorial on how to go from [[Microsoft Excel]] to [[Pandas]]. 
 		* **Try Python - for beginners: Book 2** - This was another short tutorial on how to get [[anaconda]] installed locally and a few common commands to install and manage the [[python]] distribution.
 		* **Python Web Development: Heroku - Book 1** - Another short tutorial that shows the reader how to get a [[python]] web application up and running using [[Heroku]].
 		* Overall, I enjoyed the process to create the books but I did not spend nearly enough time on them. They lacked content and I really needed to flesh out the material much more than I did. I need to at some point, redeem myself.
