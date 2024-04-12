@@ -9,4 +9,5 @@ I made a set of 11 Pandas lessons and this was my most popular tutorial series t
 - [[pandas - lesson 04]]
 - [[pandas - lesson 05]]
 - [[pandas - lesson 06]]
+- [[pandas - lesson 07]]
 - 

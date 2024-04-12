@@ -1,0 +1,45 @@
+- As a leader, how do you hold your team accountable?
+	- Expectations + Measurement * Reinforcement = Accountability
+		- Expectations = instructions you give someone
+		- Measurement = how do you know they are following instructions
+		- Reinforcement = what the elader does after they receive the measurement
+	- **Accountability** - is the quality or state of being responsible to one's obligations.
+	- Holding someone accountable is reinforcing the actions and results that they produce and that you expect of them.
+	- In a team, the leader is the measuring scale that tells each team member how they are doing
+		- How do they know that they are winning?
+		- How do they know that they are loosing?
+	- Your job is to always reinforce how they are doing in relation to how they are expected to be doing
+	- Do not delegate the task of holding people accountable
+	- Do not let the leaders under you hold themselves accountable
+- Signs of low accountability
+	- Lots of complaining
+	- Team members do not know where they stand in their performance
+	- Leaders resent their team
+	- Unfinished projects
+- Practical advice
+	- When you give a task to someone on your team, you as the leader needs to tell them what winning looks like, and as they work on the task, the leader tells you if you are on track or off track.
+		- Paint what good looks like to your team and them help them get there
+	- End of week reports
+	- Communication cycles
+	- Your feedback should be neutral, your job is just to give facts
+		- **Feedback** - providing someone with information that will change their behavior
+	- Have the persons on your team measure themselves and when they hand it to you, you give them feedback
+		- This lets you be a partner with them on helping them with the deficits the employee has pointed out themselves
+	- People do much better when they follow simple short instructions
+		- Instead of asking someone to do 17 things, just pick one or two things.
+	- As a leader you want to tell people what to move towards not away from
+		- Don't tell them what they did wrong, tell them what they should do instead and how to do it
+	- Whenever you see an employee do something you want them to continue to do, reinforce it. 
+		- If you see an employee doing something you do not want them to do, ignore the behavior.
+	- How to give feedback
+		- Have employee do a self assessment
+		- State a fact, then ask the employee, what do you think about that?
+			- Ask them for ideas so that they do not do the behavior again
+				- Ask them how you can support them with their solution they came up with
+			- Anytime afterwards, reinforce any positive behavio  
+		- Whenever the employee does something you want them to do more of
+			- Give them a high five
+			- Give them a thumbs up
+			- Acknowledge the behavior
+			- Great Job
+	
