@@ -11,6 +11,7 @@
 	- Bank account
 	- Need a way to process payments
 - Promote business:
+	- ==Half of your day will be dedicated to this task==
 	- Reach out to people who you know one on one
 	- Make content about the stuff that you do
 	- Cold calls, cold emails, door knocking
@@ -32,3 +33,9 @@
 	- If they say no, ask them why
 	- Fix the issue(s)
 	- If they still say no, ask for a review and a referral
+- What business owners should be doing?
+	- Answer the phone on time
+	- Respond to emails when customers ask you questions
+	- Actually tell people about your business
+	- Try to do a good job
+	- Ask them to leave you a review
