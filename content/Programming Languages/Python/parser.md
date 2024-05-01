@@ -1,3 +1,5 @@
+
+# Part 1
 At work I had the task to reverse engineer some .csv files. I was given a folder with hundreds of .txt files and then asked to convert these into .csv files.
 
 Below is an example of what these text files looked like:
@@ -28,7 +30,7 @@ import csv
 def main(p_path):
 	''' Loop through all the files in fodler '''
 	# loop through all the folders
-	for (path1, dirs1, files1):
+	for (path1, dirs1, files1) in os.walk(p_path):
 		# read text file
 		with open (path1 + '/' + file1, 'r', encoding='UTF-8') as file:
 			# loop through each line
@@ -84,9 +86,93 @@ The code ends by saving my list into a csv file. Note that I used the 'a' append
 
 That is pretty much it, hope you learned something new today.
 
+---
+# Part 2
+
+The next day I get to work and I feel good. I have my hundreds of converted CSV files and all is well...
+
+I then get a message from a co-worker, "hey can you rename a couple column headers?". Didn't he realize I manually created the header for each of these files. I thought it was a one time task. 
+
+Here is the script I put together to update a few column headers for all the .csv files.
+
+``` python
+import os
+import csv
+import re
+
+def main(p_path):
+	# loop through all the folders
+	for (path1, dirs1, files1) in os.walk(p_path):
+		# loop through all of the files
+		for file1 in files1:
+			# only work on csv files
+			if file1.endswith('.csv'):
+				# update the csv file
+				with open(path1 + '/' + file1, 'r', encoding='UTF-8') as file:
+					# read the file
+					data = file.read()
+
+					# update column headers
+					data = re.sub(',COL1,COL2,', ',COL3,COL4,', data)
+					
+					# move the file pointer back to the beginning of the file
+					file.seek(0)
+
+					# writes the modified data back to the file
+					file.write(data)
+
+					# prevents extra data to be left over at the end of the file
+					file.truncate()
+
+if __name__ == "__main__":
+	main(r'C:\Users\david\convertMe)
+```
 
 
+While I am working on the code and cleaning up the .csv files, I get another request. "Hey, can you just grab the first 4 characters of column Z?"
+
+Here is the script I used to accomplish this task.
+
+``` python
+import os
+import csv
+
+def main(p_path):
+	# loop through all the folders
+	for (path1, dirs1, files1) in os.walk(p_path):
+		# loop through all of the files
+		for file1 in files1:
+			# only work on csv files
+			if file1.endswith('.csv'):
+				# update the csv file
+				with open(path1 + '/' + file1, 'r', encoding='UTF-8') as file:
+					# read the file
+					reader = csv.DictReader(file)
+
+					# convert to list
+					data = list(reader)
+
+					# loop through each row
+					for rown in data:
+						# get first 4 characters
+						row['COLZ'] = row['COLZ'].strip()[:4]
+
+					# move the file pointer back to the beginning of the file
+					file.seek(0)
+
+					# writes the modified data back to the file
+					writer = csv.DictWriter(file, fieldnames=reader.fieldnames, lineterminator='\n')
+					writer.writeheader()
+					writer.writerows(data)
+
+					# prevents extra data to be left over at the end of the file
+					file.truncate()
+
+if __name__ == "__main__":
+	main(r'C:\Users\david\convertMe)
+```
 
 
+**Lesson learned:** I should have just created a script to port the data from .txt to .csv and at least give myself some room to also make changes at the row and column level if needed.
 
 
