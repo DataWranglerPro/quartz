@@ -1,7 +1,9 @@
 Tornado is a [[Python]] Web Framework. When I was learning web development, this was my go to back-end library. Below are all the notes I have on my web learnings.
 
-# Folder structure
+# Basic Tornado Application
+## Folder structure
 
+![[Pasted image 20240505141750.png]]
 **root folder**
 - static
 - templates
@@ -10,7 +12,7 @@ Tornado is a [[Python]] Web Framework. When I was learning web development, this
 - app.py
 
 
-# App.py
+## App.py
 This is the python back-end code
 ``` python
 # Webserver stuff
@@ -37,8 +39,8 @@ if __name__ == "__main__":
 ```
 
 
-# Front-end code
-The idea is to create a base html file named *template.html* and then build all other html files on top of the template. This made the html files much cleaner an easier to maintain.
+## Front-end code
+The idea is to create a base html file named **template.html** and then build all other html files on top of the template. This made the html files much cleaner an easier to maintain.
 
 
 ### template.html
@@ -59,6 +61,8 @@ The idea is to create a base html file named *template.html* and then build all 
 ```
 
 ### index.html
+Extends will import the template.html file and replace the block content with the header/paragraph section in the body.
+
 ``` html
 {% extends "template.html" %}
 {% block content %}
@@ -70,5 +74,15 @@ The idea is to create a base html file named *template.html* and then build all 
 {% end block %}
 ```
 
+### Here is how you run the application:
+``` python
+python app.py
+```
+
+
+### Here is how the front-end looks like: 
 
 ![[Pasted image 20240505085539.png]]
+### Here is how the back-end looks like:
+![[Pasted image 20240505142151.png]]
+
