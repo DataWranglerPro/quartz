@@ -150,7 +150,7 @@ Highlights of all my employment history after graduating from the [[University o
 		* [[Gretl]]
 		* Excel analysis toolkit
 	* I started to learn [[Python]]
-		* [[tornado]]
+		* [[Basic Tornado Application]]
 		* [[SimPy]]
 	* I started to learn [[Web Programming]]
 		* [[bootstrap]]
@@ -188,7 +188,7 @@ Highlights of all my employment history after graduating from the [[University o
 	* I read this book many times over and that also included the online documentation
 	* As you can imagine, I got really good with this library
 * I was also heavily working on my [[Web Programming]] skills and made many dashboards experimenting with the data from my old employer
-	* The backend server was always [[tornado]] and I mainly stuck with [[dc.js]] and [[leaflet.js]] for all my visualizations. Any other front end custom logic was either accomplished via [[javascript]] or [[jquery]]. Basic html/css elements in any webpage where completely done via [[bootstrap]].
+	* The backend server was always [[Basic Tornado Application]] and I mainly stuck with [[dc.js]] and [[leaflet.js]] for all my visualizations. Any other front end custom logic was either accomplished via [[javascript]] or [[jquery]]. Basic html/css elements in any webpage where completely done via [[bootstrap]].
 		* I eventually tried to convince my old employer to start using them but they decided to use [[tableau]] instead. This was a smart move on their part.
 * While I was transitioning out of the 1099 world, I felt the need to create tutorials for all of the technology I learned and this was the Nexus of the material I started to sell on the internet.
 	* [Data Analysis and Business Modeling with Excel 2013](https://www.amazon.com/Data-Analysis-Business-Modeling-Excel-ebook/dp/B013WWYVNY)

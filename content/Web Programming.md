@@ -8,7 +8,7 @@ The main reason I wanted to learn web programming was very simple. I had the ski
 	* database calls
 	* data validation on the server
 	* Libraries I have used:
-		* [[tornado]] - This is the [[Python]] library I used to create the backend server for anything web related 
+		* [[Basic Tornado Application]] - This is the [[Python]] library I used to create the backend server for anything web related 
 * **Frontend Development** - Anything that happens on the Browser
 	* User Interface Design
 		* [[bootstrap]] - This front end framework helped me create "good" looking websites very easily. I was also able to create navigation bars, tables, div, and other common html elements very easily.

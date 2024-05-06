@@ -300,7 +300,7 @@ Project/
 * [[sqlite3]]
 * [[matplotlib]]
 * [[numpy]]
-* [[tornado]]
+* [[Basic Tornado Application]]
 * [[talib]]
 * [[scipy]]
 * [[redis]]

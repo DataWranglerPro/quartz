@@ -1,6 +1,5 @@
 Tornado is a [[Python]] Web Framework. When I was learning web development, this was my go to back-end library. Below are all the notes I have on my web learnings.
 
-# Basic Tornado Application
 ## Folder structure
 
 ![[Pasted image 20240505141750.png]]
