@@ -56,3 +56,8 @@ This repo had to be organized in a very specific manner and I learned this the h
 	- [[Groovy]] code can be as simple as a file with a bunch of functions
 		- All of these functions will be available in the [[jenkinsfile]] without any extra code except the @Library syntax 
 
+
+# Misc
+
+- Links
+	- List of environment variables - {https://YOUR_JENKINS_URL}/env-vars.html
