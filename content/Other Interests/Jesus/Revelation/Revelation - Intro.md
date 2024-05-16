@@ -1,5 +1,5 @@
 # How to interpret Scripture
-- If what the text says, makes sense, stop there
+- If what the text says makes sense, stop there
 - Symbols are going to be interpreted by the scripture itself
 	- First look at the immediate context of the scripture you are reading
 	- If you can't find an explanation, go backwards within the same book

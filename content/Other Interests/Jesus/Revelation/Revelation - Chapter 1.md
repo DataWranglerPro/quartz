@@ -11,13 +11,14 @@
 	- These seven churches represent the 7 phases of the church throughout all time
 - The seven churches
 	- Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea.
-	- All of these churches were preset in south east turkey (Asia minor)
+	- All of these churches were present in south east turkey (Asia minor)
 
 > 12 I turned around to see the voice that was speaking to me. And when I turned I saw seven golden lampstands, 13 and among the lampstands was someone like a son of man, dressed in a robe reaching down to his feet and with a golden sash around his chest. 14 The hair on his head was white like wool, as white as snow, and his eyes were like blazing fire. 15 His feet were like bronze glowing in a furnace, and his voice was like the sound of rushing waters. 16 In his right hand he held seven stars, and coming out of his mouth was a sharp, double-edged sword. His face was like the sun shining in all its brilliance.
 
 - Priests, person who intercedes for another (Christians > Jesus (priest) > God | unbelieving world > Christians (priest) > Jesus)
 - Daniel 10:4-6, 7:9, Rev 19:11-16 have a similar description of Jesus
 - Isaiah 11 explains a little more some of the details
+	- 4 He will strike the earth with the rod of his mouth; with the breath of his lips he will slay the wicked.
 - Jesus is glowing white which represents his holiness/kingship, his sash is his faithfulness, his eyes of fire is discernment, his face shines like the sun represents the light of the truth, his glowing bronze feet represents judgement and he tramples his wrath on the unrighteous.
 - This is a preview of what he will look like in the second coming not like he looked like in the Gospels
 
