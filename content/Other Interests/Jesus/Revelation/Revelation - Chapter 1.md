@@ -1,3 +1,5 @@
+[[Revelation - Intro]]
+
 - John is the apostle John
 - The details in the letter are not spoken to John, they are shown
 - John is telling us in Revelation what he saw
