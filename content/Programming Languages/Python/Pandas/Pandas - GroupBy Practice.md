@@ -1,5 +1,5 @@
 
 <iframe xml 
-style="position:fixed; top:50; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:100; overflow:hidden; z-index:999999;"  src="https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/Group%20By%20Practice.ipynb"></iframe>
+style="position:relative; top:50; left:0; bottom:0; right:0; width:100%; height:90vh; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"  src="https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/Group%20By%20Practice.ipynb"></iframe>
 
 
