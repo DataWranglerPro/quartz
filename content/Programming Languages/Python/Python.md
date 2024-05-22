@@ -332,7 +332,7 @@ Project/
 * [[tkinter]]
 * [[csv]]
 * [[Music21]]
-* [[SimPy]]
+* [[SimPy - Introduction]]
 * [[pil]]
 * [[mpl_toolkits]]
 * [[bokeh]]

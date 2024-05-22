@@ -151,7 +151,7 @@ Highlights of all my employment history after graduating from the [[University o
 		* Excel analysis toolkit
 	* I started to learn [[Python]]
 		* [[Basic Tornado Application]]
-		* [[SimPy]]
+		* [[SimPy - Introduction]]
 	* I started to learn [[Web Programming]]
 		* [[bootstrap]]
 		* [[dc.js]]
