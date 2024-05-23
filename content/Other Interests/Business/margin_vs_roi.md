@@ -13,7 +13,7 @@ In business, the term "margin" usually refers to the difference between the cost
 Imagine you sell a product for $100:
 
 - If you have an 80% margin, your profit is \$80 (80% of $100).
-- The cost to produce or purchase the product is \$20 ($100 - $80).
+- The cost to produce or purchase the product is \$20 (\$100 - $80).
 
 ## 10 to 1, 30 to 1, and 100 to 1 Ratios:
 
