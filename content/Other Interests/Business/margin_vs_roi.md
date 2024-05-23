@@ -12,12 +12,12 @@ In business, the term "margin" usually refers to the difference between the cost
 
 Imagine you sell a product for $100:
 
-- If you have an 80% margin, your profit is $80 (80% of $100).
-- The cost to produce or purchase the product is $20 ($100 - $80).
+- If you have an 80% margin, your profit is \$80 (80% of $100).
+- The cost to produce or purchase the product is \$20 ($100 - $80).
 
 ## 10 to 1, 30 to 1, and 100 to 1 Ratios:
 
-These ratios indicate the return on investment (ROI). A 10:1 ratio means that for every dollar you spend, you make $10. Similarly, a 30:1 ratio means for every dollar you spend, you make $30, and a 100:1 ratio means for every dollar you spend, you make $100.
+These ratios indicate the return on investment (ROI). A 10:1 ratio means that for every dollar you spend, you make \$10. Similarly, a 30:1 ratio means for every dollar you spend, you make \$30, and a 100:1 ratio means for every dollar you spend, you make $100.
 
 ## Connecting Margins and ROI Ratios:
 
@@ -25,10 +25,10 @@ While both concepts deal with profitability, margins focus on the profit relativ
 
 **Example Connection:**
 
-Let's say you invest $1,000 in marketing and generate $10,000 in sales (a 10:1 ROI):
+Let's say you invest \$1,000 in marketing and generate $10,000 in sales (a 10:1 ROI):
 
-- If you have an 80% margin on the $10,000 sales, your profit is $8,000.
-- Subtracting your initial $1,000 investment, your net profit is $7,000.
+- If you have an 80% margin on the \$10,000 sales, your profit is $8,000.
+- Subtracting your initial \$1,000 investment, your net profit is $7,000.
 
 **Difference:**
 
