@@ -10,7 +10,6 @@ draft: false
 > 
 > * [[Education and Professional Experience]]
 > ---
->
 > ### My Core 4
 > These are the specific skills I am specialized in.
 > * **[[automation|Automation]]**
@@ -21,7 +20,9 @@ draft: false
 > 	* Proficient in creating clear and comprehensive instructions, as well as developing documents that cover background, analysis, results, and recommendations.
 > * **[[Training]]**
 > 	* Excel in one-to-one training, with a strong ability to create effective training materials.
-> 
+> ---
+> #### Pandas Tutorials for Sale
+> * [Pandas Data Analysis Bundle](https://hedaro.gumroad.com/l/jVeRh)
 
 You can contact me at david@hedaro.com
 
