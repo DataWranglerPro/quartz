@@ -29,4 +29,7 @@
 - Copywriting
 	- [[vladimir_raykov_course]]
 	- [[copywriting_headlines]]
+- Linkedin
+	- [[Linkedin - Notes]]
 	
+
