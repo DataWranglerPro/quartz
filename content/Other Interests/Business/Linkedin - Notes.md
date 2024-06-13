@@ -79,5 +79,23 @@
 - Post from Tuesdays to Thursdays and Saturdays for best engagement. Avoid Mondays, Fridays, and Sundays.
 
 
+# Post Strategy
+- Picture quote
+	- text question like "agree?"
+	- text elaboration
+	- hashtags
+	- black/white background
+
+- Text only
+	- add hash tags
+	- add 3 spaces after first sentence so they have to click more...  	
+
+- Schedule
+	- Mon - article
+	- Tue - text
+	- Wed - quote
+	- Thu - text
+	- Fri - quote
+	- Sat/Sun - Friend Request until you hit the limit
 
 
