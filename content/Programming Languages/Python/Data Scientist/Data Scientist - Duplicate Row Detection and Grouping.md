@@ -79,6 +79,8 @@ df
 
 ``` python
 df[df.duplicated()].sort_values(by='CustomerID')
+
+# Intentionally not removing duplicates, as they represent additional payments from the same customer
 ```
 
 |     | CustomerID | Name  | Email             | Spent |
