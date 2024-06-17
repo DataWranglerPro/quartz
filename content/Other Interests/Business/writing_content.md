@@ -48,3 +48,55 @@ Here we convert the Notebook file into Markdown, we also include the Notebook fi
 - Generate NBViewer link, update note, and repush to Github
 	- Copy .ipynb link and generate an NBViewer link
 
+
+# Write Linkedin Article
+Here we transfer the Notebook to Linkedin and write the copy for the post.
+
+- Add header
+```
+**Let's connect!** Send me a connection invitation. I regularly share Jupyter Notebooks on Pandas and would love to expand my network.
+
+**Explore my profile**: Head to my profile to see more about my work, skills, and experience.
+
+**If you're feeling generous**: Repost this article with your network and help spread the word!
+```
+
+- Copy/paste from notebook
+- Make edits, add pictures, fix links, fix tables
+- Create post image in Canva
+- Update seo description
+```
+create me an seo description of the content below. Make it at most 160 characters in length. are you ready?
+```
+
+# Write Linkedin Post
+Here we make the post to the article
+
+```
+Write me a short linkedin post that captures peoples attention using the links below. Add icons. 
+
+https://hedaro.com/Programming-Languages/Python/Data-Scientist/Data-Scientist---Duplicate-Row-Detection-and-Grouping
+
+Here is an example you can try to follow when creating the posts:
+
+Duplicates detected! But what's the real story behind the numbers?
+
+🚨 Data scientists, here is the scenario:
+
+As a data scientist in an e-commerce company, you are tasked with identifying and combining duplicate customer records from various sources. The goal is to calculate the total spend for each unique customer.
+
+Summary of Content:
+- Identify duplicate customer records based on CustomerID, Name, and Email
+- Combine duplicates into a single row, summing up the values in the Spent column
+- Calculate total spend for each unique customer using pandas' groupby and sum functions
+
+Bonus question: What's the average spend per customer for the top 3 customers with the highest total spend? (Be the first to answer in the comments!)
+
+Read the full tutorial by clicking the picture below.
+
+#Pandas #DataAnalysis #Python #TechTips 
+
+make the content specifically targeted for: fintech, data analysts, data scientists professionals, this is my avatar
+
+do not start until i give you the content. got it?
+```
