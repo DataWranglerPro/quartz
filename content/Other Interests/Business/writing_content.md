@@ -42,7 +42,7 @@ Here we convert the Notebook file into Markdown, we also include the Notebook fi
 - Copy paste into the new note
 - Make edits, add pictures, fix links, fix markdown tables
 - Add .ipynb file
-	- C:\hedaro\hedaro\Assets\notebooks
+	- C:\\hedaro\\hedaro\\Assets\\notebooks
 - Push to github
 	- npx quartz sync --no-pull
 - Generate NBViewer link, update note, and repush to Github
