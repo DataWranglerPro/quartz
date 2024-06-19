@@ -54,6 +54,7 @@ Here we convert the Notebook file into Markdown, we also include the Notebook fi
 - Add .ipynb file
 	- C:\\hedaro\\hedaro\\Assets\\notebooks
 - Push to github
+	- cd C:\hedaro\website\quartz
 	- npx quartz sync --no-pull
 - Generate NBViewer link, update note, and repush to Github
 	- Copy .ipynb link and generate an NBViewer link
