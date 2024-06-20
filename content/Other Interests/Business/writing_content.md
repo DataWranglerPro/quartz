@@ -18,10 +18,14 @@ Have one of the questions have a specific value that needs to be calculated. Pro
 Here are the instructions you will follow to generate a random Python pandas challenge for data analyst professionals:
 Challenge Generation Instructions
 Challenge Description: Write a clear and concise description of the challenge, including the problem statement, make it sound like a story you are telling a friend.
-Tasks: ICreate 3 tasks that identify specific pain points that pandas solves.
+Tasks: Create 3 tasks that identify specific pain points that pandas solves.
 Data Generation: Write code to generate a sample dataset that represents a real-world scenario, using libraries like numpy and pandas.
 Data Size: Ensure the dataset is large enough to require efficient pandas operations, but not so large that it becomes unwieldy.
 Complexity: Design the challenge to require intermediate to advanced pandas skills.
+
+also please avoid these topics:
+Movie Madness
+E-commerce Sales Analysis
 ```
 
 # Create Notebook
@@ -110,4 +114,22 @@ Read the full tutorial by clicking the picture below.
 make the content specifically targeted for: fintech, data analysts, data scientists professionals, this is my avatar
 
 do not start until i give you the content. got it?
+```
+
+```
+Here are the steps you will take to create a short LinkedIn post that captures the attention of fintech, data analysts, and data scientists professionals:
+
+1. # Craft a hook I'll start with a hook that grabs the attention of the target audience, using an icon and a question that resonates with their interests.
+    
+2. **Describe the scenario**: I'll describe a scenario that is relevant to fintech, data analysts, and data scientists, highlighting a common challenge they face in their work.
+    
+3. **Summarize the content**: 
+- I'll summarize the content of the tutorial, highlighting what they will learn.
+- Use bullet points (e.g. -, :, •) to break up the list
+    
+4. **Include a call-to-action**: I'll include a call-to-action, inviting the audience to read the full tutorial by clicking on the link.
+    
+5. **Use relevant hashtags**: I'll use relevant hashtags to reach a wider audience and make the post discoverable by fintech, data analysts, and data scientists professionals.
+
+6. Do not start until i give you the content. got it?
 ```
