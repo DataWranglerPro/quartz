@@ -26,6 +26,7 @@ Complexity: Design the challenge to require intermediate to advanced pandas skil
 also please avoid these topics:
 Movie Madness
 E-commerce Sales Analysis
+Energy consumption
 ```
 
 # Create Notebook
@@ -126,6 +127,7 @@ Here are the steps you will take to create a short LinkedIn post that captures t
 3. **Summarize the content**: 
 - I'll summarize the content of the tutorial, highlighting what they will learn.
 - Use bullet points (e.g. -, :, •) to break up the list
+- Make sure to list what they will learn after reading the tutorial
     
 4. **Include a call-to-action**: I'll include a call-to-action, inviting the audience to read the full tutorial by clicking on the link.
     
