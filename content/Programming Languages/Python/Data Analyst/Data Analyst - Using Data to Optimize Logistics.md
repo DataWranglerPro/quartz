@@ -1,6 +1,6 @@
 
 > [!NOTE] 
-> - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/energy_consumption_insights.ipynb), offering an alternative platform for your learning convenience.
+> - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/using_data_to_optimize_logistics.ipynb), offering an alternative platform for your learning convenience.
 > - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
 
 ### Description
@@ -153,7 +153,7 @@ Name: total_shipment_time, dtype: float64
 
 For the second part of the question, I thought all we had to do was order the dataframe and pull out the top 5 rows.
 
-The issue is that we need to find the unique routes and the top 5 rows had duplicates. So I cheated a bit and justpulled more rows and removed the dupes.
+The issue is that we need to find the unique routes and the top 5 rows had duplicates. So I cheated a bit and just pulled more rows and removed the dupes.
 
 What should I have done here?
 
@@ -189,7 +189,7 @@ min          1.034149
 max         99.985707
 Name: package_weight, dtype: float64
 
-Let's plot the data to confirm. This would also be a good chart to show my friend and explain where most fo the weights fall under.
+Let's plot the data to confirm. This would also be a good chart to show my friend and explain where most of the weights fall under.
 
 ``` python
 df['package_weight'].plot.box();
