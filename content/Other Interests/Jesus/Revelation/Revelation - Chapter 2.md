@@ -55,7 +55,7 @@ The church had a beginning at Pentecost and it will have an end around the time 
 - It was common for workers to be asked to worship idols and if you did not, you will lose your job
 	- This is why it was very likely that Christians were not able to find work and ended up in poverty.
 - The number 10
-	- Represents that time it took Romans to decide on a verdict of a prisoner
+	- Represents that time (10 days) it took Romans to decide on a verdict of a prisoner
 	- 10 is the number in the bible for testimony
 - What does crown of life mean
 	- In the new testament, crown represent an award or reward that you receive because you earned it. Note this does not represent salvation as it is not by works you are saved, but by grace.
