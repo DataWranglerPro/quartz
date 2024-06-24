@@ -15,7 +15,7 @@ Have one of the questions have a specific value that needs to be calculated. Pro
 ```
 
 ``` prompt
-Here are the instructions you will follow to generate a random Python pandas challenge for data analyst professionals:
+Here are the instructions you will follow to generate a random Python pandas challenge for data scientist professionals:
 Challenge Generation Instructions
 Challenge Description: Write a clear and concise description of the challenge, including the problem statement, make it sound like a story you are telling a friend.
 Tasks: Create 3 tasks that identify specific pain points that pandas solves.
@@ -27,6 +27,7 @@ also please avoid these topics:
 Movie Madness
 E-commerce Sales Analysis
 Energy consumption
+Flight Frenzy
 ```
 
 # Create Notebook
