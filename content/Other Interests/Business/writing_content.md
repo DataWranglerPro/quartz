@@ -28,6 +28,7 @@ Movie Madness
 E-commerce Sales Analysis
 Energy consumption
 Flight Frenzy
+Saving the Music Festival
 ```
 
 # Create Notebook
@@ -136,3 +137,18 @@ Here are the steps you will take to create a short LinkedIn post that captures t
 
 6. Do not start until i give you the content. got it?
 ```
+
+
+  
+⚽️ Explore the world of soccer analytics!
+
+As a Data Scientist for a professional soccer league, I analyzed a dataset of match statistics to gain insights into team and player performance. I calculated the top 5 teams with the highest median goal scoring per match and created a histogram showing the distribution of assists among all players.
+
+Summary of Content
+- Calculated goal scoring averages per match
+- Visualized data using bar charts and histograms
+- Extracted insights from data
+
+Dive into the world of soccer analytics and uncover hidden insights with Pandas! Read the full tutorial below.
+
+#socceranalytics #datascience #dataanalysts #python #pandas 
