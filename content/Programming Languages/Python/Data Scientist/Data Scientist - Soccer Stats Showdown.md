@@ -3,8 +3,6 @@
 > - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/0e79cbaad56219fc08b5385474092c142216a7a3/content/Assets/notebooks/soccer_stats_showdown.ipynb), offering an alternative platform for your learning convenience.
 > - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
 
-# Soccer Stats Showdown  
-
 ### Description: 
 Imagine you're the Data Scientist for a professional soccer league. The season is heating up, and the league wants to gain insights into team and player performance. They've collected a vast dataset of match statistics, but it's a bit of a mess. That's where you come in!  
 
