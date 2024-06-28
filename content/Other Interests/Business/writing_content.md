@@ -141,16 +141,18 @@ Here are the steps you will take to create a short LinkedIn post that captures t
 
 
   
-Want to level up your data analysis skills? Let's dive into a real-world example of handling missing values, merging datasets, and grouping/aggregating data using Pandas! 
+📊️ Crack the code of loan repayment data and unlock actionable insights!
 
-Scenario 🎓
-Imagine you're a Data Analyst at a large university, tasked with analyzing student performance across different departments. The dataset is a mess, with missing grades and separate tables for student info, grades, and courses. 
+Scenario:
+In this tutorial, we'll walk through a real-world example of analyzing loan repayment data using Pandas.
 
-In this tutorial, you'll learn how to:
-- Handle missing values using Pandas' dropna() function 
-- Merge multiple datasets into a single dataframe using Pandas' merge function
-- Calculate average grades for each department and major using Pandas' groupby and mean functions
+You'll learn:
+- How to handle missing values (dropna() function)
+- How to group data by a specific column (groupby() function)
+- How to calculate average values by group (mean() function)
+- How to sort values in descending order (sort_values() function)
+- How to extract specific columns or rows from a dataset
 
-Ready to sharpen your data analysis skills? Read the full tutorial to learn how to tackle this real-world scenario.
+Follow along with this tutorial to improve your data analysis skills and gain insights into loan repayment behavior!
 
-#AcademicAnalytics #datascience #dataanalysts #python #pandas 
+#fintech #loanrepayment #datascience #dataanalysts #python #pandas 
