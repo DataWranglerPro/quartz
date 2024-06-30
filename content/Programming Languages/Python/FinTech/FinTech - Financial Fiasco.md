@@ -170,7 +170,7 @@ Using the 'transaction_type' column, calculate the total value and average amoun
 The transaction_type column contains the strings 'deposit', 'withdrawal', and 'transfer'. Since we are looking for total values in addition to the averages of these three categories, let us see if a pivot table would work for this task.  
 
 **Notes on the `df.pivot_table`:**  
-- By default the pivot table will calcuate the mean of `values`
+- By default the pivot table will calculate the mean of `values`
 - To change the aggregate function you need to add the parameter, i.e. aggfunc='sum'
 - To get a different perspective: replace `index` with `columns`
 
