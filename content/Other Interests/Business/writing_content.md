@@ -142,19 +142,15 @@ Here are the steps you will take to create a short LinkedIn post that captures t
 
   
   
-🚚 The Package Detectives: Cracking the Case with Data
+🚨 Identify and troubleshoot performance issues in your network!  
 
-Have you ever wondered what happens when packages go missing in transit? 
+As a Cisco engineer, you're tasked with analyzing log data to optimize a client's router performance. You need to extract insights from a large dataset to identify error-causing IP addresses, calculate average response times, and understand error message distribution.
 
-A logistics company was facing this exact issue, with a significant number of packages vanishing without a trace. Using Pandas and data analysis, we were able to crack the case and identify the root cause of the problem!
+This tutorial shows you how to use Pandas to:
+- Extract the top 5 error-causing IP addresses
+- Calculate average response time by hour
+- Determine error message distribution
 
-**Key Findings:**
-- Packages that went missing had longer routes on average, suggesting distance might be a factor.
-- Carrier performance didn't seem to be a significant factor in missing packages.
-- A whopping 80% of packages destined for CityE went missing, suggesting a specific issue with deliveries to that city.
+Read the full tutorial to learn how to apply these skills and become a master network troubleshooter!
 
-**Recommendation:** The logistics company should immediately stop sending packages to CityE and investigate the root cause.
-
-**Check out the full tutorial to see how we used data to solve the mystery!**
-
-#logistics #banking #datascience #dataanalysts #python #pandas 
+#ciscoengineer #datascience #dataanalysts #python #pandas 

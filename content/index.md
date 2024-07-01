@@ -21,8 +21,8 @@ draft: false
 > * **[[Training]]**
 > 	* Excel in one-to-one training, with a strong ability to create effective training materials.
 > ---
-> #### Pandas Tutorials for Sale
-> * [Pandas Data Analysis Bundle](https://hedaro.gumroad.com/l/jVeRh)
+> #### I Help Data Analysts Learn Pandas
+> * [Enroll in the Pandas Ninja Course](https://hedaro.gumroad.com/l/jVeRh)
 
 You can contact me at david@hedaro.com
 
