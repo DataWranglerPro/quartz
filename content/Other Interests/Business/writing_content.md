@@ -9,7 +9,7 @@ fintech|data scientist|data analyst professionals
 ```
 
 ``` prompt
-Here are the instructions you will follow to generate a random Python pandas challenge for data analyst professionals:
+Here are the instructions you will follow to generate a random Python pandas challenge forfintech professionals:
 Challenge Generation Instructions
 Challenge Description: Write a clear and concise description of the challenge, including the problem statement, make it sound like a story you are telling a friend.
 Tasks: Create 3 tasks that identify specific pain points that pandas solves.
@@ -24,6 +24,7 @@ E-commerce Sales Analysis
 Energy consumption
 Flight Frenzy
 Saving the Music Festival
+Financial Fiasco: A Bank's Dilemma
 ```
 
 # Create Notebook
