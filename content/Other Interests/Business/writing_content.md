@@ -25,6 +25,7 @@ Energy consumption
 Flight Frenzy
 Saving the Music Festival
 Financial Fiasco: A Bank's Dilemma
+logistics
 ```
 
 # Create Notebook
@@ -51,6 +52,18 @@ look for grammatical mistakes in the content below. tell me the issues found but
 **Check for incorrect code or statements:**
 ``` prompt
 Look for any code errors or incorrect statements in the content below. tell me the issues found but do not rewrite my content. Are you ready?
+```
+
+**Check for Errors, incorrect code or statements:**
+``` prompt
+identify any:
+
+- Grammatical mistakes
+- Code errors (if the content contains code snippets)
+- Incorrect statements (logical or factual errors)
+    
+
+List out the issues without rewriting my content. Are you ready?
 ```
 
 
