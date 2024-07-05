@@ -26,6 +26,7 @@ Flight Frenzy
 Saving the Music Festival
 Financial Fiasco: A Bank's Dilemma
 logistics
+agricultural
 ```
 
 # Create Notebook
@@ -41,7 +42,7 @@ Here we use AI to check our work for grammatical mistakes and coding mistakes.
 
 **Add a summary at the end:**
 ``` prompt
-Can you summarize the Pandas tutorial below and provide in bullets what the reaader learned. Are you ready?
+Can you summarize the Pandas tutorial below and provide in bullets what the reader learned. Are you ready?
 ```
 
 **Check for Errors:**
@@ -158,20 +159,19 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-📚 Unlock the power of data analysis in education!
+🍅️ Can you transform and analyze a dataset of agricultural shipments?
 
-Are you a data analyst or scientist working in education? Do you want to uncover insights that can improve student engagement and performance? 
+Imagine you're a data analyst for a large agricultural company, and you need to clean and prepare a dataset of produce shipments for analysis.
 
-**Content Summary**
-- Learn how to bin student scores into categories using pd.cut 
-- Discover how to divide students into age groups based on quantiles using pd.qcut
-- Find out how to categorize study hours and calculate average scores
-- Understand the difference between pd.cut and pd.qcut
-- Master the use of the observed parameter in df.groupby
+In this tutorial, you'll learn how to:
+- Convert a date column to a standard format
+- Extract year and month from a datetime column
+- Create new columns based on existing data
+- Map values to categories using dictionaries and Pandas functions
 
-#educationanalytics  #datawrangling #dataanalysts #python #pandas 
+#agriculturalanalytics  #datawrangling #dataanalysts #python #pandas 
 
-**P.S.** Read the full tutorial to learn more 
+**P.S.** Read the full tutorial to learn how to wrangle and analyze data like a pro!
  
 
 
