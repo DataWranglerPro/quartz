@@ -1,6 +1,6 @@
 
 > [!NOTE] 
-> - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/financial_fiasco.ipynb), offering an alternative platform for your learning convenience.
+> - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/420d7b14dbf7e7a68d8a978dc7964adbd1ae864f/content/Assets/notebooks/cleaning_and_preparing_financial_data.ipynb), offering an alternative platform for your learning convenience.
 > - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
 
 ### Description:  
