@@ -9,7 +9,7 @@ fintech|data scientist|data analyst professionals
 ```
 
 ``` prompt
-Here are the instructions you will follow to generate a random Python pandas challenge for data scientist professionals:
+Here are the instructions you will follow to generate a random Python pandas challenge for fintech professionals:
 Challenge Generation Instructions
 Challenge Description: Write a clear and concise description of the challenge, including the problem statement, make it sound like a story you are telling a friend.
 Tasks: Create 3 tasks that identify specific pain points that pandas solves.
@@ -159,19 +159,18 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-🍅️ Can you transform and analyze a dataset of agricultural shipments?
-
-Imagine you're a data analyst for a large agricultural company, and you need to clean and prepare a dataset of produce shipments for analysis.
+🚴‍♂️ Uncover insights from a bike-sharing system! 
+ 
+Imagine you're a data scientist tasked with optimizing a public bike-sharing system. You have access to a dataset containing information about bike trips, including the date, time, start and end stations, and user information. Your mission is to uncover insights that will help reduce traffic congestion and promote sustainable transportation.
 
 In this tutorial, you'll learn how to:
-- Convert a date column to a standard format
-- Extract year and month from a datetime column
-- Create new columns based on existing data
-- Map values to categories using dictionaries and Pandas functions
+- Calculate the average trip duration by day of the week and time of day
+- Identify the most popular bike routes and the number of trips taken on each route
+- Determine the percentage of users who fail to return bikes to designated stations
 
-#agriculturalanalytics  #datawrangling #dataanalysts #python #pandas 
+#bike-sharing  #datawrangling #dataanalysts #python #pandas 
 
-**P.S.** Read the full tutorial to learn how to wrangle and analyze data like a pro!
+P.S. Read the full tutorial to learn how to uncover insights from a bike-sharing system and optimize it for a sustainable future!
  
 
 
