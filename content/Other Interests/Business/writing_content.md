@@ -155,22 +155,57 @@ Here are the steps you will take to create a short LinkedIn post that captures t
 ```
 
 
-  
-  
-  
-  
-🚴‍♂️ Uncover insights from a bike-sharing system! 
- 
-Imagine you're a data scientist tasked with optimizing a public bike-sharing system. You have access to a dataset containing information about bike trips, including the date, time, start and end stations, and user information. Your mission is to uncover insights that will help reduce traffic congestion and promote sustainable transportation.
+# Weekly Puzzle
 
-In this tutorial, you'll learn how to:
-- Calculate the average trip duration by day of the week and time of day
-- Identify the most popular bike routes and the number of trips taken on each route
-- Determine the percentage of users who fail to return bikes to designated stations
+``` prompt
+- Create a short Pandas puzzle consisting of a few lines of code and a question.
+- make the code simple enough so that is can be solved in a person's head
+- Choose randomly from the styles below:
+1. **What is the output?**: Given a code snippet, predict the output or result.
+    
+2. **Fill in the missing code**: Complete a partially written code snippet to achieve a specific task.
+    
+3. **Find the error in the code**: Identify and correct the error in a given code snippet.
+    
+4. **Write a code snippet to achieve a task**: Write a code snippet from scratch to accomplish a specific task.
+    
+5. **Explain the code**: Explain how a given code snippet works or what it does.
+    
+6. **Optimize the code**: Suggest improvements or optimizations for a given code snippet.
+    
+7. **What is the purpose of the code?**: Identify the purpose or functionality of a given code snippet.
+    
+8. **True or False**: Determine whether a given statement about a code snippet is true or false.
+    
+9. **Multiple Choice**: Choose the correct answer from a set of options for a given question about a code snippet.
+    
+10. **Debug the code**: Fix the errors in a given code snippet to make it work correctly.
+```
 
-#bike-sharing  #datawrangling #dataanalysts #python #pandas 
+``` prompt
+- Create a short Pandas puzzle consisting of a few lines of code and a question.
+- Draft a LinkedIn post for the puzzle, including:
+    - A hook to capture attention.
+    - The puzzle code.
+    - The question.
+    - A P.S. at the bottom mentioning the reward for the first correct answer (a free Pandas course or a 15-minute 1:1 call with you).
+- make the code simple enough so that is can be solved in a person's head
+```
+  
+  
+  
+🚀 Are you a Fintech professional tackling messy financial data? 
 
-P.S. Read the full tutorial to learn how to uncover insights from a bike-sharing system and optimize it for a sustainable future!
+Your manager asks you to create a report on hedge fund performance, but the data is riddled with missing values and duplicates. How do you ensure accurate and insightful analysis?
+
+In this tutorial, you’ll learn to:
+- Use the `ffill` method to fill missing values in the 'Returns' column, assuming no trading activity caused the gaps.
+- Normalize the 'Returns' data to a range of 0 to 1 for better analysis and visualization.
+- Ensure data integrity by removing duplicate rows with the same 'Fund' and 'Date' values.
+
+#fintech  #datawrangling #dataanalysts #python #pandas 
+
+P.S. Read the full tutorial here and transform your messy data into actionable insights
  
 
 
