@@ -211,7 +211,7 @@ stats
 Create a dashboard to visualize the top-performing regions and property types, and identify areas with the highest growth potential.
 
 Looking at the dashboard below, here are some key findings:  
-- Southeast (industrial and residential) and Southwest commerical have the best ROI
+- Southeast (industrial and residential) and Southwest commercial have the best ROI
 - Northeast commercial is the most expensive real estate sold but it has a very low ROI
 
 Take note of all the MatPlotLib code I used to customize the plot, see how you can make use of it on your next visualization.

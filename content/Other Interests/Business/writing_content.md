@@ -9,7 +9,7 @@ fintech|data scientist|data analyst professionals
 ```
 
 ``` prompt
-Here are the instructions you will follow to generate a random Python pandas challenge for fintech professionals:
+Here are the instructions you will follow to generate a random Python pandas challenge for data analyst professionals:
 Challenge Generation Instructions
 Challenge Description: Write a clear and concise description of the challenge, including the problem statement, make it sound like a story you are telling a friend.
 Tasks: Create 3 tasks that identify specific pain points that pandas solves.
@@ -89,6 +89,8 @@ Here we transfer the Notebook to Linkedin and write the copy for the post.
 - Add header
 ```
 **Let's connect!** Send me a connection invitation. I regularly share Jupyter Notebooks on Pandas and would love to expand my network.
+
+**P.S.**
 
 **Explore my profile**: Head to my profile to see more about my work, skills, and experience.
 
@@ -194,18 +196,26 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-🚀 Are you a Fintech professional tackling messy financial data? 
+💸 Unlock the secrets of real estate investing! 
 
-Your manager asks you to create a report on hedge fund performance, but the data is riddled with missing values and duplicates. How do you ensure accurate and insightful analysis?
+Are you a fintech professional looking to uncover investment opportunities in the real estate market?
 
 In this tutorial, you’ll learn to:
-- Use the `ffill` method to fill missing values in the 'Returns' column, assuming no trading activity caused the gaps.
-- Normalize the 'Returns' data to a range of 0 to 1 for better analysis and visualization.
-- Ensure data integrity by removing duplicate rows with the same 'Fund' and 'Date' values.
+- Extract the quarter and year from the 'Date' column
+- Calculate the return on investment (ROI) for each property
+- Group data by region and property type to calculate total sales, average sale price, and average ROI
+- Create a dashboard with three charts to visualize top-performing regions and property types
 
 #fintech  #datawrangling #dataanalysts #python #pandas 
 
-P.S. Read the full tutorial here and transform your messy data into actionable insights
+P.S. Read the full tutorial and start uncovering investment opportunities in the real estate market!
  
 
 
+Free course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.
+
+- Learn to <strong>read in data</strong> from databases like Microsoft SQL Server.
+- Learn to aggregate data, handle <strong>missing values</strong>, and generate descriptive statistics.
+- On top of all this, learn to present your data using tables and <strong>visually impressive charts</strong>.
+
+Click below to enroll in our FREE Pandas course:
