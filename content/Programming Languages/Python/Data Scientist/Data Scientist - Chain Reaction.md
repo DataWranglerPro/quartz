@@ -205,6 +205,7 @@ Using this chart, the most popular routes are (frequencies included):
 pop.plot.hist();
 ```
 
+![[Pasted image 20240718135452.png]]
 
 # Lost in Transit: 
 

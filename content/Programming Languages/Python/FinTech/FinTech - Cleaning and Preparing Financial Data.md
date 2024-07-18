@@ -212,7 +212,7 @@ You can see we were able to rescale the data between 0 and 1.
 df['normalized_returns'].plot.box();
 ```
 
-![[output_15_0.png]]
+![[Pasted image 20240718140333.png]]
 
 # Remove Duplicate Rows: 
 

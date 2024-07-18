@@ -170,7 +170,8 @@ I don't see much of a clear pattern here, do you?
 data['Sales'].plot(figsize=(10,5));
 ```
 
-![[output_16_0.png]]
+![[Pasted image 20240718135744.png]]
+
 
 If we simply wanted to calculate the median of the dataset and use that value.
 
@@ -178,7 +179,8 @@ If we simply wanted to calculate the median of the dataset and use that value.
 data['Sales'].plot.box();
 ```
 
-![[output_18_0.png]]
+![[Pasted image 20240718135812.png]]
+
 
 ```python
 # the actual median is...
@@ -233,7 +235,7 @@ data.tail(10)
 data['Sales']['2024-09':].plot(figsize=(10,5));
 ```
 
-![[output_25_0.png]]
+![[Pasted image 20240718135842.png]]
 
 # Conclusion  
 

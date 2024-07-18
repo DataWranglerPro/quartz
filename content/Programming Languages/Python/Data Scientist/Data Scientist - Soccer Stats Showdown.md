@@ -143,7 +143,8 @@ combined = pd.concat([group_home, group_away], axis=1)
 combined.plot.bar();
 ```
 
-![[output_9_0.png]]
+![[Pasted image 20240718135942.png]]
+
 
 Let's pull out top 5 scoring teams based on the median goals scored at home games. There was a tie for 5th place, team 18 and team 15 both scored a median of 1.5 goals per home game.
 
@@ -170,7 +171,8 @@ As you can see, most players do not have many assists according to the data
 df['player_assists'].sort_values().hist();
 ```
 
-![[output_14_0.png]]
+![[Pasted image 20240718140030.png]]
+
 
 If we take a look at some descriptive statistics, we can conclude that there were very few high scoring/assisting players in the season.
 

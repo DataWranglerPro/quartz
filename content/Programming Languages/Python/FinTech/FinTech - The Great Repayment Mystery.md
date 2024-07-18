@@ -182,7 +182,7 @@ group = loans.groupby('Borrower Age')
 group.mean(numeric_only=True).plot(figsize=(10,5));
 ```
 
-![[output_13_0.png]]
+![[Pasted image 20240718140555.png]]
 
 # Late Repayments:  
 

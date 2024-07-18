@@ -228,7 +228,8 @@ group = df.groupby('missing')
 group.mean(numeric_only=True)['distance'].plot.barh();
 ```
 
-![[output_14_0 1.png]]
+![[Pasted image 20240718140152.png]]
+
   
 The routes that went missing do seem to be the longest routes. Does this mean distance is a factor in why the packages are going missing? Maybe, but let us continue exploring.
 
@@ -303,7 +304,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![[output_23_0.png]]
+![[Pasted image 20240718140220.png]]
 
 
 We can clearly see that regardless of the origin city, the region, or the carrier. Packages in route to CityE have a very high chance of going missing. I would recommend the logistics company immediately stop sending packages to this city and do a thorough investigation to determine the root cause.
