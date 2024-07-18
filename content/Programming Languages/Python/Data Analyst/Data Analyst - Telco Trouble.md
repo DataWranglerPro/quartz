@@ -1,6 +1,6 @@
 
 > [!NOTE] 
-> - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/using_data_to_optimize_logistics.ipynb), offering an alternative platform for your learning convenience.
+> - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/telco_trouble.ipynb), offering an alternative platform for your learning convenience.
 > - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
 
 ### Description:  
@@ -28,6 +28,20 @@ print('Numpy version ' + np.__version__)
     Pandas version 2.2.1
     Numpy version 1.26.4
     
+
+# The Data  
+
+The dataset contains 10,000 customer records with information about their phone usage, issues they've experienced (such as dropped calls or slow data), and severity of those issues. The data also includes malformed phone numbers that need to be cleaned and standardized.
+
+### Columns:  
+- **customer_id:** Unique customer identifier
+- **name:** Customer name
+- **phone_number:** Customer phone number (some malformed)
+- **issue_description:** Brief description of the customer's issue
+- **issue_severity:** Severity level of the issue (High, Medium, Low). **Note:** column created in Task #2
+- **calls:** Number of calls made by the customer
+- **texts:** Number of texts sent by the customer
+- **data_usage:** Amount of data used by the customer (in MB)
 
 ```python
 # set the seed
@@ -64,20 +78,6 @@ customers.head()
 | 3   | 3           | Customer 3 | 555-388-6985 | Unexpected charge | 88    | 196   | 2595       |
 | 4   | 4           | Customer 4 | 555-915-7855 | Poor reception    | 40    | 583   |            |
 
-
-# The Data  
-
-The dataset contains 10,000 customer records with information about their phone usage, issues they've experienced (such as dropped calls or slow data), and severity of those issues. The data also includes malformed phone numbers that need to be cleaned and standardized.
-
-### Columns:  
-- **customer_id:** Unique customer identifier
-- **name:** Customer name
-- **phone_number:** Customer phone number (some malformed)
-- **issue_description:** Brief description of the customer's issue
-- **issue_severity:** Severity level of the issue (High, Medium, Low). **Note:** column created in Task #2
-- **calls:** Number of calls made by the customer
-- **texts:** Number of texts sent by the customer
-- **data_usage:** Amount of data used by the customer (in MB)
 
 Let us take a look at the data types.
 
@@ -231,7 +231,7 @@ def clean_tnum(phone_number):
     return phone_number.strip()
 ```
 
-I copied the "phone_number" column into Excel via `pd.to_clipboard()` to visaually verify that the phone numbers where in fact clean. I noticed some of my strings were of length 13 and that was due to an extra space at the end of the strings.  
+I copied the "phone_number" column into Excel via `pd.to_clipboard()` to visually verify that the phone numbers where in fact clean. I noticed some of my strings were of length 13 and that was due to an extra space at the end of the strings.  
 
 I noticed that some strings had extra spaces at the end, so I added `.strip()` to the return statement to handle this.
 

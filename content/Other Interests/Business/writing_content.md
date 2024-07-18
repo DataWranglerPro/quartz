@@ -27,6 +27,9 @@ Saving the Music Festival
 Financial Fiasco: A Bank's Dilemma
 logistics
 agricultural
+telecom company
+School District
+Bike Rental
 ```
 
 # Create Notebook
@@ -153,7 +156,9 @@ Here are the steps you will take to create a short LinkedIn post that captures t
     
 5. **Use relevant hashtags**: I'll use relevant hashtags to reach a wider audience and make the post discoverable by fintech, data analysts, and data scientists professionals.
 
-6. Do not start until i give you the content. got it?
+6. **Add a P.S. adthe bottom**: Ask a question. Make it light hearted, funny, and related to the tutorial
+
+7. Do not start until i give you the content. got it?
 ```
 
 
@@ -196,20 +201,19 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-💸 Unlock the secrets of real estate investing! 
+🤖 Want to learn how to analyze customer data like a pro?
 
-Are you a fintech professional looking to uncover investment opportunities in the real estate market?
+The Telco Telecom Company is struggling to keep up with customer complaints. Their customer service team is overwhelmed with calls and emails about dropped calls, slow data speeds, and unexpected charges. They need help analyzing customer data to identify trends, resolve issues efficiently, and improve overall customer satisfaction.
 
-In this tutorial, you’ll learn to:
-- Extract the quarter and year from the 'Date' column
-- Calculate the return on investment (ROI) for each property
-- Group data by region and property type to calculate total sales, average sale price, and average ROI
-- Create a dashboard with three charts to visualize top-performing regions and property types
+In this tutorial, you'll learn how to:
+- Create a bar chart to visualize the results
+- Write a function to categorize customer complaints by severity based on keywords
+- Clean up malformed phone numbers using regular expressions
+- Apply functions to Pandas DataFrames using the apply() method
 
-#fintech  #datawrangling #dataanalysts #python #pandas 
+#customerservice  #datawrangling #dataanalysts #python #pandas 
 
-P.S. Read the full tutorial and start uncovering investment opportunities in the real estate market!
- 
+P.S. If you're a data analyst, do you dream of tidying up messy data sets in your sleep? ![😴](https://static.xx.fbcdn.net/images/emoji.php/v9/taf/1/16/1f634.png)![💤](https://static.xx.fbcdn.net/images/emoji.php/v9/tbf/1/16/1f4a4.png) Share your most frustrating data cleaning experience in the comments below! 
 
 
 Free course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.
@@ -219,3 +223,7 @@ Free course includes 20 Tutorials that will show you everything you need to beco
 - On top of all this, learn to present your data using tables and <strong>visually impressive charts</strong>.
 
 Click below to enroll in our FREE Pandas course:
+
+
+2-Minute Pandas Tutorial! Watch now and check out my free course. https://lnkd.in/eHs6G2ZH
+

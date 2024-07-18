@@ -110,7 +110,7 @@ Looking at the histogram below, it seems like we can expect to see most the erro
 group.count()['error_message'].plot.hist();
 ```
 
-![[output_9_0 1.png]]
+![[Pasted image 20240718125707.png]]
 
 
 # Calculate average response time by hour  
@@ -123,7 +123,9 @@ If we simply start by plotting the data, we can clearly see that the data is not
 df.sort_values(by='timestamp').set_index('timestamp')['response_time'].plot(figsize=(10,5));
 ```
 
-![[output_12_0.png]]
+![[Pasted image 20240718125757.png]]
+
+
 
 We can also plot the data using a histogram and again, this is not a normally distributed dataset.  
 
@@ -131,7 +133,8 @@ We can also plot the data using a histogram and again, this is not a normally di
 df.sort_values(by='timestamp').set_index('timestamp')['response_time'].plot.hist();
 ```
 
-![[output_14_0 2.png]]
+![[Pasted image 20240718125835.png]]
+
 
 This means we cannot use the average and must use the median. Let's go!  
 
@@ -145,8 +148,8 @@ group = df.groupby(df['timestamp'].dt.hour)
 group.median(numeric_only=True).head()
 ```
 
-|           | response_time |
-| --------- | ------------- |
+|               | response_time |
+| ------------- | ------------- |
 | **timestamp** |               |
 | **0**         | 0.497693      |
 | **1**         | 0.497187      |
