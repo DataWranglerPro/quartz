@@ -1,7 +1,7 @@
 
 > [!NOTE] 
 > - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/chain_reaction.ipynb), offering an alternative platform for your learning convenience.
-> - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
+> - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 ### Description:  
 The local government has launched a public bike-sharing system to reduce traffic congestion and promote sustainable transportation. As a data scientist, you're tasked with analyzing the usage patterns of this system. You have access to a dataset containing information about bike trips, including the date, time, start and end stations, and user information. Your mission is to uncover insights that will help optimize the system.

@@ -1,7 +1,7 @@
 
 > [!NOTE] 
 > - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/the_package_detectives.ipynb), offering an alternative platform for your learning convenience.
-> - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
+> - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 ### Description:  
 Hey there, data scientist! Have you ever wondered what happens when packages go missing in transit? A logistics company is facing this exact issue, with a significant number of packages vanishing without a trace. The company has collected data on its shipments, but needs your expertise to unravel the mystery. Can you use your Pandas skills to help the company identify the root cause of the problem and recover the missing packages?  

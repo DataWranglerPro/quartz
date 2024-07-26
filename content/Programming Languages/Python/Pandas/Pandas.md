@@ -8,5 +8,5 @@ To help you achieve these goals, I’ve created an in-depth Python Pandas course
   
 Ready to take your data analysis skills to the next level? Enroll in my Python Pandas course and start transforming your data insights into actionable intelligence.  
   
-🌐 [Click here to learn more](https://hedaro.gumroad.com/l/pandas)  
+🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 

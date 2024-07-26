@@ -20,14 +20,7 @@ draft: false
 > 	* Proficient in creating clear and comprehensive instructions, as well as developing documents that cover background, analysis, results, and recommendations.
 > * **[[Training]]**
 > 	* Excel in one-to-one training, with a strong ability to create effective training materials.
-> ---
-> #### I Help Data Analysts Learn Pandas
-> Course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.
-> - Learn to 𝐫𝐞𝐚𝐝 𝐢𝐧 𝐝𝐚𝐭𝐚 from databases like Microsoft SQL Server.
-> - Learn to aggregate data, handle 𝐦𝐢𝐬𝐬𝐢𝐧𝐠 𝐯𝐚𝐥𝐮𝐞𝐬, and generate descriptive statistics.
-> - On top of all this, learn to present your data using tables and 𝐯𝐢𝐬𝐮𝐚𝐥𝐥𝐲 𝐢𝐦𝐩𝐫𝐞𝐬𝐬𝐢𝐯𝐞 𝐜𝐡𝐚𝐫𝐭𝐬.
-> 
-> [Enroll in the Pandas Ninja Course](https://hedaro.gumroad.com/l/jVeRh)
+
 
 You can contact me at david@hedaro.com
 

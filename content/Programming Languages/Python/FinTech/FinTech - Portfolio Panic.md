@@ -1,7 +1,7 @@
 
 > [!NOTE] 
 > - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/6b4ef79d5789cd6fed37c12caf1438dbc553956d/content/Assets/notebooks/portfolio_panic.ipynb), offering an alternative platform for your learning convenience.
-> - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
+> - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 ### Description:  
 Imagine you're a wealth manager at a prestigious financial firm, responsible for managing a vast portfolio of stocks, bonds, and assets for high-net-worth clients. Your team relies on data analysis to make informed investment decisions, but your current dataset is a mess! You need to wrangle the data to identify trends, optimize performance, and mitigate risk. Can you use your Pandas skills to tame the data beast and save the day?  

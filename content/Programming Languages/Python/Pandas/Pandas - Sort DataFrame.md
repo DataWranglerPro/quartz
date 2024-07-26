@@ -1,8 +1,7 @@
 
 > [!NOTE] 
 > - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/d53f63a9c211688e03ee449f588aa11ed1d0fa70/content/Assets/notebooks/How_to_Sort_in_Pandas.ipynb), offering an alternative platform for your learning convenience.
-> - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
-
+> - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 This Notebook will cover all the techniques to quickly _**sort your dataframe in Pandas**_. Whether you are looking to sort one or multiple columns. Or whether you are looking to order your data in an _**ascending**_ or _**descending**_ fashion, I have you covered.
 

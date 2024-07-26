@@ -1,7 +1,7 @@
 
 > [!NOTE] 
 > - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/728a3e76f3d76fc4930a9ed65383ba3646d60e70/content/Assets/notebooks/router_rescue.ipynb), offering an alternative platform for your learning convenience.
-> - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
+> - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 ### Description:  
 Imagine you're a Cisco engineer tasked with troubleshooting performance issues on a client's network. The client's router is struggling, and you need to dive into the log data to identify the root cause. Your mission is to use your Pandas skills, to analyze the log data, pinpoint the problems, and save the day!

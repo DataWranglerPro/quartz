@@ -1,7 +1,7 @@
 
 > [!NOTE] 
 > - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/real_estate_insights.ipynb), offering an alternative platform for your learning convenience.
-> - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
+> - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 ### Description  
 You are a Fintech professional at a leading investment firm, and your team is responsible for generating quarterly reports for a client who invests in real estate. The client has a large portfolio of properties across the United States and needs to identify areas with the highest return on investment. Your task is to analyze a dataset of property sales and identify trends, patterns, and insights that will inform investment decisions.

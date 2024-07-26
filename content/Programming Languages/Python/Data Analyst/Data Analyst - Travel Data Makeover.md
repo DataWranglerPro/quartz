@@ -1,7 +1,7 @@
 
 > [!NOTE] 
 > - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/travel_data_makeover.ipynb), offering an alternative platform for your learning convenience.
-> - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
+> - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 ### Description:  
 Imagine you're a data analyst for a popular travel company that offers customized vacation packages. Your boss wants you to prepare the data for analysis, but it's a bit of a mess. Your task is to use Pandas to clean, transform, and prepare the data for analysis.  
@@ -141,7 +141,7 @@ The next task is to create two new columns.
 - First Name
 - Last Name
 
-Since the names are all seperated by an underscore, we can simply split the string by that character and extract the first and last name.
+Since the names are all separated by an underscore, we can simply split the string by that character and extract the first and last name.
 
 ```python
 customers['First Name'] = customers['Customer Name'].apply(lambda x: x.split('_')[0])

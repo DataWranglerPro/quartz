@@ -1,7 +1,7 @@
 
 > [!NOTE] 
 > - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/saving_the_music_festival.ipynb), offering an alternative platform for your learning convenience.
-> - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
+> - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 ### Description:  
 Imagine you're the data scientist for a popular music festival, and the event is just a week away. The organizers have realized that their data is a mess, and they need your help to clean and prepare it for analysis. You are provided with a small dataset containing information about ticket sales, customer demographics, and stage schedules, but it's full of errors and inconsistencies. Can you use your pandas skills to wrangle the data and get it ready for analysis?  

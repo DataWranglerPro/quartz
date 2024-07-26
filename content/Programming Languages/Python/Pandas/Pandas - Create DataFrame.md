@@ -1,8 +1,7 @@
 
 > [!NOTE] 
 > - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/05c8f4c8349030d0b13dca82d29535ad884e5f81/content/Assets/notebooks/How_to_Create_a_Pandas_DataFrame.ipynb), offering an alternative platform for your learning convenience.
-> - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
-
+> - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 The most important data structure is the ***Pandas DataFrame*** (notice the Camel Case, more on this later). It will also be one of the most commonly used terms when dealing with this library. At a high level, we as analysts, as developers, need to get our data inside a dataframe.
 

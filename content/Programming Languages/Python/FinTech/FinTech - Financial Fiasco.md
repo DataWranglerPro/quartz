@@ -1,7 +1,7 @@
 
 > [!NOTE] 
 > - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/financial_fiasco.ipynb), offering an alternative platform for your learning convenience.
-> - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
+> - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 ### Description:  
 Imagine you're a Data Analyst at a bank, and your manager just dropped a bombshell on you. It seems that the bank's financial reports are a mess, and they need your expertise to sort it out. The problem is that the data is scattered across multiple files, with different formats and inconsistencies. Your task is to use your Pandas skills to wrangle the data, identify the issues, and provide insights to help the bank get back on track.  

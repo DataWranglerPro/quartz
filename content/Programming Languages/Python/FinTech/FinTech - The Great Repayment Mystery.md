@@ -1,7 +1,7 @@
 
 > [!NOTE] 
 > - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/repayment_mystery.ipynb), offering an alternative platform for your learning convenience.
-> - [Pandas Ninja](https://hedaro.gumroad.com/l/jVeRh): Take your skills to the next level with comprehensive Jupyter Notebook tutorials covering dates, group by, plotting, pivot tables, and more. Includes specialized tutorials for Excel and SQL developers, helping you master data analysis with Pandas.
+> - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 ### Description  
 You are a data analyst at a fintech company that provides loan services to customers. Your manager has asked you to analyze the loan repayment behavior of borrowers to identify trends and insights that can inform business decisions. You have been provided with a large dataset containing loan repayment information, including loan amounts, repayment dates, and borrower information. Your task is to use Pandas to analyze this data, identify trends, and provide insights that can help the company improve its loan services.  
