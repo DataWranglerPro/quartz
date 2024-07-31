@@ -9,10 +9,13 @@ fintech|data scientist|data analyst professionals
 ```
 
 ``` prompt
-Here are the instructions you will follow to generate a random Python pandas challenge for data analyst professionals:
+Here are the instructions you will follow to generate a random Python pandas challenge for data scientist professionals:
 Challenge Generation Instructions
 Challenge Description: Write a clear and concise description of the challenge, including the problem statement, make it sound like a story you are telling a friend.
-Tasks: Create 3 tasks that identify specific pain points that pandas solves.
+Please avoid tasks that involve: 
+- Handling missing values
+- Removing duplicates
+Tasks: Create 3 tasks that identify specific pain points that pandas solves. Make sure you stick to Data cleaning, preprocessing, transformation, feature engineering, Data merging, joining, reshaping and pivoting. 
 Data Generation: Write code to generate a sample dataset that represents a real-world scenario, using libraries like numpy and pandas.
 Data Size: Ensure the dataset is large enough to require efficient pandas operations, but not so large that it becomes unwieldy.
 Complexity: Design the challenge to require intermediate to advanced pandas skills.
@@ -30,6 +33,7 @@ agricultural
 telecom company
 School District
 Bike Rental
+Healthcare
 ```
 
 # Create Notebook
@@ -201,20 +205,21 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-🗺️ Ready to embark on a data transformation journey?
+🏥 Unlock Insights from Clinical Data
 
-Imagine being a data analyst for a popular travel company, tasked with preparing messy data for analysis. Sound familiar?
+As a data analyst in a large healthcare organization, you've been tasked with analyzing patient outcomes and hospital resource utilization using a new electronic health record (EHR) system.
 
-Learn how to use Pandas to:
-- Standardize data formats and handle missing values
-- Create new features through calculations and data engineering
-- Merge datasets and handle inconsistencies
+Key Takeaways:
+- Calculate average length of stay for patients with different diagnoses
+- Identify top treatments and their costs for specific diagnoses
+- Join dataframes to analyze readmission reasons within 30 days of discharge
+- Visualize readmission reasons using Pandas and Matplotlib
 
-Read the full tutorial to master data preparation and transform your skills!
+Read the full tutorial to learn how to extract insights from clinical data and improve patient outcomes.
 
-#travel  #datawrangling #dataanalysts #python #pandas 
+#clinicaldata  #datawrangling #dataanalysts #python #pandas 
 
-P.S. What's the most challenging data issue you've faced? Share your experiences in the comments!
+P.S. What's the most surprising insight you've uncovered from clinical data? Share with us!
 
 
 Free course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.

@@ -161,7 +161,7 @@ top2
 | 9   | Cancer        | Medication       | 416   |
 
 
-Now that we have the most common treatements per diagnosis. Let us join this dataset with the original patient_data dataset. This will ensure we filter our data to only include the top 2 treatments and then we can get the total cost.  
+Now that we have the most common treatments per diagnosis. Let us join this dataset with the original patient_data dataset. This will ensure we filter our data to only include the top 2 treatments and then we can get the total cost.  
 
 **Note:** I choose to extract the top 2 treatments to show you the code to accomplish this data wrangling technique.
 
