@@ -205,19 +205,20 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-🏥 Unlock Insights from Clinical Data
+🔓 Unlock the secrets of customer booking behavior!
 
-As a data analyst in a large healthcare organization, you've been tasked with analyzing patient outcomes and hospital resource utilization using a new electronic health record (EHR) system.
+As a data scientist in the travel industry, have you ever struggled to make sense of scattered customer data?
 
-Key Takeaways:
-- Calculate average length of stay for patients with different diagnoses
-- Identify top treatments and their costs for specific diagnoses
-- Join dataframes to analyze readmission reasons within 30 days of discharge
-- Visualize readmission reasons using Pandas and Matplotlib
+Learn how to merge, reshape, and analyze customer booking data using Pandas! In this tutorial, you'll discover how to:
 
-Read the full tutorial to learn how to extract insights from clinical data and improve patient outcomes.
+- Merge data from multiple sources using pd.merge()
+- Create a customer-centric view using pivot_table()
+- Group and aggregate data to calculate key metrics
+- Visualize trends and patterns using bar charts
 
-#clinicaldata  #datawrangling #dataanalysts #python #pandas 
+Read the full tutorial to unlock the power of data analysis and inform your marketing strategies!
+
+#travelindustry  #datawrangling #dataanalysts #python #pandas 
 
 P.S. What's the most surprising insight you've uncovered from clinical data? Share with us!
 
