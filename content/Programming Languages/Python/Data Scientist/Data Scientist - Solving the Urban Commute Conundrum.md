@@ -1,6 +1,6 @@
 
 > [!NOTE] 
-> - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/travel_data_quest.ipynb), offering an alternative platform for your learning convenience.
+> - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/94b9d54b994bfd2b87f7dc4de521cb639b9a7a74/content/Assets/notebooks/urban_commute_conundrum.ipynb), offering an alternative platform for your learning convenience.
 > - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 ### Description:   
