@@ -7,9 +7,9 @@ Here are the steps to generate ideas for your content.
 ``` avatars
 fintech|data scientist|data analyst professionals
 ```
-
+ 
 ``` prompt
-Here are the instructions you will follow to generate a random Python pandas challenge for data scientist professionals:
+Here are the instructions you will follow to generate a random Python pandas challenge for fintech professionals:
 Challenge Generation Instructions
 Challenge Description: Write a clear and concise description of the challenge, including the problem statement, make it sound like a story you are telling a friend.
 Please avoid tasks that involve: 
@@ -34,6 +34,7 @@ telecom company
 School District
 Bike Rental
 Healthcare
+portfolio analysis
 ```
 
 # Create Notebook
@@ -116,35 +117,6 @@ create me an seo description of the content below. Make it at most 160 character
 Here we make the post to the article
 
 ```
-Write me a short linkedin post that captures peoples attention using the links below. Add icons. 
-
-https://hedaro.com/Programming-Languages/Python/Data-Scientist/Data-Scientist---Duplicate-Row-Detection-and-Grouping
-
-Here is an example you can try to follow when creating the posts:
-
-Duplicates detected! But what's the real story behind the numbers?
-
-🚨 Data scientists, here is the scenario:
-
-As a data scientist in an e-commerce company, you are tasked with identifying and combining duplicate customer records from various sources. The goal is to calculate the total spend for each unique customer.
-
-Summary of Content:
-- Identify duplicate customer records based on CustomerID, Name, and Email
-- Combine duplicates into a single row, summing up the values in the Spent column
-- Calculate total spend for each unique customer using pandas' groupby and sum functions
-
-Bonus question: What's the average spend per customer for the top 3 customers with the highest total spend? (Be the first to answer in the comments!)
-
-Read the full tutorial by clicking the picture below.
-
-#Pandas #DataAnalysis #Python #TechTips 
-
-make the content specifically targeted for: fintech, data analysts, data scientists professionals, this is my avatar
-
-do not start until i give you the content. got it?
-```
-
-```
 Here are the steps you will take to create a short LinkedIn post that captures the attention of fintech, data analysts, and data scientists professionals:
 
 1. # Craft a hook I'll start with a hook that grabs the attention of the target audience, using an icon and a question that resonates with their interests.
@@ -206,21 +178,24 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-🚌 Optimize Urban Commutes with Data Science!
+🍕 Unlock Data-Driven Growth for Your Restaurant!
 
-Imagine you're a data scientist working for a city's transportation department, tasked with optimizing public transportation routes to reduce congestion and improve air quality. You have access to a large dataset containing information on bus routes, schedules, and passenger traffic.
+Are you a data analyst or scientist looking to drive business growth in the restaurant industry?
 
-Learn how to:
-- Merge datasets and calculate average passenger traffic for each route
-- Transform string data into datetime format for easier analysis
-- Pivot data to create new tables with aggregated values
-- Identify top-performing routes and peak hours
+Discover how to optimize menu and marketing strategies using sales data from a 500-location US chain.
 
-Read the full tutorial to learn how to apply these skills and optimize urban commutes!
+Key Takeaways:
+- Merge datasets for deeper insights
+- Group and aggregate data for informed decisions
+- Identify top and bottom performers
+- Leverage custom functions and lambda functions
+- Resample time series data for seasonal trends
 
-#learnpandas  #datawrangling #dataanalysts #python #pandas #transpostation 
+Click below to read the full tutorial.
 
-P.S. What's the most frustrating part of your daily commute? Share with us!
+#learnpandas  #datawrangling #dataanalysts #python #pandas #restaurant
+
+P.S. What's your favorite menu item? Do you think data science can make it taste better?
 
 
 Free course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.

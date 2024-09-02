@@ -283,11 +283,20 @@ sudo containerlab graph
 sudo containerlab destroy --topo apline.clab.yml
 ```
 
+* destroy the lab and do not persist changes
+``` shell
+sudo containerlab destroy --topo apline.clab.yml --cleanup
+```
+
 - upgrade containerlab
 ``` sh
 sudo containerlab version upgrade
 ```
 
+* Find running VMs using PS
+``` PowerShell
+hcsdiag list
+```
 # Use cases
 - Connect all images directly to host IP
 ``` sh
@@ -374,4 +383,35 @@ topology:
         image: guacamole/guacd
         ports:
           - 4822:4822
+```
+
+### Install Pandas in Alpine Linux
+``` sh
+# create lab  
+sudo containerlab deploy --topo basic.clab.yml  
+  
+# shell into alpine image  
+sudo docker exec -it clab-basic_topo-alpine1 sh  
+  
+# install Python3  
+apk add python3  
+  
+# install pandas  
+apk add py3-pandas  
+  
+# some basic Pandas commands  
+import pandas as pd  
+df = pd.DataFrame({'a':[234,4,7]})  
+df  
+df.head(1)  
+df.info()  
+  
+# exit out of Python  
+exit()  
+  
+# exit our of alpine  
+exit  
+  
+# destroy the lab  
+sudo containerlab destroy --topo basic.clab.yml
 ```

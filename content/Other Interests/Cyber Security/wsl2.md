@@ -1,4 +1,11 @@
 
+# Update
+If your update fails, restarting the computer may help.
+``` powershell
+wsl --update --pre-release
+wsl --version
+```
+
 # Uninstall Distro
 ``` sh
 wsl --list
