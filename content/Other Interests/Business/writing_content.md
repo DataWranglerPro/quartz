@@ -35,6 +35,7 @@ School District
 Bike Rental
 Healthcare
 portfolio analysis
+trading
 ```
 
 # Create Notebook
@@ -89,7 +90,7 @@ Here we convert the Notebook file into Markdown, we also include the Notebook fi
 	- npx quartz sync --no-pull
 - Generate NBViewer link, update note, and repush to Github
 	- https://nbviewer.org/
-	- 
+	- https://github.com/DataWranglerPro/quartz/tree/v4/content/Assets/notebooks
 	- Copy .ipynb link and generate an NBViewer link
 
 
@@ -117,6 +118,8 @@ create me an seo description of the content below. Make it at most 160 character
 
 # Write Linkedin Post
 Here we make the post to the article
+* Use the Linkedin formatter
+	* https://www.linkedin-makeover.com/linkedin-text-formatter/
 
 ```
 Here are the steps you will take to create a short LinkedIn post that captures the attention of fintech, data analysts, and data scientists professionals:
@@ -180,24 +183,21 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-🍕 Unlock Data-Driven Growth for Your Restaurant!
+💰 Want to stay ahead in the fintech game?
 
-Are you a data analyst or scientist looking to drive business growth in the restaurant industry?
+As a fintech professional, analyzing trading data to identify market trends and optimize investment strategies is crucial. But, are you using the right techniques to get the most out of your data?
 
-Discover how to optimize menu and marketing strategies using sales data from a 500-location US chain.
-
-Key Takeaways:
-- Merge datasets for deeper insights
-- Group and aggregate data for informed decisions
-- Identify top and bottom performers
-- Leverage custom functions and lambda functions
-- Resample time series data for seasonal trends
+Summary of content:
+- Learn how I reshape and pivot data to extract valuable insights
+- Discover how I merge datasets and create new columns to enhance your analysis
+- Master feature engineering techniques to calculate daily percentage changes and categorize trends
+- Get tips on how I use groupby to calculate group averages and add them back to my original dataframe
 
 Click below to read the full tutorial.
 
-#learnpandas  #datawrangling #dataanalysts #python #pandas #restaurant
+#learnpandas  #datawrangling #dataanalysts #python #pandas #fintech
 
-P.S. What's your favorite menu item? Do you think data science can make it taste better?
+P.S. What's the most challenging part of working with trading data for you? Share your experiences in the comments!
 
 
 Free course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.
