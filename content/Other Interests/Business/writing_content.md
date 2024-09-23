@@ -101,6 +101,8 @@ Here we transfer the Notebook to Linkedin and write the copy for the post.
 ```
 **Let's connect!** Send me a connection invitation. I regularly share Jupyter Notebooks on Pandas and would love to expand my network.
 
+🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
+
 **P.S.**
 
 **Explore my profile**: Head to my profile to see more about my work, skills, and experience.
@@ -184,21 +186,26 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-🐼 Boost Your Data Processing Skills!
+Unlock Insights from Customer Loan Behavior!
 
-As a fintech professional, have you ever faced the challenge of consolidating discount offers and customer transactions efficiently? Manually merging and transforming data can lead to errors and delays.
+Are you struggling to analyze customer loan repayment patterns? Do you want to inform your marketing strategies with data-driven insights?
 
-This tutorial covers:
-- Merging two datasets based on a common column
-- Converting date columns to datetime format
-- Calculating the duration of discount offers
-- Creating a pivot table to reshape your data
+As a financial analyst, you can leverage pandas to merge, group, and aggregate customer data. In this tutorial, you'll learn how to:
+- Merge customer information, loan details, and repayment history datasets
+- Group customers by age brackets and calculate average loan amounts and credit scores
+- Calculate total repayment amounts per customer
+- Reshape repayment history data using pivot tables
+
+Key Takeaways:
+- Merging datasets for comprehensive analysis
+- Data grouping and aggregation for informed decision-making
+- Pivot tables for insightful repayment pattern visualization
 
 Click below to read the full tutorial.
 
 #learnpandas  #datawrangling #dataanalysts #python #pandas #fintech
 
-P.S. What's the most challenging data processing task you've faced? Share your experiences in the comments!
+P.S. What's the most surprising insight you've uncovered from customer loan behavior analysis?
 
 
 Free course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.
