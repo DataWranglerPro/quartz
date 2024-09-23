@@ -1,6 +1,6 @@
 
 > [!NOTE] 
-> - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/v4/content/Assets/notebooks/trading_trends.ipynb), offering an alternative platform for your learning convenience.
+> - This tutorial is also available on [nbviewer](https://nbviewer.org/github/DataWranglerPro/quartz/blob/b818e281fe461b70b181c5ff8ac19a517d8c54bf/content/Assets/notebooks/election_insights.ipynb), offering an alternative platform for your learning convenience.
 > - 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
 ### Description  
