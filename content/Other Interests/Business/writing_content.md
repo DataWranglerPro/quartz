@@ -186,26 +186,25 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-Unlock Insights from Customer Loan Behavior!
+🚨 Who is going to be the Next President?
 
-Are you struggling to analyze customer loan repayment patterns? Do you want to inform your marketing strategies with data-driven insights?
+Ever wondered how voter demographics and donations can influence an election campaign? 
 
-As a financial analyst, you can leverage pandas to merge, group, and aggregate customer data. In this tutorial, you'll learn how to:
-- Merge customer information, loan details, and repayment history datasets
-- Group customers by age brackets and calculate average loan amounts and credit scores
-- Calculate total repayment amounts per customer
-- Reshape repayment history data using pivot tables
+Let’s dive into the data!
 
-Key Takeaways:
-- Merging datasets for comprehensive analysis
-- Data grouping and aggregation for informed decision-making
-- Pivot tables for insightful repayment pattern visualization
+Imagine you’re analyzing data for the DNC or RNC, merging voter demographics and donation info to uncover trends across the U.S. Sounds exciting, right?
+
+Here’s what I learned in this tutorial:
+
+- 🗳️ Merge voter demographics with donation data to calculate total donations by state.
+- 📅 Transform and analyze donation dates to find trends over months and years.
+- 💰 Pivot the data to see average donations by age group and state.
 
 Click below to read the full tutorial.
 
-#learnpandas  #datawrangling #dataanalysts #python #pandas #fintech
+#learnpandas  #datawrangling #dataanalysts #python #pandas #elections
 
-P.S. What's the most surprising insight you've uncovered from customer loan behavior analysis?
+P.S. Who would you rather work for, the RNC or the DNC? Tell me in the comments.
 
 
 Free course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.
