@@ -186,25 +186,22 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-🚨 Who is going to be the Next President?
+📊 Data Insights Alert!
 
-Ever wondered how voter demographics and donations can influence an election campaign? 
+Ever struggled to make sense of student performance data?
 
-Let’s dive into the data!
-
-Imagine you’re analyzing data for the DNC or RNC, merging voter demographics and donation info to uncover trends across the U.S. Sounds exciting, right?
+As data professionals, you know how crucial data analysis is in education 📚. But have you ever faced challenges in analyzing student math exam performance?
 
 Here’s what I learned in this tutorial:
-
-- 🗳️ Merge voter demographics with donation data to calculate total donations by state.
-- 📅 Transform and analyze donation dates to find trends over months and years.
-- 💰 Pivot the data to see average donations by age group and state.
+- How to calculate average scores and identify top performers
+- How to create pass/fail indicators
+- How to merge and analyze data
 
 Click below to read the full tutorial.
 
-#learnpandas  #datawrangling #dataanalysts #python #pandas #elections
+#learnpandas  #datawrangling #dataanalysts #python #pandas #education
 
-P.S. Who would you rather work for, the RNC or the DNC? Tell me in the comments.
+P.S. Can you pass an Algebra exam if you had to retake it today? 😅
 
 
 Free course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.
