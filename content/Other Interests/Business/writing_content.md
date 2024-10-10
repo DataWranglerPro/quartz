@@ -186,22 +186,23 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-📊 Data Insights Alert!
+Are you tired of manually copying and pasting Excel cells into separate text files? 🤯
 
-Ever struggled to make sense of student performance data?
+A colleague faced this tedious task with 300+ files to create. But, with Python and Pandas, we can automate this process!
 
-As data professionals, you know how crucial data analysis is in education 📚. But have you ever faced challenges in analyzing student math exam performance?
-
-Here’s what I learned in this tutorial:
-- How to calculate average scores and identify top performers
-- How to create pass/fail indicators
-- How to merge and analyze data
+Solution Highlights:
+- Import Excel files into Pandas DataFrames using `pd.read_excel()`
+- Verify data types with `df.info()`
+- Iterate through rows using `df.iterrows()`
+- Extract row values (excluding index) with `row.values.item()`
+- Write values to separate text files using Python's `with open()` function
+- Dynamically name text files using f-strings
 
 Click below to read the full tutorial.
 
-#learnpandas  #datawrangling #dataanalysts #python #pandas #education
+#learnpandas  #datawrangling #dataanalysts #python #pandas #excel
 
-P.S. Can you pass an Algebra exam if you had to retake it today? 😅
+P.S. How many hours have you wasted copying and pasting? ⏰
 
 
 Free course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.
@@ -215,3 +216,11 @@ Click below to enroll in our FREE Pandas course:
 
 
 
+- Click on "Create a project"
+- Click on "Create blank project"
+	- Project name = learn_pandas
+	- Pick a group or a namespace = root
+	- Visibility Level = Public
+		- In order to avoid entering in a password when pushing/pulling. Only recommended for non production environments
+	- Keep the README checkbox
+- Click "Create Project"
