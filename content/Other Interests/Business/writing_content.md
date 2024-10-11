@@ -186,23 +186,20 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-Are you tired of manually copying and pasting Excel cells into separate text files? 🤯
+The numbers are in! 📈 Discover the most-watched movie genres of the year.
 
-A colleague faced this tedious task with 300+ files to create. But, with Python and Pandas, we can automate this process!
+As a data analyst for a movie streaming service, analyzing viewer ratings is crucial. But have you ever struggled to uncover the most popular genres?
 
 Solution Highlights:
-- Import Excel files into Pandas DataFrames using `pd.read_excel()`
-- Verify data types with `df.info()`
-- Iterate through rows using `df.iterrows()`
-- Extract row values (excluding index) with `row.values.item()`
-- Write values to separate text files using Python's `with open()` function
-- Dynamically name text files using f-strings
+- Load data from a clipboard into a Pandas DataFrame
+- Group data by genre and calculate average ratings
+- Merge and sort results for actionable insights
 
 Click below to read the full tutorial.
 
-#learnpandas  #datawrangling #dataanalysts #python #pandas #excel
+#learnpandas  #datawrangling #dataanalysts #python #pandas #movie
 
-P.S. How many hours have you wasted copying and pasting? ⏰
+P.S. What was the last movie you watched?
 
 
 Free course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.
