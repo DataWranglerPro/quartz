@@ -186,18 +186,21 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-The numbers are in! 📈 Discover the most-watched movie genres of the year.
+Pandas Sales Analysis! 💡
 
-As a data analyst for a movie streaming service, analyzing viewer ratings is crucial. But have you ever struggled to uncover the most popular genres?
+Are you tired of manually sifting through sales data to identify top-performing regions and product categories?
 
-Solution Highlights:
-- Load data from a clipboard into a Pandas DataFrame
-- Group data by genre and calculate average ratings
-- Merge and sort results for actionable insights
+Scenario: As a sales analyst for an e-commerce company, you're tasked with analyzing sales data to determine which regions and product categories drive the most revenue.
+
+Learn how I used Pandas to:
+- Load data into a DataFrame
+- Group sales data by region and product category
+- Calculate total sales and percentages
+- Identify top 3 regions and product categories
 
 Click below to read the full tutorial.
 
-#learnpandas  #datawrangling #dataanalysts #python #pandas #movie
+#learnpandas  #datawrangling #dataanalysts #python #pandas #sales
 
 P.S. What was the last movie you watched?
 
