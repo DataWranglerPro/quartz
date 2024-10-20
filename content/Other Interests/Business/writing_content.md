@@ -9,7 +9,7 @@ fintech|data scientist|data analyst professionals
 ```
  
 ``` prompt
-Here are the instructions you will follow to generate a random Python pandas challenge for fintech professionals:
+Here are the instructions you will follow to generate a random Python pandas challenge for SQL professionals:
 Challenge Generation Instructions
 Challenge Description: Write a clear and concise description of the challenge, including the problem statement, make it sound like a story you are telling a friend.
 Please avoid tasks that involve: 
@@ -186,19 +186,21 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-"Confession time! I've been there too - wrestling with data in Python, spending way too much time on tedious tasks instead of uncovering those sweet insights!
+Data Cleaning Nightmares?🤖
 
-But, I had some fun and experimented with Pandas! Check out my tutorial where I play around with:
-- Grouping by one column and plotting (because visuals are everything)
-- Grouping by multiple columns and plotting (because why not?)
-- Calling functions from groups (getting fancy)
-- Looping through Pandas groups (because curiosity killed a panda)
+Below is an Elance job I was planning to bid on...
+
+Here is what I learned:
+- Import and merge multiple Excel files
+- Handle missing values and null records
+- Create a unique ID column
+- Merge name fields efficiently
 
 Click below to read the full tutorial.
 
-#learnpandas  #datawrangling #groupby #plotting
+#learnpandas  #datawrangling #groupby #elance
 
-P.S. What was the last movie you watched?
+P.S. Share your most frustrating data cleaning experience n the comments
 
 
 Free course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.
