@@ -33,6 +33,7 @@
 	- [[Linkedin - Notes]]
 - Content Marketing
 	- [[writing_content]]
-	- 
-	
+- Daniel Priestley
+	- [[how_to_structure_a_business]]
+	- [[CAOS_method]]
 
