@@ -1,9 +1,9 @@
-A process to validate an idea, to generate demand first, and then generate supply.
+A process to validate an idea, to generate demand first, and then generate supply. The idea is to conduct tests of 30/150 samples for each of the 4 acronyms. Keep testing until you find the right thing to sell, the right audience to sell to, the right offer, the right price, etc. Once you solved the puzzle, you stop testing and repeat the same process. 
 
 - C - Concept
 	- Making sure the idea is a good concept
 - A - Audience
-	- Building an audience
+	- Building an audience. Who is this service/product for?
 - O - Offer
 	- Presenting them with multiple offers to see what they like
 - S - Sale
@@ -63,3 +63,14 @@ It is in the process of getting leads that you manufacture the environment where
 	- A business finds a solution to what the customer wants
 - When you have come out of a school system, you are developing a skill set and you are trying to find an employer that needs those skills 
 	- An employee tries to market their skills to an employer 
+
+
+# The 3 Part year
+- Annual | Main message - A main message for the year
+- Quarterly | Spotlight Campaigns - Every quarter there is something new, something different, a new product
+- Weekly | Perfect Repeatable Week - The boring things we do every week of the year. These are all the things you do every week over and over. Rinse and repeat.
+	- Examples
+		- Every Sunday we take out an ad that generates leads, every Wednesday do a live introduction workshop, and we followed up with the leads
+			- An introduction event should not be about the product/service you are selling. This is based on the principle of "problem-aware" vs. "solution-aware" customers. Many potential customers are aware of their problems or challenges but may not know about the solutions available. By creating an introductory course that addresses the problem or pain point, you are creating demand for your solution.
+		
+

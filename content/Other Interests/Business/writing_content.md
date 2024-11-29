@@ -101,7 +101,13 @@ Here we transfer the Notebook to Linkedin and write the copy for the post.
 ```
 **Let's connect!** Send me a connection invitation. I regularly share Jupyter Notebooks on Pandas and would love to expand my network.
 
+Are you a Pandas expert or a newbie
+😉 https://forms.fillout.com/t/9yi1ReJqyFus
+Take the one minute quiz to find out. 
+
 🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
+
+
 
 **P.S.**
 
@@ -139,9 +145,11 @@ Here are the steps you will take to create a short LinkedIn post that captures t
     
 5. **Use relevant hashtags**: I'll use relevant hashtags to reach a wider audience and make the post discoverable by fintech, data analysts, and data scientists professionals.
 
-6. **Add a P.S. adthe bottom**: Ask a question. Make it light hearted, funny, and related to the tutorial
+6. **Add a P.S. at the bottom**: Ask a question. Make it light hearted, funny, and related to the tutorial
 
-7. Do not start until i give you the content. got it?
+7.  **Add emoji**: I'll add one or two emojis that are relevent to the tutorial
+
+8. Do not start until i give you the content. got it?
 ```
 
 
@@ -186,22 +194,21 @@ Here are the steps you will take to create a short LinkedIn post that captures t
   
   
   
-Unlock Customer Insights with Pandas!
+🎅 Optimizing Santa's Workshop with Pandas!
 
-Are you a fintech, data analyst, or data scientist looking to uncover valuable customer insights? 🤔
+ALL HANDS ON DECK! We need your help, data analysts! Christmas is just around the corner, and Santa's workshop is facing operational challenges. We must act fast to ensure every child's toy is delivered on time!
 
-Imagine being able to identify top-selling products, analyze customer purchase trends, and optimize marketing strategies for a fashion retailer!
-
-What You'll Learn:
-- Product Category Optimization
-- Product Analysis
-- Customer Purchase Trends
+Key Takeaways:
+- Grouping data by toy type and calculating total production costs
+- Using the mean method to calculate average values
+- Sorting data by multiple columns to identify top 5 toys
+- Visualizing average delivery times by region
 
 Click below to read the full tutorial.
 
-#learnpandas  #datawrangling #groupby #fashion
+#learnpandas  #datawrangling #pandas #santa
 
-P.S. Want to see more content like this? Let me know in the comments!
+P.S. Do you think $15 per hour is a fair rate for a toy maker in the North Pole?
 
 
 Free course includes 20 Tutorials that will show you everything you need to become a ninja with Pandas.

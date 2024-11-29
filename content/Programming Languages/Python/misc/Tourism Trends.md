@@ -135,7 +135,7 @@ new_df.head()
 # Task 2: Visitor Type Categories
 Create a new column 'Visitor_Category' by mapping 'Destination' to 'Local' (Domestic) or 'Foreign' (International).
 
-I will first define what countries are Domerstic or International.
+I will first define what countries are Domestic or International.
 
 - **Domestic** = 'New York'
 - **International** = 'Paris', 'Tokyo', 'Sydney', 'Bangkok'

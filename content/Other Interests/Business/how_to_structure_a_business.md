@@ -48,7 +48,7 @@ You need a team with a shared vision, mission, and values.
 - The typical team structure consist of 8 people
 	- KPI - Key person of influence
 		- GM
-			- Marketing
+			- Marketing - Their job is to bring warm leads to the sales team
 				- Sales
 			- Admin
 				- Executive Assistant/Book Keeper

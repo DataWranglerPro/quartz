@@ -61,3 +61,36 @@ stats = group.agg(
 )
 ```
 
+
+# Map Pattern
+Map specific values in a column to new categorical values.
+
+### Pattern Structure:
+
+``` python
+
+# the list contains the values that will be mapped to a specific category
+mapping = {**dict.fromkeys([value1, value2, ...], category1), 
+		   **dict.fromkeys([value3, value4, ...], category2), ...}
+
+# compare each value in a column to the list. If a match is found, return the category
+df[new_column] = df[original_column].map(mapping)
+```
+
+### Example Usage:
+
+``` python
+import pandas as pd
+
+# create dataset
+data = {'Item': ['Apple', 'Carrot', 'Banana']}
+df = pd.DataFrame(data)
+
+# define the map
+mapping = {**dict.fromkeys(['Apple', 'Banana'], 'Fruit'),
+		   **dict.fromkeys(['Carrot'], 'Vegetable')}
+
+# map the items to their categories
+df['Category'] = df['Item'].map(mapping)
+```
+
