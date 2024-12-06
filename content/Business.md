@@ -31,9 +31,13 @@
 	- [[copywriting_headlines]]
 - Linkedin
 	- [[Linkedin - Notes]]
+	- [[Linkedin - Playbook]]
 - Content Marketing
 	- [[writing_content]]
 - Daniel Priestley
 	- [[how_to_structure_a_business]]
 	- [[CAOS_method]]
+- Dr. Tamer Shahin
+	- [[business_strategy_playbook]]
+- 
 

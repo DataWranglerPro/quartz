@@ -1,13 +1,56 @@
-A process to validate an idea, to generate demand first, and then generate supply. The idea is to conduct tests of 30/150 samples for each of the 4 acronyms. Keep testing until you find the right thing to sell, the right audience to sell to, the right offer, the right price, etc. Once you solved the puzzle, you stop testing and repeat the same process. 
+A process to validate an idea, to generate demand first, and then generate supply. The idea is to conduct tests of 30/150 samples for each of the 4 acronyms. Keep testing until you find the right thing to sell, the right audience to sell to, the right offer, the right price, etc. Once you solved the puzzle, you stop testing and repeat the same process. This is the only four things you need to do to make your first $100k.
 
 - C - Concept
-	- Making sure the idea is a good concept
+	- What is your business all about?
+	- How to craft a good concept?
+		- You need an overlap of the following three
+			- **Passion:** Something you are passionate and excited about
+			- **Problem:** A problem that you can solve
+			- **Payment:** Something people are willing to pay for
+	- Rules of thumb
+		- Type of business to start
+			- J Curve 
+				- Business that takes a lot of money/time/effort up front and sell it a little at a time
+				- J curve is the profit curve, you start by loosing a lot of money, then losing less, then not losing, then making some money, then making a lot of money
+			- Sales
+				- Business that we take the money up front and fulfill it afterwards
+		- How much money does the business idea need to generate?
+			- 5 sales of 2,000 per month
+			- You need to be able to make $10k/month with only one or 2 people
+			- You need to sale packages of at least $1,000+
 - A - Audience
 	- Building an audience. Who is this service/product for?
+		- There are two types of audiences
+			- **Dormant**
+				- People who are not actively searching for what you do
+				- These people are problem aware but not solution aware
+			- **Active**
+				- People who are actively searching for what you do
+				- These people are solution aware
+			- **Big Take away** - In any market, the Dormant market is much bigger than the Active market. The strategy is to go for the Dormant market and warm them up to your solution.
+	- **Goal:** Have people in the Dormant market do one of the following
+		- Join a group
+		- Take an assessment
+		- Join a waiting list
+		- Register for an "Introduction to something" event
 - O - Offer
 	- Presenting them with multiple offers to see what they like
-- S - Sale
+	- Use questions to find out what the market wants
+		- Get the data from your Quiz, Assessment, Waitlist, Intro event, etc.
+- S - Sales
 	- Figuring out how we are going to sell what they liked to a wider audience
+	- Ingredients to make a sale
+		- **Logic:** Customer needs to logically have a reason to buy
+		- **Emotion:** Customer has emotional reasons to buy
+		- **Urgency:** Customer needs to feel a sense of urgency to buy
+	- Sales Framework
+		- Frame
+		- Rapport
+		- Present
+		- Problem
+		- Prize
+		- Discuss
+		- Complete
 
 # The Fundamentals of Business
 - Demand and Supply is everything
