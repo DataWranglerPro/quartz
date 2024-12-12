@@ -7,7 +7,7 @@
 | 3   | Create and post a Pandas article                             |     | X   |     |     |     |     |     |
 | 4   | Invite new connections to workshop                           | X   | X   | X   | X   | X   | X   | X   |
 | 5   | Invite anyone who commented/liked your post to workshop      | X   | X   | X   | X   | X   | X   | X   |
-| 6   | Respond to any messages                                      |     |     |     |     |     |     | X   |
+| 6   | Respond to any messages                                      | X   | X   | X   | X   | X   | X   | X   |
 
 
 | MONTH | Intro to Pandas Event |

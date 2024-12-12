@@ -10,8 +10,9 @@ A process to validate an idea, to generate demand first, and then generate suppl
 	- Rules of thumb
 		- Type of business to start
 			- J Curve 
-				- Business that takes a lot of money/time/effort up front and sell it a little at a time
-				- J curve is the profit curve, you start by loosing a lot of money, then losing less, then not losing, then making some money, then making a lot of money
+				- Requires volume
+				- Business that takes a lot of money/time/effort up front and sells a product/service a little at a time
+				- J curve is the shape of the cashflow, you start by loosing a lot of money, then losing less, then breaking even, then making some money, then making a lot of money
 			- Sales
 				- Business that we take the money up front and fulfill it afterwards
 		- How much money does the business idea need to generate?
@@ -68,13 +69,37 @@ A process to validate an idea, to generate demand first, and then generate suppl
 		- The airlines and supermarkets are focused on supply
 		- Rolex knows how to create a demand/supply tension
 - Why do people buy?
-	- People have to be at least 90% sure they want to buy something before they actually do
-	- For people to just show interest (waiting list, registration of interest list, complete a quiz), people only have to be 10-20% sure they want to buy
+	- People buy because of tension
+		- They feel an uneasy tension about where they are today, where they would like to be, and all the obstacles and challenges they have to face.
+			- Current reality
+			- Obstacles/Challenges
+			- Desired Reality
+		- Three ways to create more tension
+			- Explore their current reality, the obstacles/challenges they have to face, and their desired reality
+			- The more your potential client explores all these three areas, tension goes up and they have a higher chance of wanting to work with you.
+	- People also need to experience the following in order to buy
+		- **Logic** - They have to be able to tell themselves the exact reasons why it makes sense to buy from you
+		- **Emotion** - The feel it is the right thing to work with you, they trust you, they like you
+		- **Urgency** - The feel it is better to buy from you now than to wait for a later time to buy
+- There are two types of buyers
+	- **Active** - People have to be at least 90% sure they want to buy something before they actually do.
+		- They are searching for the solution on google
+		- They know they have a problem and that there is a solution out there for them
+		- They are actively searching for the thing you sell
+	- **Dormant** - For people to just show interest (waiting list, registration of interest list, complete a quiz), people only have to be 10-20% sure they want to buy
 		- People only have to be early in the buying process
 		- After they get on the list or do the quiz, we can then start to warm them up
+		- They know they have a problem/frustration but they have not started the process to do anything about it. 
+		- They are not taking any steps to solve the problem
+- Key Person of Influence
+	- You are an organizing force
+		- Your job is not to do work, but to find and hire the people to do the work.
 
 # How to generate leads?
 It is in the process of getting leads that you manufacture the environment where you have more demand for your business than supply.
+- Key insights
+	- People love to Score, rank, and improve
+	- People want to know which area of their life does your business help them improve, where are they now, and where will they be later after they work with you.
 - Don't promote the product, start with a
 	- Waiting list
 		- Product/Service has not been created
@@ -91,6 +116,10 @@ It is in the process of getting leads that you manufacture the environment where
 			- We can't take you on as a client just yet, but if you want, you can join our discussion group
 - Meet with the lead
 	- Meet to discuss the results of the assessment. Tell them again that you do not work with everyone and that you have limited capacity, and that you may only provide them with some resources for them.
+- Suggested process to follow
+	- Intro to blank event - See if you can get 30 people to sign up
+	- Quiz/Assessment - See if you can get 150 to sign up
+	- WhatsApp group/free group - The group is to get more people signed up than you have capacity for. The group is constantly providing value and talking about the things to have a service for. This is where your leads come from.
 
 
 # Creating Demand Examples
@@ -109,9 +138,9 @@ It is in the process of getting leads that you manufacture the environment where
 
 
 # The 3 Part year
-- Annual | Main message - A main message for the year
-- Quarterly | Spotlight Campaigns - Every quarter there is something new, something different, a new product
-- Weekly | Perfect Repeatable Week - The boring things we do every week of the year. These are all the things you do every week over and over. Rinse and repeat.
+- **Annual | Main message** - A main message for the year
+- **Quarterly | Spotlight Campaigns** - Every quarter there is something new, something different, a new product
+- **Weekly | Perfect Repeatable Week** - The boring things we do every week of the year. These are all the things you do every week over and over. Rinse and repeat.
 	- Examples
 		- Every Sunday we take out an ad that generates leads, every Wednesday do a live introduction workshop, and we followed up with the leads
 			- An introduction event should not be about the product/service you are selling. This is based on the principle of "problem-aware" vs. "solution-aware" customers. Many potential customers are aware of their problems or challenges but may not know about the solutions available. By creating an introductory course that addresses the problem or pain point, you are creating demand for your solution.
