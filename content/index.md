@@ -25,7 +25,7 @@ You can contact me at david@hedaro.com
 
 # An Introduction to Pandas — Workshop
 
-![[david_looking_far.png|100]] Jumpstart your pandas journey with my self-paced Introduction to Pandas workshop — available anytime after registration!
+![[david_looking_far.png|100]] Jumpstart your pandas journey with my self-paced Introduction to Pandas workshop.
 
 ### What to Expect
 
