@@ -38,7 +38,7 @@ You can contact me at david@hedaro.com
 
 Registration is required for this workshop. Once you register, you’ll receive immediate access to the on-demand session.
 
-Don't miss this opportunity to enhance your pandas skills and connect with like-minded learners.
+Don't miss this opportunity to enhance your pandas skills and connect with like-minded learners. 
 
 [Register for the workshop today](https://forms.fillout.com/t/cCDVEDk8EWus)
 # Other Interests
