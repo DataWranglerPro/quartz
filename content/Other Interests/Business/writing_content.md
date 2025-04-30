@@ -230,3 +230,17 @@ Click below to enroll in our FREE Pandas course:
 		- In order to avoid entering in a password when pushing/pulling. Only recommended for non production environments
 	- Keep the README checkbox
 - Click "Create Project"
+
+
+Episode 02 of the Learn Pandas Podcast is Live!
+Want to master Pandas but don't know where to start?
+
+In our latest episode of the Learn Pandas Podcast, I chatted with Amy, my AI host, and we dove into the essential skills you need to learn Pandas, including:
+
+- Programming fundamentals
+- Data manipulation skills
+- Familiarity with relational database concepts
+
+Tune in to discover how having a solid foundation in these areas can accelerate your Pandas learning journey!
+
+#LearnPandas #DataAnalysis #Python #Podcast

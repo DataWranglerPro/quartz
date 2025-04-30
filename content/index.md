@@ -21,18 +21,35 @@ draft: false
 > * **[[Training]]**
 > 	* Excel in one-to-one training, with a strong ability to create effective training materials.
 
-
 You can contact me at david@hedaro.com
 
+# An Introduction to Pandas — Workshop
+
+![[david_looking_far.png|100]] Jumpstart your pandas journey with my self-paced Introduction to Pandas workshop — available anytime after registration!
+
+### What to Expect
+
+- **Getting Started**: Learn how to import pandas and understand its core data structures.
+- **Creating DataFrames**: Build your first DataFrame from scratch and explore how data is organized.
+- **Essential Operations**: Practice basic arithmetic with pandas, sort and filter your data, and use powerful tools like `.head()` and `.tail()` to quickly inspect datasets.
+- **Structured Learning**: Follow a clear, step-by-step walkthrough designed to build your skills with confidence.
+
+## How to Join
+
+Registration is required for this workshop. Once you register, you’ll receive immediate access to the on-demand session.
+
+Don't miss this opportunity to enhance your pandas skills and connect with like-minded learners.
+
+[Register for the workshop today](https://forms.fillout.com/t/cCDVEDk8EWus)
 # Other Interests
-|  |  |
-| ---- | ---- |
-| **[[Business]]** | **Notes taken from Alex Hormozi teaching material** |
-| **[[Cyber Security]]** | **All my personal Cyber Security Notes** |
-| **[[2024 Financial Peace University Class\|Financial Peace University]]** | **Personal finance class notes** |
-| **[[Networking]]** | **Basic networking knowledge** |
-| **[[photo_and_video\|Photo and Video]]** | **Notes on how to take better pics/videos** |
-| **[[Jesus]]** | **All my personal notes on the Bible and Jesus** |
+|                                                                           |                                                     |
+| ------------------------------------------------------------------------- | --------------------------------------------------- |
+| **[[Business]]**                                                          | **Notes taken from Alex Hormozi teaching material** |
+| **[[Cyber Security]]**                                                    | **All my personal Cyber Security Notes**            |
+| **[[2024 Financial Peace University Class\|Financial Peace University]]** | **Personal finance class notes**                    |
+| **[[Networking]]**                                                        | **Basic networking knowledge**                      |
+| **[[photo_and_video\|Photo and Video]]**                                  | **Notes on how to take better pics/videos**         |
+| **[[Jesus]]**                                                             | **All my personal notes on the Bible and Jesus**    |
 
 
 

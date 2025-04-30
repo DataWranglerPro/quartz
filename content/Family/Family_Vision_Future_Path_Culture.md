@@ -26,3 +26,22 @@
 - **What Makes Our Family Unique?**: Identify the aspects that make your family special and distinct from others.
 - **How Will We Preserve Our Family's Heritage?**: Determine ways to maintain and pass down your family's traditions, values, and cultural heritage.
 - **Is Everything Aligned?**: Ensure that all aspects of your family's vision, values, and actions are coherent and support each other.
+
+---
+
+# 2025
+## Family Vision
+To live on earth like if it was the garden; to experience a taste of the the heaven and the new earth that God promised for all believers.
+
+## Family Mission
+- To have a close and intimate relationship with God and our family.
+- To be fruitful and multiply using the resources, time, and talents given to us by God.
+
+**David:** To make 20% of my income on my own by the end of 2025
+**Mikaela:**  
+**Kamilah:** Wants to make money in 2025
+**Isabelah:** Wants to go to a baseball game
+## Our Values
+- Philippians 4:8
+- The Holy Bible
+
