@@ -39,5 +39,6 @@
 	- [[CAOS_method]]
 - Dr. Tamer Shahin
 	- [[business_strategy_playbook]]
-- 
+- Charlie Morgan
+	- [[business_blueprint]]
 
