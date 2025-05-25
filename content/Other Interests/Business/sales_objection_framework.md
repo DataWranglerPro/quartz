@@ -4,8 +4,7 @@
 
 # Detailed Notes: How To Prevent Every Sales Objection Ever (With Examples)
 
-
-**Video-Link:** [https://www.youtube.com/watch/5glMzA-bjTg](https://www.youtube.com/watch/5glMzA-bjTg)
+[https://www.youtube.com/watch/5glMzA-bjTg](https://www.youtube.com/watch/5glMzA-bjTg)
 
 ---
 ### 00:00 - Introduction and Overview
