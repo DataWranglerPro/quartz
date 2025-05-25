@@ -41,4 +41,10 @@
 	- [[business_strategy_playbook]]
 - Charlie Morgan
 	- [[business_blueprint]]
+- AI
+	- [[Designing_funnel_variations]]
+- Ben Heath
+	- [[intro_to_google_ads]]
+- Alex Beck
+	- [[sales_objection_framework]]
 

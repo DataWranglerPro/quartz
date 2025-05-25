@@ -263,3 +263,6 @@ This tutorial walked you through a clinical data analysis project where we analy
 - How to join two dataframes on a common column (Patient ID) and perform a left join
 - How to filter data to include only patients readmitted within 30 days and analyze readmission reasons
 - How to create a simple bar chart to visualize readmission reasons using Pandas and Matplotlib
+
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]

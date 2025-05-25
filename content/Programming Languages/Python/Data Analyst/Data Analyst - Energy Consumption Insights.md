@@ -226,3 +226,7 @@ avg.plot(figsize=(10,5));
 # Can You Solve the Last Question?
 
 - High-Demand Areas - Determine the top area (zip code) with the highest total energy consumption.
+
+
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]

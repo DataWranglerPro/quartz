@@ -264,3 +264,7 @@ The tasks in this tutorial covered data manipulation, data cleaning, and data vi
 - How to use the `value_counts()` method to get a frequency count of a column
 - How to use the `plot.barh()` method to create a horizontal bar chart
 - How to use the `re.sub()` method to replace patterns in strings using regular expressions
+
+
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]

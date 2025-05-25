@@ -189,3 +189,7 @@ By analyzing these results, the Cisco engineer can now focus on troubleshooting 
 - How to use the dt.hour attribute to extract the hour from a timestamp
 - How to use the groupby function to group data by hour and calculate the median response time
 - How to use the value_counts function to calculate the distribution of error message types
+
+
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]

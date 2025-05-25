@@ -282,3 +282,7 @@ The tutorial analyzed student performance data to identify trends in engagement,
 - How to group data and calculate average scores for each group
 - The difference between pd.cut and pd.qcut
 - How to use the observed parameter in df.groupby when working with Categorical columns
+
+
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]

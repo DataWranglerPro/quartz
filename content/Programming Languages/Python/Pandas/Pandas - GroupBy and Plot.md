@@ -235,7 +235,8 @@ for i, g in group:
 ![[Pasted image 20241015072245.png]]
 
 
-
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]
 
 
 

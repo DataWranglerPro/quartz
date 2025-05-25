@@ -7,6 +7,31 @@ Imagine transforming your data analysis workflow, making it faster, more efficie
 To help you achieve these goals, I’ve created an in-depth Python Pandas course designed specifically for experienced data analysts and high-earning professionals. My course includes comprehensive lessons, each tailored to build your skills progressively. From detailed step-by-step instructions to advanced reference notebooks, you'll find everything you need to become a Pandas ninja.  
   
 Ready to take your data analysis skills to the next level? Enroll in my Python Pandas course and start transforming your data insights into actionable intelligence.  
-  
-🔥 Free Pandas Course: https://hedaro.gumroad.com/l/tqqfq
 
+> [!NOTE] NEW USERS
+>
+  
+[[How to Install Pandas]]
+[[Pandas - Create DataFrame]]
+[[pandas - lesson 01]]
+[[pandas - lesson 02]]
+[[pandas - lesson 03]]
+
+> [!NOTE] INTERMEDIATE
+
+[[Pandas - Sort DataFrame]]
+[[Pandas - Create Basic Visualizations]]
+[[Pandas - GroupBy Practice]]
+[[Pandas - GroupBy and Plot]]
+
+> [!NOTE] TUTORIALS
+
+[[Data Analyst - Clinical Data Quest]]
+[[Data Analyst - E-commerce Insights]]
+[[Data Analyst - Education Analytics Challenge]]
+[[Data Analyst - Energy Consumption Insights]]
+[[Data Analyst - Flight Data Frenzy]]
+[[Data Analyst - Router Rescue]]
+[[Data Analyst - Telco Trouble]]
+[[Data Analyst - The Donor Data Debacle]]
+[[Data Analyst - Travel Data Makeover]]

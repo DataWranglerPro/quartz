@@ -302,3 +302,7 @@ group.sum()[:'2024'].plot(figsize=(10, 5));
 # Can You Solve the Bonus Question?
 
 Calculate the average order value for each age group and gender. The data includes columns for 'customer_id', 'age', 'gender', and 'order_value'.
+
+
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]

@@ -182,3 +182,5 @@ pd.DataFrame(d, columns=['Revenue','Cost'])
 | **1** |       6 | 6.1  |
 | **2** |       7 | 7.2  |
 
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]

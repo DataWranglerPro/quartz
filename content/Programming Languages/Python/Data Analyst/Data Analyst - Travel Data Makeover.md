@@ -237,3 +237,7 @@ This tutorial demonstrates how to use Pandas to clean, transform, and prepare tr
 - Use the `merge()` function to combine datasets
 - Ensure matching Customer IDs and Package Types between datasets
 - Handle data inconsistencies and capitalization issues
+
+
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]

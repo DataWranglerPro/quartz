@@ -306,3 +306,7 @@ In this tutorial, we tackled the task of cleaning and preparing a dataset for an
 By the end of this tutorial, we successfully removed duplicates, standardized the 'Route' column, and explored the missing values in the 'DepartureTime' column, although we didn't find a clear pattern to impute the missing values.
 
 ### Can you find a pattern and fill in the missing Departure Times?
+
+
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]

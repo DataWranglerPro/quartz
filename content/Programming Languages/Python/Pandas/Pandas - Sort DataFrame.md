@@ -191,7 +191,8 @@ There was also an _**order**_ method I used to use but this has also been depr
 Don't forget to share this post if you know someone who might enjoy the read.
 
 
-
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]
 
 
 

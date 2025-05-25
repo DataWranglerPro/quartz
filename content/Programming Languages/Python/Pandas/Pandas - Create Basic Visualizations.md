@@ -135,3 +135,7 @@ p.legend(['testing']);
 ![[Pasted image 20240608071345.png]]
 
 And that is it for today. You should have enough horsepower to get started on your own plots. If your plots don't work or don't look quite right, keep going. I was just using .plot() for years and I then picked up more plotting skills over time.
+
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]
+

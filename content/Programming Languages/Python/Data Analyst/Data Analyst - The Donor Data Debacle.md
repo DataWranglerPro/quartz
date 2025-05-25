@@ -423,3 +423,7 @@ df.to_clipboard()
 
 
 # If you find a better way to update datatypes, please share it with me.
+
+
+> [!NOTE] PANDAS HOME PAGE
+> [[Pandas]]
