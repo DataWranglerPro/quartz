@@ -11,27 +11,27 @@ Ready to take your data analysis skills to the next level? Enroll in my Python P
 > [!NOTE] NEW USERS
 >
   
-[[How to Install Pandas]]
-[[Pandas - Create DataFrame]]
-[[pandas - lesson 01]]
-[[pandas - lesson 02]]
-[[pandas - lesson 03]]
+[[How to Install Pandas]]  
+[[Pandas - Create DataFrame]]  
+[[pandas - lesson 01]]  
+[[pandas - lesson 02]]  
+[[pandas - lesson 03]]  
 
 > [!NOTE] INTERMEDIATE
 
-[[Pandas - Sort DataFrame]]
-[[Pandas - Create Basic Visualizations]]
-[[Pandas - GroupBy Practice]]
-[[Pandas - GroupBy and Plot]]
+[[Pandas - Sort DataFrame]]  
+[[Pandas - Create Basic Visualizations]]  
+[[Pandas - GroupBy Practice]]  
+[[Pandas - GroupBy and Plot]]  
 
 > [!NOTE] TUTORIALS
 
-[[Data Analyst - Clinical Data Quest]]
-[[Data Analyst - E-commerce Insights]]
-[[Data Analyst - Education Analytics Challenge]]
-[[Data Analyst - Energy Consumption Insights]]
-[[Data Analyst - Flight Data Frenzy]]
-[[Data Analyst - Router Rescue]]
-[[Data Analyst - Telco Trouble]]
-[[Data Analyst - The Donor Data Debacle]]
-[[Data Analyst - Travel Data Makeover]]
+[[Data Analyst - Clinical Data Quest]]  
+[[Data Analyst - E-commerce Insights]]  
+[[Data Analyst - Education Analytics Challenge]]  
+[[Data Analyst - Energy Consumption Insights]]  
+[[Data Analyst - Flight Data Frenzy]]  
+[[Data Analyst - Router Rescue]]  
+[[Data Analyst - Telco Trouble]]  
+[[Data Analyst - The Donor Data Debacle]]  
+[[Data Analyst - Travel Data Makeover]]  
