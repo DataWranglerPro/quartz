@@ -9,8 +9,9 @@ draft: false
 > My name is David and I have made over 1.2 million dollars working in Information Technology. I have cataloged the last 17 years of my journey, aspiring that my experiences may prove beneficial to others.
 > 
 > * [[Education and Professional Experience]]
-> ---
-> ### My Core 4
+
+
+> [!abstract] My Core 4
 > These are the specific skills I am specialized in.
 > * **[[automation|Automation]]**
 > 	* Skilled in automating tasks, including compiling data from diverse sources, preparing it for analysis, and automating decision-making using techniques such as Linear Programming and Probability.
@@ -23,22 +24,24 @@ draft: false
 
 You can contact me at david@hedaro.com
 
-# An Introduction to Pandas — Workshop
+## Free Pandas Course - Bonus Workshop
 
-![[david_looking_far.png|100]] Jumpstart your pandas journey with my self-paced Introduction to Pandas workshop.
+![[david_looking_far.png|100]] Master data wrangling—get our free Pandas course, group access & bonus workshop! Join for $0 and get weekly tutorials. 👇
 
-### What to Expect
+|                                                                         |                                                                |                                                               |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------- |
+| **[Start your Pandas journey](https://hedaro.gumroad.com/l/tqqfq?price=0)** | **[Pandas Tutorials](https://hedaro.gumroad.com/l/tqqfq?price=0)** | **[Pandas workshop](https://hedaro.gumroad.com/l/tqqfq?price=0)** |
 
-- **Getting Started**: Learn how to import pandas and understand its core data structures.
-- **Creating DataFrames**: Build your first DataFrame from scratch and explore how data is organized.
-- **Essential Operations**: Practice basic arithmetic with pandas, sort and filter your data, and use powerful tools like `.head()` and `.tail()` to quickly inspect datasets.
-- **Structured Learning**: Follow a clear, step-by-step walkthrough designed to build your skills with confidence.
+# Programming Languages
 
-## How to Join
+|                            |                                                  |
+| -------------------------- | ------------------------------------------------ |
+| **[[pl sql]]**             | **Various scripts for the Oracle database**      |
+| **[[java]]**               | **Basic Java code**                              |
+| **[[Python]]**             | **Python 101**                                   |
+| **[[Windows Powershell]]** | **Very useful Windows scripting language**       |
+| **[[Groovy]]**             | **Like Python but it is really just Java**       |
 
-Registration is required for this workshop. Once you register, you’ll receive immediate access to the on-demand session. 
-
-Don't miss this opportunity to enhance your pandas skills and connect with like-minded learners. [Register for the workshop today](https://forms.fillout.com/t/cCDVEDk8EWus)
 # Other Interests
 |                                                                           |                                                     |
 | ------------------------------------------------------------------------- | --------------------------------------------------- |
