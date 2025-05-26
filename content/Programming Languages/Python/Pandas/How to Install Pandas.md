@@ -9,6 +9,7 @@ Before we write any **Pandas code**, I am going to show you how to install the J
 
 > [!NOTE] About the Author, David
 > ![[Pasted image 20250524101320.png|400]]
+> 
 > If you are curious on knowing the person who put this Pandas tutorial together 
 > ( totally optional ), here is a little about me.
 > 
