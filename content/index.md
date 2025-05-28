@@ -24,23 +24,33 @@ draft: false
 
 You can contact me at david@hedaro.com
 
-## Free Pandas Course - Bonus Workshop
+![[Pasted image 20250528153926.png]]
 
-![[david_looking_far.png|100]] Master data wrangling—get our free Pandas course, group access & bonus workshop! Join for $0 and get weekly tutorials. 👇
+### Are you an MVP? (Most Valuable Player at work!)
 
-|                                                                         |                                                                |                                                               |
-| ----------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------- |
-| **[Start your Pandas journey](https://hedaro.gumroad.com/l/tqqfq?price=0)** | **[Pandas Tutorials](https://hedaro.gumroad.com/l/tqqfq?price=0)** | **[Pandas workshop](https://hedaro.gumroad.com/l/tqqfq?price=0)** |
+You _know_ you’re an MVP if…
+- You show up on time—every time.
+- You always deliver on your commitments.
+- People _count on you_ (and you never let them down).
+- You stay cool when things get tough.
+- You speak up for what’s right—even when it’s not easy.
+- You take the initiative to learn new skills.
+- And, of course… you know Pandas. 🐼
+---
 
+**Want to become the MVP?**  
+Kickstart your journey—[[How to Install Pandas|install Pandas]] and get the skills everyone wants on their team. Your MVP moment starts now.
+
+---
 # Programming Languages
 
-|                            |                                                  |
-| -------------------------- | ------------------------------------------------ |
-| **[[pl sql]]**             | **Various scripts for the Oracle database**      |
-| **[[java]]**               | **Basic Java code**                              |
-| **[[Python]]**             | **Python 101**                                   |
-| **[[Windows Powershell]]** | **Very useful Windows scripting language**       |
-| **[[Groovy]]**             | **Like Python but it is really just Java**       |
+|                            |                                             |
+| -------------------------- | ------------------------------------------- |
+| **[[pl sql]]**             | **Various scripts for the Oracle database** |
+| **[[java]]**               | **Basic Java code**                         |
+| **[[Python]]**             | **Python 101**                              |
+| **[[Windows Powershell]]** | **Very useful Windows scripting language**  |
+| **[[Groovy]]**             | **Like Python but it is really just Java**  |
 
 # Other Interests
 |                                                                           |                                                     |
