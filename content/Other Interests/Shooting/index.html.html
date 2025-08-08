@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dry-Fire Par Timer — Three.js + Voice + Charts</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+:root{
+  --bg:#181a1b; --panel:#222527; --text:#e8e6e3; --muted:#9aa0a6; --accent:#7dd3fc;
+  --ok:#22c55e; --warn:#eab308; --bad:#ef4444;
+}
+*{ box-sizing:border-box; }
+html,body{ height:100%; }
+body{
+  margin:0; background:var(--bg); color:var(--text);
+  font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+  line-height:1.3; overflow:hidden;
+}
+
+/* ---------- App grid ---------- */
+#layout{
+  position:fixed; inset:0; display:grid;
+  grid-template-columns: clamp(380px, 32vw, 500px) 1fr;
+  grid-template-rows: minmax(300px, 1fr) minmax(380px, 1fr) auto;
+  gap:12px; padding:12px; min-height:0;
+}
+#layout > *{ min-height:0; }
+
+.card{ background:var(--panel); border-radius:12px; padding:12px; box-shadow:0 2px 10px rgba(0,0,0,.35); }
+h2{ margin:0 0 10px; font-size:18px; }
+h3{ margin:12px 0 6px; font-size:15px; color:var(--muted); }
+label{ font-size:13px; color:var(--muted); }
+
+/* ---------- Left sidebar ---------- */
+.sidebar{
+  height:100%; min-height:0; overflow:auto; overflow-x:hidden; padding-right:8px;
+  scrollbar-gutter:stable; display:grid; grid-auto-rows:min-content; row-gap:14px;
+}
+.stack{ display:grid; grid-auto-rows:min-content; row-gap:12px; }
+.row{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; width:100%; }
+.right{ margin-left:auto; }
+
+input[type="number"], input[type="text"], select{
+  background:#121416; color:var(--text); border:1px solid #333; border-radius:8px;
+  padding:6px 8px; font-size:14px;
+}
+select{ min-width:220px; max-width:100%; }
+input[type="checkbox"]{ transform:scale(1.05); }
+
+button{
+  background:#2b2f31; color:#fff; border:1px solid #3a3f42; border-radius:10px;
+  padding:8px 12px; font-size:14px; cursor:pointer; white-space:nowrap;
+}
+button:hover{ background:#32373a; }
+button[disabled]{ opacity:.5; cursor:not-allowed; }
+
+.drill-row{
+  display:grid; grid-template-columns: 1fr 100px 90px 84px; gap:8px; align-items:center;
+}
+.drill-list{ max-height:none; overflow:visible; padding-right:4px; }
+
+.pill{ display:inline-block; padding:2px 8px; border-radius:999px; font-size:12px; color:#111; font-weight:600; }
+.pill-ok{ background:var(--ok); } .pill-warn{ background:var(--warn); } .pill-bad{ background:var(--bad); }
+
+/* ---------- Right panel / 3D host ---------- */
+#three-wrap{ position:relative; }
+#canvasHost{
+  position:relative; height:100%; min-height:320px;
+  border-radius:12px; overflow:hidden;
+}
+#phaseLabel{
+  position:absolute; top:14px; left:14px;
+  background:rgba(0,0,0,.5); padding:6px 10px; border-radius:8px; font-weight:600;
+}
+#status{
+  position:absolute; top:14px; right:14px; opacity:.9; font-size:13px; color:var(--muted);
+}
+
+/* ---------- Modal ---------- */
+.modal.hidden { display:none; }
+.modal{
+  position:fixed; inset:0; background:rgba(0,0,0,.65);
+  display:flex; align-items:center; justify-content:center; z-index:1000;
+}
+.modal-content{
+  width:min(1100px, 96vw); height:min(88vh, 900px);
+  background:var(--panel); border-radius:14px; box-shadow:0 10px 40px rgba(0,0,0,.6);
+  display:flex; flex-direction:column; overflow:hidden;
+}
+.modal-header{
+  display:flex; align-items:center; gap:10px; padding:12px; border-bottom:1px solid #333;
+}
+.modal-header h2{ margin:0; }
+.modal-body{
+  padding:12px; display:grid; grid-template-rows: 1fr auto; gap:12px; min-height:0;
+}
+.history-table-wrap{
+  border:1px solid #333; border-radius:8px; overflow:auto; min-height:0; background:#1a1c1e;
+}
+
+/* table + columns */
+.table{ width:100%; border-collapse:collapse; font-size:13px; table-layout:fixed; }
+.table th,.table td{ padding:6px 8px; border-bottom:1px solid #333; }
+.table td:nth-child(2){ max-width:520px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+
+/* charts sizing */
+#charts{ display:grid; grid-template-columns:1fr 1fr; gap:10px; min-height:260px; }
+#charts canvas{
+  display:block; width:100% !important; height:220px !important;
+  background:#101214; border:1px solid #333; border-radius:8px;
+}
+.small{ font-size:12px; color:var(--muted); }
+
+/* ---------- Scrollbar cosmetics ---------- */
+.sidebar::-webkit-scrollbar{ width:10px; }
+.sidebar::-webkit-scrollbar-thumb{ background:#3a3f42; border-radius:8px; }
+.sidebar::-webkit-scrollbar-track{ background:transparent; }
+
+/* Right-align numeric columns + tabular digits (history modal) */
+#historyModal :is(th, td):nth-child(3),
+#historyModal :is(th, td):nth-child(4),
+#historyModal :is(th, td):nth-child(5){
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+}
+
+/* Left-align non-numeric headers */
+#historyModal thead th { text-align: left; }
+
+/* Keep numeric columns right-aligned (you already have this) */
+#historyModal :is(th, td):nth-child(3),
+#historyModal :is(th, td):nth-child(4),
+#historyModal :is(th, td):nth-child(5){
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+}
+</style>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.module.js",
+      "three/examples/jsm/": "https://cdn.jsdelivr.net/npm/three@0.152.2/examples/jsm/"
+    }
+  }
+  </script>
+</head>
+<body>
+  <div id="layout">
+    <!-- Left Column: Controls -->
+    <div class="card stack sidebar" style="grid-row: 1 / span 2;">
+      <h2>Drill Setup</h2>
+      <div class="row">
+        <button id="addDefault12">Load 12 Core</button>
+        <button id="clearDrills">Clear</button>
+        <span class="small right">Click Start Session to run the queue</span>
+      </div>
+      <div class="drill-list" id="drillList"></div>
+
+      <div class="row">
+        <input id="newDrillName" type="text" placeholder="Drill name (e.g., Drill #13)" style="flex:1" />
+        <input id="newDrillPar" type="number" step="0.1" min="0.1" value="1.0" style="width:100px" />
+        <input id="newDrillReps" type="number" step="1" min="1" value="1" style="width:80px" />
+        <button id="addDrill">Add</button>
+      </div>
+
+      <h2>Timer & Voice</h2>
+      <div class="stack">
+        <div class="row">
+          <button id="startSession">Start Session</button>
+          <button id="pauseSession" disabled>Pause</button>
+          <button id="resetSession" disabled>Reset</button>
+          <span id="livePhase" class="pill pill-warn">Idle</span>
+        </div>
+        <div class="row">
+          <label>Voice:</label>
+          <select id="voiceSelect" style="flex:1"></select>
+          <label><input type="checkbox" id="ttsEnabled" checked> TTS</label>
+          <label><input type="checkbox" id="beepEnabled" checked> Beeps</label>
+        </div>
+      </div>
+
+      <h2>Settings</h2>
+      <div class="row">
+        <label>Ready (s):</label>
+        <input id="readyMin" type="number" step="0.1" min="0" value="1.6" style="width:90px">
+        <span>to</span>
+        <input id="readyMax" type="number" step="0.1" min="0" value="1.8" style="width:90px">
+      </div>
+      <div class="row">
+        <label>Reload (s):</label>
+        <input id="reloadMin" type="number" step="0.1" min="0" value="1.2" style="width:90px">
+        <span>to</span>
+        <input id="reloadMax" type="number" step="0.1" min="0" value="2.2" style="width:90px">
+      </div>
+      <div class="small">Tip: You can edit par/reps directly in the drill list. Changes are saved automatically.</div>
+
+      <h2>Call-Shot Tracking</h2>
+      <div class="row">
+        <div class="pill pill-ok" id="alphaCountPill">Alpha: 0</div>
+      </div>
+      <div class="small">Say “alpha” during active phases. Mic permission required (works on localhost/HTTPS).</div>
+    </div>
+
+    <!-- Right Top: 3D Timer -->
+    <div class="card" id="three-wrap" style="grid-column: 2; grid-row: 1">
+      <div id="canvasHost">
+        <div id="phaseLabel">Phase: Idle</div>
+        <div id="status">Loading font…</div>
+      </div>
+    </div>
+
+    <!-- Right Bottom: History (compact) -->
+    <div class="card row" id="historyCompact" style="grid-column: 2; grid-row: 2 / span 1;">
+      <button id="showHistory">Show History</button>
+      <button id="clearHistory">Clear History</button>
+      <span class="small">History is saved locally (browser).</span>
+    </div>
+
+    <!-- Full-screen History Modal -->
+    <div id="historyModal" class="modal hidden">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h2>Session History</h2>
+          <span class="right"></span>
+          <button id="closeHistory">Close</button>
+        </div>
+        <div class="modal-body">
+          <div class="history-table-wrap">
+            <table class="table" id="historyTable">
+              <colgroup>
+                <col style="width:22%">
+                <col style="width:38%">
+                <col style="width:10%">
+                <col style="width:12%">
+                <col style="width:10%">
+              </colgroup>
+              <thead>
+                <tr>
+                  <th>Date</th>
+                  <th>Drills Run</th>
+                  <th>Total Reps</th>
+                  <th>Avg Par (s)</th>
+                  <th>Alpha</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+
+          <h3>Progress</h3>
+          <div id="charts">
+            <canvas id="avgParChart" height="200"></canvas>
+            <canvas id="accChart"  height="200"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="card row" style="grid-column: 1 / span 2;">
+      <div class="small">Mic: <span id="micStatus">idle</span></div>
+      <div class="small" style="margin-left:12px">TTS: <span id="ttsStatus">ready</span></div>
+      <div class="small right">Made for dry-fire practice. Use safe handling and verify an unloaded firearm.</div>
+    </div>
+  </div>
+
+  <script type="module">
+    import * as THREE from 'three';
+    import { FontLoader } from 'three/examples/jsm/loaders/FontLoader.js';
+    import { TextGeometry } from 'three/examples/jsm/geometries/TextGeometry.js';
+
+    // ---------- Helpers ----------
+    const wait = (ms)=> new Promise(r=>setTimeout(r, ms));
+
+    // ---------- Persistence ----------
+    const LS_KEYS = { DRILLS:'df_drills_v1', SETTINGS:'df_settings_v1', SESSIONS:'df_sessions_v1' };
+
+    const defaultDrills12 = () => ([
+      { name:'Drill #1', par:0.7, reps:5 }, { name:'Drill #2', par:0.9, reps:5 },
+      { name:'Drill #3', par:1.0, reps:5 }, { name:'Drill #4', par:1.2, reps:5 },
+      { name:'Drill #5', par:1.0, reps:5 }, { name:'Drill #6', par:1.1, reps:5 },
+      { name:'Drill #7', par:1.0, reps:5 }, { name:'Drill #8', par:1.0, reps:5 },
+      { name:'Drill #9', par:1.3, reps:5  }, { name:'Drill #10', par:1.1, reps:5 },
+      { name:'Drill #11', par:1.2, reps:5 }, { name:'Drill #12', par:1.3, reps:5 }
+    ]);
+
+    const load = (k,fallback)=>{ try{ const v = JSON.parse(localStorage.getItem(k)); return v ?? fallback; }catch{ return fallback; } };
+    const save = (k,v)=> localStorage.setItem(k, JSON.stringify(v));
+
+    // normalize any older session shapes so rendering never breaks
+    function normalizeSession(s){
+      const breakdown = Array.isArray(s.breakdown) ? s.breakdown : [];
+      const drillsCount = Number(s.drillsCount ?? (breakdown.length || 0));
+      const repsCount   = Number(s.repsCount   ?? (breakdown.reduce((a,b)=>a+(b.reps||0),0)));
+      let   avgPar      = s.avgPar;
+      if (avgPar == null) {
+        const totalPar = breakdown.reduce((a,b)=>a+((b.avgPar||0)*(b.reps||0)),0);
+        avgPar = repsCount ? totalPar/repsCount : 0;
+      }
+      const alphaCalls = Number(s.alphaCalls || 0);
+      const drillNames = s.drillNames || (breakdown.length ? breakdown.map(d=>`${d.name} (${d.reps||0})`).join(', ') : '');
+      return {
+        date: s.date || new Date().toISOString(),
+        drillsCount, repsCount,
+        avgPar: Number(Number(avgPar||0).toFixed(3)),
+        alphaCalls,
+        breakdown, drillNames
+      };
+    }
+
+    let drills = load(LS_KEYS.DRILLS, defaultDrills12());
+    let settings = load(LS_KEYS.SETTINGS, { readyMin:1.6, readyMax:1.8, reloadMin:1.2, reloadMax:2.2, tts:true, beep:true, voice:null });
+    let sessions = load(LS_KEYS.SESSIONS, []).map(normalizeSession);
+
+    // ---------- UI Refs ----------
+    const drillListEl = document.getElementById('drillList');
+    const addDefault12Btn = document.getElementById('addDefault12');
+    const clearDrillsBtn = document.getElementById('clearDrills');
+    const addDrillBtn = document.getElementById('addDrill');
+    const newDrillName = document.getElementById('newDrillName');
+    const newDrillPar = document.getElementById('newDrillPar');
+    const newDrillReps = document.getElementById('newDrillReps');
+
+    const startBtn = document.getElementById('startSession');
+    const pauseBtn = document.getElementById('pauseSession');
+    const resetBtn = document.getElementById('resetSession');
+    const livePhaseEl = document.getElementById('livePhase');
+
+    const readyMinEl = document.getElementById('readyMin');
+    const readyMaxEl = document.getElementById('readyMax');
+    const reloadMinEl = document.getElementById('reloadMin');
+    const reloadMaxEl = document.getElementById('reloadMax');
+    const ttsEnabledEl = document.getElementById('ttsEnabled');
+    const beepEnabledEl = document.getElementById('beepEnabled');
+    const voiceSelect = document.getElementById('voiceSelect');
+
+    const alphaPill = document.getElementById('alphaCountPill');
+    const accPill = document.getElementById('accPill');
+
+    const micStatus = document.getElementById('micStatus');
+    const ttsStatus = document.getElementById('ttsStatus');
+
+    // History modal refs
+    const showHistoryBtn = document.getElementById('showHistory');
+    const clearHistoryBtn = document.getElementById('clearHistory');
+    const historyModal = document.getElementById('historyModal');
+    const closeHistoryBtn = document.getElementById('closeHistory');
+    const historyTableBody = document.querySelector('#historyTable tbody');
+
+    // ---------- Three.js ----------
+    let scene, camera, renderer, font, timerTextMesh = null, lastShownText = '';
+    let currentPhase = 'idle';
+    let phaseEndAt = 0;
+    let phaseDuration = 0;
+    const canvasHost = document.getElementById('canvasHost');
+    const phaseLabel = document.getElementById('phaseLabel');
+    const statusEl = document.getElementById('status');
+
+    function initThree() {
+      scene = new THREE.Scene();
+      camera = new THREE.PerspectiveCamera(45, canvasHost.clientWidth / canvasHost.clientHeight, 0.1, 1000);
+      camera.position.z = 52;
+
+      renderer = new THREE.WebGLRenderer({ antialias: true });
+      renderer.setSize(canvasHost.clientWidth, canvasHost.clientHeight);
+      canvasHost.appendChild(renderer.domElement);
+
+      scene.add(new THREE.AmbientLight(0xffffff, 1));
+
+      const bgPlane = new THREE.Mesh(new THREE.PlaneGeometry(300, 200), new THREE.MeshBasicMaterial({ color: 0x0f1113 }));
+      bgPlane.position.z = -10; scene.add(bgPlane);
+
+      const loader = new FontLoader();
+      loader.load(
+        'https://cdn.jsdelivr.net/npm/three@0.152.2/examples/fonts/helvetiker_regular.typeface.json',
+        (loaded) => { font = loaded; statusEl.textContent = ''; statusEl.style.display='none'; createOrUpdateText('0.0', 0x00ff00); },
+        undefined,
+        (err)=>{ statusEl.textContent='Font failed to load'; console.error(err); }
+      );
+
+      window.addEventListener('resize', onResize);
+      animate();
+    }
+    function onResize() {
+      renderer.setSize(canvasHost.clientWidth, canvasHost.clientHeight);
+      camera.aspect = canvasHost.clientWidth / canvasHost.clientHeight;
+      camera.updateProjectionMatrix();
+    }
+    function createOrUpdateText(text, colorHex) {
+      if (!font) return;
+      if (text === lastShownText && timerTextMesh) { timerTextMesh.material.color.setHex(colorHex); return; }
+      lastShownText = text;
+      if (timerTextMesh) { scene.remove(timerTextMesh); timerTextMesh.geometry.dispose(); timerTextMesh.material.dispose(); }
+      const geo = new TextGeometry(text, { font, size: 12, height: 2, curveSegments: 12, bevelEnabled:true, bevelThickness:.5, bevelSize:.35, bevelSegments:3 });
+      geo.center();
+      const mat = new THREE.MeshPhongMaterial({ color: colorHex });
+      timerTextMesh = new THREE.Mesh(geo, mat);
+      scene.add(timerTextMesh);
+    }
+    function animate() { requestAnimationFrame(animate); tickTimer(); renderer.render(scene, camera); }
+
+    // ---------- Timer / Session Logic ----------
+    let running = false;
+    let sessionQueue = []; // expanded reps [{name, par}]
+    let queueIndex = 0;
+    let alphaCalls = 0;
+    let lastAnnouncedDrill = null;
+
+    function secRand(min, max){ return Math.max(0, min + Math.random()*(max-min)); }
+    function setPhase(phase, durationSec, color=0x00ff00) {
+      currentPhase = phase; phaseDuration = durationSec; phaseEndAt = performance.now() + durationSec*1000;
+      updatePhaseLabel(); createOrUpdateText(durationSec.toFixed(1), color);
+    }
+    function updatePhaseLabel(){
+      phaseLabel.textContent = `Phase: ${currentPhase[0].toUpperCase()+currentPhase.slice(1)}`;
+      livePhaseEl.textContent = currentPhase.toUpperCase();
+      livePhaseEl.className = 'pill ' + (currentPhase==='par' ? 'pill-ok' : currentPhase==='ready' ? 'pill-warn' : currentPhase==='reload' ? 'pill-bad' : '');
+    }
+
+    // TTS that resolves when speaking finishes
+    function speakAsync(text){
+      if (!settings.tts) return Promise.resolve();
+      return new Promise(res=>{
+        try{
+          const u = new SpeechSynthesisUtterance(text);
+          const voices = speechSynthesis.getVoices();
+          if (settings.voice){
+            const v = voices.find(x=>x.name===settings.voice);
+            if (v) u.voice = v;
+          }
+          u.rate = 1; u.pitch = 1; u.volume = 1;
+          u.onend = ()=>res();
+          u.onerror = ()=>res();
+          speechSynthesis.speak(u);
+        }catch{ res(); }
+      });
+    }
+
+    // DISTINCT DOUBLE/TRIPLE BEEPS
+    function beep(type='start'){
+      if (!settings.beep) return;
+      try{
+        const ctx = new (window.AudioContext||window.webkitAudioContext)(); 
+        const g = ctx.createGain(); g.gain.value=.2; g.connect(ctx.destination);
+        const tone=(f,d,w=0)=>{ const o=ctx.createOscillator(); o.type='square'; o.frequency.value=f; o.connect(g); o.start(ctx.currentTime+w); o.stop(ctx.currentTime+w+d); o.onended=()=>o.disconnect(); };
+        if (type==='start'){
+          tone(1200, 0.40, 0);
+        } else { // triple
+          tone(90, 0.40, 0);
+		  //tone(800,.10,0.00);
+          //tone(650,.10,0.16);
+          //tone(500,.12,0.32);
+        }
+        setTimeout(()=>ctx.close(),1000);
+      }catch{}
+    }
+
+    function buildQueue(){
+      sessionQueue = [];
+      for (const d of drills){
+        const reps = Math.max(0, Math.floor(d.reps||0));
+        const par = Math.max(0.1, Number(d.par||1));
+        for (let i=0;i<reps;i++) sessionQueue.push({ name:d.name, par });
+      }
+      queueIndex = 0;
+      lastAnnouncedDrill = null;
+    }
+
+    function startSession(){
+      if (!font) { statusEl.textContent='Font not loaded yet'; return; }
+      if (running) return;
+      if (!drills.length){ alert('Add at least one drill.'); return; }
+      syncSettingsFromInputs(true);
+      buildQueue();
+      if (!sessionQueue.length){ alert('All drills have 0 reps.'); return; }
+
+      running = true; alphaCalls = 0; updateCallPills();
+      startMic();
+      pauseBtn.disabled = false; resetBtn.disabled = false; startBtn.disabled = true;
+      runNextRep(); // async sequence handled inside
+    }
+
+    // Announce drill once, then "Are you ready?", THEN start ready countdown
+    async function runNextRep(){
+      if (!running) return;
+      if (queueIndex >= sessionQueue.length){ endSession(true); return; }
+      const item = sessionQueue[queueIndex];
+
+      if (item.name !== lastAnnouncedDrill){
+        await speakAsync(`Starting ${item.name}`);
+        lastAnnouncedDrill = item.name;
+      }
+      await speakAsync('Are you ready?');
+
+      const rdy = secRand(settings.readyMin, settings.readyMax);
+      setPhase('ready', rdy, 0xeab308);
+    }
+
+    function tickTimer(){
+      if (!running) return;
+      const now = performance.now();
+      const msLeft = phaseEndAt - now;
+      const secLeft = Math.max(0, msLeft/1000);
+      const ratio = phaseDuration>0 ? secLeft/phaseDuration : 0;
+
+      const color = currentPhase==='par'
+        ? (ratio>0.5?0x22c55e: ratio>0.2?0xeab308:0xef4444)
+        : currentPhase==='ready' ? (ratio>0.5?0x60a5fa:0xeab308)
+        : currentPhase==='reload' ? 0xef4444 : 0x00ff00;
+
+      if (currentPhase !== 'waiting') createOrUpdateText(secLeft.toFixed(1), color);
+
+      if (msLeft <= 0){
+        if (currentPhase==='ready'){
+          const { par } = sessionQueue[queueIndex];
+          setPhase('par', par, 0x22c55e);
+          beep('start'); // double beep at par start
+        } else if (currentPhase==='par'){
+          currentPhase = 'waiting'; // prevent re-entry
+          (async () => {
+            beep('end');
+            await wait(520); // let beeps finish
+            await speakAsync('Reloading');
+            const rl = secRand(settings.reloadMin, settings.reloadMax);
+            setPhase('reload', rl, 0xef4444);
+          })();
+        } else if (currentPhase==='reload'){
+          currentPhase = 'waiting';
+          queueIndex++;        // advance
+          runNextRep();        // announce next drill & ask "Are you ready?"
+        }
+      }
+    }
+
+    function pauseSession(){ if (!running) return; running=false; stopMic(); startBtn.disabled=false; pauseBtn.disabled=true; }
+    function resetSession(){ running=false; stopMic(); startBtn.disabled=false; pauseBtn.disabled=true; resetBtn.disabled=true; currentPhase='idle'; updatePhaseLabel(); createOrUpdateText('0.0',0x00ff00); }
+
+    function endSession(saveIt){
+      running = false; stopMic();
+      startBtn.disabled = false; pauseBtn.disabled = true; resetBtn.disabled = false;
+      currentPhase = 'idle'; updatePhaseLabel(); createOrUpdateText('0.0', 0x00ff00);
+      if (saveIt){
+        const repsCount = sessionQueue.length;
+        const avgPar = repsCount ? (sessionQueue.reduce((s,x)=>s+x.par,0)/repsCount) : 0;
+
+        const byName = {};
+        sessionQueue.forEach(({name, par})=>{
+          if (!byName[name]) byName[name] = { name, reps:0, totalPar:0 };
+          byName[name].reps++; byName[name].totalPar += par;
+        });
+        const breakdown = Object.values(byName).map(d=>({ name:d.name, reps:d.reps, avgPar:+(d.totalPar/d.reps).toFixed(2) }));
+        const drillNames = breakdown.map(d=>`${d.name} (${d.reps})`).join(', ');
+
+        const record = normalizeSession({
+          date: new Date().toISOString(),
+          drillsCount: Object.keys(byName).length,
+          repsCount,
+          avgPar: Number(avgPar.toFixed(3)),
+          alphaCalls,
+          breakdown, drillNames
+        });
+        sessions.push(record); save(LS_KEYS.SESSIONS, sessions);
+		setTimeout(() => { speakAsync('Session complete. Well Done.'); }, 600);
+      }
+    }
+
+    // ---------- Speech (Mic) ----------
+    let recog = null;
+    function hasRecognition(){ return 'webkitSpeechRecognition' in window || 'SpeechRecognition' in window; }
+    function startMic(){
+      if (!hasRecognition()){ micStatus.textContent='unsupported'; return; }
+      const Rec = window.SpeechRecognition || window.webkitSpeechRecognition;
+      recog = new Rec(); recog.lang='en-US'; recog.continuous=true; recog.interimResults=true;
+      recog.onstart = ()=> micStatus.textContent='listening';
+      recog.onerror = (e)=> micStatus.textContent='error: '+e.error;
+      recog.onend = ()=> micStatus.textContent = running ? 'restarting…' : 'stopped';
+      recog.onresult = (ev)=>{
+        for (let i=ev.resultIndex; i<ev.results.length; i++){
+          const res = ev.results[i];
+          if (res.isFinal){
+            const text = res[0].transcript.trim().toLowerCase();
+            if (text){ if (text.includes('alpha')) alphaCalls++; updateCallPills(); }
+          }
+        }
+      };
+      try{ recog.start(); }catch{}
+    }
+    function stopMic(){ if (recog){ try{ recog.stop(); }catch{} recog=null; } micStatus.textContent='idle'; }
+    function updateCallPills(){
+      alphaPill.textContent = 'Alpha: ' + alphaCalls;
+    }
+
+    // ---------- Drill UI ----------
+    function renderDrills(){
+      drillListEl.innerHTML = '';
+      drills.forEach((d, idx)=>{
+        const row = document.createElement('div');
+        row.className = 'drill-row';
+        row.innerHTML = `
+          <input type="text" value="${d.name}" data-idx="${idx}" data-field="name"/>
+          <input type="number" step="0.1" min="0.1" value="${d.par}" data-idx="${idx}" data-field="par"/>
+          <input type="number" step="1" min="0" value="${d.reps}" data-idx="${idx}" data-field="reps"/>
+          <button data-idx="${idx}" data-action="remove">Remove</button>
+        `;
+        drillListEl.appendChild(row);
+      });
+      drillListEl.querySelectorAll('input').forEach(inp=>{
+        inp.addEventListener('change', ()=>{
+          const i = Number(inp.dataset.idx); const f = inp.dataset.field; let val = inp.value;
+          if (f==='par'){ val = Math.max(0.1, Number(val||1)); }
+          if (f==='reps'){ val = Math.max(0, Math.floor(Number(val||0))); }
+          drills[i][f] = (f==='name') ? String(val) : val; save(LS_KEYS.DRILLS, drills);
+        });
+      });
+      drillListEl.querySelectorAll('button[data-action="remove"]').forEach(btn=>{
+        btn.onclick = ()=>{ const i = Number(btn.dataset.idx); drills.splice(i,1); save(LS_KEYS.DRILLS, drills); renderDrills(); };
+      });
+    }
+    addDefault12Btn.onclick = ()=>{ drills = defaultDrills12(); save(LS_KEYS.DRILLS, drills); renderDrills(); };
+    clearDrillsBtn.onclick   = ()=>{ drills = []; save(LS_KEYS.DRILLS, drills); renderDrills(); };
+    addDrillBtn.onclick = ()=>{
+      const name = newDrillName.value.trim() || `Drill #${drills.length+1}`;
+      const par = Math.max(0.1, Number(newDrillPar.value||1));
+      const reps = Math.max(0, Math.floor(Number(newDrillReps.value||1)));
+      drills.push({ name, par, reps }); save(LS_KEYS.DRILLS, drills); renderDrills();
+      newDrillName.value=''; newDrillPar.value='1.0'; newDrillReps.value='1';
+    };
+
+    // ---------- Settings Bind ----------
+    function syncInputsFromSettings(){
+      readyMinEl.value = settings.readyMin; readyMaxEl.value = settings.readyMax;
+      reloadMinEl.value = settings.reloadMin; reloadMaxEl.value = settings.reloadMax;
+      ttsEnabledEl.checked = settings.tts; beepEnabledEl.checked = settings.beep;
+    }
+    function syncSettingsFromInputs(saveNow=false){
+      settings.readyMin = Math.max(0, Number(readyMinEl.value||0));
+      settings.readyMax = Math.max(settings.readyMin, Number(readyMaxEl.value||0));
+      settings.reloadMin = Math.max(0, Number(reloadMinEl.value||0));
+      settings.reloadMax = Math.max(settings.reloadMin, Number(reloadMaxEl.value||0));
+      settings.tts = !!ttsEnabledEl.checked; settings.beep = !!beepEnabledEl.checked;
+      if (saveNow) save(LS_KEYS.SETTINGS, settings);
+    }
+    [readyMinEl, readyMaxEl, reloadMinEl, reloadMaxEl, ttsEnabledEl, beepEnabledEl]
+      .forEach(el=> el.addEventListener('change', ()=>{ syncSettingsFromInputs(true); }));
+
+    // ---------- Voice list (robust) ----------
+    function fillVoiceSelect(voices){
+      voiceSelect.innerHTML = '';
+      if (!voices || !voices.length){
+        const opt = document.createElement('option');
+        opt.value = '';
+        opt.textContent = 'Loading voices… (click to retry)';
+        voiceSelect.appendChild(opt);
+        voiceSelect.disabled = false;
+        return;
+      }
+      voiceSelect.disabled = false;
+      voices.forEach(v=>{
+        const opt = document.createElement('option');
+        opt.value = v.name;
+        opt.textContent = `${v.name} (${v.lang})${v.default ? ' ★' : ''}`;
+        voiceSelect.appendChild(opt);
+      });
+      if (settings.voice && [...voiceSelect.options].some(o=>o.value===settings.voice)){
+        voiceSelect.value = settings.voice;
+      } else {
+        settings.voice = voiceSelect.value || null;
+        save(LS_KEYS.SETTINGS, settings);
+      }
+    }
+    function getVoicesSafe(){ try { return speechSynthesis.getVoices() || []; } catch { return []; } }
+    function waitForVoices(timeoutMs = 4000){
+      return new Promise(resolve=>{
+        let done = false;
+        const finish = v=>{ if (!done){ done = true; resolve(v||[]); } };
+        let v = getVoicesSafe();
+        if (v.length) return finish(v);
+        const handler = ()=>{ v = getVoicesSafe(); if (v.length) { try{ speechSynthesis.removeEventListener('voiceschanged', handler);}catch{} finish(v); } };
+        try { speechSynthesis.addEventListener('voiceschanged', handler); } catch {}
+        const start = performance.now();
+        const id = setInterval(()=>{
+          v = getVoicesSafe();
+          if (v.length){ clearInterval(id); try{ speechSynthesis.removeEventListener('voiceschanged', handler);}catch{} finish(v); }
+          else if (performance.now() - start > timeoutMs){ clearInterval(id); try{ speechSynthesis.removeEventListener('voiceschanged', handler);}catch{} finish([]); }
+        },150);
+      });
+    }
+    function primeTTS(){ try { const u = new SpeechSynthesisUtterance(' '); u.volume = 0; speechSynthesis.speak(u); speechSynthesis.cancel(); } catch {} }
+    async function refreshVoices(){
+      let voices = getVoicesSafe();
+      if (!voices.length){ primeTTS(); voices = await waitForVoices(); }
+      fillVoiceSelect(voices);
+    }
+    voiceSelect.addEventListener('change', ()=>{ settings.voice = voiceSelect.value || null; save(LS_KEYS.SETTINGS, settings); });
+    voiceSelect.addEventListener('mousedown', ()=>{ const txt = voiceSelect.options[0]?.textContent || ''; if (!getVoicesSafe().length || /Loading voices/i.test(txt)) refreshVoices(); });
+    if ('speechSynthesis' in window){
+      refreshVoices();
+      window.addEventListener('pointerdown', ()=>{ if (!getVoicesSafe().length) refreshVoices(); }, { once:true });
+    } else {
+      ttsStatus.textContent = 'unavailable';
+      fillVoiceSelect([]);
+    }
+
+    // ---------- History + Charts ----------
+    let avgParChart = null, accChart = null;
+
+	function renderHistory(){
+	  const tbody = historyTableBody;
+	  tbody.innerHTML = '';
+	  if (!sessions.length){
+		tbody.innerHTML = '<tr><td colspan="6" class="empty-history">No sessions yet. Complete a full session to see it here.</td></tr>';
+		return;
+	  }
+	  sessions.forEach(s=>{
+		const tr = document.createElement('tr');
+		const d = new Date(s.date);
+		const names = s.drillNames || (s.breakdown ? s.breakdown.map(b=>`${b.name} (${b.reps})`).join(', ') : `${s.drillsCount} drills`);
+		const alpha = Number.isFinite(s.alphaCalls) ? s.alphaCalls : 0;   // fallback for old sessions
+		tr.innerHTML = `
+		  <td>${d.toLocaleString()}</td>
+		  <td title="${names}">${names}</td>
+		  <td>${s.repsCount}</td>
+		  <td>${s.avgPar.toFixed(2)}</td>
+		  <td>${alpha}</td>
+		`;
+		tbody.appendChild(tr);
+	  });
+	}
+
+    // Always (re)build charts after the modal is visible
+	function updateCharts(){
+	  const labels   = sessions.map(s => new Date(s.date).toLocaleDateString());
+	  const avgPars  = sessions.map(s => s.avgPar);
+	  const alphas   = sessions.map(s => s.alphaCalls || 0);
+
+	  if (avgParChart) avgParChart.destroy();
+	  if (accChart)    accChart.destroy();
+
+	  avgParChart = new Chart(document.getElementById('avgParChart').getContext('2d'), {
+		type: 'line',
+		data: { labels, datasets: [{ label: 'Avg Par (s)', data: avgPars }] },
+		options: { responsive:true, maintainAspectRatio:false }
+	  });
+
+	  accChart = new Chart(document.getElementById('accChart').getContext('2d'), {
+		type: 'bar',
+		data: { labels, datasets: [{ label: 'Alpha calls', data: alphas }] },
+		options: { responsive:true, maintainAspectRatio:false }
+	  });
+	}
+
+    // Modal controls
+    function openHistory(){
+      sessions = sessions.map(normalizeSession); // ensure shape
+      historyModal.classList.remove('hidden');   // make visible first (gives canvases size)
+      setTimeout(()=>{ renderHistory(); updateCharts(); }, 60);
+    }
+    function closeHistory(){ historyModal.classList.add('hidden'); }
+    showHistoryBtn.onclick = openHistory;
+    closeHistoryBtn.onclick = closeHistory;
+    historyModal.addEventListener('click', (e)=>{ if (e.target === historyModal) closeHistory(); });
+    window.addEventListener('keydown', (e)=>{ if (e.key === 'Escape') closeHistory(); });
+
+    clearHistoryBtn.onclick = ()=>{
+      if (!confirm('Clear all saved sessions?')) return;
+      sessions = []; save(LS_KEYS.SESSIONS, sessions);
+      renderHistory();
+    };
+
+    // ---------- Wire Controls ----------
+    startBtn.onclick = ()=> startSession();
+    pauseBtn.onclick = ()=> pauseSession();
+    resetBtn.onclick = ()=> resetSession();
+
+    // ---------- Boot ----------
+    renderDrills(); syncInputsFromSettings(); renderHistory(); initThree();
+  </script>
+</body>
+</html>
