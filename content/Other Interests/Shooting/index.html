@@ -20,7 +20,7 @@ body{
 /* ---------- App grid ---------- */
 #layout{
   position:fixed; inset:0; display:grid;
-  grid-template-columns: clamp(380px, 32vw, 500px) 1fr;
+  grid-template-columns: clamp(280px, 34vw, 420px) 1fr;
   grid-template-rows: minmax(300px, 1fr) minmax(380px, 1fr) auto;
   gap:12px; padding:12px; min-height:0;
 }
@@ -135,6 +135,35 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
   text-align: right;
   font-variant-numeric: tabular-nums;
   font-feature-settings: "tnum" 1;
+}
+
+/* ===== Mobile layout overrides ===== */
+@media (max-width: 900px){
+  /* Allow scrolling on small screens */
+  body{ overflow:auto; }
+
+  /* Stack in one column instead of two */
+  #layout{
+    position:relative;
+    inset:auto;
+    height:auto;
+    min-height:100dvh;
+    grid-template-columns: 1fr !important;
+    grid-template-rows: auto auto auto auto;
+    gap:8px;
+    padding:8px;
+  }
+
+  /* Force main sections into the single column */
+  .sidebar{ grid-row:auto !important; grid-column:1 !important; }
+  #three-wrap{ grid-row:1 !important; grid-column:1 !important; }
+  #historyCompact{ grid-row:3 !important; grid-column:1 !important; }
+  #layout > .card.row:last-child{ grid-column:1 !important; }
+
+  /* Make charts/drills fit narrow widths */
+  #charts{ grid-template-columns: 1fr !important; }
+  .drill-row{ grid-template-columns: 1fr 1fr; gap:6px; }
+  .drill-row input, .drill-row button{ width:100%; }
 }
 </style>
 
