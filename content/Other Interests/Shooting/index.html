@@ -1,9 +1,10 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>Dry-Fire Par Timer — Three.js + Voice + Charts</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="utf-8"/>
+<title>Dry-Fire Par Timer — Three.js + Voice + Charts</title>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
 <style>
 :root{
   --bg:#181a1b; --panel:#222527; --text:#e8e6e3; --muted:#9aa0a6; --accent:#7dd3fc;
@@ -14,14 +15,14 @@ html,body{ height:100%; }
 body{
   margin:0; background:var(--bg); color:var(--text);
   font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
-  line-height:1.3; overflow:hidden;
+  line-height:1.3; 
 }
 
 /* ---------- App grid ---------- */
 #layout{
   position:fixed; inset:0; display:grid;
-  grid-template-columns: clamp(280px, 34vw, 420px) 1fr;
-  grid-template-rows: minmax(300px, 1fr) minmax(380px, 1fr) auto;
+  grid-template-columns: var(--col-left, minmax(420px, 58vw)) var(--gutter, 10px) 1fr;
+  grid-template-rows: var(--row-top, minmax(240px, auto)) var(--gutter, 10px) minmax(220px, 1fr) auto;
   gap:12px; padding:12px; min-height:0;
 }
 #layout > *{ min-height:0; }
@@ -33,8 +34,9 @@ label{ font-size:13px; color:var(--muted); }
 
 /* ---------- Left sidebar ---------- */
 .sidebar{
-  height:100%; min-height:0; overflow:auto; overflow-x:hidden; padding-right:8px;
+  height:100%; min-height:0;   padding-right:8px;
   scrollbar-gutter:stable; display:grid; grid-auto-rows:min-content; row-gap:14px;
+
 }
 .stack{ display:grid; grid-auto-rows:min-content; row-gap:12px; }
 .row{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; width:100%; }
@@ -57,7 +59,8 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
 .drill-row{
   display:grid; grid-template-columns: 1fr 100px 90px 84px; gap:8px; align-items:center;
 }
-.drill-list{ max-height:none; overflow:visible; padding-right:4px; }
+.drill-list{ max-height:none;  padding-right:4px; 
+}
 
 .pill{ display:inline-block; padding:2px 8px; border-radius:999px; font-size:12px; color:#111; font-weight:600; }
 .pill-ok{ background:var(--ok); } .pill-warn{ background:var(--warn); } .pill-bad{ background:var(--bad); }
@@ -65,7 +68,7 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
 /* ---------- Right panel / 3D host ---------- */
 #three-wrap{ position:relative; }
 #canvasHost{
-  position:relative; height:100%; min-height:320px;
+  position:relative; height:100%; min-height: 180px;
   border-radius:12px; overflow:hidden;
 }
 #phaseLabel{
@@ -118,8 +121,7 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
 
 /* Right-align numeric columns + tabular digits (history modal) */
 #historyModal :is(th, td):nth-child(3),
-#historyModal :is(th, td):nth-child(4),
-#historyModal :is(th, td):nth-child(5){
+#historyModal :is(th, td):nth-child(4){
   text-align: right;
   font-variant-numeric: tabular-nums;
   font-feature-settings: "tnum" 1;
@@ -130,46 +132,77 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
 
 /* Keep numeric columns right-aligned (you already have this) */
 #historyModal :is(th, td):nth-child(3),
-#historyModal :is(th, td):nth-child(4),
-#historyModal :is(th, td):nth-child(5){
+#historyModal :is(th, td):nth-child(4){
   text-align: right;
   font-variant-numeric: tabular-nums;
   font-feature-settings: "tnum" 1;
 }
 
-/* ===== Mobile layout overrides ===== */
-@media (max-width: 900px){
-  /* Allow scrolling on small screens */
-  body{ overflow:auto; }
-
-  /* Stack in one column instead of two */
-  #layout{
-    position:relative;
-    inset:auto;
-    height:auto;
-    min-height:100dvh;
-    grid-template-columns: 1fr !important;
-    grid-template-rows: auto auto auto auto;
-    gap:8px;
-    padding:8px;
-  }
-
-  /* Force main sections into the single column */
-  .sidebar{ grid-row:auto !important; grid-column:1 !important; }
-  #three-wrap{ grid-row:1 !important; grid-column:1 !important; }
-  #historyCompact{ grid-row:3 !important; grid-column:1 !important; }
-  #layout > .card.row:last-child{ grid-column:1 !important; }
-
-  /* Make charts/drills fit narrow widths */
-  #charts{ grid-template-columns: 1fr !important; }
-  .drill-row{ grid-template-columns: 1fr 1fr; gap:6px; }
-  .drill-row input, .drill-row button{ width:100%; }
+@media (max-height: 800px){
+  :root{ --compact-scale: .96; }
+  body{ line-height: 1.2; }
+  h2{ font-size: 16px; }
+  h3{ font-size: 14px; }
+  label, .small, button, input, select{ font-size: calc(14px * var(--compact-scale)); }
+  .card{ padding: 10px; }
+  .row{ gap: 8px; }
+  .drill-row{ grid-template-columns: 1fr 90px 80px 80px; gap: 6px; }
+  #canvasHost{ min-height: 160px; }
 }
+@media (max-height: 680px){
+  :root{ --compact-scale: .9; }
+  .card{ padding: 8px; }
+  .row{ gap: 6px; }
+  .drill-row{ grid-template-columns: 1fr 84px 72px 72px; gap: 6px; }
+  #canvasHost{ min-height: 140px; }
+}
+
+/* ---------- Resizable gutters ---------- */
+.gutter{
+  background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.02));
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,.06);
+  border-radius: 8px;
+}
+.gutter.v{ cursor: col-resize; }
+.gutter.h{ cursor: row-resize; }
+
+.sidebar{ grid-column: 1; grid-row: 1 / span 2; }
+#gutterV{ grid-column: 2; grid-row: 1 / span 2; }
+#three-wrap{ grid-column: 3; grid-row: 1; }
+#gutterH{ grid-column: 3; grid-row: 2; }
+#historyCard{ grid-column: 3; grid-row: 3; }
+#footerCard{ grid-column: 1 / span 3; grid-row: 4; }
+
+#gutterV{ width: var(--gutter,10px); }
+#gutterH{ height: var(--gutter,10px); }
+
+/* --- Anti-jumble: allow children to actually shrink/wrap --- */
+.card, .sidebar, .stack, .row, .drill-row { min-width: 0; }
+.row{ flex-wrap: wrap; }
+.small.right{ margin-left:auto; }
+select{ min-width: 220px; max-width: 100%; }
+
+/* --- Adaptive drill row when left pane narrows (class applied by JS) --- */
+#layout.left-narrow .drill-row{
+  grid-template-columns: 1fr 90px 80px 80px;
+}
+#layout.left-narrow select{ min-width: 180px; }
+#layout.left-narrow .row .small.right{
+  flex-basis: 100%; margin-left: 0; margin-top: 6px;
+}
+
+#layout.left-tiny .drill-row{
+  grid-template-columns: 1fr 1fr; grid-auto-flow: row; 
+}
+#layout.left-tiny .drill-row input[type="number"]{ width: 100%; }
+#layout.left-tiny .drill-row button{ width: 100%; }
+#layout.left-tiny select{ min-width: 160px; }
+
+/* Avoid the right panel covering the left: ensure grid items don't overflow columns */
+#layout > *{ min-width: 0; }
 </style>
-
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-
-  <script type="importmap">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script type="importmap">
   {
     "imports": {
       "three": "https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.module.js",
@@ -179,126 +212,108 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
   </script>
 </head>
 <body>
-  <div id="layout">
-    <!-- Left Column: Controls -->
-    <div class="card stack sidebar" style="grid-row: 1 / span 2;">
-      <h2>Drill Setup</h2>
-      <div class="row">
-        <button id="addDefault12">Load 12 Core</button>
-        <button id="clearDrills">Clear</button>
-        <span class="small right">Click Start Session to run the queue</span>
-      </div>
-      <div class="drill-list" id="drillList"></div>
+<div id="layout">
+<!-- Left Column: Controls -->
+<div class="card stack sidebar" style="grid-row: 1 / span 2;">
+<h2>Drill Setup</h2>
+<div class="row">
+<button id="addDefault12">Load 12 Core</button>
+<button id="clearDrills">Clear</button>
+<span class="small right">Click Start Session to run the queue</span>
+</div>
 
-      <div class="row">
-        <input id="newDrillName" type="text" placeholder="Drill name (e.g., Drill #13)" style="flex:1" />
-        <input id="newDrillPar" type="number" step="0.1" min="0.1" value="1.0" style="width:100px" />
-        <input id="newDrillReps" type="number" step="1" min="1" value="1" style="width:80px" />
-        <button id="addDrill">Add</button>
-      </div>
+<div class="drill-list" id="drillList"></div>
+<div class="row">
+<input id="newDrillName" placeholder="Drill name (e.g., Drill #13)" style="flex:1" type="text"/>
+<input id="newDrillPar" min="0.1" step="0.1" style="width:100px" type="number" value="1.0"/>
+<input id="newDrillReps" min="1" step="1" style="width:80px" type="number" value="1"/>
+<button id="addDrill">Add</button>
+</div>
+<h2>Timer &amp; Voice</h2>
+<div class="stack">
+<div class="row">
+<button id="startSession">Start Session</button>
+<button disabled="" id="pauseSession">Pause</button>
+<button disabled="" id="resetSession">Reset</button>
+<span class="pill pill-warn" id="livePhase">Idle</span>
+</div>
+<div class="row">
+<label>Voice:</label>
+<select id="voiceSelect" style="flex:1"></select>
+<label><input checked="" id="ttsEnabled" type="checkbox"/> TTS</label>
+<label><input checked="" id="beepEnabled" type="checkbox"/> Beeps</label>
+</div>
+</div>
+<h2>Settings</h2>
+<div class="row">
+<label>Ready (s):</label>
+<input id="readyMin" min="0" step="0.1" style="width:90px" type="number" value="1.6"/>
+<span>to</span>
+<input id="readyMax" min="0" step="0.1" style="width:90px" type="number" value="1.8"/>
+</div>
+<div class="row">
+<label>Reload (s):</label>
+<input id="reloadMin" min="0" step="0.1" style="width:90px" type="number" value="1.2"/>
+<span>to</span>
+<input id="reloadMax" min="0" step="0.1" style="width:90px" type="number" value="2.2"/>
+</div>
+<div class="small">Tip: You can edit par/reps directly in the drill list. Changes are saved automatically.</div>
+</div><div class="gutter v" id="gutterV"></div>
+<!-- Right Top: 3D Timer -->
+<div class="card" id="three-wrap">
+<div id="canvasHost">
+<div id="phaseLabel">Phase: Idle</div>
 
-      <h2>Timer & Voice</h2>
-      <div class="stack">
-        <div class="row">
-          <button id="startSession">Start Session</button>
-          <button id="pauseSession" disabled>Pause</button>
-          <button id="resetSession" disabled>Reset</button>
-          <span id="livePhase" class="pill pill-warn">Idle</span>
-        </div>
-        <div class="row">
-          <label>Voice:</label>
-          <select id="voiceSelect" style="flex:1"></select>
-          <label><input type="checkbox" id="ttsEnabled" checked> TTS</label>
-          <label><input type="checkbox" id="beepEnabled" checked> Beeps</label>
-        </div>
-      </div>
-
-      <h2>Settings</h2>
-      <div class="row">
-        <label>Ready (s):</label>
-        <input id="readyMin" type="number" step="0.1" min="0" value="1.6" style="width:90px">
-        <span>to</span>
-        <input id="readyMax" type="number" step="0.1" min="0" value="1.8" style="width:90px">
-      </div>
-      <div class="row">
-        <label>Reload (s):</label>
-        <input id="reloadMin" type="number" step="0.1" min="0" value="1.2" style="width:90px">
-        <span>to</span>
-        <input id="reloadMax" type="number" step="0.1" min="0" value="2.2" style="width:90px">
-      </div>
-      <div class="small">Tip: You can edit par/reps directly in the drill list. Changes are saved automatically.</div>
-
-      <h2>Call-Shot Tracking</h2>
-      <div class="row">
-        <div class="pill pill-ok" id="alphaCountPill">Alpha: 0</div>
-      </div>
-      <div class="small">Say “alpha” during active phases. Mic permission required (works on localhost/HTTPS).</div>
-    </div>
-
-    <!-- Right Top: 3D Timer -->
-    <div class="card" id="three-wrap" style="grid-column: 2; grid-row: 1">
-      <div id="canvasHost">
-        <div id="phaseLabel">Phase: Idle</div>
-        <div id="status">Loading font…</div>
-      </div>
-    </div>
-
-    <!-- Right Bottom: History (compact) -->
-    <div class="card row" id="historyCompact" style="grid-column: 2; grid-row: 2 / span 1;">
-      <button id="showHistory">Show History</button>
-      <button id="clearHistory">Clear History</button>
-      <span class="small">History is saved locally (browser).</span>
-    </div>
-
-    <!-- Full-screen History Modal -->
-    <div id="historyModal" class="modal hidden">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2>Session History</h2>
-          <span class="right"></span>
-          <button id="closeHistory">Close</button>
-        </div>
-        <div class="modal-body">
-          <div class="history-table-wrap">
-            <table class="table" id="historyTable">
-              <colgroup>
-                <col style="width:22%">
-                <col style="width:38%">
-                <col style="width:10%">
-                <col style="width:12%">
-                <col style="width:10%">
-              </colgroup>
-              <thead>
-                <tr>
-                  <th>Date</th>
-                  <th>Drills Run</th>
-                  <th>Total Reps</th>
-                  <th>Avg Par (s)</th>
-                  <th>Alpha</th>
-                </tr>
-              </thead>
-              <tbody></tbody>
-            </table>
-          </div>
-
-          <h3>Progress</h3>
-          <div id="charts">
-            <canvas id="avgParChart" height="200"></canvas>
-            <canvas id="accChart"  height="200"></canvas>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Footer -->
-    <div class="card row" style="grid-column: 1 / span 2;">
-      <div class="small">Mic: <span id="micStatus">idle</span></div>
-      <div class="small" style="margin-left:12px">TTS: <span id="ttsStatus">ready</span></div>
-      <div class="small right">Made for dry-fire practice. Use safe handling and verify an unloaded firearm.</div>
-    </div>
-  </div>
-
-  <script type="module">
+<div id="status">Loading font…</div>
+</div>
+</div><div class="gutter h" id="gutterH"></div>
+<!-- Right Bottom: History (compact) -->
+<div class="card row" id="historyCard">
+<button id="showHistory">Show History</button>
+<button id="clearHistory">Clear History</button>
+<span class="small">History is saved locally (browser).</span>
+</div>
+<!-- Full-screen History Modal -->
+<div class="modal hidden" id="historyModal">
+<div class="modal-content">
+<div class="modal-header">
+<h2>Session History</h2>
+<span class="right"></span>
+<button id="closeHistory">Close</button>
+</div>
+<div class="modal-body">
+<div class="history-table-wrap">
+<table class="table" id="historyTable">
+<colgroup>
+<col style="width:22%"/>
+<col style="width:38%"/>
+<col style="width:10%"/>
+<col style="width:12%"/>
+</colgroup>
+<thead>
+<tr>
+<th>Date</th>
+<th>Drills Run</th>
+<th>Total Reps</th>
+<th>Avg Par (s)</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+</div>
+<h3>Progress</h3>
+<div id="charts">
+<canvas height="200" id="avgParChart"></canvas>
+</div>
+</div>
+</div>
+</div>
+<!-- Footer -->
+<div class="card row" id="footerCard"> <div class="small" style="margin-left:12px">TTS: <span id="ttsStatus">ready</span></div>
+<div class="small right">Made for dry-fire practice. Use safe handling and verify an unloaded firearm.</div>
+</div>
+</div>
+<script type="module">
     import * as THREE from 'three';
     import { FontLoader } from 'three/examples/jsm/loaders/FontLoader.js';
     import { TextGeometry } from 'three/examples/jsm/geometries/TextGeometry.js';
@@ -318,7 +333,7 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
       { name:'Drill #11', par:1.2, reps:5 }, { name:'Drill #12', par:1.3, reps:5 }
     ]);
 
-    const load = (k,fallback)=>{ try{ const v = JSON.parse(localStorage.getItem(k)); return v ?? fallback; }catch{ return fallback; } };
+    const load = (k,fallback)=>{ try{ const v = JSON.parse(localStorage.getItem(k)); return v ?? fallback; }catch (e) { return fallback; } };
     const save = (k,v)=> localStorage.setItem(k, JSON.stringify(v));
 
     // normalize any older session shapes so rendering never breaks
@@ -331,13 +346,11 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
         const totalPar = breakdown.reduce((a,b)=>a+((b.avgPar||0)*(b.reps||0)),0);
         avgPar = repsCount ? totalPar/repsCount : 0;
       }
-      const alphaCalls = Number(s.alphaCalls || 0);
       const drillNames = s.drillNames || (breakdown.length ? breakdown.map(d=>`${d.name} (${d.reps||0})`).join(', ') : '');
       return {
         date: s.date || new Date().toISOString(),
         drillsCount, repsCount,
         avgPar: Number(Number(avgPar||0).toFixed(3)),
-        alphaCalls,
         breakdown, drillNames
       };
     }
@@ -367,11 +380,6 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
     const ttsEnabledEl = document.getElementById('ttsEnabled');
     const beepEnabledEl = document.getElementById('beepEnabled');
     const voiceSelect = document.getElementById('voiceSelect');
-
-    const alphaPill = document.getElementById('alphaCountPill');
-    const accPill = document.getElementById('accPill');
-
-    const micStatus = document.getElementById('micStatus');
     const ttsStatus = document.getElementById('ttsStatus');
 
     // History modal refs
@@ -437,7 +445,6 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
     let running = false;
     let sessionQueue = []; // expanded reps [{name, par}]
     let queueIndex = 0;
-    let alphaCalls = 0;
     let lastAnnouncedDrill = null;
 
     function secRand(min, max){ return Math.max(0, min + Math.random()*(max-min)); }
@@ -452,44 +459,71 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
     }
 
     // TTS that resolves when speaking finishes
+
+    
+    function resolveSelectedVoice(){
+      try{
+        const voices = speechSynthesis.getVoices() || [];
+        if (!voices.length) return null;
+        const byKey = voices.find(v => (v.voiceURI || v.name) === settings.voice);
+        if (byKey) return byKey;
+        if (settings.voice) {
+          const byName = voices.find(v => v.name === settings.voice);
+          if (byName) return byName;
+        }
+        return voices[0] || null;
+      } catch (e) { return null; }
+    }
+
+    // TTS that resolves when speaking finishes
     function speakAsync(text){
       if (!settings.tts) return Promise.resolve();
       return new Promise(res=>{
         try{
           const u = new SpeechSynthesisUtterance(text);
-          const voices = speechSynthesis.getVoices();
-          if (settings.voice){
-            const v = voices.find(x=>x.name===settings.voice);
-            if (v) u.voice = v;
+          const v = resolveSelectedVoice();
+          if (v){
+            u.voice = v;
+            if (v.lang) u.lang = v.lang;
           }
           u.rate = 1; u.pitch = 1; u.volume = 1;
           u.onend = ()=>res();
           u.onerror = ()=>res();
-          speechSynthesis.speak(u);
-        }catch{ res(); }
+          try { speechSynthesis.cancel(); } catch (e) {}
+          // iOS/WebKit sometimes needs a microtask turn for voice to apply
+          setTimeout(()=>{ speechSynthesis.speak(u); }, 0);
+        } catch (e) { res(); }
       });
     }
+
 
     // DISTINCT DOUBLE/TRIPLE BEEPS
     function beep(type='start'){
       if (!settings.beep) return;
       try{
-        const ctx = new (window.AudioContext||window.webkitAudioContext)(); 
-        const g = ctx.createGain(); g.gain.value=.2; g.connect(ctx.destination);
-        const tone=(f,d,w=0)=>{ const o=ctx.createOscillator(); o.type='square'; o.frequency.value=f; o.connect(g); o.start(ctx.currentTime+w); o.stop(ctx.currentTime+w+d); o.onended=()=>o.disconnect(); };
-        if (type==='start'){
+        const ctx = new (window.AudioContext||window.webkitAudioContext)();
+        const g = ctx.createGain(); g.gain.value = .2; g.connect(ctx.destination);
+        const tone = (f,d,when=0)=>{
+          const o = ctx.createOscillator();
+          o.type = 'sine'; o.frequency.value = f;
+          o.connect(g);
+          o.start(ctx.currentTime + when);
+          o.stop(ctx.currentTime + when + d);
+          o.onended = ()=> o.disconnect();
+        };
+        if (type === 'start'){
           tone(1200, 0.40, 0);
-        } else { // triple
-          tone(90, 0.40, 0);
-		  //tone(800,.10,0.00);
-          //tone(650,.10,0.16);
-          //tone(500,.12,0.32);
+        } else {
+          tone(800, .10, 0.00);
+          tone(650, .10, 0.16);
+          tone(500, .12, 0.32);
         }
-        setTimeout(()=>ctx.close(),1000);
-      }catch{}
+        setTimeout(()=>ctx.close(), 1000);
+      } catch (e) {}
     }
 
     function buildQueue(){
+
       sessionQueue = [];
       for (const d of drills){
         const reps = Math.max(0, Math.floor(d.reps||0));
@@ -508,8 +542,7 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
       buildQueue();
       if (!sessionQueue.length){ alert('All drills have 0 reps.'); return; }
 
-      running = true; alphaCalls = 0; updateCallPills();
-      startMic();
+      running = true;
       pauseBtn.disabled = false; resetBtn.disabled = false; startBtn.disabled = true;
       runNextRep(); // async sequence handled inside
     }
@@ -566,11 +599,11 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
       }
     }
 
-    function pauseSession(){ if (!running) return; running=false; stopMic(); startBtn.disabled=false; pauseBtn.disabled=true; }
-    function resetSession(){ running=false; stopMic(); startBtn.disabled=false; pauseBtn.disabled=true; resetBtn.disabled=true; currentPhase='idle'; updatePhaseLabel(); createOrUpdateText('0.0',0x00ff00); }
+    function pauseSession(){ if (!running) return; running=false;  startBtn.disabled=false; pauseBtn.disabled=true; }
+    function resetSession(){ running=false;  startBtn.disabled=false; pauseBtn.disabled=true; resetBtn.disabled=true; currentPhase='idle'; updatePhaseLabel(); createOrUpdateText('0.0',0x00ff00); }
 
     function endSession(saveIt){
-      running = false; stopMic();
+      running = false;
       startBtn.disabled = false; pauseBtn.disabled = true; resetBtn.disabled = false;
       currentPhase = 'idle'; updatePhaseLabel(); createOrUpdateText('0.0', 0x00ff00);
       if (saveIt){
@@ -590,40 +623,12 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
           drillsCount: Object.keys(byName).length,
           repsCount,
           avgPar: Number(avgPar.toFixed(3)),
-          alphaCalls,
           breakdown, drillNames
         });
         sessions.push(record); save(LS_KEYS.SESSIONS, sessions);
 		setTimeout(() => { speakAsync('Session complete. Well Done.'); }, 600);
       }
     }
-
-    // ---------- Speech (Mic) ----------
-    let recog = null;
-    function hasRecognition(){ return 'webkitSpeechRecognition' in window || 'SpeechRecognition' in window; }
-    function startMic(){
-      if (!hasRecognition()){ micStatus.textContent='unsupported'; return; }
-      const Rec = window.SpeechRecognition || window.webkitSpeechRecognition;
-      recog = new Rec(); recog.lang='en-US'; recog.continuous=true; recog.interimResults=true;
-      recog.onstart = ()=> micStatus.textContent='listening';
-      recog.onerror = (e)=> micStatus.textContent='error: '+e.error;
-      recog.onend = ()=> micStatus.textContent = running ? 'restarting…' : 'stopped';
-      recog.onresult = (ev)=>{
-        for (let i=ev.resultIndex; i<ev.results.length; i++){
-          const res = ev.results[i];
-          if (res.isFinal){
-            const text = res[0].transcript.trim().toLowerCase();
-            if (text){ if (text.includes('alpha')) alphaCalls++; updateCallPills(); }
-          }
-        }
-      };
-      try{ recog.start(); }catch{}
-    }
-    function stopMic(){ if (recog){ try{ recog.stop(); }catch{} recog=null; } micStatus.textContent='idle'; }
-    function updateCallPills(){
-      alphaPill.textContent = 'Alpha: ' + alphaCalls;
-    }
-
     // ---------- Drill UI ----------
     function renderDrills(){
       drillListEl.innerHTML = '';
@@ -677,13 +682,15 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
     [readyMinEl, readyMaxEl, reloadMinEl, reloadMaxEl, ttsEnabledEl, beepEnabledEl]
       .forEach(el=> el.addEventListener('change', ()=>{ syncSettingsFromInputs(true); }));
 
+    
     // ---------- Voice list (robust) ----------
     function fillVoiceSelect(voices){
       voiceSelect.innerHTML = '';
+      const keyOf = (v)=> (v && (v.voiceURI || v.name)) || '';
       if (!voices || !voices.length){
         const opt = document.createElement('option');
         opt.value = '';
-        opt.textContent = 'Loading voices… (click to retry)';
+        opt.textContent = 'Loading voices… (tap to retry)';
         voiceSelect.appendChild(opt);
         voiceSelect.disabled = false;
         return;
@@ -691,42 +698,72 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
       voiceSelect.disabled = false;
       voices.forEach(v=>{
         const opt = document.createElement('option');
-        opt.value = v.name;
+        opt.value = keyOf(v);
         opt.textContent = `${v.name} (${v.lang})${v.default ? ' ★' : ''}`;
         voiceSelect.appendChild(opt);
       });
-      if (settings.voice && [...voiceSelect.options].some(o=>o.value===settings.voice)){
+      // Try to preserve the previous selection by key (voiceURI or name)
+      const opts = [...voiceSelect.options];
+      if (settings.voice && opts.some(o=>o.value===settings.voice)){
         voiceSelect.value = settings.voice;
+      } else if (settings.voice && voices.some(v=>v.name===settings.voice)) {
+        const v = voices.find(v=>v.name===settings.voice);
+        const k = keyOf(v);
+        if (opts.some(o=>o.value===k)) voiceSelect.value = k;
+        settings.voice = voiceSelect.value || null;
+        save(LS_KEYS.SETTINGS, settings);
       } else {
         settings.voice = voiceSelect.value || null;
         save(LS_KEYS.SETTINGS, settings);
       }
     }
-    function getVoicesSafe(){ try { return speechSynthesis.getVoices() || []; } catch { return []; } }
-    function waitForVoices(timeoutMs = 4000){
-      return new Promise(resolve=>{
-        let done = false;
-        const finish = v=>{ if (!done){ done = true; resolve(v||[]); } };
+
+    function getVoicesSafe(){
+      try { return speechSynthesis.getVoices() || []; } catch (e) { return []; }
+    }
+    function waitForVoices(timeoutMs=1500){
+      return new Promise((finish)=>{
         let v = getVoicesSafe();
         if (v.length) return finish(v);
-        const handler = ()=>{ v = getVoicesSafe(); if (v.length) { try{ speechSynthesis.removeEventListener('voiceschanged', handler);}catch{} finish(v); } };
-        try { speechSynthesis.addEventListener('voiceschanged', handler); } catch {}
+        const handler = ()=>{
+          v = getVoicesSafe();
+          if (v.length){
+            try { speechSynthesis.removeEventListener('voiceschanged', handler); } catch (e) {}
+            finish(v);
+          }
+        };
+        try { speechSynthesis.addEventListener('voiceschanged', handler); } catch (e) {}
         const start = performance.now();
         const id = setInterval(()=>{
           v = getVoicesSafe();
-          if (v.length){ clearInterval(id); try{ speechSynthesis.removeEventListener('voiceschanged', handler);}catch{} finish(v); }
-          else if (performance.now() - start > timeoutMs){ clearInterval(id); try{ speechSynthesis.removeEventListener('voiceschanged', handler);}catch{} finish([]); }
+          if (v.length){
+            clearInterval(id);
+            try { speechSynthesis.removeEventListener('voiceschanged', handler); } catch (e) {}
+            finish(v);
+          } else if (performance.now() - start > timeoutMs){
+            clearInterval(id);
+            try { speechSynthesis.removeEventListener('voiceschanged', handler); } catch (e) {}
+            finish([]);
+          }
         },150);
       });
     }
-    function primeTTS(){ try { const u = new SpeechSynthesisUtterance(' '); u.volume = 0; speechSynthesis.speak(u); speechSynthesis.cancel(); } catch {} }
+    function primeTTS(){ try { const u = new SpeechSynthesisUtterance(' '); speechSynthesis.speak(u); speechSynthesis.cancel(); } catch (e) {} }
     async function refreshVoices(){
       let voices = getVoicesSafe();
       if (!voices.length){ primeTTS(); voices = await waitForVoices(); }
       fillVoiceSelect(voices);
     }
-    voiceSelect.addEventListener('change', ()=>{ settings.voice = voiceSelect.value || null; save(LS_KEYS.SETTINGS, settings); });
-    voiceSelect.addEventListener('mousedown', ()=>{ const txt = voiceSelect.options[0]?.textContent || ''; if (!getVoicesSafe().length || /Loading voices/i.test(txt)) refreshVoices(); });
+
+    voiceSelect.addEventListener('change', ()=>{
+      settings.voice = voiceSelect.value || null;
+      save(LS_KEYS.SETTINGS, settings);
+      try{ speechSynthesis.cancel(); }catch(e){}
+    });
+    voiceSelect.addEventListener('mousedown', ()=>{
+      const txt = voiceSelect.options[0]?.textContent || '';
+      if (!getVoicesSafe().length || /Loading voices/i.test(txt)) refreshVoices();
+    });
     if ('speechSynthesis' in window){
       refreshVoices();
       window.addEventListener('pointerdown', ()=>{ if (!getVoicesSafe().length) refreshVoices(); }, { once:true });
@@ -734,28 +771,25 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
       ttsStatus.textContent = 'unavailable';
       fillVoiceSelect([]);
     }
-
-    // ---------- History + Charts ----------
-    let avgParChart = null, accChart = null;
+// ---------- History + Charts ----------
+    let avgParChart = null;
 
 	function renderHistory(){
 	  const tbody = historyTableBody;
 	  tbody.innerHTML = '';
 	  if (!sessions.length){
-		tbody.innerHTML = '<tr><td colspan="6" class="empty-history">No sessions yet. Complete a full session to see it here.</td></tr>';
+		tbody.innerHTML = '<tr><td colspan="4" class="empty-history">No sessions yet. Complete a full session to see it here.</td></tr>';
 		return;
 	  }
 	  sessions.forEach(s=>{
 		const tr = document.createElement('tr');
 		const d = new Date(s.date);
 		const names = s.drillNames || (s.breakdown ? s.breakdown.map(b=>`${b.name} (${b.reps})`).join(', ') : `${s.drillsCount} drills`);
-		const alpha = Number.isFinite(s.alphaCalls) ? s.alphaCalls : 0;   // fallback for old sessions
 		tr.innerHTML = `
 		  <td>${d.toLocaleString()}</td>
 		  <td title="${names}">${names}</td>
 		  <td>${s.repsCount}</td>
 		  <td>${s.avgPar.toFixed(2)}</td>
-		  <td>${alpha}</td>
 		`;
 		tbody.appendChild(tr);
 	  });
@@ -765,20 +799,10 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
 	function updateCharts(){
 	  const labels   = sessions.map(s => new Date(s.date).toLocaleDateString());
 	  const avgPars  = sessions.map(s => s.avgPar);
-	  const alphas   = sessions.map(s => s.alphaCalls || 0);
-
 	  if (avgParChart) avgParChart.destroy();
-	  if (accChart)    accChart.destroy();
-
 	  avgParChart = new Chart(document.getElementById('avgParChart').getContext('2d'), {
 		type: 'line',
 		data: { labels, datasets: [{ label: 'Avg Par (s)', data: avgPars }] },
-		options: { responsive:true, maintainAspectRatio:false }
-	  });
-
-	  accChart = new Chart(document.getElementById('accChart').getContext('2d'), {
-		type: 'bar',
-		data: { labels, datasets: [{ label: 'Alpha calls', data: alphas }] },
 		options: { responsive:true, maintainAspectRatio:false }
 	  });
 	}
@@ -808,6 +832,96 @@ button[disabled]{ opacity:.5; cursor:not-allowed; }
 
     // ---------- Boot ----------
     renderDrills(); syncInputsFromSettings(); renderHistory(); initThree();
-  </script>
+  
+    // ---------- Resizable layout (desktop) ----------
+    (function(){
+      const root = document.documentElement;
+      const layout = document.getElementById('layout');
+      const gutterV = document.getElementById('gutterV');
+      const gutterH = document.getElementById('gutterH');
+      const LS = 'dryfire.layout';
+      const saved = JSON.parse(localStorage.getItem(LS) || '{}');
+      if (saved.leftPx) { root.style.setProperty('--col-left', saved.leftPx + 'px'); try{ document.getElementById('layout').classList.toggle('left-narrow', saved.leftPx < 560); document.getElementById('layout').classList.toggle('left-tiny', saved.leftPx < 460); }catch{} }
+      if (saved.topPx)  root.style.setProperty('--row-top',  saved.topPx  + 'px');
+
+      function clamp(n, min, max){ return Math.max(min, Math.min(max, n)); }
+      function pickNum(cssVar, fallback){ 
+        const v = getComputedStyle(root).getPropertyValue(cssVar).trim();
+        const m = v.match(/([\d.]+)px/); 
+        return m ? parseFloat(m[1]) : fallback; 
+      }
+
+      // Vertical drag: adjusts --col-left
+      let draggingV = false, startX=0, startLeft=0;
+      function onDownV(e){
+        if (e.pointerType === 'touch') return; // desktop only
+        draggingV = true; startX = e.clientX;
+        startLeft = pickNum('--col-left', Math.max(420, Math.round(window.innerWidth*0.58)));
+        gutterV.setPointerCapture(e.pointerId);
+        e.preventDefault();
+      }
+      function setLeftClasses(px){
+        try{
+          const ly = document.getElementById('layout');
+          ly.classList.toggle('left-narrow', px < 560);
+          ly.classList.toggle('left-tiny',   px < 460);
+        }catch{}
+      }
+      function onMoveV(e){
+        if (!draggingV) return;
+        const dx = e.clientX - startX;
+        const minLeft = 360;
+        const maxLeft = Math.max(420, window.innerWidth - 360); // leave at least 360px for right
+        const newLeft = clamp(startLeft + dx, minLeft, maxLeft);
+        root.style.setProperty('--col-left', newLeft + 'px'); setLeftClasses(newLeft);
+      }
+      function onUpV(e){
+        if (!draggingV) return;
+        draggingV = false;
+        const leftPx = parseFloat(getComputedStyle(root).getPropertyValue('--col-left')) || 520;
+        localStorage.setItem(LS, JSON.stringify(Object.assign({}, saved||{}, { leftPx })));
+        try{ gutterV.releasePointerCapture(e.pointerId); }catch{}
+      }
+
+      // Horizontal drag: adjusts --row-top
+      let draggingH = false, startY=0, startTop=0;
+      function onDownH(e){
+        if (e.pointerType === 'touch') return; // desktop only
+        draggingH = true; startY = e.clientY;
+        startTop = pickNum('--row-top', Math.round(window.innerHeight*0.45));
+        gutterH.setPointerCapture(e.pointerId);
+        e.preventDefault();
+      }
+      function onMoveH(e){
+        if (!draggingH) return;
+        const dy = e.clientY - startY;
+        const minTop = 140;             // min height for timer panel
+        const maxTop = window.innerHeight - 260; // leave room for history + footer
+        const newTop = clamp(startTop + dy, minTop, maxTop);
+        root.style.setProperty('--row-top', newTop + 'px');
+      }
+      function onUpH(e){
+        if (!draggingH) return;
+        draggingH = false;
+        const topPx = parseFloat(getComputedStyle(root).getPropertyValue('--row-top')) || 300;
+        const leftPx = parseFloat(getComputedStyle(root).getPropertyValue('--col-left')) || 520;
+        localStorage.setItem(LS, JSON.stringify(Object.assign({}, saved||{}, { leftPx, topPx })));
+        try{ gutterH.releasePointerCapture(e.pointerId); }catch{}
+      }
+
+      try{ (function(){ const ly=document.getElementById('layout'); const cv=parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--col-left'))||520; ly.classList.toggle('left-narrow', cv<560); ly.classList.toggle('left-tiny', cv<460); })(); }catch{}
+      if (gutterV){
+        gutterV.addEventListener('pointerdown', onDownV);
+        gutterV.addEventListener('pointermove', onMoveV);
+        window.addEventListener('pointerup', onUpV);
+      }
+      if (gutterH){
+        gutterH.addEventListener('pointerdown', onDownH);
+        gutterH.addEventListener('pointermove', onMoveH);
+        window.addEventListener('pointerup', onUpH);
+      }
+    })();
+
+</script>
 </body>
 </html>
