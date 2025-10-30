@@ -22,6 +22,7 @@
 	- [[how_to_cold_call]]
 	- [[how_to_write_sales_scripts]]
 	- [[margin_vs_roi]]
+	- [[100m Money Models]]
 - Leila Hormozi
 	- [[business_leadership]]
 - Landing Page
