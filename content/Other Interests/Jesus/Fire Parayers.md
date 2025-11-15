@@ -7,39 +7,38 @@ This document contains all the "Fire Prayers" found at the end of the chapters i
 ### Introductory Declarations (Pre-Chapter 1)
 
 **Fire Prayers (General Foundation)**
-*   By the words I speak through faith in Christ Jesus I stand in the power of the Holy Spirit I believe God's word and I trust the Holy Spirit who lives in me in Jesus name. Amen.
-*   I believe and trust that Jesus is the only way to God, heaven, and eternal life. I believe that Jesus Christ is my Lord and Savior. I have no other gods and no idols in my heart. Jesus Christ is my one and only. I put my faith and trust in the Father, the Son, and the Holy Spirit. In Jesus' name, amen.
-*   It is written in my heart that Jesus Christ's precious blood and the finished work of the cross wiped me clean from the crown of my head to the soles of my feet. He is in me and I am in him. I have eternal life with Jesus my king by the Holy Spirit's power working in me I believe that strength and might come with the anointing God has given me through the blood of Jesus Christ I declare and decree that I will be set free completely and fully in the unmatched name of Jesus Christ. Amen.
-*   As I pray, I declare and decree that I cover myself and my mind, heart, and soul, my house, children, family, and loved ones. And my ministry, church, purpose, and destiny with the blood of Jesus Christ. His blood is the shield over me and over everything I declare. Not only for my good, but also for everything he has placed in my heart. Let every attack of the devil and his demons, every satanic altar that bears my name, and every plot and scheme the devil has set for me be destroyed completely and fully by the power of Jesus's name. Amen.
-*   Holy Spirit, as I pray these prayers, I ask you to make me invisible to all satanic forces and any demonic monitoring system that tries to come against me and my freedom in Jesus name. Amen.
-*   By the anointing and power of the Lord Jesus Christ, I break off from me every hindrance, delay, blockage, and distraction that would stop me from receiving answers to this book's prayers for my life, ministry, purpose, destiny, family, marriage, child, ren, career, job, and everything God has entrusted to me, including my salvation, and my relationship with the Lord Jesus Christ in Jesus' name. Amen.
+* By the words I speak through faith in Christ Jesus I stand in the power of the Holy Spirit. I believe God's word and I trust the Holy Spirit who lives in me in Jesus name, Amen.
+* I believe and trust that Jesus is the only way to God, heaven, and eternal life. I believe that Jesus Christ is my Lord and Savior. I have no other gods and no idols in my heart. Jesus Christ is my one and only. I put my faith and trust in the Father, the Son, and the Holy Spirit. In Jesus' name, amen.
+* It is written in my heart that Jesus Christ's precious blood and the finished work of the cross wiped me clean from the crown of my head to the soles of my feet. He is in me and I am in him. I have eternal life with Jesus my king by the Holy Spirit's power working in me I believe that strength and might come with the anointing God has given me through the blood of Jesus Christ. I declare and decree that I will be set free completely and fully in the unmatched name of Jesus Christ. Amen.
+* As I pray, I declare and decree that I cover myself and my mind, heart, and soul, my house, children, family, and loved ones. And my ministry, church, purpose, and destiny with the blood of Jesus Christ. His blood is the shield over me and over everything I declare. Not only for my good, but also for everything he has placed in my heart. Let every attack of the devil and his demons, every satanic altar that bears my name, and every plot and scheme the devil has set for me be destroyed completely and fully by the power of Jesus's name, Amen.
+* Holy Spirit, as I pray these prayers, I ask you to make me invisible to all satanic forces and any demonic monitoring system that tries to come against me and my freedom in Jesus name, Amen.
+* By the anointing and power of the Lord Jesus Christ, I break off from me every hindrance, delay, blockage, and distraction that would stop me from receiving answers to prayers for my life, ministry, purpose, destiny, family, marriage, children, career, job, and everything God has entrusted to me, including my salvation, and my relationship with the Lord Jesus Christ in Jesus' name. Amen.
 
 ### Chapter 1: The Ministry of Violence (Renunciation & Holiness)
 
-*   By your prayers, Lord Jesus, I renounce every demonic activity, alliance, alignment, and compromise with which I have come into agreement. Today I am deciding in my heart to live in holiness. Let every demonic stronghold, bondage, or struggle in my life be destroyed. Because of the cross, I am covered from the crown of my head to the soles of my feet in Christ himself to live a life that honors him. May the world know that I have been with Jesus, living with purpose and godly values, aligned to his perfect will for my life. I declare and decree that I will not depart from being the person Jesus has called me to be. By his grace, I will not be distracted and no hindrance, delay, or blockage will be able to stop me from being and becoming who I am, a child of the king who is powerful and anointed in spiritual warfare. In the name that is above every name, the name of Jesus. Amen.
+* By your prayers, Lord Jesus, I renounce every demonic activity, alliance, alignment, and compromise with which I have come into agreement. Today I am deciding in my heart to live in holiness. Let every demonic stronghold, bondage, or struggle in my life be destroyed. Because of the cross, I am covered from the crown of my head to the soles of my feet in Christ himself to live a life that honors him. May the world know that I have been with Jesus, living with purpose and godly values, aligned to his perfect will for my life. I declare and decree that I will not depart from being the person Jesus has called me to be. By his grace, I will not be distracted and no hindrance, delay, or blockage will be able to stop me from being and becoming who I am, a child of the king who is powerful and anointed in spiritual warfare. In the name that is above every name, the name of Jesus. Amen.
 
 ### Chapter 3: Utilizing Spiritual Weapons (Victory Declarations)
 
-*   Father, in Jesus name, the mighty name of Jesus Christ, I thank you for the weapons of my warfare. You have made me armed and dangerous to destroy the enemy's evil plots, ws, and schemes. Today, I declare my victory. As for me, in my house, we will serve Jesus Christ all the days of our lives. I celebrate this deliverance in his mighty name. Amen.
+* Father, in Jesus name, the mighty name of Jesus Christ, I thank you for the weapons of my warfare. You have made me armed and dangerous to destroy the enemy's evil plots, and schemes. Today, I declare my victory. As for me, in my house, we will serve Jesus Christ all the days of our lives. I celebrate this deliverance in his mighty name. Amen.
 
 ### Chapter 4: Champion Declarations and Purpose
 
-*   Father, in Jesus' name, I declare and decree over my life that you have made me to be a champion, a spiritual winner, a spiritual sniper. You created me with a purpose and destiny before the foundations of the earth. I'm here to fulfill that purpose and destiny and be a champion for Jesus Christ, my Lord and Savior. Help me, Lord, to make you proud that you picked me for the spiritual warfare fight. I declare this over my life in the unmatchable name of Jesus Christ. Amen.
+* Father, in Jesus' name, I declare and decree over my life that you have made me to be a champion, a spiritual winner, a spiritual sniper. You created me with a purpose and destiny before the foundations of the earth. I'm here to fulfill that purpose and destiny and be a champion for Jesus Christ, my Lord and Savior. Help me, Lord, to make you proud that you picked me for the spiritual warfare fight. I declare this over my life in the unmatchable name of Jesus Christ. Amen.
 
 ### Chapter 8: Identity & Authority Declarations
 
 **By your prayers:**
-*   I confess that I am a child of God.
-*   I declare that I am born again by the spirit of God.
-*   I confess and declare that Jesus Christ has become a curse in my place. Therefore, I am the righteousness of God in Christ Jesus.
-*   I am a citizen of the heavenly kingdom. I don't carry an earthly passport. My passport is written with the blood of Jesus, which tells where I came from and where I am going. In Jesus's name, I confess that by the finished work of the cross, all demons and the devil himself are under my feet in Jesus' name. I am the head and not the tail in Jesus' name. Today and forever more, I reign and rule with Jesus Christ and am seated in heavenly places.
-*   Devil, I remind you that my body is a temple of the Holy Spirit. In the mighty name of Jesus Christ, I am no longer the old person with the old person's weaknesses. I am a new creation and I can do all things through Christ Jesus who paid a price for me and strengthens me in his mighty untouchable name. Amen.
-*   I declare and decree that I am blessed with all spiritual blessings in Christ Jesus. Today and forever, my life is hidden in Christ. Therefore, I will live and not die. No demonic or spiritual premature event will stop me from receiving and accomplishing God's best in Jesus name. Amen.
-*   Devil, I declare that I am not a mistake. I have been chosen, handpicked before the foundations of the earth. In the mighty name of Jesus, I will be used to destroy your kingdom. In this season and the season to come, my hope is in Christ who lives in me and cannot fail. Greater is he who lives in me than he who lives in the world in Jesus' name. Amen.
-*   I confess that I see the goodness of the Lord in my life now in the land of the living. In Jesus' name, amen.
-*   Today I declare that any satanic assignment over my life will be turned into a blessing and will prosper me to accomplish and abound in God's purpose and destiny for me. In Jesus' name, amen.
-*   I know by the word of God that established the heavens and the earth that I have been created to be an overcomer. To triumph over every scheme and plot of the devil over my life, family, loved ones, ministry, career, job, purpose, and destiny. In Jesus mighty name. yesterday, today, and tomorrow. No weapon formed against me will prosper. I curse to the root every demonic word against my life, my season, or my day. In Jesus' name, by the power of Jesus's blood, I quench and destroy every demonic fiery arrow. I send it back to the devil's camp to destroy every evil plot against me in Jesus' name. Amen.
-*   Today I stand on the victory side of Christ's finished work because the one who is in me is greater than the one that lives in the world. I am anointed to accomplish, succeed in, and finish my course by the power of the Holy Spirit who dwells in me. No evil plan, no work of the devil, no scheme of the enemy will be able to stop what God started in me in Jesus' name. Amen.
+* I confess that I am a child of God.
+* I declare that I am born again by the spirit of God.
+* I am a citizen of the heavenly kingdom. I don't carry an earthly passport. My passport is written with the blood of Jesus, which tells where I came from and where I am going. In Jesus's name, I confess that by the finished work of the cross, all demons and the devil himself are under my feet in Jesus' name. I am the head and not the tail in Jesus' name. Today and forever more, I reign and rule with Jesus Christ and am seated in heavenly places.
+* Devil, I remind you that my body is a temple of the Holy Spirit. In the mighty name of Jesus Christ, I am no longer the old person with the old person's weaknesses. I am a new creation and I can do all things through Christ Jesus who paid a price for me and strengthens me in his mighty untouchable name. Amen.
+* I declare and decree that I am blessed with all spiritual blessings in Christ Jesus. Today and forever, my life is hidden in Christ. Therefore, I will live and not die. No demonic event will stop me from receiving and accomplishing God's best in Jesus name. Amen.
+* Devil, I declare that I am not a mistake. I have been chosen, handpicked before the foundations of the earth. In the mighty name of Jesus, I will be used to destroy your kingdom. In this season and the season to come, my hope is in Christ who lives in me and cannot fail. Greater is he who lives in me than he who lives in the world in Jesus' name. Amen.
+* I confess that I see the goodness of the Lord in my life now in the land of the living. In Jesus' name, amen.
+* Today I declare that any satanic assignment over my life will be turned into a blessing and will prosper me to accomplish and abound in God's purpose and destiny for me. In Jesus' name, amen.
+* I know by the word of God that established the heavens and the earth that I have been created to be an overcomer. To triumph over every scheme and plot of the devil over my life, family, loved ones, ministry, career, job, purpose, and destiny. In Jesus mighty name. yesterday, today, and tomorrow. No weapon formed against me will prosper. I curse to the root every demonic word against my life, my season, or my day. In Jesus' name, by the power of Jesus's blood, I quench and destroy every demonic fiery arrow. I send it back to the devil's camp to destroy every evil plot against me in Jesus' name. Amen.
+* Today I stand on the victory side of Christ's finished work because the one who is in me is greater than the one that lives in the world. I am anointed to accomplish, succeed in, and finish my course by the power of the Holy Spirit who dwells in me. No evil plan, no work of the devil, no scheme of the enemy will be able to stop what God started in me in Jesus' name. Amen.
 
 ---
 
@@ -47,74 +46,74 @@ This document contains all the "Fire Prayers" found at the end of the chapters i
 
 ### Chapter 2: Generational Curses & Alignment Breaking
 
-*   Father in Jesus name I renounce and break demonic ties, alignments, hindrances, delays, blockages, distractions and every generational curse against me and my family. Father, we renounce them completely and fully. Lord, I thank you for your great mercy and incredible love in setting me free in Jesus' name. Amen.
+* Father in Jesus name I renounce and break demonic ties, alignments, hindrances, delays, blockages, distractions and every generational curse against me and my family. Father, we renounce them completely and fully. Lord, I thank you for your great mercy and incredible love in setting me free in Jesus' name. Amen.
 
 ### Chapter 5: Repentance & Cleansing
 
 **Fire Prayers:**
-*   Holy Spirit, I present my spirit, soul, and body to you now. In the name of Jesus, Holy Spirit, I ask you to pray over me, through me, and in me. Purify me in the unmatchable name of Jesus Christ.
-*   Holy Spirit, I ask you to bring to my remembrance anything and everything I need to repent of. Help me put all of it on the altar so the fire of God can burn it completely and fully in Jesus' name.
-*   I come before the throne of God where I find mercy and grace. And I repent of all the sins in my mind, in my heart, and in the words of my mouth. In the name of Jesus.
-*   Father, in the name of Jesus, I submit myself to you completely and fully so you can examine me.
-*   Holy Spirit, I ask you to forgive me for having grieved you in any known or unknown way. In Jesus' name,
-*   Lord, I repent and ask your forgiveness for having judged any brother or sister. In Jesus' name,
-*   I repent for every rebellious way in which I have dishonored the Lord Jesus Christ. Please forgive me in Jesus' name.
-*   Holy Spirit, I ask that you put your finger on any area in which I have unforgiveness for anyone so I can completely and fully repent in Jesus' name.
-*   I repent for every time I sinned and came into agreement with the devil. I bind every satanic power that is seen in the negative repetitive patterns and cycles in my life. In the name of Jesus, I pray. Amen.
-*   I curse to the root every hindrance, delay, blockage, and distraction. Let all of it shrivel up and die today in the unmatchable name of Jesus Christ.
-*   I release the fire of the Holy Spirit over every satanic door or gateway that I have opened knowingly or unknowingly that has allowed the devil to enter in any way, shape, or form to bring sin into my life. I repent in the name of Jesus.
-*   I release the arsenals of heaven on every demon that has prayed on my mind, heart or soul to lead me into a lifestyle of sin in Jesus' name. Amen.
-*   Lord, forgive me for offending you, grieving you and breaking your heart because of my shortcomings in Jesus' name. Amen.
-*   I come to true repentance right now. Holy Spirit, purify and sanctify me from the crown of my head to the soles of my feet in Jesus name. Amen.
-*   Lord, by the power of the Holy Spirit, let my weaknesses become strengths in every area of my life in Jesus mighty name. Amen.
-*   Thank you, Lord Jesus, for forgiving me. I praise you and shout hallelujah. Holy Spirit, I invite you back into my heart. I celebrate my salvation, healing, deliverance, and forgiveness in the unmatchable name of Jesus Christ.
+* Holy Spirit, I present my spirit, soul, and body to you now. In the name of Jesus, Holy Spirit, I ask you to pray over me, through me, and in me. Purify me in the unmatchable name of Jesus Christ.
+* Holy Spirit, I ask you to bring to my remembrance anything and everything I need to repent of. Help me put all of it on the altar so the fire of God can burn it completely and fully in Jesus' name.
+* I come before the throne of God where I find mercy and grace. And I repent of all the sins in my mind, in my heart, and in the words of my mouth. In the name of Jesus.
+* Father, in the name of Jesus, I submit myself to you completely and fully so you can examine me.
+* Holy Spirit, I ask you to forgive me for having grieved you in any known or unknown way. In Jesus' name, amen.
+* Lord, I repent and ask your forgiveness for having judged any brother or sister. In Jesus' name, amen.
+* I repent for every rebellious way in which I have dishonored the Lord Jesus Christ. Please forgive me in Jesus' name.
+* Holy Spirit, I ask that you put your finger on any area in which I have unforgiveness for anyone, so I can completely and fully repent in Jesus' name.
+* I repent for every time I sinned and came into agreement with the devil. I bind every satanic power that is seen in the negative repetitive patterns and cycles in my life. In the name of Jesus, I pray. Amen.
+* I curse to the root every hindrance, delay, blockage, and distraction. Let all of it shrivel up and die today in the unmatchable name of Jesus Christ.
+* I release the fire of the Holy Spirit over every satanic door or gateway that I have opened knowingly or unknowingly that has allowed the devil to enter in any way, shape, or form to bring sin into my life. I repent in the name of Jesus.
+* I release the arsenals of heaven on every demon that has prayed on my mind, heart or soul to lead me into a lifestyle of sin in Jesus' name. Amen.
+* Lord, forgive me for offending you, grieving you and breaking your heart because of my shortcomings in Jesus' name. Amen.
+* I come to true repentance right now. Holy Spirit, purify and sanctify me from the crown of my head to the soles of my feet in Jesus name. Amen.
+* Lord, by the power of the Holy Spirit, let my weaknesses become strengths in every area of my life in Jesus mighty name. Amen.
+* Thank you, Lord Jesus, for forgiving me. I praise you and shout hallelujah. Holy Spirit, I invite you back into my heart. I celebrate my salvation, healing, deliverance, and forgiveness in the unmatchable name of Jesus Christ.
 
 ### Chapter 6: Renunciation of Specific Sins & Occult Ties
 
 **Fire Prayers:**
-*   Listen to me Satan as I renounce all known and unknown spiritual agreements that I've made with your kingdom in the name of Jesus. I renounce and reject all satanic contracts, all legal rights, and any demonic offers that I accepted from the kingdom of darkness, the devil, or the demons. I serve them an eviction notice today in the name of Jesus.
-*   I renounce all lust, perversion, and immorality and every unclean, foul, wicked spirit out of my life today in Jesus' name.
-*   I renounce all witchcraft, sorcery, and divination. Every occult practice including tarot cards, ula boards, and horoscopes or any occult involvement on any level in Jesus' name.
-*   I renounce all kinds of ungodly, immoral soul ties that bring shame to the name of Jesus. I command them to loose me now in his mighty name.
-*   Right now I renounce all hatred, anger, resentment, revenge, retribution, unforgiveness, bitterness, and anger in the name of Jesus.
-*   I renounce all demonic or satanic habits, temptations, and struggles that have in any way affected my spiritual life and relationship with the Lord Jesus Christ. Holy Spirit, burn all of it out of me in Jesus' name. Amen.
-*   I renounce pride, envy, jealousy, covetousness, the lust of the eyes, and the lust of the flesh. In the name of Jesus, I renounce every satanic or demonic unclean spirit of homosexual tendencies or practices as well as any perversion, pornography, lust, or sexual relations outside marriage. I cut the rope and I shut the door in the name of Jesus. Amen.
-*   I renounce all ungodly covenants, oaths, and vows that I or anyone in my bloodline has made with the devil. Whether on my mother's or father's side of the family, I curse them to the root. Let them shrivel up and die in the name of Jesus.
-*   I renounce the devil, his kingdom, his practices, and any agreements that I have made with any demons, principalities, territorial spirits, and familial spirits in Jesus' name.
-*   In the name of Jesus, I renounce and revoke any words that I have spoken that have given the devil legal grounds over my life.
-*   In the name of Jesus, I renounce any evil covenants or oaths that I have made with the devil or any demon during my dreams.
-*   I renounce all false demonic prophecies that have been spoken over me in church, by divination inside or outside the church, or by any witch operating in the spirit of the world. I break those words off me now in Jesus' name.
-*   Let every demonic file the devil has had against me from birth until this moment be burned with the fire of the Holy Spirit.
-*   Today I fully and completely renounce every struggle, stronghold, and bondage that has a name on it. Call out the name of each one in Jesus' name. All legal grounds are now destroyed. Let every yes that I have given the devil to access legal grounds against me be turned into a no in the fire of the Holy Spirit in Jesus' name.
-*   By the fire of the Holy Spirit, I renounce every hidden work of darkness in my life. In Jesus' name, amen.
-*   In Jesus' name, I destroy and renounce every demonic contract that is still active against me and my family, ministry, purpose, destiny, marriage, child, ren, and loved ones. Let it burn now in the fire of the Holy Spirit.
-*   I renounce and break off every yoke of bondage, every type of stronghold, and every satanic agreement that I've made with the devil. By the blood of Jesus, I destroy them. Holy Spirit, purify me and fill every void in my life with the blood of Jesus. Fully renew my mind, heart, spirit, and soul. I turn the page against the devil and give the pen back to you, Jesus Christ. Continue writing my story, Lord, so when my life is over, you can be proud that you picked me. I praise you, Jesus, and I shout, "Hallelujah. Thank you, Holy Spirit, for destroying every demonic contract that was over me. In Jesus' name I pray. Amen.
+* Listen to me Satan as I renounce all known and unknown spiritual agreements that I've made with your kingdom in the name of Jesus. I renounce and reject all satanic contracts, all legal rights, and any demonic offers that I accepted from the kingdom of darkness, the devil, or the demons. I serve them an eviction notice today in the name of Jesus.
+* I renounce all lust, perversion, and immorality and every unclean, foul, wicked spirit out of my life today in Jesus' name.
+* I renounce all witchcraft, sorcery, and divination. Every occult practice including tarot cards, ouijla boards, and horoscopes or any occult involvement on any level in Jesus' name.
+* I renounce all kinds of ungodly, immoral soul ties that bring shame to the name of Jesus. I command them to loose me now in his mighty name.
+* Right now I renounce all hatred, anger, resentment, revenge, retribution, unforgiveness, bitterness, and anger in the name of Jesus.
+* I renounce all demonic or satanic habits, temptations, and struggles that have in any way affected my spiritual life and relationship with the Lord Jesus Christ. Holy Spirit, burn all of it out of me in Jesus' name. Amen.
+* I renounce pride, envy, jealousy, covetousness, the lust of the eyes, and the lust of the flesh. In the name of Jesus, I renounce every satanic or demonic unclean spirit of homosexual tendencies or practices as well as any perversion, pornography, lust, or sexual relations outside marriage. I cut the rope and I shut the door in the name of Jesus. Amen.
+* I renounce all ungodly covenants, oaths, and vows that I or anyone in my bloodline has made with the devil. Whether on my mother's or father's side of the family, I curse them to the root. Let them shrivel up and die in the name of Jesus.
+* I renounce the devil, his kingdom, his practices, and any agreements that I have made with any demons, principalities, territorial spirits, and familiar spirits in Jesus' name.
+* In the name of Jesus, I renounce and revoke any words that I have spoken that have given the devil legal grounds over my life.
+* In the name of Jesus, I renounce any evil covenants or oaths that I have made with the devil or any demon during my dreams.
+* I renounce all false demonic prophecies that have been spoken over me in church, by divination inside or outside the church, or by any witch operating in the spirit of the world. I break those words off me now in Jesus' name.
+* Let every demonic file the devil has had against me from birth until this moment be burned with the fire of the Holy Spirit.
+* Today I fully and completely renounce every struggle, stronghold, and bondage that has a name on it. **Call out the name of each one in Jesus' name**. All legal grounds are now destroyed. Let every yes that I have given the devil to access legal grounds against me be turned into a no in the fire of the Holy Spirit in Jesus' name.
+* By the fire of the Holy Spirit, I renounce every hidden work of darkness in my life. In Jesus' name, amen.
+* In Jesus' name, I destroy and renounce every demonic contract that is still active against me and my family, ministry, purpose, destiny, marriage, children, and loved ones. Let it burn now in the fire of the Holy Spirit.
+* I renounce and break off every yoke of bondage, every type of stronghold, and every satanic agreement that I've made with the devil. By the blood of Jesus, I destroy them. Holy Spirit, purify me and fill every void in my life with the blood of Jesus. Fully renew my mind, heart, spirit, and soul. I turn the page against the devil and give the pen back to you, Jesus Christ. Continue writing my story, Lord, so when my life is over, you can be proud that you picked me. I praise you, Jesus, and I shout, "Hallelujah. Thank you, Holy Spirit, for destroying every demonic contract that was over me. In Jesus' name I pray. Amen.
 
 ### Chapter 34: Comprehensive Self-Deliverance
 
 **Fire Prayers:**
-*   Father, in the name of Jesus, I repent of all my sins. Be specific.
-*   Lord, in Jesus' name, I thank you for who you are and for the love I know you have for me. I call on waring angels from Michael's quarter to come down and remove every demon and take it to where the Lord wants it to go. I dip myself, this room, and this whole place in the blood of Jesus. Holy Spirit, I ask you to take over my deliverance in Jesus' name.
-*   I put on notice every demon that has been tormenting me. Come out of me today in Jesus' name.
-*   In the name of Jesus, I break, destroy, and uproot any legal ground that I have given to any demon, whether known or unknown.
-*   I break off me all generational curses of rebellion, witchcraft, lust, poverty, pride, idolatry, egotism, death, premature death, destruction, sickness, infirmity, and fear. I break off every mind controlled devil. All rejection and self-rejection come out of me now in the name of Jesus.
-*   I break off me every spirit of pharmarmacaya, drug addiction, and alcohol addiction. Come out of me now in the name of Jesus.
-*   I break and destroy every bloodline demon of infirmity in my fathers and mother's bloodlines. Come out of me in the name of Jesus.
-*   I break and destroy the spirit of lust, fornication, adultery, masturbation, pornography, lust in my mind, lust in my eyes, fantasies and lust fantasies in my mind, and all spirits of perversion come out of me in the name of Jesus.
-*   All spirits of hurt, rejection, self-rejection, unworthiness, discouragement, depression, and unforgiveness, come out of me now in Jesus' name.
-*   I speak to all unforgiveness, hurt, and pain caused by any betrayal, devil, or person who has let me down or used me for the wrong reasons. Come out of me now in the name of Jesus.
-*   I break the spirit of stubbornness, pride, anger, and bitterness. Every root of disobedience, self, and self-will, and every ignorance, devil that has incarcerated my mind and kept me from receiving what God has for me, come out today in the name of Jesus.
-*   I command every sickness that has taken over my body, any lung issue including asthma and COPD, every heart ailment and heart attack, all aspects of COVID 19, every symptom of monkey pox, all high blood pressure and diabetes to come out of me now in Jesus' name.
-*   I curse to the root every issue relating to barrenness and the inability to reproduce. Come out of me now. I will have a baby in Jesus's name.
-*   Every spirit of cancer, come out of me now in the name of Jesus.
-*   Every demon of headache, migraine, head pressure, high blood pressure, colds, sinuses, bronchitis, flu, coughing, dizziness, and allergy. Come out of me now in the name of Jesus.
-*   I break off me every spirit of doubt, fear, and unbelief, as well as every false prophecy, false teaching, and religious devil that has entered my spiritual space and atmosphere. come out of me in the name of Jesus.
-*   In the name of Jesus, I command every generational curse in my mother's, fathers, grandmothers, and grandfather's bloodlines all the way back to Adam and Eve to come out now. Name each curse that you can identify.
-*   Every spirit of fear, come out of me in the name of Jesus. Name each fear, spirit of torment, come out of me now in the name of Jesus.
-*   I break completely and fully every molestation and rape spirit, every abortion devil, every spirit of bestiality or masturbation, every form of sexual abuse, and every satanic abuse of any kind. Name them individually. Come out now in the name of Jesus.
-*   I break off myself every spirit of shame and guilt and command it to come out of me now in the name of Jesus.
-*   Father, I declare that you will fill every void in my life and in my sisters and brothers lives with the Holy Spirit. I break all backlash, retaliation, and revenge. Lord, trample those spirits right now in the name of Jesus. Let all retribution or reinforcement devils shrivel up and die.
-*   I will declare my victory. I will declare my self- deliverance. I am whole and complete in Jesus Christ. Jesus, I give you the glory, honor, and praise, and I thank you for my self- deliverance today. The things you have ahead are greater than the things I am leaving behind in Jesus mighty name. Amen.
+* Father, in the name of Jesus, I repent of all my sins. **Be specific.**
+* Lord, in Jesus' name, I thank you for who you are and for the love I know you have for me. I call on waring angels from Michael's quarter to come down and remove every demon and take it to where the Lord wants it to go. I dip myself, this room, and this whole place in the blood of Jesus. Holy Spirit, I ask you to take over my deliverance in Jesus' name.
+* I put on notice every demon that has been tormenting me. Come out of me today in Jesus' name.
+* In the name of Jesus, I break, destroy, and uproot any legal ground that I have given to any demon, whether known or unknown.
+* I break off me all generational curses of rebellion, witchcraft, lust, poverty, pride, idolatry, egotism, death, premature death, destruction, sickness, infirmity, and fear. I break off every mind controlled devil. All rejection and self-rejection come out of me now in the name of Jesus.
+* I break off me every spirit of pharmakeia, drug addiction, and alcohol addiction. Come out of me now in the name of Jesus.
+* I break and destroy every bloodline demon of infirmity in my fathers and mother's bloodlines. Come out of me in the name of Jesus.
+* I break and destroy the spirit of lust, fornication, adultery, masturbation, pornography, lust in my mind, lust in my eyes, fantasies and lust fantasies in my mind, and all spirits of perversion come out of me in the name of Jesus.
+* All spirits of hurt, rejection, self-rejection, unworthiness, discouragement, depression, and unforgiveness, come out of me now in Jesus' name.
+* I speak to all unforgiveness, hurt, and pain caused by any betrayal, devil, or person who has let me down or used me for the wrong reasons. Come out of me now in the name of Jesus.
+* I break the spirit of stubbornness, pride, anger, and bitterness. Every root of disobedience, self, and self-will, and every ignorance, devil that has incarcerated my mind and kept me from receiving what God has for me, come out today in the name of Jesus.
+* I command every sickness that has taken over my body, any lung issue including asthma and COPD, every heart ailment and heart attack, all aspects of COVID 19, every symptom of monkey pox, all high blood pressure and diabetes to come out of me now in Jesus' name.
+* I curse to the root every issue relating to barrenness and the inability to reproduce. Come out of me now. I will have a baby in Jesus's name.
+* Every spirit of cancer, come out of me now in the name of Jesus.
+* Every demon of headache, migraine, head pressure, high blood pressure, colds, sinuses, bronchitis, flu, coughing, dizziness, and allergy. Come out of me now in the name of Jesus.
+* I break off me every spirit of doubt, fear, and unbelief, as well as every false prophecy, false teaching, and religious devil that has entered my spiritual space and atmosphere. come out of me in the name of Jesus.
+* In the name of Jesus, I command every generational curse in my mother's, fathers, grandmothers, and grandfather's bloodlines all the way back to Adam and Eve to come out now. **Name each curse that you can identify.**
+* Every spirit of fear, come out of me in the name of Jesus. **Name each fear**, spirit of torment, come out of me now in the name of Jesus.
+* I break completely and fully every molestation and rape spirit, every abortion devil, every spirit of bestiality or masturbation, every form of sexual abuse, and every satanic abuse of any kind. Name them individually. Come out now in the name of Jesus.
+* I break off myself every spirit of shame and guilt and command it to come out of me now in the name of Jesus.
+* Father, I declare that you will fill every void in my life and in my sisters and brothers lives with the Holy Spirit. I break all backlash, retaliation, and revenge. Lord, trample those spirits right now in the name of Jesus. Let all retribution or reinforcement devils shrivel up and die.
+* I will declare my victory. I will declare my self-deliverance. I am whole and complete in Jesus Christ. Jesus, I give you the glory, honor, and praise, and I thank you for my self- deliverance today. The things you have ahead are greater than the things I am leaving behind in Jesus mighty name. Amen.
 
 ---
 
@@ -123,50 +122,50 @@ This document contains all the "Fire Prayers" found at the end of the chapters i
 ### Chapter 7: Discernment & Revelation
 
 **Fire Prayers:**
-*   Father, in the name of Jesus, please remove the blindfold from my eyes.
-*   Holy Spirit, in Jesus' name, I ask you to remove the spiritual cataracts that are clouding my vision.
-*   Holy Spirit, please come into my life and be my best friend in Jesus' name.
-*   Holy Spirit, give me eyes to see in the spirit realm and ears to hear your voice and walk with you all the days of my life.
-*   Holy Spirit, lead, guide, nourish, and protect me. Never let me lose the sound of your voice in my ear. For all my days, let it be crystal clear. I pray this in the mighty name of Jesus Christ. Amen.
-*   Holy Spirit. Just as Paul received abundance of revelation and clarity in his spirit to see the holy things of God, let that be my portion, my purpose, and my destiny. As I walk with you, let nothing of you be cut short in my life. Help me finish my race and say, "I have fought the good fight." Let it be because I knew your voice and discerned all that God has for me. Let that be my beginning and my end in the unmatchable name of Jesus Christ. Amen.
+* Father, in the name of Jesus, please remove the blindfold from my eyes.
+* Holy Spirit, in Jesus' name, I ask you to remove the spiritual cataracts that are clouding my vision.
+* Holy Spirit, please come into my life and be my best friend in Jesus' name.
+* Holy Spirit, give me eyes to see in the spirit realm and ears to hear your voice and walk with you all the days of my life.
+* Holy Spirit, lead, guide, nourish, and protect me. Never let me lose the sound of your voice in my ear. For all my days, let it be crystal clear. I pray this in the mighty name of Jesus Christ. Amen.
+* Holy Spirit. Just as Paul received abundance of revelation and clarity in his spirit to see the holy things of God, let that be my portion, my purpose, and my destiny. As I walk with you, let nothing of you be cut short in my life. Help me finish my race and say, "I have fought the good fight." Let it be because I knew your voice and discerned all that God has for me. Let that be my beginning and my end in the unmatchable name of Jesus Christ. Amen.
 
 ### Chapter 9: Blood of Jesus (Protection & Offense)
 
 **Fire Prayers:**
-*   Let the blood of the cross stand between me and my past, present, and future. Let every demonic assignment of the devil be destroyed today in Jesus' name.
-*   By the blood of Jesus Christ, I destroy, paralyze, and conquer all demonic assignments against my purpose, destiny, family, ministry, and finances. I smite every demon's head with Jesus's blood, destroying every plot and scheme against me. I stand on the victory side of the finished work of the cross in Jesus' name.
-*   Let the power of the blood of Jesus Christ be released into the atmosphere around and in me to destroy every fiery dart, every astral projecting devil from the second and first heaven and every demon on the ground. Let the fire of the Holy Spirit rain on them now in Jesus' name.
-*   Let the power of the blood of Jesus Christ release me from every form of spiritual incarceration and every incarcerating mindset in my heart, spirit, and soul. I am free now in Jesus' name.
-*   Let every unholy door that I have opened to the enemy, whether consciously or unconsciously, be sealed shut now by the blood of Jesus Christ. I stand on God's word covered by Jesus's blood. And I declare over my life and being from the crown of my head to the soles of my feet that I will be unshakable and unmovable in the name of Jesus Christ. Amen.
-*   I soak my life, purpose, and destiny in the blood of Jesus for today and forever more. Let the blood of Jesus Christ strengthen, quicken, and establish me in every area of my life in Jesus' name. Amen.
-*   I declare the blood of Jesus Christ against every portal, gateway, and open door of demonic assignment over my life. Let it be destroyed and sealed shut forever in Jesus' name.
-*   Let the blood of Jesus Christ stand in front of me, beside me, and behind me as a shield against every satanic while, plot, and scheme. I will triumph and be victorious, and I will reach my destiny in Jesus' name.
-*   Let every evil seed the devil has planted or will try to plant in my life be destroyed. Let it shrivel up and die in the name of Jesus.
-*   I apply the blood of Jesus over my house, marriage, child, ren, family, and health and over every divine opportunity in my life in Jesus' name. Amen.
-*   Let every demonic strategy and satanic assignment against my life drown in the blood of Jesus. I draw a line of protection around me, in me, and through me, everywhere I go. No weapon formed against me will prosper. And no devil will be able to stand in my way in the mighty name of Jesus Christ. Amen.
-*   I curse all satanic operations of witches, warlocks, and occult devils against my destiny. I destroy them all with the blood of Jesus. Let the fire of the Holy Spirit fall on the head of every demonic power that is trying to frustrate or stop God's plan for my life. Confuse the devil's camp. Lord, let the demons attack one another. Release my purpose and my destiny now in Jesus' name.
-*   I pour the blood of Jesus over all witchcraft and every altar, assignment, plot, and scheme, as well as every devil that has been assigned to bring destruction to my life, family, ministry, purpose, destiny, and finances. I declare and decree that the arsenals of heaven will reign their power on the wicked heads in the kingdom of darkness, and that they will shrivel up and die in Jesus's name.
-*   Let every satanic meeting of warlocks and witches in which my name is mentioned be destroyed by the blood of Jesus. I release waring angels from Michael's quarter to destroy every demonic strategy the enemy has planned for me this year. Let it be annihilated and pulverized never to rise up against me in any way. In Jesus name, amen.
-*   Father, I give you the praise and glory for what you have done in my life. both the things I know about and the things I don't. I thank you in the untouchable all powerful name of Jesus Christ. Amen.
+* Let the blood of the cross stand between me and my past, present, and future. Let every demonic assignment of the devil be destroyed today in Jesus' name.
+* By the blood of Jesus Christ, I destroy, paralyze, and conquer all demonic assignments against my purpose, destiny, family, ministry, and finances. I smite every demon's head with Jesus's blood, destroying every plot and scheme against me. I stand on the victory side of the finished work of the cross in Jesus' name.
+* Let the power of the blood of Jesus Christ be released into the atmosphere around and in me to destroy every fiery dart, every astral projecting devil from the second and first heaven and every demon on the ground. Let the fire of the Holy Spirit rain on them now in Jesus' name.
+* Let the power of the blood of Jesus Christ release me from every form of spiritual incarceration and every incarcerating mindset in my heart, spirit, and soul. I am free now in Jesus' name.
+* Let every unholy door that I have opened to the enemy, whether consciously or unconsciously, be sealed shut now by the blood of Jesus Christ. I stand on God's word covered by Jesus's blood. And I declare over my life and being from the crown of my head to the soles of my feet that I will be unshakable and unmovable in the name of Jesus Christ. Amen.
+* I soak my life, purpose, and destiny in the blood of Jesus for today and forever more. Let the blood of Jesus Christ strengthen, quicken, and establish me in every area of my life in Jesus' name. Amen.
+* I declare the blood of Jesus Christ against every portal, gateway, and open door of demonic assignment over my life. Let it be destroyed and sealed shut forever in Jesus' name.
+* Let the blood of Jesus Christ stand in front of me, beside me, and behind me as a shield against every satanic plot and scheme. I will triumph and be victorious, and I will reach my destiny in Jesus' name.
+* Let every evil seed the devil has planted or will try to plant in my life be destroyed. Let it shrivel up and die in the name of Jesus.
+* I apply the blood of Jesus over my house, marriage, children, family, and health and over every divine opportunity in my life in Jesus' name. Amen.
+* Let every demonic strategy and satanic assignment against my life drown in the blood of Jesus. I draw a line of protection around me, in me, and through me, everywhere I go. No weapon formed against me will prosper. And no devil will be able to stand in my way in the mighty name of Jesus Christ. Amen.
+* I curse all satanic operations of witches, warlocks, and occult devils against my destiny. I destroy them all with the blood of Jesus. Let the fire of the Holy Spirit fall on the head of every demonic power that is trying to frustrate or stop God's plan for my life. Confuse the devil's camp. Lord, let the demons attack one another. Release my purpose and my destiny now in Jesus' name.
+* I pour the blood of Jesus over all witchcraft and every altar, assignment, plot, and scheme, as well as every devil that has been assigned to bring destruction to my life, family, ministry, purpose, destiny, and finances. I declare and decree that the arsenals of heaven will reign their power on the wicked heads in the kingdom of darkness, and that they will shrivel up and die in Jesus's name.
+* Let every satanic meeting of warlocks and witches in which my name is mentioned be destroyed by the blood of Jesus. I release waring angels from Michael's quarter to destroy every demonic strategy the enemy has planned for me this year. Let it be annihilated and pulverized never to rise up against me in any way. In Jesus name, amen.
+* Father, I give you the praise and glory for what you have done in my life. both the things I know about and the things I don't. I thank you in the untouchable all powerful name of Jesus Christ. Amen.
 
 ### Chapter 10: Dedications & Covenant Breaking (Ancestral/Personal)
 
 **Fire Prayers:**
-*   In the name of Jesus, I confess the sins of my ancestors. Whenever possible, name these sins.
-*   Lord, in Jesus' name, I ask you to forgive me, my mother, and my father for any demonic dedications made over my life. Let the blood of Jesus destroy every satanic dedication and agreement that came through religious practices and worldly involvements wrapped in satanic influences. I break and destroy the cords that are wrapped around me. Loose me now in Jesus's name.
-*   I renounce and uproot any evil dedication placed on my life from the day I was born until this day. In Jesus' name, by the power of the blood of Jesus Christ, I break and destroy every evil ordination, every demonic ceremony dedication, and every known and unknown legal right, whether it was for me, a family member on either side of my bloodline, or any brother or sister in the body of Christ.
-*   I break, destroy, and uproot any evil mystical alignments, and every satanic dedication and agreement. Let all of it burn off me by the fire of the Holy Spirit. In Jesus' name, amen.
-*   I give notice to all demons associated with any evil dedications and agreements I once entered. I hereby break every contract and every legal right formally associated with those dedications and agreements. In the mighty name of Jesus Christ,
-*   Lord, cancel every evil consequence that came through my mother's bloodline and my father's bloodline. break them completely off me today in the name of Jesus.
-*   I command every demon associated with anything I have been committed to, anything I have given myself to, and everything my parents or my family dedicated me to to loose me now in the name of Jesus Christ.
-*   In the name of Jesus, I destroy every principality and power that is over my life. I completely and fully destroy all wickedness that is over my life from high places in the name of Jesus. I destroy all evil dominion. I bind the strong man. I break poverty and unemployment. I break misery. I break every curse, vex, meaning anything that is demonically plaguing or vexing you and all voodoo over my life through demonic and satanic dedications and agreements in the name of Jesus. Amen.
-*   In Jesus' name, I break off every demon that has been assigned with any satanic dedications. Call out the names based on the dedications you accepted. Loose me now. Then go to wherever the Lord Jesus Christ sends you never to return.
-*   I break every witchcraft dedication over my life in the name of Jesus. I destroy any evil assignments and projects I was once involved with.
-*   In the name of Jesus, I break every known and unknown demonic meeting I attended that included demonic influences, demonic strongholds, and satanic agreements, all levels and kinds, and to which I dedicated my time, body, and mind. They include transcendental and other ungodly forms of meditation, any form of yoga, and any wicked mystical practice. I command those devils to loose me now in the name of Jesus. Let the blood of Jesus close the doors behind me now.
-*   By the blood of Jesus that covers me, I cancel my connection to every demon that vexed or cursed me, that brought frustrations, hindrances, delays, or blockages, that involved me in associations of practices, devotion, or allegiance, that accepted loyalty promised by any family member on my behalf, or that was part of any friendship that invited me or that I accepted. surrendering myself to the dark and demonic forces. They are severed today in Jesus' name.
-*   I take authority over all demonic dedications and agreements known and unknown. And I curse them to the root. Let them shrivel up and die in the name of Jesus.
-*   I take authority over every satanic practice and demonic alignment that entered my life from day one. I curse it to the root. Let it shrivel up and die and be uprooted from my life today in the mighty name of Jesus.
-*   Today I come into agreement with the Holy Spirit to purify my entire life and baptize it in the blood of Jesus Christ. There will never be any agreements of any kind between me and the devil and his demons. My life belongs to Jesus Christ and him alone. Father, I celebrate, honor and worship you. I praise you for my deliverance in the unmatchable all powerful name of Jesus Christ.
+* In the name of Jesus, I confess the sins of my ancestors. **Whenever possible, name these sins.**
+* Lord, in Jesus' name, I ask you to forgive me, my mother, and my father for any demonic dedications made over my life. Let the blood of Jesus destroy every satanic dedication and agreement that came through religious practices and worldly involvements wrapped in satanic influences. I break and destroy the cords that are wrapped around me. Loose me now in Jesus's name.
+* I renounce and uproot any evil dedication placed on my life from the day I was born until this day. In Jesus' name, by the power of the blood of Jesus Christ, I break and destroy every evil ordination, every demonic ceremony dedication, and every known and unknown legal right, whether it was for me, a family member on either side of my bloodline, or any brother or sister in the body of Christ.
+* I break, destroy, and uproot any evil mystical alignments, and every satanic dedication and agreement. Let all of it burn off me by the fire of the Holy Spirit. In Jesus' name, amen.
+* I give notice to all demons associated with any evil dedications and agreements I once entered. I hereby break every contract and every legal right formally associated with those dedications and agreements. In the mighty name of Jesus Christ.
+* Lord, cancel every evil consequence that came through my mother's bloodline and my father's bloodline. break them completely off me today in the name of Jesus.
+* I command every demon associated with anything I have been committed to, anything I have given myself to, and everything my parents or my family dedicated me to to loose me now in the name of Jesus Christ.
+* In the name of Jesus, I destroy every principality and power that is over my life. I completely and fully destroy all wickedness that is over my life from high places in the name of Jesus. I destroy all evil dominion. I bind the strong man. I break poverty and unemployment. I break misery. I break every curse, vex, and all voodoo over my life through demonic and satanic dedications and agreements in the name of Jesus. Amen.
+* In Jesus' name, I break off every demon that has been assigned with any satanic dedications. **Call out the names based on the dedications you accepted.** Loose me now. Then go to wherever the Lord Jesus Christ sends you never to return.
+* I break every witchcraft dedication over my life in the name of Jesus. I destroy any evil assignments and projects I was once involved with.
+* In the name of Jesus, I break every known and unknown demonic meeting I attended that included demonic influences, demonic strongholds, and satanic agreements, all levels and kinds, and to which I dedicated my time, body, and mind. They include transcendental and other ungodly forms of meditation, any form of yoga, and any wicked mystical practice. I command those devils to loose me now in the name of Jesus. Let the blood of Jesus close the doors behind me now.
+* By the blood of Jesus that covers me, I cancel my connection to every demon that vexed or cursed me, that brought frustrations, hindrances, delays, or blockages, that involved me in associations of practices, devotion, or allegiance, that accepted loyalty promised by any family member on my behalf, or that was part of any friendship that invited me or that I accepted. surrendering myself to the dark and demonic forces. They are severed today in Jesus' name.
+* I take authority over all demonic dedications and agreements known and unknown. And I curse them to the root. Let them shrivel up and die in the name of Jesus.
+* I take authority over every satanic practice and demonic alignment that entered my life from day one. I curse it to the root. Let it shrivel up and die and be uprooted from my life today in the mighty name of Jesus.
+* Today I come into agreement with the Holy Spirit to purify my entire life and baptize it in the blood of Jesus Christ. There will never be any agreements of any kind between me and the devil and his demons. My life belongs to Jesus Christ and him alone. Father, I celebrate, honor and worship you. I praise you for my deliverance in the unmatchable all powerful name of Jesus Christ.
 
 ### Chapter 11: Attacking Gates of Hell & Demonic Agendas
 
