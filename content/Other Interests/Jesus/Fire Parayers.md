@@ -170,240 +170,239 @@ This document contains all the "Fire Prayers" found at the end of the chapters i
 ### Chapter 11: Attacking Gates of Hell & Demonic Agendas
 
 **Fire Prayers:**
-*   Father, you have blessed the seed of Abraham to possess the gates of his enemies. Let that be my story in the name of Jesus. I release the fire of the Holy Spirit and the blood of Jesus to destroy all my enemies today in Jesus' name.
-*   Let any gate of the devil against my life, family, marriage, child, ren, ministry, purpose, and destiny be destroyed by the fire of God today in Jesus' name. Amen.
-*   Let every evil gate that is blocking my blessings, purpose, and destiny be destroyed and uprooted today in Jesus' name.
-*   I release the fire of heaven to destroy every demonic doorkeeper of the gates of hell that has plotted against me. Let them be destroyed in Jesus' name.
-*   I cage up every demon that is plotting against me in any way in Jesus' name.
-*   I destroy the gates of hell. Let every agenda that has my name on it and every plot and scheme be destroyed, removed, uprooted, cursed to the root and shriveled up. Let them die in Jesus' name.
-*   I release fire from heaven on every gate or portal, every open door, and every demon that has made its way into my purpose and destiny. Just as Pharaoh drowned in the Red Sea. Let them drown in the blood of Jesus now.
-*   Right now, I destroy in the blood of Jesus every demon and demonic transaction that the devil has plotted against me. I release my family, myself, and my ministry, purpose, destiny, and finances from the gates of hell. They will not prevail. Let them be burned to ashes in Jesus' name.
-*   I destroy every demonic agenda, every satanic monitoring device that surveills me, my family, my church, and my ministry in the spirit realm. Let their eyes be plucked out and let them be blinded forever in Jesus's name.
-*   I renounce Satan and his hosts of hell, known and unknown, that are trying to destroy my purpose and my destiny. Let them drown in the blood of Jesus completely and fully in Jesus' name. Amen.
-*   I release the anointing and authority God has given me to destroy the gates of hell. Every evil work, plot, and scheme from the north, south, east, and west. Let them drown in the blood of Jesus. Let the fire of God destroy any altars that have my name on them. And every entrament that has been set against me and my family, church, ministry, purpose, destiny, finances, marriage, and children, we will rise up. We will live and not die, and will declare the works of the Lord. Together we will pulverize the gates of hell once and for all in Jesus untouchable and mighty name.
+* Father, you have blessed the seed of Abraham to possess the gates of his enemies. Let that be my story in the name of Jesus. I release the fire of the Holy Spirit and the blood of Jesus to destroy all my enemies today in Jesus' name.
+* Let any gate of the devil against my life, family, marriage, children, ministry, purpose, and destiny be destroyed by the fire of God today in Jesus' name. Amen.
+* Let every evil gate that is blocking my blessings, purpose, and destiny be destroyed and uprooted today in Jesus' name.
+* I release the fire of heaven to destroy every demonic doorkeeper of the gates of hell that has plotted against me. Let them be destroyed in Jesus' name.
+* I cage up every demon that is plotting against me in any way in Jesus' name.
+* I destroy the gates of hell. Let every agenda that has my name on it and every plot and scheme be destroyed, removed, uprooted, cursed to the root and shriveled up. Let them die in Jesus' name.
+* I release fire from heaven on every gate or portal, every open door, and every demon that has made its way into my purpose and destiny. Just as Pharaoh's army drowned in the Red Sea. Let them drown in the blood of Jesus now.
+* Right now, I destroy in the blood of Jesus every demon and demonic transaction that the devil has plotted against me. I release my family, myself, and my ministry, purpose, destiny, and finances from the gates of hell. They will not prevail. Let them be burned to ashes in Jesus' name.
+* I destroy every demonic agenda, every satanic monitoring device that surveils me, my family, my church, and my ministry in the spirit realm. Let their eyes be plucked out and let them be blinded forever in Jesus's name.
+* I renounce Satan and his hosts of hell, known and unknown, that are trying to destroy my purpose and my destiny. Let them drown in the blood of Jesus completely and fully in Jesus' name. Amen.
+* I release the anointing and authority God has given me to destroy the gates of hell. Every evil work, plot, and scheme from the north, south, east, and west. Let them drown in the blood of Jesus. Let the fire of God destroy any altars that have my name on them. And every entrapment that has been set against me and my family, church, ministry, purpose, destiny, finances, marriage, and children. We will live and not die, and will declare the works of the Lord. Together we will pulverize the gates of hell once and for all in Jesus untouchable and mighty name.
 
 ### Chapter 12: Destroying Monitoring Systems
 
 **Fire Prayers:**
-*   Father, I thank you that through your Holy Spirit, you have given me the anointing and firepower I need against the devil and every monitoring system in his kingdom. In Jesus' name.
-*   In the name of Jesus Christ, I release the fire of the Holy Spirit on every demonic monitoring system and all forces of darkness that speak my name. I bring them down completely and fully. Let them be destroyed today by the blood of Jesus.
-*   I pick up the sword and run into battle the way David ran toward Goliath. I destroy and chop down every evil monitoring device that continually watches me, my family, and my marriage, child, ren, loved ones, ministry, church, purpose, and destiny. I shred it into pieces in Jesus' name.
-*   Let every evil spirit, every witch, warlock, wizard, and sorcerer that has been paid to monitor my life through witchcraft and the occult have its spiritual eyes plucked out now in the name of Jesus.
-*   I destroy and curse to the root every demonic frequency that the devil is using to monitor my life, family, church, purpose, and destiny. I put it in the fire of the Holy Spirit and burn it to ashes in Jesus' name.
-*   Let every demon and devi that is stalking me in the spirit die now and be drowned in the blood of Jesus just as Pharaoh and his army were drowned in the Red Sea in Jesus' name. Amen.
-*   Let blindness come on every monitoring spirit now in Jesus' name.
-*   Let every devil, demon, and territorial principality that has been assigned to monitor me die today in Jesus name.
-*   I destroy every satanic dispatching system and every evil unleashed against my days and nights. I break all monitoring and demonic assignments and every evil frequency operating against me. Let them fall to the ground, shrivel up and die in Jesus' name. Amen.
-*   In the name of Jesus, I put the fire of God on the head of every demon that is trying to track me down in the spirit. I destroy all demonic evil guards that are trying to surround me and watch every spiritual step I take. Let the sword of the spirit be plunged into their hearts. In Jesus' name I pray.
-*   Let all contamination that has fallen on me from every monitoring system be destroyed and removed today in the name of Jesus.
-*   Let every trick that has my name on it in any demonic or satanic playbook be destroyed by the blood of Jesus Christ. Let blindness come on every demon, devil, and demonic force that attempts to destroy my purpose and destiny in the untouchable, unmatchable name of Jesus Christ. Amen.
-*   for myself and my family, loved ones, ministry, finances, purpose, and destiny. I plead by the blood of Jesus that all satanic systems mentioning our names in the demonic world realm and atmosphere be destroyed, never to rise again. In the mighty name of my Lord and Savior Jesus Christ. Amen. I praise the name of Jesus and I thank him for all the victories that he is giving me today. Amen.
+* Father, I thank you that through your Holy Spirit, you have given me the anointing and firepower I need against the devil and every monitoring system in his kingdom. In Jesus' name.
+* In the name of Jesus Christ, I release the fire of the Holy Spirit on every demonic monitoring system and all forces of darkness that speak my name. I bring them down completely and fully. Let them be destroyed today by the blood of Jesus.
+* I pick up the sword and run into battle the way David ran toward Goliath. I destroy and chop down every evil monitoring device that continually watches me, my family, and my marriage, children, loved ones, ministry, church, purpose, and destiny. I shred it into pieces in Jesus' name.
+* Let every evil spirit, every witch, warlock, wizard, and sorcerer that has been paid to monitor my life through witchcraft and the occult have its spiritual eyes plucked out now in the name of Jesus.
+* I destroy and curse to the root every demonic frequency that the devil is using to monitor my life, family, church, purpose, and destiny. I put it in the fire of the Holy Spirit and burn it to ashes in Jesus' name.
+* Let every demon and devil that is stalking me in the spirit die now and be drowned in the blood of Jesus just as Pharaoh's army were drowned in the Red Sea in Jesus' name. Amen.
+* Let blindness come on every monitoring spirit now in Jesus' name.
+* Let every devil, demon, and territorial principality that has been assigned to monitor me die today in Jesus name.
+* I destroy every satanic dispatching system and every evil unleashed against my days and nights. I break all monitoring and demonic assignments and every evil frequency operating against me. Let them fall to the ground, shrivel up and die in Jesus' name. Amen.
+* In the name of Jesus, I put the fire of God on the head of every demon that is trying to track me down in the spirit. I destroy all demonic evil guards that are trying to surround me and watch every spiritual step I take. Let the sword of the spirit be plunged into their hearts. In Jesus' name I pray.
+* Let all contamination that has fallen on me from every monitoring system be destroyed and removed today in the name of Jesus.
+* Let every trick that has my name on it in any demonic or satanic playbook be destroyed by the blood of Jesus Christ. Let blindness come on every demon, devil, and demonic force that attempts to destroy my purpose and destiny in the untouchable, unmatchable name of Jesus Christ. Amen.
+* For myself and my family, loved ones, ministry, finances, purpose, and destiny. I plead by the blood of Jesus that all satanic systems mentioning our names in the demonic world realm and atmosphere be destroyed, never to rise again. In the mighty name of my Lord and Savior Jesus Christ. Amen. I praise the name of Jesus and I thank him for all the victories that he is giving me today. Amen.
 
 ### Chapter 13: Destruction of Satanic Altars
 
 **Fire Prayers:**
-*   Today I serve an eviction notice on every demonic, evil, satanic altar with my name or my family's name engraved on it. Our names are removed now in the name of Jesus.
-*   I curse to its root every satanic altar that has my birth certify on it and I wash it away with the blood of Jesus.
-*   I put the fire of God on every satanic altar designed to steal, kill, and destroy me, my family, or my purpose and destiny. burn to ashes and be destroyed in Jesus' name.
-*   Let every demonic altar that is aimed at my finances to bring the spirit of poverty shrivel up and die in the name of Jesus.
-*   By the blood of Jesus, I break, destroy, and completely pulverize every satanic altar that has anything to do with my name or any spirit of sickness. Let it shrivel up and die in Jesus' name.
-*   I destroy every satanic altar that has incarcerated my ministry, purpose, or destiny. I curse it to the root. Let it shrivel up and die. Release me now in Jesus' name. Amen.
-*   Today, I pluck out the eyes of every demonic altar that has monitored me in the spirit realm. Be blinded forever, never to find me again. In Jesus' name, amen.
-*   I destroy every satanic altar right now and remove my name and my family's bloodlines completely and fully in Jesus's name.
-*   I say to every demonic altar with spirit husbands, wife spirits, marine spirits, water spirits, accident spirits, divorce devils, and premature death devils. Shrivel up and die now in Jesus' name. Amen.
-*   Let the fire of God fall on every satanic altar on which my name has been called into the dark places. Let it be burned and destroyed completely in Jesus' name.
-*   I break and destroy every demonic altar that has my marriage on it. It is not my purpose or destiny to live on any satanic altar. Let my purpose and destiny be loosed now in Jesus' name.
-*   The bloodlines of my children, my children's children, and all my family will be purified and removed from any kind of satanic altar in Jesus' name.
-*   I cancel every agreement I have made, both known and unknown, that put my name on any satanic altars. Let these agreements and the altars be destroyed today in Jesus' name.
-*   Let every area of my life be completely and fully delivered in the mighty name of Jesus Christ.
-*   In Jesus' name, I refuse to come into agreement with the devil and any kind of satanic altar during my dreams. I cancel any and every agreement that came out of my mouth, heart, or thinking and put my name on any altar. Let those agreements be canceled and destroyed now in Jesus' name.
-*   Lord Jesus, I walk toward your cross, leaving behind every evil plot, scheme, while association, compromise, and demonic door. I renounce any agreements I have made with any devils, either consciously or unconsciously, that have put or that I have allowed to put my name on any satanic altar. I cancel them today and renounce them fully in the mighty name of Jesus Christ.
-*   Lord God, I give you all the glory and praise. I worship you. Thank you for setting me free in Jesus' name.
+* Today I serve an eviction notice on every demonic, evil, satanic altar with my name or my family's name engraved on it. Our names are removed now in the name of Jesus.
+* I curse to its root every satanic altar that has my birth certificate on it and I wash it away with the blood of Jesus.
+* I put the fire of God on every satanic altar designed to steal, kill, and destroy me, my family, or my purpose and destiny. burn to ashes and be destroyed in Jesus' name.
+* Let every demonic altar that is aimed at my finances to bring the spirit of poverty shrivel up and die in the name of Jesus.
+* By the blood of Jesus, I break, destroy, and completely pulverize every satanic altar that has anything to do with my name or any spirit of sickness. Let it shrivel up and die in Jesus' name.
+* I destroy every satanic altar that has incarcerated my ministry, purpose, or destiny. I curse it to the root. Let it shrivel up and die. Release me now in Jesus' name. Amen.
+* Today, I pluck out the eyes of every demonic altar that has monitored me in the spirit realm. Be blinded forever, never to find me again. In Jesus' name, amen.
+* I destroy every satanic altar right now and remove my name and my family's bloodlines completely and fully in Jesus's name.
+* I say to every demonic altar with spirit husbands, wife spirits, marine spirits, water spirits, accident spirits, divorce devils, and premature death devils. Shrivel up and die now in Jesus' name. Amen.
+* Let the fire of God fall on every satanic altar on which my name has been called into the dark places. Let it be burned and destroyed completely in Jesus' name.
+* I break and destroy every demonic altar that has my marriage on it. It is not my purpose or destiny to live on any satanic altar. Let my purpose and destiny be loosed now in Jesus' name.
+* The bloodlines of my children, my children's children, and all my family will be purified and removed from any kind of satanic altar in Jesus' name.
+* I cancel every agreement I have made, both known and unknown, that put my name on any satanic altars. Let these agreements and the altars be destroyed today in Jesus' name.
+* Let every area of my life be completely and fully delivered in the mighty name of Jesus Christ.
+* In Jesus' name, I refuse to come into agreement with the devil and any kind of satanic altar during my dreams. I cancel any and every agreement that came out of my mouth, heart, or thinking and put my name on any altar. Let those agreements be canceled and destroyed now in Jesus' name.
+* Lord Jesus, I walk toward your cross, leaving behind every evil plot, scheme, while association, compromise, and demonic door. I renounce any agreements I have made with any devils, either consciously or unconsciously, that have put or that I have allowed to put my name on any satanic altar. I cancel them today and renounce them fully in the mighty name of Jesus Christ.
+* Lord God, I give you all the glory and praise. I worship you. Thank you for setting me free in Jesus' name.
 
 ### Chapter 14: Witchcraft & Manipulation Destruction
 
 **Fire Prayers:**
-*   Let the thunder and the lightning bolts of God get and destroy every demonic target in the enemy's camp that has my name on it. Let every spirit of witchcraft and manipulation be brought down and burned to ashes in Jesus' name.
-*   Let every mindontrolling devil that has directed my thinking be destroyed today along with every demonic force that has wrapped itself around any part of my life in Jesus' name.
-*   Today I put the fire and judgment of God on any altars of witchcraft against my family, name, purpose, and identity. Let those altars burn to ashes in Jesus' name. Amen.
-*   Let every witch, warlock, and sorcerer that has sent witchcraft and the manipulation spirit against any aspect of my life, family, ministry, or church be completely and fully destroyed in Jesus' name.
-*   I put the fire of God on every hiding place in the demonic realm of the spirit. Let it burn out any devils that have tracked, stalked, and manipulated me and let them drown in the blood of Jesus. In Jesus' name, amen.
-*   I release the consuming fire of the Holy Spirit on every devil and witch that has infiltrated my home, church, or business. Today they will shrivel up and die in Jesus' name. Amen.
-*   I destroy every satanic altar of manipulation, devils, witchcraft, devils, and mind control devils. I burn to ashes all altars and demonic assignments against my life in Jesus' name. Amen.
-*   I pull down any veil of darkness that is over my mind along with all cloudiness and satanic darkness that covers my heart, controls my thinking, or manipulates me in any way. Let them be destroyed now in Jesus' name.
-*   By the blood of Jesus, I destroy every known and unknown witchcraft curse that is working against me. I destroy any demonic covenants or demonic vows I have made with the devil and his demons through manipulation over my life. In the name of Jesus, let them be destroyed.
-*   By the fire of God, I destroy every demonic arsenal of witchcraft that is set against me. In Jesus' name I pray. Amen.
-*   In Jesus' name, I break, destroy, and dismantle every witchcraft devil, manipulation, devil, and demonic assignment of the enemy against me and my family.
-*   In Jesus' name, let every entrament of witches and warlocks that has been chasing me, whether in my sleep or my waking hours, be destroyed. I completely and fully destroy every plot, scheme, and while of the devil against me, my family, my church, and my ministry. Let these evil means drown now in the blood of Jesus.
-*   In Jesus' name, I break and destroy all forms of witchcraft and every bewitchment that is over my life. Holy Spirit, deliver my mind today in the name of Jesus.
-*   Holy Spirit, deliver my finances today. In Jesus' name, I break all forms of witchcraft against my finances. I break every curse of poverty over my finances, life, family, and home in Jesus' name.
-*   In the name of Jesus, I break every witchcraft demon over my health. Let it burn, shrivel up, and die.
-*   In Jesus' name, I destroy every council of witches and warlocks that has released manipulation spirits against me.
-*   In the name of Jesus, I send the fire of God on the devil's camp and against any witches invoking my name.
-*   I kill in the spirit realm all damages to my purpose and destiny that were caused by witches, warlocks, spiritual assignments against my life and manipulation devils. By the blood of Jesus, I destroy those devils today. Lord, release me now in Jesus's name.
-*   I destroy every demonic manipulation spirit that is holding back my spiritual inheritance. Let that manipulation burn to ashes in Jesus' name.
-*   I destroy every warlock, witch, and demonic spirit that has crept into my dreams to manipulate and control my purpose and my destiny. Let these evil workers be destroyed in Jesus' name.
-*   I command the fire of the Holy Spirit to purify and sanctify me. Holy Spirit, fill up every void in my mind, heart, spirit, and soul in Jesus' name. Amen.
-*   In Jesus' name, I release the anointing of the Holy Spirit on, in, and through me. In the name of Jesus, I release the oil of heaven to fill and overflow my cup with the anointing of the Holy Spirit over my life. Lord, I stand in agreement with the Holy Spirit's renewing of my life from the crown of my head to the soles of my feet in Jesus name. Amen.
+* Let the thunder and the lightning bolts of God get and destroy every demonic target in the enemy's camp that has my name on it. Let every spirit of witchcraft and manipulation be brought down and burned to ashes in Jesus' name.
+* Let every mind controlling devil that has directed my thinking be destroyed today along with every demonic force that has wrapped itself around any part of my life in Jesus' name.
+* Today I put the fire and judgment of God on any altars of witchcraft against my family, name, purpose, and identity. Let those altars burn to ashes in Jesus' name. Amen.
+* Let every witch, warlock, and sorcerer that has sent witchcraft and the manipulation spirit against any aspect of my life, family, ministry, or church be completely and fully destroyed in Jesus' name.
+* I put the fire of God on every hiding place in the demonic realm of the spirit. Let it burn out any devils that have tracked, stalked, and manipulated me and let them drown in the blood of Jesus. In Jesus' name, amen.
+* I release the consuming fire of the Holy Spirit on every devil and witch that has infiltrated my home, church, or business. Today they will shrivel up and die in Jesus' name. Amen.
+* I destroy every satanic altar of manipulation, witchcraft, and mind control devils. I burn to ashes all altars and demonic assignments against my life in Jesus' name. Amen.
+* I pull down any veil of darkness that is over my mind along with all cloudiness and satanic darkness that covers my heart, controls my thinking, or manipulates me in any way. Let them be destroyed now in Jesus' name.
+* By the blood of Jesus, I destroy every known and unknown witchcraft curse that is working against me. I destroy any demonic covenants or demonic vows I have made with the devil and his demons through manipulation over my life. In the name of Jesus, let them be destroyed.
+* By the fire of God, I destroy every demonic arsenal of witchcraft that is set against me. In Jesus' name I pray. Amen.
+* In Jesus' name, I break, destroy, and dismantle every witchcraft, manipulation, and demonic assignment of the enemy against me and my family.
+* In Jesus' name, let every entrapment of witches and warlocks that has been chasing me, whether in my sleep or my waking hours, be destroyed. I completely and fully destroy every plot, scheme, and while of the devil against me, my family, my church, and my ministry. Let these evil means drown now in the blood of Jesus.
+* In Jesus' name, I break and destroy all forms of witchcraft and every bewitchment that is over my life. Holy Spirit, deliver my mind today in the name of Jesus.
+* Holy Spirit, deliver my finances today. In Jesus' name, I break all forms of witchcraft against my finances. I break every curse of poverty over my finances, life, family, and home in Jesus' name.
+* In the name of Jesus, I break every witchcraft demon over my health. Let it burn, shrivel up, and die.
+* In Jesus' name, I destroy every council of witches and warlocks that has released manipulation spirits against me.
+* In the name of Jesus, I send the fire of God on the devil's camp and against any witches invoking my name.
+* I kill in the spirit realm all damages to my purpose and destiny that were caused by witches, warlocks, spiritual assignments against my life and manipulation devils. By the blood of Jesus, I destroy those devils today. Lord, release me now in Jesus's name.
+* I destroy every demonic manipulation spirit that is holding back my spiritual inheritance. Let that manipulation burn to ashes in Jesus' name.
+* I destroy every warlock, witch, and demonic spirit that has crept into my dreams to manipulate and control my purpose and my destiny. Let these evil workers be destroyed in Jesus' name.
+* I command the fire of the Holy Spirit to purify and sanctify me. Holy Spirit, fill up every void in my mind, heart, spirit, and soul in Jesus' name. Amen.
+* In Jesus' name, I release the anointing of the Holy Spirit on, in, and through me. In the name of Jesus, I release the oil of heaven to fill and overflow my cup with the anointing of the Holy Spirit over my life. Lord, I stand in agreement with the Holy Spirit's renewing of my life from the crown of my head to the soles of my feet in Jesus name. Amen.
 
 ### Chapter 15: Astral Projection Attacks
 
 **Fire Prayers:**
-*   In the name of Jesus, I declare that the heavens will hear my voice as I break down, destroy, and dismantle every demonic atmosphere.
-*   Holy Spirit, release the judgment of God on every astral projection silver cord today. Let it be destroyed, dismantled, and uprooted in Jesus' name. Amen.
-*   In the name of Jesus, let every demonic warlock and witch of darkness that is astral projecting against me be brought down to the ground right now. Let the silver cord be destroyed never to arise again in Jesus' name.
-*   In the name of Jesus, I put the fire of God on every astral projecting demon that is trying to infiltrate my home and dreams. Let it be destroyed now.
-*   I destroy every kind of satanic contract, demonic covenant, and silver cord that enables astral projecting into my home. I curse it to the root. Let it shrivel up and die in Jesus's name. Amen.
-*   By the fire of the Holy Spirit, let every devil that is astral projecting to carry out demonic assignments against my life, family, ministry, and business burn to the ground in Jesus' name. Amen.
-*   May the angels of the Lord encamp around me and my family, home, purpose, and destiny. In the mighty name of Jesus Christ. Amen.
-*   Today in the name of Jesus, I take over the atmospheres and airways of every astral projecting devil and I confuse them in the air. Let the silver cord now be destroyed completely in the name of Jesus.
-*   In the name of Jesus, I uproot every demonic silver cord of astral projecting. I separate the person and the demon and I void the demonic assignment now in Jesus' name.
-*   With every demonic person who is traveling in the spirit realm to spy on me, I destroy the contract between you and the demon. Let it be known in the demon world that you will no longer be able to operate at any level of the satanic kingdom to astral project ever again in Jesus' name.
-*   In the name of Jesus, I strip naked every demonic warlock, witch, and sorcerer that is trying to come against me. Let the judgment of God fall on the head of every devil that is trying to torment me. my family and my loved ones by astral projecting. Let them be tormented night and day until they come to repentance. In Jesus' name I pray.
-*   Let every witch that is astral projecting into my church, ministry, home, or business to void, alter, or edit my purpose and destiny be prevented. As I put the fire of God on every silver cord, let each contract burn to ashes. By the fire of the Holy Spirit, I completely and fully destroy every satanic council in Jesus' name. Amen.
-*   Father God, bring your judgment on every astral projecting witch and warlock and let the silver cord be destroyed now in the name of Jesus. Let the fire of the Holy Spirit take vengeance on every astral projecting satanic agent. I destroy your assignment over every region, state, and community. I destroy your evil plan and evil work by the fire of the Holy Spirit. Be brought down to nothing in Jesus' name.
-*   Father, I thank you that my enemy has been disgraced and that all assignments of astral projecting against my church, family, ministry, home, marriage, purpose, and destiny have been cancelled by the blood of Jesus Christ. I claim the victory over them today and forever more in Jesus mighty name. Amen. Lord Jesus Christ, I praise you and thank you for the victory.
+* In the name of Jesus, I declare that the heavens will hear my voice as I break down, destroy, and dismantle every demonic atmosphere.
+* Holy Spirit, release the judgment of God on every astral projection silver cord today. Let it be destroyed, dismantled, and uprooted in Jesus' name. Amen.
+* In the name of Jesus, let every demonic warlock and witch of darkness that is astral projecting against me be brought down to the ground right now. Let the silver cord be destroyed never to arise again in Jesus' name.
+* In the name of Jesus, I put the fire of God on every astral projecting demon that is trying to infiltrate my home and dreams. Let it be destroyed now.
+* I destroy every kind of satanic contract, demonic covenant, and silver cord that enables astral projecting into my home. I curse it to the root. Let it shrivel up and die in Jesus's name. Amen.
+* By the fire of the Holy Spirit, let every devil that is astral projecting to carry out demonic assignments against my life, family, ministry, and business burn to the ground in Jesus' name. Amen.
+* May the angels of the Lord encamp around me and my family, home, purpose, and destiny. In the mighty name of Jesus Christ. Amen.
+* Today in the name of Jesus, I take over the atmospheres and airways of every astral projecting devil and I confuse them in the air. Let the silver cord now be destroyed completely in the name of Jesus.
+* In the name of Jesus, I uproot every demonic silver cord of astral projecting. I separate the person and the demon and I void the demonic assignment now in Jesus' name.
+* With every demonic person who is traveling in the spirit realm to spy on me, I destroy the contract between you and the demon. Let it be known in the demon world that you will no longer be able to operate at any level of the satanic kingdom to astral project ever again in Jesus' name.
+* In the name of Jesus, I strip naked every demonic warlock, witch, and sorcerer that is trying to come against me. Let the judgment of God fall on the head of every devil that is trying to torment me. my family and my loved ones by astral projecting. Let them be tormented night and day until they come to repentance. In Jesus' name I pray.
+* Let every witch that is astral projecting into my church, ministry, home, or business to void, alter, or edit my purpose and destiny be prevented. As I put the fire of God on every silver cord, let each contract burn to ashes. By the fire of the Holy Spirit, I completely and fully destroy every satanic council in Jesus' name. Amen.
+* Father God, bring your judgment on every astral projecting witch and warlock and let the silver cord be destroyed now in the name of Jesus. Let the fire of the Holy Spirit take vengeance on every astral projecting satanic agent. I destroy your assignment over every region, state, and community. I destroy your evil plan and evil work by the fire of the Holy Spirit. Be brought down to nothing in Jesus' name.
+* Father, I thank you that my enemy has been disgraced and that all assignments of astral projecting against my church, family, ministry, home, marriage, purpose, and destiny have been cancelled by the blood of Jesus Christ. I claim the victory over them today and forever more in Jesus mighty name. Amen. Lord Jesus Christ, I praise you and thank you for the victory.
 
 ### Chapter 16: Breaking Hindrance, Delay, and Blockage
 
 **Fire Prayers:**
-*   Father, I thank you that you are my shepherd and that your hand is on my life. I glorify and praise you in Jesus' name.
-*   Lord, I know that even when I don't sense it, you always hear my prayers. I thank you for that in Jesus' name.
-*   I speak to every door of progress in my life and I tell it to open now in Jesus' name.
-*   Lord, I thank you for being the key that opens every door in my life in Jesus' name. Amen.
-*   Today, I stand before this mountain of hindrance, knowing that I have the anointing to overcome every demonic roadblock and obstacle. Therefore, I curse the mountain to the root. Let it shrivel up and die in Jesus' name.
-*   In the name of Jesus, I remove my name from every satanic altar of hindrance and delay. I release the fire of the Holy Spirit on every hindrance, delay, blockage, and distraction that came through a door I consciously or unconsciously opened. Let it be destroyed today in Jesus' name.
-*   I command lightning to strike the head of every satanic hindrance and delay in the name of Jesus. Let the judgment of God fall on their heads and release me now.
-*   By the power of the Holy Spirit, I destroy every hindrance of demonic shame and guilt. I renounce every spirit of rejection and failure and every embarrassment through people, ministries, and pastors that have stopped me from accessing God's best in my life. In Jesus' name, I pray.
-*   In Jesus' name, I destroy every satanic or demonic oppression and depression that has brought hindrance or delay into my life.
-*   In Jesus' name, I put the devils of hindrance and delay on notice to release my mind and my thoughts now. I break every satanic yoke that has been wrapped around my neck. I destroy it now in the name of Jesus.
-*   In Jesus' name, I destroy every demonic network that is operating against my purpose and destiny and trying to hinder or delay me from walking in God's perfect will for my life.
-*   In the name of Jesus, I break and destroy every hindrance of sickness and every infirmity devil that comes on my body. Let them drown in the blood of Jesus Christ today.
-*   I destroy every frustration and all anger, bitterness, resentment, and rebellion that has jumped on me as a result of any hindrance or delay. Get off me now in Jesus' name.
-*   In Jesus' name, I destroy every hindering form of anxiety in my life.
-*   In Jesus name, I bind and rebuke all demonic reinforcements that are trying to bring satanic hindrance and delay over my life, in my life, and through my life. I call out every hindrance, spirit, and spirit of delay. You know what your involvements are. You know what has stopped you. You know what has delayed or entrapped you. Name it now. Lord, I curse it to the root. Let it shrivel up and die in Jesus' name.
-*   In Jesus' name, I completely and fully destroy every hindrance or delay that is trying to kill my purpose and destiny.
-*   I destroy every hindrance, delay, and entrapment of the devil that is trying to destroy the anointing over my life. Let every evil strategy be vanquished by the blood of Jesus.
-*   I release the fire of heaven on every demon of delay in Jesus' name.
-*   In Jesus' name, I ask the Holy Spirit to pour the oil of heaven on my head. Lord, restore to me seven times what the canker worm and the locust have stolen from me. Remove every hindrance, delay, and roadblock of the enemy. Let all of them be destroyed by the blood of Jesus.
-*   Lord, I thank you for this victory and I worship you in spirit and in truth. Lord, I am moving forward because you are with me and because you are with me, who can be against me? If you have blessed me, who can curse me? Lord, I give you all praise and glory. I worship you and thank you for the breakthrough and for all your blessings. Let every void in my life be filled by the Holy Spirit. Let him purify and sanctify me and give me revelation and clarity. In the name of Jesus, I believe every devil of hindrance and delay has died. What is left are the greater things God has for me. In the mighty name of Jesus Christ, I pray. Amen.
+* Father, I thank you that you are my shepherd and that your hand is on my life. I glorify and praise you in Jesus' name.
+* Lord, I know that even when I don't sense it, you always hear my prayers. I thank you for that in Jesus' name.
+* I speak to every door of progress in my life and I tell it to open now in Jesus' name.
+* Lord, I thank you for being the key that opens every door in my life in Jesus' name. Amen.
+* Today, I stand before this mountain of hindrance, knowing that I have the anointing to overcome every demonic roadblock and obstacle. Therefore, I curse the mountain to the root. Let it shrivel up and die in Jesus' name.
+* In the name of Jesus, I remove my name from every satanic altar of hindrance and delay. I release the fire of the Holy Spirit on every hindrance, delay, blockage, and distraction that came through a door I consciously or unconsciously opened. Let it be destroyed today in Jesus' name.
+* I command lightning to strike the head of every satanic hindrance and delay in the name of Jesus. Let the judgment of God fall on their heads and release me now.
+* By the power of the Holy Spirit, I destroy every hindrance of demonic shame and guilt. I renounce every spirit of rejection and failure and every embarrassment through people, ministries, and pastors that have stopped me from accessing God's best in my life. In Jesus' name, I pray.
+* In Jesus' name, I destroy every satanic or demonic oppression and depression that has brought hindrance or delay into my life.
+* In Jesus' name, I put the devils of hindrance and delay on notice to release my mind and my thoughts now. I break every satanic yoke that has been wrapped around my neck. I destroy it now in the name of Jesus.
+* In Jesus' name, I destroy every demonic network that is operating against my purpose and destiny and trying to hinder or delay me from walking in God's perfect will for my life.
+* In the name of Jesus, I break and destroy every hindrance of sickness and every infirmity devil that comes on my body. Let them drown in the blood of Jesus Christ today.
+* I destroy every frustration and all anger, bitterness, resentment, and rebellion that has jumped on me as a result of any hindrance or delay. Get off me now in Jesus' name.
+* In Jesus' name, I destroy every hindering form of anxiety in my life.
+* In Jesus name, I bind and rebuke all demonic reinforcements that are trying to bring satanic hindrance and delay over my life, in my life, and through my life. I call out every hindrance, spirit, and spirit of delay. **You know what your involvements are. You know what has stopped you. You know what has delayed or entrapped you. Name it now.** Lord, I curse it to the root. Let it shrivel up and die in Jesus' name.
+* In Jesus' name, I completely and fully destroy every hindrance or delay that is trying to kill my purpose and destiny.
+* I destroy every hindrance, delay, and entrapment of the devil that is trying to destroy the anointing over my life. Let every evil strategy be vanquished by the blood of Jesus.
+* I release the fire of heaven on every demon of delay in Jesus' name.
+* In Jesus' name, I ask the Holy Spirit to pour the oil of heaven on my head. Lord, restore to me seven times what the canker worm and the locust have stolen from me. Remove every hindrance, delay, and roadblock of the enemy. Let all of them be destroyed by the blood of Jesus.
+* Lord, I thank you for this victory and I worship you in spirit and in truth. Lord, I am moving forward because you are with me and because you are with me, who can be against me? If you have blessed me, who can curse me? Lord, I give you all praise and glory. I worship you and thank you for the breakthrough and for all your blessings. Let every void in my life be filled by the Holy Spirit. Let him purify and sanctify me and give me revelation and clarity. In the name of Jesus, I believe every devil of hindrance and delay has died. What is left are the greater things God has for me. In the mighty name of Jesus Christ, I pray. Amen.
 
 ### Chapter 17: Destroying the Spirit of Fear
 
 **Fire Prayers:**
-*   By the authority in the name of Jesus Christ, I take a stand against every fear devil and every tormenting devil that is trying to vex me in my mind, heart, spirit, and life be destroyed in Jesus' name. Amen.
-*   In the name of Jesus, I reject every report of fear that is sent my way. I bind every demonic thought of fear that has incarcerated my mind, paralyzed my heart, and contaminated my thinking. Let it be destroyed completely and fully in Jesus' name.
-*   Devil, I refuse to move in fear anymore. In the name of Jesus, amen.
-*   I declare over my life, family, purpose, and destiny that no weapon of demonic fear that has been formed against me will accomplish its goal.
-*   In Jesus' name, let the fire of the Holy Spirit encircle me, my family, and my home. In Jesus' name, let it burn all demonic fear-mongering to ashes.
-*   I shut down every demonic plot, scheme, while operation that the devil is using to plant fear in my heart and family. Let all of it be destroyed in Jesus' name.
-*   I loose myself and my family from any spirit of fear or torment in Jesus' name. Let it be destroyed and uprooted. Let it shrivel and die in Jesus' name. Amen.
-*   I destroy the fear of man and all fears that are trying to incarcerate me. Today is your last day. I now serve you an eviction notice in the mighty name of Jesus Christ.
-*   Lord, in the name of Jesus, be my shield and the protector over my mind, heart, and soul. In Jesus' name I declare over my life, family, ministry, purpose, destiny, work, career, and marriage that God is for me. So who can be against me? I cover my heart and mind with the blood of Jesus Christ. In his name, amen.
-*   In Jesus mighty name, I cover all dreams, all daytime hours and all nighttime hours in the blood of Jesus Christ for me and my house.
-*   Devil, listen to me. I refuse to be intimidated by any demonic fear, tactic, plot, or scheme that you bring against me. By the blood of Jesus Christ, I put the judgment of God on your head in Jesus' name. Amen.
-*   Let every enchantment, incantation, and invocation of satanic fear and torment die now in Jesus' name.
-*   By the blood of Jesus Christ, I destroy every fear of deposession, oppression, sickness, and disease that has entered my life through any satanic works of premature death or demonic assignments sent to incarcerate me. I will live and not die. I will declare the works of the Lord for me and my house, ministry, purpose, and destiny.
-*   I baptize myself in the blood of Jesus Christ, drowning every hindrance, delay, blockage, and distraction, and all fear devils. Just as with Pharaoh, who drowned in the Red Sea, you will never return. I am victorious, and what God has blessed, no one can curse. In the mighty, untouchable name of Jesus Christ, I pray. Amen.
-*   Almighty God, all glory, honor, and praise are yours. I thank you and worship you for setting me free in Jesus mighty name.
+* By the authority in the name of Jesus Christ, I take a stand against every fear devil and every tormenting devil that is trying to vex me in my mind, heart, spirit, and life be destroyed in Jesus' name. Amen.
+* In the name of Jesus, I reject every report of fear that is sent my way. I bind every demonic thought of fear that has incarcerated my mind, paralyzed my heart, and contaminated my thinking. Let it be destroyed completely and fully in Jesus' name.
+* Devil, I refuse to move in fear anymore. In the name of Jesus, amen.
+* I declare over my life, family, purpose, and destiny that no weapon of demonic fear that has been formed against me will accomplish its goal.
+* In Jesus' name, let the fire of the Holy Spirit encircle me, my family, and my home. In Jesus' name, let it burn all demonic fear-mongering to ashes.
+* I shut down every demonic plot, scheme, while operation that the devil is using to plant fear in my heart and family. Let all of it be destroyed in Jesus' name.
+* I loose myself and my family from any spirit of fear or torment in Jesus' name. Let it be destroyed and uprooted. Let it shrivel and die in Jesus' name. Amen.
+* I destroy the fear of man and all fears that are trying to incarcerate me. Today is your last day. I now serve you an eviction notice in the mighty name of Jesus Christ.
+* Lord, in the name of Jesus, be my shield and the protector over my mind, heart, and soul. In Jesus' name I declare over my life, family, ministry, purpose, destiny, work, career, and marriage that God is for me. So who can be against me? I cover my heart and mind with the blood of Jesus Christ. In his name, amen.
+* In Jesus mighty name, I cover all dreams, all daytime hours and all nighttime hours in the blood of Jesus Christ for me and my house.
+* Devil, listen to me. I refuse to be intimidated by any demonic fear, tactic, plot, or scheme that you bring against me. By the blood of Jesus Christ, I put the judgment of God on your head in Jesus' name. Amen.
+* Let every enchantment, incantation, and invocation of satanic fear and torment die now in Jesus' name.
+* By the blood of Jesus Christ, I destroy every fear of depression, oppression, sickness, and disease that has entered my life through any satanic works of premature death or demonic assignments sent to incarcerate me. I will live and not die. I will declare the works of the Lord for me and my house, ministry, purpose, and destiny.
+* I baptize myself in the blood of Jesus Christ, drowning every hindrance, delay, blockage, and distraction, and all fear devils. Just as with Pharaoh's army, who drowned in the Red Sea, you will never return. I am victorious, and what God has blessed, no one can curse. In the mighty, untouchable name of Jesus Christ, I pray. Amen.
+* Almighty God, all glory, honor, and praise are yours. I thank you and worship you for setting me free in Jesus mighty name.
 
 ### Chapter 18: Nighttime Attack & Home Dedication
 
 **Fire Prayers:**
-*   Father, in Jesus' name, I dedicate my home to you from the inside out. Father, in the mighty name of Jesus, I dedicate to you every family member who lives in this home.
-*   In Jesus' name, I command the arrows dipped in the blood of Jesus to destroy every satanic nighttime attack and the work of every demon that is trying to enter my home and dreams to torment me and my family. Let them be destroyed in Jesus' name.
-*   In the name of Jesus, I scatter the demonic forces from the north, south, east, and west. I smite them with the blood of Jesus. Now I put the judgment of God on the heads of all evil workers and nightstalkers in Jesus' name.
-*   I destroy every satanic and demonic power of darkness that is trying to creep into my dreams to alter my purpose and destiny. Let them be extinguished today in Jesus' name.
-*   Now and forever, I reject every nighttime temptation that comes in my dreams, by my bedside, or in my home. Tonight, let everything the devil is trying to put on me and my family drown in the blood of Jesus.
-*   I refuse to come into agreement with any nightstalker or satanic force that operates in the night season. As for me and my house, we will serve the Lord Jesus Christ. In Jesus' name, amen.
-*   I put the fire of the Holy Spirit on every demon that has been assigned to destroy me. burn completely to ashes in Jesus' name. Amen.
-*   I send back to the sender every demonic stalker and night spirit that is operating against me. Let the altar be destroyed and let the judgment of God fall on their heads so they come to repentance in Jesus' name. Amen.
-*   Father, I release your wrath on the demons that are standing at my bedside, choking and spiritually paralyzing me so that I cannot even call out the name of your son Jesus Christ. Let those devils be uprooted from my home completely and fully, never to return. In Jesus' name I pray. Amen.
-*   Father, I put a wall of fire around my home and family and in every room from the attic to the basement. no devils will enter. In Jesus' name, I cover every doorway and window in his precious blood. I cover my family, my home, and myself in the blood of Jesus Christ. And I give God the glory, praise, and honor for protecting us completely and fully in Jesus' name. Amen.
+* Father, in Jesus' name, I dedicate my home to you from the inside out. Father, in the mighty name of Jesus, I dedicate to you every family member who lives in this home.
+* In Jesus' name, I command the arrows dipped in the blood of Jesus to destroy every satanic nighttime attack and the work of every demon that is trying to enter my home and dreams to torment me and my family. Let them be destroyed in Jesus' name.
+* In the name of Jesus, I scatter the demonic forces from the north, south, east, and west. I smite them with the blood of Jesus. Now I put the judgment of God on the heads of all evil workers and nightstalkers in Jesus' name.
+* I destroy every satanic and demonic power of darkness that is trying to creep into my dreams to alter my purpose and destiny. Let them be extinguished today in Jesus' name.
+* Now and forever, I reject every nighttime temptation that comes in my dreams, by my bedside, or in my home. Tonight, let everything the devil is trying to put on me and my family drown in the blood of Jesus.
+* I refuse to come into agreement with any nightstalker or satanic force that operates in the night season. As for me and my house, we will serve the Lord Jesus Christ. In Jesus' name, amen.
+* I put the fire of the Holy Spirit on every demon that has been assigned to destroy me. burn completely to ashes in Jesus' name. Amen.
+* I send back to the sender every demonic stalker and night spirit that is operating against me. Let the altar be destroyed and let the judgment of God fall on their heads so they come to repentance in Jesus' name. Amen.
+* Father, I release your wrath on the demons that are standing at my bedside, choking and spiritually paralyzing me so that I cannot even call out the name of your son Jesus Christ. Let those devils be uprooted from my home completely and fully, never to return. In Jesus' name I pray. Amen.
+* Father, I put a wall of fire around my home and family and in every room from the attic to the basement. no devils will enter. In Jesus' name, I cover every doorway and window in his precious blood. I cover my family, my home, and myself in the blood of Jesus Christ. And I give God the glory, praise, and honor for protecting us completely and fully in Jesus' name. Amen.
 
 ### Chapter 19: Satanic Dreams (General) & Rest
 
 **Fire Prayers:**
-*   Today, Father, I declare and decree that the blood of Jesus is over my mind and my bed day and night in the name of Jesus. Amen.
-*   Father, I give you my dreams tonight and I give you my night. As I lay my head on my pillow, let both be sanctified and purified in the name of Jesus Christ. Amen.
-*   Father, in the name of Jesus, give me good dreams, dreams of my purpose and destiny. As I sleep, give me dreams of my assignment as a believer in you and a vessel of honor in Jesus name. Amen.
-*   I arrest every demonic assignment and every devil that is using it to infiltrate my dreams. I curse them to the root today and tonight in the name of Jesus.
-*   Let every evil and satanic scenario that the devil is trying to deposit in my dreams be burned by the fire of the Holy Spirit today and tonight in the name of Jesus.
-*   I destroy all satanic manipulations of my dreams in the name of Jesus.
-*   I break and destroy every dream of gunshot wounds, demonic harassment, demonic accidents, and premature death that tries to torment me during the night. I curse them now in Jesus' name. and with his blood I shut the door on them.
-*   I break and loose myself from every curse, vex, voodoo spell, bewitchment, and evil practice that has infiltrated my dreams. I destroy them all in the name of Jesus.
-*   In Jesus' name, I put fire and judgment on the head of every demon that has planted evil activities and scenes in my dreams to make them a reality in my life. Now let those demons and their plans shrivel up and die.
-*   I break all satanic covenants and break off all witches, warlocks, and sorcerers that are trying to steal my rest or make contracts, agreements, or demonic alignments with me in the satanic world. I crush and rebuke all of them and I command them to be destroyed by the fire of the Holy Spirit in Jesus' name. Amen.
-*   In the name of Jesus, I curse to the root every demonic doorway, portal, and gateway that the devil has infiltrated in my dreams. I shut those doors with the blood of Jesus Christ. I will have good dreams. I will have rest and I will have peace and joy in my dreams.
-*   In Jesus' name, every demonic spiritual animal that has infiltrated my dreams, I cut off your head just as David cut off Goliath's head. In Jesus' name, amen.
-*   Father, by the fire of the Holy Spirit, I ask you to purge me completely and fully in Jesus' name. Amen.
-*   I destroy every evil covenant and intimidation that the devil has put in my dreams to torment me throughout the night. Never again will they infiltrate my dreams. In Jesus' name, amen.
-*   In Jesus' name, I destroy every evil the devil brings against me after midnight. Let all my dreams be covered by the blood of Jesus Christ from the moment I lay down my head at night to the moment I arise in Jesus' name. Amen.
-*   Father, in the name of Jesus, I release waring angels to stand by my bedside and the bedsides of my loved ones throughout the night. Holy Spirit, as I lay down my head to sleep, I ask you to anoint me, my family, my purpose, and my destiny completely and fully in Jesus' name. Amen.
-*   I destroy every spirit of murder and witchcraft, and every demonic plot or evil assignment of Satan's kingdom that has crept into my dreams. Let them all be destroyed in Jesus' name.
-*   Lord, as I arise now, I release myself from any evil dream, and I wash myself in the blood of Jesus, from the crown of my head to the soles of my feet. By the authority and anointing of the Holy Spirit, I send those demonic dreams back to the pit of hell, and shut the door on them in the name of Jesus. Amen.
+* Today, Father, I declare and decree that the blood of Jesus is over my mind and my bed day and night in the name of Jesus. Amen.
+* Father, I give you my dreams tonight and I give you my night. As I lay my head on my pillow, let both be sanctified and purified in the name of Jesus Christ. Amen.
+* Father, in the name of Jesus, give me good dreams, dreams of my purpose and destiny. As I sleep, give me dreams of my assignment as a believer in you and a vessel of honor in Jesus name. Amen.
+* I arrest every demonic assignment and every devil that is using it to infiltrate my dreams. I curse them to the root today and tonight in the name of Jesus.
+* Let every evil and satanic scenario that the devil is trying to deposit in my dreams be burned by the fire of the Holy Spirit today and tonight in the name of Jesus.
+* I destroy all satanic manipulations of my dreams in the name of Jesus.
+* I break and destroy every dream of gunshot wounds, demonic harassment, demonic accidents, and premature death that tries to torment me during the night. I curse them now in Jesus' name. and with his blood I shut the door on them.
+* I break and loose myself from every curse, vex, voodoo spell, bewitchment, and evil practice that has infiltrated my dreams. I destroy them all in the name of Jesus.
+* In Jesus' name, I put fire and judgment on the head of every demon that has planted evil activities and scenes in my dreams to make them a reality in my life. Now let those demons and their plans shrivel up and die.
+* I break all satanic covenants and break off all witches, warlocks, and sorcerers that are trying to steal my rest or make contracts, agreements, or demonic alignments with me in the satanic world. I crush and rebuke all of them and I command them to be destroyed by the fire of the Holy Spirit in Jesus' name. Amen.
+* In the name of Jesus, I curse to the root every demonic doorway, portal, and gateway that the devil has infiltrated in my dreams. I shut those doors with the blood of Jesus Christ. I will have good dreams. I will have rest and I will have peace and joy in my dreams.
+* In Jesus' name, every demonic spiritual animal that has infiltrated my dreams, I cut off your head just as David cut off Goliath's head. In Jesus' name, amen.
+* Father, by the fire of the Holy Spirit, I ask you to purge me completely and fully in Jesus' name. Amen.
+* I destroy every evil covenant and intimidation that the devil has put in my dreams to torment me throughout the night. Never again will they infiltrate my dreams. In Jesus' name, amen.
+* In Jesus' name, I destroy every evil the devil brings against me after midnight. Let all my dreams be covered by the blood of Jesus Christ from the moment I lay down my head at night to the moment I arise in Jesus' name. Amen.
+* Father, in the name of Jesus, I release waring angels to stand by my bedside and the bedsides of my loved ones throughout the night. Holy Spirit, as I lay down my head to sleep, I ask you to anoint me, my family, my purpose, and my destiny completely and fully in Jesus' name. Amen.
+* I destroy every spirit of murder and witchcraft, and every demonic plot or evil assignment of Satan's kingdom that has crept into my dreams. Let them all be destroyed in Jesus' name.
+* Lord, as I arise now, I release myself from any evil dream, and I wash myself in the blood of Jesus, from the crown of my head to the soles of my feet. By the authority and anointing of the Holy Spirit, I send those demonic dreams back to the pit of hell, and shut the door on them in the name of Jesus. Amen.
 
 ### Chapter 20: Sexual Demons (Incubus/Succubus)
 
 **Fire Prayers:**
-*   I release the fire and anger of the Lord Jesus Christ on every devil that appears in my dreams at any time in the name of Jesus Christ.
-*   I curse to the root every demonic sexual perversion demon that has infiltrated my dreams. Let all of them be cut down in the name of Jesus.
-*   Incubis demon, may the fire of God fall on your head so that you shrivel up and die in Jesus' name. Amen.
-*   Zuccubus demon, I release the fire of God on your head. Shrivel up and die in the name of Jesus.
-*   By the sword of the spirit, I cut down every sexual demon that would try to enter my dreams. In Jesus' name, amen.
-*   I put the judgment of God on every incubis and succubus devil that is trying to come into my dreams to make spiritual marriages and spiritual babies. I release the fire of God to burn you down now in Jesus' name.
-*   Incubus be castrated by the fire of the Holy Spirit in Jesus' name.
-*   Succupus I command the fire of God to fall on you and your private parts be burned to ashes in the name of Jesus.
-*   In the name of Jesus, I reject all sexual advances of incubis and succubus in my dreams and I curse all their demonic seductions.
-*   In the name of Jesus, I refuse to give my body to any demon that enters my dreams. Let every demon of perversion, wickedness, and lust be burned to ashes in the name of Jesus.
-*   Let every prostitution devil, lust devil, and perversion devil, and every door that has been opened to my eye, gates, eargates, and mouthgate be shut down in the name of Jesus.
-*   Let all satanic lust that has crept into my mind be destroyed by the blood of Jesus Christ.
-*   In the name of Jesus Christ, I baptize all my dreams in his precious blood. Holy Spirit, awaken me when any sexual demon is trying to creep into my dreams in Jesus' name.
-*   Let every spirit husband and spirit wife be destroyed by the blood of Jesus. Now in Jesus' name, I destroy and pulverize every demonic marriage certificate completely and fully by the blood of Jesus Christ.
-*   I reject and curse to the root all demonic marriages, engagement rings, and wedding rings that have been given to me in my dreams by any kind of demon. Let them be destroyed in Jesus' name.
-*   I curse to the root and will not attend any demonic spiritual weddings in my dreams. Let them be shut down in Jesus' name.
-*   I rebuke incubus and succubus and I uproot them from my dreams once and for all in Jesus' name.
-*   A in Jesus' name, let the fire of God burn out of me any demonic seed that was planted by incubis or succubus. Let the blood of Jesus wash my body clean from the crown of my head to the soles of my feet in Jesus' name. Amen.
-*   Let the fire of the Holy Spirit and the oil of heaven fall on my head from the crown of my head to the soles of my feet in Jesus' name.
-*   Thank you, Holy Spirit. Lord, I give you glory, honor, and praise. And I thank you for your victory in Jesus' name. Amen.
+* I release the fire and anger of the Lord Jesus Christ on every devil that appears in my dreams at any time in the name of Jesus Christ.
+* I curse to the root every demonic sexual perversion demon that has infiltrated my dreams. Let all of them be cut down in the name of Jesus.
+* Incubis demon, may the fire of God fall on your head so that you shrivel up and die in Jesus' name. Amen.
+* Zuccubus demon, I release the fire of God on your head. Shrivel up and die in the name of Jesus.
+* By the sword of the spirit, I cut down every sexual demon that would try to enter my dreams. In Jesus' name, amen.
+* I put the judgment of God on every incubis and succubus devil that is trying to come into my dreams to make spiritual marriages and spiritual babies. I release the fire of God to burn you down now in Jesus' name.
+* Incubus be castrated by the fire of the Holy Spirit in Jesus' name.
+* Succupus I command the fire of God to fall on you and your private parts be burned to ashes in the name of Jesus.
+* In the name of Jesus, I reject all sexual advances of incubis and succubus in my dreams and I curse all their demonic seductions.
+* In the name of Jesus, I refuse to give my body to any demon that enters my dreams. Let every demon of perversion, wickedness, and lust be burned to ashes in the name of Jesus.
+* Let every prostitution devil, lust devil, and perversion devil, and every door that has been opened to my eye, gates, eargates, and mouthgate be shut down in the name of Jesus.
+* Let all satanic lust that has crept into my mind be destroyed by the blood of Jesus Christ.
+* In the name of Jesus Christ, I baptize all my dreams in his precious blood. Holy Spirit, awaken me when any sexual demon is trying to creep into my dreams in Jesus' name.
+* Let every spirit husband and spirit wife be destroyed by the blood of Jesus. Now in Jesus' name, I destroy and pulverize every demonic marriage certificate completely and fully by the blood of Jesus Christ.
+* I reject and curse to the root all demonic marriages, engagement rings, and wedding rings that have been given to me in my dreams by any kind of demon. Let them be destroyed in Jesus' name.
+* I curse to the root and will not attend any demonic spiritual weddings in my dreams. Let them be shut down in Jesus' name.
+* I rebuke incubus and succubus and I uproot them from my dreams once and for all in Jesus' name.
+* In Jesus' name, let the fire of God burn out of me any demonic seed that was planted by incubis or succubus. Let the blood of Jesus wash my body clean from the crown of my head to the soles of my feet in Jesus' name. Amen.
+* Let the fire of the Holy Spirit and the oil of heaven fall on my head from the crown of my head to the soles of my feet in Jesus' name.
+* Thank you, Holy Spirit. Lord, I give you glory, honor, and praise. And I thank you for your victory in Jesus' name. Amen.
 
 ### Chapter 21: Accidents & Premature Death (Witchcraft related)
 
 **Fire Prayers:**
-*   Father, I thank you for being my shield and protector. In the mighty name of Jesus Christ. Amen.
-*   By the blood of Jesus, I destroy every spirit of accident that comes against me or my spouse, child, home, and extended family. And I put the judgment of God on its head. Let these spirits be tormented day and night in Jesus' name.
-*   In the blood of Jesus, I baptize my car, bike, motorcycle, and any public transportation that I or my loved ones use. I call out and I put on notice every spirit of accident at every level. By the blood of Jesus Christ, I crack you over your head and you will loose me now. Your evil plans will not come to pass. They are cancelled in Jesus's name.
-*   I remove my name and my family members names from use by any spirit of accident operating in the demonic world. I burn down its altars in Jesus' name.
-*   I destroy every demonic or satanic spiritual obituary that the devil has written involving my name, family, spouse, child, ren, church, or ministry. I break it completely and fully in Jesus' name.
-*   I destroy every satanic or demonic funeral that has been pre-arranged for me or my family members. In the name of Jesus, I curse it to the root now.
-*   I shut down every avenue and demonic highway that has my name or my family members names on it. I destroy all of them and all premature death now in the name of Jesus.
-*   In the name of Jesus, I destroy and completely and fully uproot all accidents that have been decreed and spoken over my life. I cover myself and my family as well as any journeys that might be targeted for any kind of accident. I destroy all such attempts in Jesus' name.
-*   Let every witchcraft of accident that has been declared, placed or attempted over my life be destroyed today in Jesus' name.
-*   I break and destroy all satanic spells and incantations that have been spoken over my life and my family in the name of Jesus Christ. Let them be completely and fully uprooted.
-*   I dismantle every satanic accident involving planes that I boarded all the days of my life. Let all such schemes be destroyed, never to be accomplished in the name of Jesus. Amen.
-*   I release the power of God over me and my family to cancel every premature death spirit or accident in the name of Jesus.
-*   I release waring angels to destroy every demonic assignment, plot, scheme, or while that would bring accidental death on me or my family in Jesus' name. Amen.
-*   I break and destroy every demonic door, portal and gateway in the device setup that would bring premature death or any demonic accident over myself, my family, my spouse and my child. Ren, I cancel them in the all powerful name of Jesus Christ.
-*   Lord Jesus Christ, I cover myself and my family with your blood from the tops of our heads to the soles of our feet. No devil or demonic spirit will succeed in bringing pain or grief into our lives through any demonic setup or scheme. I destroy those things in Jesus mighty name.
-*   Lord, I give you glory, praise, and worship. Thank you for your divine protection over me and my family.
+* Father, I thank you for being my shield and protector. In the mighty name of Jesus Christ. Amen.
+* By the blood of Jesus, I destroy every spirit of accident that comes against me or my spouse, child, home, and extended family. And I put the judgment of God on its head. Let these spirits be tormented day and night in Jesus' name.
+* In the blood of Jesus, I baptize my car, bike, motorcycle, and any public transportation that I or my loved ones use. I call out and I put on notice every spirit of accident at every level. By the blood of Jesus Christ, I crack you over your head and you will loose me now. Your evil plans will not come to pass. They are cancelled in Jesus's name.
+* I remove my name and my family members names from use by any spirit of accident operating in the demonic world. I burn down its altars in Jesus' name.
+*   I destroy every demonic or satanic spiritual obituary that the devil has written involving my name, family, spouse, children, church, or ministry. I break it completely and fully in Jesus' name.
+* I destroy every satanic or demonic funeral that has been pre-arranged for me or my family members. In the name of Jesus, I curse it to the root now.
+* I shut down every avenue and demonic highway that has my name or my family members names on it. I destroy all of them and all premature death now in the name of Jesus.
+* In the name of Jesus, I destroy and completely and fully uproot all accidents that have been decreed and spoken over my life. I cover myself and my family as well as any journeys that might be targeted for any kind of accident. I destroy all such attempts in Jesus' name.
+* Let every witchcraft of accident that has been declared, placed or attempted over my life be destroyed today in Jesus' name.
+* I break and destroy all satanic spells and incantations that have been spoken over my life and my family in the name of Jesus Christ. Let them be completely and fully uprooted.
+* I dismantle every satanic accident involving planes that I boarded all the days of my life. Let all such schemes be destroyed, never to be accomplished in the name of Jesus. Amen.
+* I release the power of God over me and my family to cancel every premature death spirit or accident in the name of Jesus.
+* I release waring angels to destroy every demonic assignment, plot, scheme that would bring accidental death on me or my family in Jesus' name. Amen.
+* I break and destroy every demonic door, portal and gateway in the device setup that would bring premature death or any demonic accident over myself, my family, my spouse and my children, I cancel them in the all powerful name of Jesus Christ.
+* Lord Jesus Christ, I cover myself and my family with your blood from the tops of our heads to the soles of our feet. No devil or demonic spirit will succeed in bringing pain or grief into our lives through any demonic setup or scheme. I destroy those things in Jesus mighty name.
+* Lord, I give you glory, praise, and worship. Thank you for your divine protection over me and my family.
 
 ### Chapter 22: Dismantling Name Curses & Satanic Councils
 
 **Fireproof Prayers:**
-*   Father, I dip myself in the blood of Jesus and I release a wall of fire on my name. In Jesus name. Amen.
-*   Let the angel of the Lord encamp around my name, my family's name, and my family's bloodline today. I break the forces of darkness, and I curse their schemes to the root. Let their plans shrivel up and die whenever my name is found in their camp. In the name of Jesus, amen.
-*   Holy Spirit, recover my last name, my family's name, and my ministry's name. remove them from the devil's hands, lips, and mouth. Wash these names in the blood of Jesus Christ and make all things new in Jesus' name. Amen.
-*   In the name of Jesus, I grab the sword of the spirit and I chop to pieces every stronghold, bondage, and entrapment of the devil that has wrapped itself around my name. My name is my inheritance. My name has purpose. My name has destiny. My name will fulfill everything God has called it to be in Jesus' name. Amen.
-*   In Jesus' name, I break off my name from all demonic or satanic DNA that the devil has planted on it. By the fire of God, I destroy any place in the demonic world where my name has been mentioned or incarcerated to remove my purpose and destiny. Let the Holy Spirit's fire burn down those places and release my name now in the name of Jesus.
-*   Let the lightning of the Holy Spirit smash every kind of satanic council and meeting. Let every demon that mentions my name go mute in the name of Jesus.
-*   In the name of Jesus, I destroy every demonic or satanic court that has mentioned my name. I destroy every satanic jury that tries my name. Let them all be destroyed today by the name of Jesus Christ.
-*   In Jesus' name, I chop off the heads of every satanic judge that is trying to preside over my name.
-*   In Jesus' name, let the Holy Spirit bring confusion on every demon that is trying to kidnap my name. I break all curses, vexes, and voodoo over my name in the satanic realm of the spirit and the world of Satan.
-*   I dip arrows in the blood of Jesus to completely and fully destroy every altar that has my name assigned to it. In Jesus' name, I pray.
-*   I dip myself and my last name, which represents my family's bloodline, in the blood of Jesus. I do the same for both sides of my family. I release a wall of fire on my last name and my family's bloodline with war ring angels to protect our family's name, heritage, and inheritance in Jesus' name.
-*   I release the thunder of God to confuse the devil's camp. Let those who try to hold hostage my last name and heritage attack one another instead. I break every demonic arsenal. Let them shrivel up, die, and release my name now. In Jesus' name I pray in the name of Jesus.
-*   My natural DNA will not define who I am in Christ because I have new DNA. Lord Jesus, as you're redeemed, my last name has been purified, sanctified, and touched by the Holy Spirit. Therefore, I will do great things for you until you return in your mighty name. Amen.
-*   I give God all the glory, praise, and worship that are due him. Thank you, Lord, for renewing my name, family, and bloodline to your kingdom.
+* Let the angel of the Lord encamp around my name, my family's name, and my family's bloodline today. I break the forces of darkness, and I curse their schemes to the root. Let their plans shrivel up and die whenever my name is found in their camp. In the name of Jesus, amen.
+* Holy Spirit, recover my last name, my family's name, and my ministry's name. remove them from the devil's hands, lips, and mouth. Wash these names in the blood of Jesus Christ and make all things new in Jesus' name. Amen.
+* In the name of Jesus, I grab the sword of the spirit and I chop to pieces every stronghold, bondage, and entrapment of the devil that has wrapped itself around my name. My name is my inheritance. My name has purpose. My name has destiny. My name will fulfill everything God has called it to be in Jesus' name. Amen.
+* In Jesus' name, I break off my name from all demonic or satanic DNA that the devil has planted on it. By the fire of God, I destroy any place in the demonic world where my name has been mentioned or incarcerated to remove my purpose and destiny. Let the Holy Spirit's fire burn down those places and release my name now in the name of Jesus.
+* Let the lightning of the Holy Spirit smash every kind of satanic council and meeting. Let every demon that mentions my name go mute in the name of Jesus.
+* In the name of Jesus, I destroy every demonic or satanic court that has mentioned my name. I destroy every satanic jury that tries my name. Let them all be destroyed today by the name of Jesus Christ.
+* In Jesus' name, I chop off the heads of every satanic judge that is trying to preside over my name.
+* In Jesus' name, let the Holy Spirit bring confusion on every demon that is trying to kidnap my name. I break all curses, vexes, and voodoo over my name in the satanic realm of the spirit and the world of Satan.
+* I dip arrows in the blood of Jesus to completely and fully destroy every altar that has my name assigned to it. In Jesus' name, I pray.
+* I dip myself and my last name, which represents my family's bloodline, in the blood of Jesus. I do the same for both sides of my family. I release a wall of fire on my last name and my family's bloodline with waring angels to protect our family's name, heritage, and inheritance in Jesus' name.
+* I release the thunder of God to confuse the devil's camp. Let those who try to hold hostage my last name and heritage attack one another instead. I break every demonic arsenal. Let them shrivel up, die, and release my name now in Jesus' name.
+* My natural DNA will not define who I am in Christ because I have new DNA. Lord Jesus, as you're redeemed, my last name has been purified, sanctified, and touched by the Holy Spirit. Therefore, I will do great things for you until you return in your mighty name. Amen.
+* I give God all the glory, praise, and worship that are due him. Thank you, Lord, for renewing my name, family, and bloodline to your kingdom.
 
 ---
 
@@ -412,79 +411,79 @@ This document contains all the "Fire Prayers" found at the end of the chapters i
 ### Chapter 23: Home Blessing & Dedication (Declarative)
 
 **Fire Prayers:**
-*   Father, in the name of Jesus, I thank you for the home that you have given my family and me, not only as our dwelling, but also as a place of rest and peace. I declare that my house and my family members will serve Jesus Christ all the days of our lives. There will be nothing missing and nothing broken in our home. I declare that the glory of the Lord will reign and rule over my family and our dwelling place all day every day in Jesser name.
-*   Just as the ark of the covenant brought blessing to the house of Oedam, let the presence of the Lord Jesus Christ bless my home and my family.
-*   Father, in the name of Jesus Christ, I declare Psalm 23:5 over my home. You prepare a table before me in the presence of my enemies. You have anointed and refreshed my head with oil. My cup overflows.
-*   I cover my home, protecting it from any disaster. earthquake, tornado, or fire or any type of demonic destruction, these will never seize my home in Jesus' name.
-*   Let all demonic or satanic residue be kicked out of my home now in Jesus' name.
-*   By the name of Jesus Christ, I call my home to be blessed completely and fully. I speak prosperity, health, joy, peace, unity, and laughter over my home and my family in Jesus' name.
-*   I declare my home to be a pavilion of the Lord. I declare that the blessings of heaven will reign and rule over my home in Jesus' name.
-*   I speak by the power of the Holy Spirit to declare and decree that no evil report will come out of my dwelling in the mighty name of Jesus.
-*   I speak to the atmosphere of my home. Be holy and filled with peace and joy in Jesus Christ.
-*   I declare that embarrassments should not be known in my home in Jesus' name.
-*   I decree that poverty should not know my address in Jesus' name.
-*   No sickness of any kind will reign or rule over my home ever again in Jesus' name.
-*   Let the foundation of this dwelling be established in blessing in the almighty name of Jesus Christ.
-*   I bless my home completely and fully inside and out in the name that is above every name, King Jesus. I speak blessings, health, prosperity, increase, abundance of rain, life, and no death over my home, my family, my friends, and anyone who visits my home. This place will be a reservoir of God's abundance in Jesus' name.
-*   Lord Jesus, you are welcome in my home always and forever. Hallelujah. Let your presence fill my home completely and fully all day, every day. In your mighty name I pray.
-*   Father, let the eyes of my understanding be enlightened. In Jesus' name, Lord, anoint my spiritual eyes to see and my spiritual ears to hear what the Holy Spirit has to say in every season of my life. In Jesus' name. Amen.
-*   Father, please reveal the things that belong to me in Jesus' name. Amen.
-*   Father God, in the mighty name of Jesus, reveal the secrets of heaven for my life and pour them into my heart. Holy Spirit, teach me to know your voice in Jesus' name.
-*   Holy Spirit, minister to my heart, ears, and eyes so I understand the things of heaven and have revelation and clarity in my heart and spirit as I walk with you. Help me know your voice clearly and completely. In the mighty name of Jesus Christ. Amen.
-*   Holy Spirit, let me understand the deep things of God. In the name of Jesus. Amen.
-*   Holy Spirit, let the gift of revelation be my portion in my lifetime. In Jesus' name, Holy Spirit, teach me how to walk and how to discern the times and the seasons that I'm in so I can complete my race with you all the days of my earthly life.
+* Father, in the name of Jesus, I thank you for the home that you have given my family and me, not only as our dwelling, but also as a place of rest and peace. I declare that my house and my family members will serve Jesus Christ all the days of our lives. There will be nothing missing and nothing broken in our home. I declare that the glory of the Lord will reign and rule over my family and our dwelling place all day every day in Jesus' name.
+* Just as the ark of the covenant brought blessing to the house of Obed-Edom, let the presence of the Lord Jesus Christ bless my home and my family.
+* Father, in the name of Jesus Christ, I declare Psalm 23:5 over my home. You prepare a table before me in the presence of my enemies. You have anointed and refreshed my head with oil. My cup overflows.
+* I cover my home, protecting it from any disaster. earthquake, tornado, or fire or any type of demonic destruction, these will never seize my home in Jesus' name.
+* Let all demonic or satanic residue be kicked out of my home now in Jesus' name.
+* By the name of Jesus Christ, I call my home to be blessed completely and fully. I speak prosperity, health, joy, peace, unity, and laughter over my home and my family in Jesus' name.
+* I declare my home to be a pavilion of the Lord. I declare that the blessings of heaven will reign and rule over my home in Jesus' name.
+* I speak by the power of the Holy Spirit to declare and decree that no evil report will come out of my dwelling in the mighty name of Jesus.
+* I speak to the atmosphere of my home. Be holy and filled with peace and joy in Jesus Christ.
+* I declare that embarrassments should not be known in my home in Jesus' name.
+* I decree that poverty should not know my address in Jesus' name.
+* No sickness of any kind will reign or rule over my home ever again in Jesus' name.
+* Let the foundation of this dwelling be established in blessing in the almighty name of Jesus Christ.
+* I bless my home completely and fully inside and out in the name that is above every name, King Jesus. I speak blessings, health, prosperity, increase, abundance of rain, life, and no death over my home, my family, my friends, and anyone who visits my home. This place will be a reservoir of God's abundance in Jesus' name.
+* Lord Jesus, you are welcome in my home always and forever. Hallelujah. Let your presence fill my home completely and fully all day, every day. In your mighty name I pray.
+* Father, let the eyes of my understanding be enlightened. In Jesus' name, Lord, anoint my spiritual eyes to see and my spiritual ears to hear what the Holy Spirit has to say in every season of my life. In Jesus' name. Amen.
+* Father, please reveal the things that belong to me in Jesus' name. Amen.
+* Father God, in the mighty name of Jesus, reveal the secrets of heaven for my life and pour them into my heart. Holy Spirit, teach me to know your voice in Jesus' name.
+* Holy Spirit, minister to my heart, ears, and eyes so I understand the things of heaven and have revelation and clarity in my heart and spirit as I walk with you. Help me know your voice clearly and completely. In the mighty name of Jesus Christ. Amen.
+* Holy Spirit, let me understand the deep things of God. In the name of Jesus. Amen.
+* Holy Spirit, let the gift of revelation be my portion in my lifetime. In Jesus' name, Holy Spirit, teach me how to walk and how to discern the times and the seasons that I'm in so I can complete my race with you all the days of my earthly life.
 
 ### Chapter 24: Home Cleansing & Eviction
 
-**Buyer Praisers:**
-*   I wash my home with the blood of Jesus Christ from top to bottom and from side to side. With the blood of Jesus Christ, I paint my house red in the spirit. Let the foundations of my home now be dedicated to the Lord Jesus Christ.
-*   If any demons, warlocks, or witches lived in this home before, did I serve them in eviction notice right now? In the name of Jesus Christ.
-*   If my home contains any type of witchcraft, altar, candle lighting or incense burning, let it be destroyed by the blood of Jesus today.
-*   If any kind of demonic forces contaminated my home, I serve them an eviction notice today in Jesus precious name.
-*   If anyone committed murder, rape, incest, or bestiality in this home before I moved in, let it be destroyed by the blood of Jesus.
-*   If anyone conducted seances, witchcraft practices or occult practices in my home at any time, let them be destroyed completely and fully in Jesus' name.
-*   If anyone known or unknown is sending witchcraft to my home or if there is any demon visitation, let them drown in the blood of Jesus now in Jesus' name.
-*   I destroy every astral projecting devil who has come into my home or is trying to come into my home. I cut the silver cord, the contract between an astral projecting person and the demon, let it be destroyed in Jesus' name.
-*   If any human sacrifices of any kind have been offered in this home, let that innocent blood be washed away in Jesus' name.
-*   If any diabolical dedications or celebrations have occurred in my home, let them be destroyed in Jesus' name.
-*   If any cursed object has occupied or been displayed in this home, I bring it down in the name of Jesus.
-*   I bind every evil spirit in this room and I command them to leave now in Jesus' name.
-*   Today I cover the rooms of my home and everything they contain in the blood of Jesus. Let every demon that has invaded any room of my home catch fire in the spirit realm. Let these demons burn to ashes never to return in the name of Jesus Christ.
-*   I rededicate my home to Father God, King Jesus, and the Holy Spirit in Jesus' name.
-*   I put the blood of the lamb on every wall, window, and door in every room of this place. I put waring angels in my dwelling to guard the north, south, east, and west of my home in Jesus' name.
-*   I declare and decree that my home should be a house of prayer. In Jesus' name, I remove from my home every foul and wicked spirit that has made itself comfortable because of my words or has entered my home through any open door or gateway. By the fire of the Holy Spirit, I burn them out.
-*   Let every shadow and power of the dark side in my home be destroyed, dismantled, and uprooted now in Jesus' name.
-*   I break and destroy every bit of legal ground I have granted to any demons through my dreams or through any demonic practices in my home. Let them be destroyed now in Jesus's mighty name.
-*   I break every cursed object that was buried in my home either before or after I moved here. If anyone has placed such an object here, let the fire of God burn it out now in Jesus' name. Amen.
-*   In Jesus' name, I dismantle every altar in the spirit realm that has my home address on it. By the fire of the Holy Spirit, I purify my home fully and completely in Jesus' name.
-*   I take back my home from the forces of darkness and the devil himself. And I dedicate it back to Jesus Christ. Amen.
-*   I bind the strong man that is over my family, my home, and these rooms. I command the strong man to leave in the name of Jesus.
-*   Let every evil doorkeeper that is trying to control or manipulate in my home be destroyed today by the blood of Jesus Christ.
-*   I dedicate my family back to Jesus Christ. I dedicate the foundations of this home to Jesus Christ. I dedicate all the rooms in my home to Jesus Christ. Holy Spirit, you are welcome in this place. Holy Spirit, purify and sanctify my home and marriage, my children and their rooms and clothing, every closet and the attic in the name of Jesus. Amen.
-*   I break all curses that have been working against my property and against what I own, including my car in Jesus' name. Amen.
-*   I pray out of my home and my vehicles all premature deaths and accidents of all kinds. I pray this in the mighty name of Jesus Christ. Amen.
-*   Let every satanic spirit that is attached to those who visit my home be destroyed and removed from my house in Jesus' name. Thank you Lord for keeping this home and keeping all who live here in Jesus' name.
+**Fire Prayers:**
+* I wash my home with the blood of Jesus Christ from top to bottom and from side to side. With the blood of Jesus Christ, I paint my house red in the spirit. Let the foundations of my home now be dedicated to the Lord Jesus Christ.
+* If any demons, warlocks, or witches lived in this home before, I serve them in eviction notice right now! In the name of Jesus Christ.
+* If my home contains any type of witchcraft, altar, candle lighting or incense burning, let it be destroyed by the blood of Jesus today.
+* If any kind of demonic forces contaminated my home, I serve them an eviction notice today in Jesus precious name.
+* If anyone committed murder, rape, incest, or bestiality in this home before I moved in, let it be destroyed by the blood of Jesus.
+* If anyone conducted seances, witchcraft practices or occult practices in my home at any time, let them be destroyed completely and fully in Jesus' name.
+* If anyone known or unknown is sending witchcraft to my home or if there is any demon visitation, let them drown in the blood of Jesus.
+* I destroy every astral projecting devil who has come into my home or is trying to come into my home. I cut the silver cord, the contract between an astral projecting person and the demon, let it be destroyed in Jesus' name.
+* If any human sacrifices of any kind have been offered in this home, let that innocent blood be washed away in Jesus' name.
+* If any diabolical dedications or celebrations have occurred in my home, let them be destroyed in Jesus' name.
+* If any cursed object has occupied or been displayed in this home, I bring it down in the name of Jesus.
+* I bind every evil spirit in this room and I command them to leave now in Jesus' name.
+* Today I cover the rooms of my home and everything they contain in the blood of Jesus. Let every demon that has invaded any room of my home catch fire in the spirit realm. Let these demons burn to ashes never to return in the name of Jesus Christ.
+* I rededicate my home to Father God, King Jesus, and the Holy Spirit in Jesus' name.
+* I put the blood of the lamb on every wall, window, and door in every room of this place. I put waring angels in my dwelling to guard the north, south, east, and west of my home in Jesus' name.
+* I declare and decree that my home should be a house of prayer. In Jesus' name, I remove from my home every foul and wicked spirit that has made itself comfortable because of my words or has entered my home through any open door or gateway. By the fire of the Holy Spirit, I burn them out.
+* Let every shadow and power of the dark side in my home be destroyed, dismantled, and uprooted now in Jesus' name.
+* I break and destroy every bit of legal ground I have granted to any demons through my dreams or through any demonic practices in my home. Let them be destroyed now in Jesus's mighty name.
+* I break every cursed object that was buried in my home either before or after I moved here. If anyone has placed such an object here, let the fire of God burn it out now in Jesus' name. Amen.
+* In Jesus' name, I dismantle every altar in the spirit realm that has my home address on it. By the fire of the Holy Spirit, I purify my home fully and completely in Jesus' name.
+* I take back my home from the forces of darkness and the devil himself. And I dedicate it back to Jesus Christ. Amen.
+* I bind the strong man that is over my family, my home, and these rooms. I command the strong man to leave in the name of Jesus.
+* Let every evil doorkeeper that is trying to control or manipulate in my home be destroyed today by the blood of Jesus Christ.
+* I dedicate my family back to Jesus Christ. I dedicate the foundations of this home to Jesus Christ. I dedicate all the rooms in my home to Jesus Christ. Holy Spirit, you are welcome in this place. Holy Spirit, purify and sanctify my home and marriage, my children and their rooms and clothing, every closet and the attic in the name of Jesus. Amen.
+* I break all curses that have been working against my property and against what I own, including my car in Jesus' name. Amen.
+* I pray out of my home and my vehicles all premature deaths and accidents of all kinds. I pray this in the mighty name of Jesus Christ. Amen.
+* Let every satanic spirit that is attached to those who visit my home be destroyed and removed from my house in Jesus' name. Thank you Lord for keeping this home and keeping all who live here in Jesus' name.
 
 ### Chapter 25: New Dwelling Cleansing & Eviction
 
 **Fire Prayers:**
-*   Today I stand in my home with the authority that Jesus Christ has given me over every lingering demon and devil that was invited into this place. Whether consciously or unconsciously, it's time for you to go where the Lord sends you in Jesus' name. Amen.
-*   Today I serve an eviction notice on every black shadow or spirit that is trying to bring fear and torment into this place. I command it to leave now, never to return in the mighty name of Jesus Christ. Amen.
-*   Today I command every evil nightstalking devil that has visited this home to leave. By the blood of Jesus, I serve you with an eviction notice.
-*   I command every familial spirit that is here now or has been here at any time in the past to go in the name of Jesus.
-*   I destroy completely every poltergeist devil that has come in through the oneeyed monster called television. In the name of Jesus, I destroy any filth that was entertained here, including sexual content, profanity, and blasphemy. I command all of it to leave now in Jesus' name.
-*   By the blood of Jesus, I serve an eviction notice to every demonic influence and wicked spirit that made their home in this place. In Jesus' name, amen.
-*   I break, destroy, dismantle, and uproot every curse, vex, voodoo, and occult practice that was performed in this place through any persons or families. I command their works and any residue to leave now in the mighty name of Jesus Christ.
-*   I curse to the root every demonic nightstalking devil spirit that visits my dreams, walks around this home, stalks my family, or stands by my bedside at night. I command it to leave now in Jesus' name.
-*   I call on the Holy Spirit to release the fire of heaven on every devil that has made its home in this place. Let your fire burn all of them to ashes in Jesus' name.
-*   In the mighty name of Jesus Christ, I shut up, shut down, and kick out every evil spirit that has contaminated this place and seeks to destroy my marriage, children, family, or loved ones by bringing discord, division, or arguments out of nowhere.
-*   I release the fire of heaven on every demon that was sent here through witchcraft, spoken words, ungodly acts, and any doors and portals that were opened by any previous occupants of this place. I smite them with the blood of Jesus on their heads and command them to leave now in Jesus' name.
-*   In Jesus' name, I command every sexual spirit and adulterous fornication spirit lingering in my hotel room to leave now. Every spirit of suicide or fear that has made itself comfortable in this place, I command you to leave now in the name of Jesus Christ.
-*   I cover every door, window, wall, and floor and all furniture in this place with the blood of Jesus Christ. In Jesus' name, I ask the Holy Spirit to release the anointing and fire of God in this place today.
-*   I declare and decree that as they enter, I anoint in the spirit every person who walks into my home in the unmatchable name of Jesus Christ.
-*   I release waring angels into this place to protect everyone and everything in it in Jesus' name.
-*   I release the fire of the Holy Spirit from the north, south, east, and west to vacate and evict every kind of demon from this place in Jesus' name.
-*   Today and forever more, I dedicate this place to Jehovah, the most high God. Let his presence dwell and rule here in the mighty name of Jesus Christ. Amen.
+* Today I stand in my home with the authority that Jesus Christ has given me over every lingering demon and devil that was invited into this place. Whether consciously or unconsciously, it's time for you to go where the Lord sends you, in Jesus' name. Amen.
+* Today I serve an eviction notice on every black shadow or spirit that is trying to bring fear and torment into this place. I command it to leave now, never to return in the mighty name of Jesus Christ. Amen.
+* Today I command every evil nightstalking devil that has visited this home to leave. By the blood of Jesus, I serve you with an eviction notice.
+* I command every familiar spirit that is here now or has been here at any time in the past to go in the name of Jesus.
+* I destroy completely every poltergeist devil that has come in through the oneeyed monster called television. In the name of Jesus, I destroy any filth that was entertained here, including sexual content, profanity, and blasphemy. I command all of it to leave now in Jesus' name.
+* By the blood of Jesus, I serve an eviction notice to every demonic influence and wicked spirit that made their home in this place. In Jesus' name, amen.
+* I break, destroy, dismantle, and uproot every curse, vex, voodoo, and occult practice that was performed in this place through any persons or families. I command their works and any residue to leave now in the mighty name of Jesus Christ.
+* I curse to the root every demonic nightstalking devil spirit that visits my dreams, walks around this home, stalks my family, or stands by my bedside at night. I command it to leave now in Jesus' name.
+* I call on the Holy Spirit to release the fire of heaven on every devil that has made its home in this place. Let your fire burn all of them to ashes in Jesus' name.
+* In the mighty name of Jesus Christ, I shut up, shut down, and kick out every evil spirit that has contaminated this place and seeks to destroy my marriage, children, family, or loved ones by bringing discord, division, or arguments out of nowhere.
+* I release the fire of heaven on every demon that was sent here through witchcraft, spoken words, ungodly acts, and any doors and portals that were opened by any previous occupants of this place. I smite them with the blood of Jesus on their heads and command them to leave now in Jesus' name.
+* In Jesus' name, I command every sexual spirit and adulterous fornication spirit lingering in my hotel room to leave now. Every spirit of suicide or fear that has made itself comfortable in this place, I command you to leave now in the name of Jesus Christ.
+* I cover every door, window, wall, and floor and all furniture in this place with the blood of Jesus Christ. In Jesus' name, I ask the Holy Spirit to release the anointing and fire of God in this place today.
+* I declare and decree that as they enter, I anoint in the spirit every person who walks into my home in the unmatchable name of Jesus Christ.
+* I release waring angels into this place to protect everyone and everything in it in Jesus' name.
+* I release the fire of the Holy Spirit from the north, south, east, and west to vacate and evict every kind of demon from this place in Jesus' name.
+* Today and forever more, I dedicate this place to Jehovah, the most high God. Let his presence dwell and rule here in the mighty name of Jesus Christ. Amen.
 
 ### Chapter 26: Marriage Protection & Restoration
 
