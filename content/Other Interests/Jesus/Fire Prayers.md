@@ -488,74 +488,74 @@ This document contains all the "Fire Prayers" found at the end of the chapters i
 ### Chapter 26: Marriage Protection & Restoration
 
 **Fire Prayers:**
-*   Father, I destroy the cankerworm and the locust that are trying to eat away at my marriage. In the name of Jesus, amen.
-*   In the name of Jesus Christ, I destroy every plot, evil scheme, argument, and enttrapment the devil is using to try and destroy my marriage.
-*   In the name of Jesus, I destroy every demonic force and demon that is trying to frustrate my marriage.
-*   In Jesus' name, I destroy all demonic discord and division that is attacking my marriage.
-*   In the name of Jesus, let every known and unknown satanic power or activity that is working against my marriage die and shrivel up completely and fully.
-*   In the name of Jesus, I break every divorce paper in the spirit realm that has my name and my spouse's name on it.
-*   In the name of Jesus Christ, I destroy every demonic dream that tries to take down our marriage. Let all of them drown in the blood of Jesus Christ.
-*   Today by the fire of God, I destroy every husband's spirit and every wife spirit in Jesus' name. Amen.
-*   In the name of Jesus, I destroy every pornography spirit, lust spirit, and perversion spirit that is trying to come against me and my marriage.
-*   In Jesus' name, I break the spirits of poverty, perversion, and alcohol in every demonic weakness that is trying to incarcerate my marriage. right now in the name of Jesus.
-*   I destroy the spirits of Jezebel and Delilah that are trying to come against my marriage. In Jesus' name, I destroy the spirit of Ahab, complacent devil that is trying to paralyze my marriage.
-*   Let the judgment of God fall on every entrament, open door and open portal that the enemy has entered, including those involving legal rights that I or my spouse have given him. we destroy those things and return to God's perfect will for our marriage in Jesus' name. Amen.
-*   Father, forgive us for any known and unknown sins we have committed against one another. Forgive any demonic and divorce words that we have spoken into the atmosphere. Let them all be destroyed.
-*   Father, purify us, our marriage, and our marriage papers completely and fully. Let unity fill our home. Make it a place where two can put 10,000 to flight. We are in agreement as there is power in agreement. Let our marriage be sanctified and filled with the Holy Spirit who is the center of our marriage in Jesus' name.
-*   Give us wisdom, knowledge, revelation, and clarity in our spiritual walk together. Command a blessing over our home. In the unmatchable name of Jesus Christ. Amen.
-*   Lord, I give you praise and glory. I worship you and thank you in Jesus' name. Amen.
+* Father, I destroy the cankerworm and the locust that are trying to eat away at my marriage. In the name of Jesus, amen.
+* In the name of Jesus Christ, I destroy every plot, evil scheme, argument, and entrapment the devil is using to try and destroy my marriage.
+* In the name of Jesus, I destroy every demonic force and demon that is trying to frustrate my marriage.
+* In Jesus' name, I destroy all demonic discord and division that is attacking my marriage.
+* In the name of Jesus, let every known and unknown satanic power or activity that is working against my marriage die and shrivel up completely and fully.
+* In the name of Jesus, I break every divorce paper in the spirit realm that has my name and my spouse's name on it.
+* In the name of Jesus Christ, I destroy every demonic dream that tries to take down our marriage. Let all of them drown in the blood of Jesus Christ.
+* Today by the fire of God, I destroy every husband's spirit and every wife spirit in Jesus' name. Amen.
+* In the name of Jesus, I destroy every pornography spirit, lust spirit, and perversion spirit that is trying to come against me and my marriage.
+* In Jesus' name, I break the spirits of poverty, perversion, and alcohol in every demonic weakness that is trying to incarcerate my marriage. right now in the name of Jesus.
+* I destroy the spirits of Jezebel and Delilah that are trying to come against my marriage. In Jesus' name, I destroy the spirit of Ahab, complacent devil that is trying to paralyze my marriage.
+* Let the judgment of God fall on every entrapment, open door and open portal that the enemy has entered, including those involving legal rights that I or my spouse have given him. we destroy those things and return to God's perfect will for our marriage in Jesus' name. Amen.
+* Father, forgive us for any known and unknown sins we have committed against one another. Forgive any demonic and divorce words that we have spoken into the atmosphere. Let them all be destroyed.
+* Father, purify us, our marriage, and our marriage papers completely and fully. Let unity fill our home. Make it a place where two can put 10,000 to flight. We are in agreement as there is power in agreement. Let our marriage be sanctified and filled with the Holy Spirit who is the center of our marriage in Jesus' name.
+* Give us wisdom, knowledge, revelation, and clarity in our spiritual walk together. Command a blessing over our home. In the unmatchable name of Jesus Christ. Amen.
+* Lord, I give you praise and glory. I worship you and thank you in Jesus' name. Amen.
 
 ### Chapter 27: Children's Blessing & Destiny Declarations
 
 **Fire Prayers:**
-*   In the name of Jesus. Heavens be opened over my child and their child ren today and forever more. Favor of God, please be their portion all the rest of their lives in Jesus's name. Amen.
-*   My child will be the head and not the tail.
-*   My child will run and not be weary. They will walk and not faint. Their portion will always be blessed and in the hands of our Lord Jesus Christ.
-*   I declare over my child ren that they will always be blessed financially so they can further the kingdom of Jesus Christ. Provide for their families and protect them in Jesus' name.
-*   In Jesus' name, I destroy completely and fully every demonic door of hindrance, delay, blockage, and distraction that is trying to come on my kid's sake. They will live under heaven's open door all the days of their lives in Jesus' name.
-*   In Jesus' name, my child Ren will enter 100% God-fearing marriages. My child Renee will not pursue any of the enemy's plots, schemes, or ws. They will live out their purpose and destinies in Jesus' name.
-*   My children's names will be great on the earth in Jesus' name.
-*   I prophesy over my child that they will never see a day of sickness or backsliding in Jesus' name.
-*   Let every demonic plot or enttrapment of the enemy that would try to incarcerate my child ren be destroyed completely and fully so they are free from the tops of their heads to the soles of their feet. Let no bloodline or generational curse hinder my child ren from being raised up in the Lord and finishing their course in Jesus' name. Amen.
-*   My child will not inherit poverty but will be mighty men and women of God in Jesus' name.
-*   In Jesus' name, I curse to the root every premature death, sickness, bondage, and fornication. Devil that is trying to take my child Ren down.
-*   Father, in the name of Jesus, let my child Ren find your favor in every season of their lives.
-*   Let my child Ren be filled with the Holy Spirit completely and fully all the days of their lives in Jesus' name.
-*   Let every evil eye and all jealousy, envy, and hatred from the north, south, east, and west be destroyed from my child reins, friendships, peers, families, or any person who tries to come against them in Jesus' name.
-*   In Jesus' name, I break every satanic friendship from the streets and schools that is trying to manipulate and control my child. Ren, I destroy every kind of demonic influence or deception that is trying to incarcerate my child. Ren, I destroy these evils completely and fully in Jesus' name.
-*   In Jesus' name, I destroy any kind of satanic or demonic friendship that is trying to sidetrack my child. In Jesus' name, let every vagabond devil that is trying to pursue and control my child, Ranir, be destroyed.
-*   I release my child, nephews, and nieces from any demonic or satanic arrest in Jesus' name.
-*   I speak revelation and clarity over my child, Ren, in the name of Jesus.
-*   I release the spirit of God on my child who are lost and in the world. Lord, bring them back to the cross of Jesus Christ.
-*   In Jesus' name, I destroy and break off my child, Ren. Every backsliding spirit that would try to rob their purpose, destiny, and relationship with Almighty God.
-*   I curse to the root every hindrance, delay, blockage, and distraction that is trying to come on my child, Ren, nephews, and nieces. They will inherit the blessings of the kingdom in Jesus' name.
-*   I curse to the root every sickness, bloodline curse, and demonic family curse that is trying to destroy my child, Ren. Let it shrivel up and die. Let the blessings of the Lord be on in, and through my child, Ren, in Jesus' name.
-*   Thank you, Lord, for my child, Ren. Thank you for sealing their futures, purposes, and destinies in the hands of Almighty God. In Jesus' name I pray. Amen.
+* In the name of Jesus. Heavens be opened over my child and their children today and forever more. Favor of God, please be their portion all the rest of their lives in Jesus's name. Amen.
+* My child will be the head and not the tail.
+* My child will run and not be weary. They will walk and not faint. Their portion will always be blessed and in the hands of our Lord Jesus Christ.
+* I declare over my children that they will always be blessed financially so they can further the kingdom of Jesus Christ. Provide for their families and protect them in Jesus' name.
+* In Jesus' name, I destroy completely and fully every demonic door of hindrance, delay, blockage, and distraction that is trying to come on my kid's sake. They will live under heaven's open door all the days of their lives in Jesus' name.
+* In Jesus' name, my children will enter 100% God-fearing marriages. My child **nameOFChild** will not pursue any of the enemy's plots, or schemes. They will live out their purpose and destinies in Jesus' name.
+* My children's names will be great on the earth in Jesus' name.
+* I prophesy over my child that they will never see a day of sickness or backsliding in Jesus' name.
+* Let every demonic plot or entrapment of the enemy that would try to incarcerate my children be destroyed completely and fully so they are free from the tops of their heads to the soles of their feet. Let no bloodline or generational curse hinder my children from being raised up in the Lord and finishing their course in Jesus' name. Amen.
+* My child will not inherit poverty but will be mighty men and women of God in Jesus' name.
+* In Jesus' name, I curse to the root every premature death, sickness, bondage, and fornication devil that is trying to take my children down.
+* Father, in the name of Jesus, let my children find your favor in every season of their lives.
+* Let my children be filled with the Holy Spirit completely and fully all the days of their lives in Jesus' name.
+* Let every evil eye and all jealousy, envy, and hatred from the north, south, east, and west be destroyed from my children's friendships, peers, families, or any person who tries to come against them in Jesus' name.
+* In Jesus' name, I break every satanic friendship from the streets and schools that is trying to manipulate and control my children. I destroy every kind of demonic influence or deception that is trying to incarcerate my children. I destroy these evils completely and fully in Jesus' name.
+* In Jesus' name, I destroy any kind of satanic or demonic friendship that is trying to sidetrack my child. In Jesus' name, let every vagabond devil that is trying to pursue and control my child, **childNameHere**, be destroyed.
+* I release my child, nephews, and nieces from any demonic or satanic arrest in Jesus' name.
+* I speak revelation and clarity over my children, in the name of Jesus.
+* I release the spirit of God on my child who are lost and in the world. Lord, bring them back to the cross of Jesus Christ.
+* In Jesus' name, I destroy and break off my children. Every backsliding spirit that would try to rob their purpose, destiny, and relationship with Almighty God.
+* I curse to the root every hindrance, delay, blockage, and distraction that is trying to come on my children, nephews, and nieces. They will inherit the blessings of the kingdom in Jesus' name.
+* I curse to the root every sickness, bloodline curse, and demonic family curse that is trying to destroy my children. Let it shrivel up and die. Let the blessings of the Lord be on in, and through my children, in Jesus' name.
+* Thank you, Lord, for my children. Thank you for sealing their futures, purposes, and destinies in the hands of Almighty God. In Jesus' name I pray. Amen.
 
 ### Chapter 28: Children's Protection & Deliverance
 
 **Fire Prayers:**
-*   In the name of Jesus, I baptize all my children in his precious blood. In Jesus' name, I baptize all my child Ren in the fire of the Holy Spirit. Let all known and unknown satanic manipulation of my child Ren be completely and fully destroyed in Jesus' name.
-*   In the mighty name of Jesus, I destroy every demonic plot, scheme, and wild that the devil has put on my child. I hide my child, ren me in the clif of the rock. Far from every scheme, while and plot of the devil,
-*   I break off from my child renashing, all brainwashing, all satanic enttrapment, and every false identity of homosexuality, perversion, or pornography.
-*   In Jesus' name, I destroy my child Ren's addiction to satanic content on television, in books, and on social media. Let all of it be destroyed once and for all in Jesus' name.
-*   Let every devil operating via social media shrivel up and die today in Jesus' name.
-*   I destroy every satanic sickness that has come on my child, Ren. Whether it is cancer, diabetes, high blood pressure or any other demonic infirmity, let it be annihilated in Jesus' name.
-*   I destroy every satanic program, movie, sitcom, or television show involving magic, false identities, cursing, and blasphemy that has entertained my child Ren through the eye gates or eargates. Let any diabolical lines they have repeated from any movie or TV program be destroyed by the blood of Jesus.
-*   I break every satanic scheme that keeps my child addicted to electronic devices, including tablets and cell phones. I destroy all mechanisms that have manipulated or brainwash them by infiltrating their minds, souls, and thinking. Let it all drown in the blood of Jesus. Amen.
-*   By the fire of the Holy Spirit, I destroy and cancel all programming, satanic alignment, and infiltrations that have fed my child Ren. Today I break, destroy, and uproot them all in Jesus' name.
-*   By the fire of the Holy Spirit, I burn every satanic birth certificate, spiritual adoption, and false identity that adopts my child into the kingdom of darkness. Let these devices be burned and destroyed in Jesus' name.
-*   Let every personal item that belongs to my home or my child, including young children, teenagers, and adults of all ages and is found on any satanic altar in the spirit realm, be abolished and destroyed in the name of Jesus. Amen.
-*   I put on notice every demonic power and I cut the ropes of those who are acting as my child Ren's puppeteers on behalf of the enemy's agenda. I do this in the mighty untouchable name of Jesus Christ.
-*   I break and destroy every evil related to oppression, depression, suicide, or demonic addiction that has come on my child Ren. Let it be broken off them completely in Jesus's mighty name.
-*   I break off my child every false identity spoken over their lives through my mouth or any other mouth. Let those words drown in the blood of Jesus today.
-*   I destroy repeating patterns and cycles by which my child is are freed in one season only to be bound in the next. In Jesus' name, I destroy these schemes. They are never to return or threaten my child Ren's inheritance again.
-*   Father, I put my child Ren in your mighty right hand. No devil, hell, witch, vex, social media, television program or movie will be able to recruit them. In Jesus mighty name I pray.
-*   In Jesus' name, my child Renault will not be married to any entrapments of the devil, including any commitments or agreements made with the enemy of their souls or with his kingdom now or in the future.
-*   Holy Spirit, please hold my child Ren from the crowns of their heads to the soles of their feet. cover them and keep them from turning in any direction that does not serve their purposes and destinies.
-*   In Jesus' name, I declare and decree over my child, Ren, a wall of fire on their minds, hearts, spirits, and souls.
-*   In the mighty name of Jesus Christ, I destroy every generational curse in every branch of my bloodline that will hinder my child Ren's walk with the Lord Jesus Christ in any way. Let all generational curses be uprooted all the way back to Adam and Eve in Jesus' name.
-*   Father, in Jesus precious name, I give you back the pen with which to write the rest of my children's stories. Let their destinies and purposes be written as masterpieces and bestsellers that bring glory and honor to your name.
+* In the name of Jesus, I baptize all my children in his precious blood. In Jesus' name, I baptize all my children in the fire of the Holy Spirit. Let all known and unknown satanic manipulation of my children be completely and fully destroyed in Jesus' name.
+* In the mighty name of Jesus, I destroy every demonic plot and scheme that the devil has put on my child.
+* I break off from my child all brainwashing, all satanic entrapment, and every false identity of homosexuality, perversion, or pornography.
+* In Jesus' name, I destroy my children's addiction to satanic content on television, in books, and on social media. Let all of it be destroyed once and for all in Jesus' name.
+* Let every devil operating via social media shrivel up and die today in Jesus' name.
+* I destroy every satanic sickness that has come on my children. Whether it is cancer, diabetes, high blood pressure or any other demonic infirmity, let it be annihilated in Jesus' name.
+* I destroy every satanic program, movie, sitcom, or television show involving magic, false identities, cursing, and blasphemy that has entertained my children through the eye gates or eargates. Let any diabolical lines they have repeated from any movie or TV program be destroyed by the blood of Jesus.
+* I break every satanic scheme that keeps my child addicted to electronic devices, including tablets and cell phones. I destroy all mechanisms that have manipulated or brainwash them by infiltrating their minds, souls, and thinking. Let it all drown in the blood of Jesus. Amen.
+* By the fire of the Holy Spirit, I destroy and cancel all programming, satanic alignment, and infiltrations that have fed my children. Today I break, destroy, and uproot them all in Jesus' name.
+* By the fire of the Holy Spirit, I burn every satanic birth certificate, spiritual adoption, and false identity that adopts my child into the kingdom of darkness. Let these devices be burned and destroyed in Jesus' name.
+* Let every personal item that belongs to my home or my child, including young children, teenagers, and adults of all ages and is found on any satanic altar in the spirit realm, be abolished and destroyed in the name of Jesus. Amen.
+* I put on notice every demonic power and I cut the ropes of those who are acting as my children's puppeteers on behalf of the enemy's agenda. I do this in the mighty untouchable name of Jesus Christ.
+* I break and destroy every evil related to oppression, depression, suicide, or demonic addiction that has come on my children. Let it be broken off them completely in Jesus's mighty name.
+* I break off my child every false identity spoken over their lives through my mouth or any other mouth. Let those words drown in the blood of Jesus today.
+* I destroy repeating patterns and cycles by which my child is freed in one season only to be bound in the next. In Jesus' name, I destroy these schemes. They are never to return or threaten my children's inheritance again.
+* Father, I put my children in your mighty right hand. No devil, hell, witch, vex, social media, television program or movie will be able to recruit them. In Jesus mighty name I pray.
+* In Jesus' name, my child **childNameHere** will not be married to any entrapments of the devil, including any commitments or agreements made with the enemy of their souls or with his kingdom now or in the future.
+* Holy Spirit, please hold my children from the crowns of their heads to the soles of their feet. cover them and keep them from turning in any direction that does not serve their purposes and destinies.
+* In Jesus' name, I declare and decree over my children, a wall of fire on their minds, hearts, spirits, and souls.
+* In the mighty name of Jesus Christ, I destroy every generational curse in every branch of my bloodline that will hinder my children's walk with the Lord Jesus Christ in any way. Let all generational curses be uprooted all the way back to Adam and Eve in Jesus' name.
+* Father, in Jesus precious name, I give you back the pen with which to write the rest of my children's stories. Let their destinies and purposes be written as masterpieces and bestsellers that bring glory and honor to your name.
 
 ---
 
@@ -564,35 +564,35 @@ This document contains all the "Fire Prayers" found at the end of the chapters i
 ### Chapter 29: Education & Student Success
 
 **Fire Prayers:**
-*   May the peace of God that surpasses all understanding rest on me at school today. Let the peace of the Holy Spirit rest on my mind during every examination for my diploma, certificate, or degree. In Jesus' name, I declare that I have a sound mind in Christ Jesus today and forever more.
-*   Father, as I stand in this educational institution, I trust you to be with me. No weapon that is formed against me through my teachers or professors will prosper. In the name of Jesus, I declare and decree that I will complete my course and make Jesus Christ proud.
-*   In the name of Jesus, I break off and destroy every spirit of fear and anxiety that any professor or teacher is trying to put on me through any form of intimidation.
-*   I break off and destroy every demonic, unrighteous word that is spoken in my classroom to pierce my ears and spirit and contaminate or brainwash me in any way. Let those words be destroyed in the name of Jesus Christ.
-*   I rebuke every satanic or demonic plot, scheme, or while from any teacher or professor who tries to indoctrinate me in the devil's demonic theology. Let it be destroyed in Jesus' name.
-*   In the name of Jesus and by his blood, I destroy every wicked spirit that is trying to distract me from my exams, studies, or classroom activities.
-*   In Jesus' name, I destroy every devil and demon that is trying to steal the wisdom and knowledge that I will use to pass any exams or tests that I need to complete my diploma or degree. Lord, I thank you for bringing to my remembrance the information I need for every examination throughout my education in the name of Jesus.
-*   Holy Spirit, please help me to pass my tests, graduate, and make Jesus Christ proud. I plead the blood of Jesus over every exam, paper, term paper, quiz, and other course requirement. Help me to achieve the grade that God intends. It will not be altered or edited by any professor or teacher in any way, shape, or form. In Jesus' name, amen.
-*   In Jesus' name, I destroy every entrament of the devil in any classroom setting that would target me or endanger my diploma or degree. Lord, I thank you for making me the head and not the tail. In the name of Jesus, amen.
-*   In Christ Jesus alone, I will succeed in everything I do. I will not fail, but will complete the course that is part of my purpose and my destiny. In Jesus's name, I pray.
-*   Lord, I give you praise and worship knowing the good work I started back in elementary school continues now that I am in college. You will bring it to completion and continue to lead me. No weapon, person, or devil will stop what you, the Almighty, have started. I will finish the course and make Jesus Christ proud that he picked me.
+* May the peace of God that surpasses all understanding rest on me at school today. Let the peace of the Holy Spirit rest on my mind during every examination for my diploma, certificate, or degree. In Jesus' name, I declare that I have a sound mind in Christ Jesus today and forever more.
+* Father, as I stand in this educational institution, I trust you to be with me. No weapon that is formed against me through my teachers or professors will prosper. In the name of Jesus, I declare and decree that I will complete my course and make Jesus Christ proud.
+* In the name of Jesus, I break off and destroy every spirit of fear and anxiety that any professor or teacher is trying to put on me through any form of intimidation.
+* I break off and destroy every demonic, unrighteous word that is spoken in my classroom to pierce my ears and spirit and contaminate or brainwash me in any way. Let those words be destroyed in the name of Jesus Christ.
+* I rebuke every satanic or demonic plot, scheme, or while from any teacher or professor who tries to indoctrinate me in the devil's demonic theology. Let it be destroyed in Jesus' name.
+* In the name of Jesus and by his blood, I destroy every wicked spirit that is trying to distract me from my exams, studies, or classroom activities.
+* In Jesus' name, I destroy every devil and demon that is trying to steal the wisdom and knowledge that I will use to pass any exams or tests that I need to complete my diploma or degree. Lord, I thank you for bringing to my remembrance the information I need for every examination throughout my education in the name of Jesus.
+* Holy Spirit, please help me to pass my tests, graduate, and make Jesus Christ proud. I plead the blood of Jesus over every exam, paper, term paper, quiz, and other course requirement. Help me to achieve the grade that God intends. It will not be altered or edited by any professor or teacher in any way, shape, or form. In Jesus' name, amen.
+* In Jesus' name, I destroy every entrapment of the devil in any classroom setting that would target me or endanger my diploma or degree. Lord, I thank you for making me the head and not the tail. In the name of Jesus, amen.
+* In Christ Jesus alone, I will succeed in everything I do. I will not fail, but will complete the course that is part of my purpose and my destiny. In Jesus's name, I pray.
+* Lord, I give you praise and worship knowing the good work I started back in elementary school continues now that I am in college. You will bring it to completion and continue to lead me. No weapon, person, or devil will stop what you, the Almighty, have started. I will finish the course and make Jesus Christ proud that he picked me.
 
 ### Chapter 30: Healing & Sickness Destruction
 
 **Fire Prayers:**
-*   I command every evil sickness and every infirmity spirit that has been planted in my body by the devil to loose my body now in the name of Jesus. Name each sickness. Lay your hands on your head or wherever the sickness is. Then with the anointing and fire of the Holy Spirit, command that devil to come out in the name of Jesus.
-*   by the fire of the Holy Spirit. I ask the Holy Spirit to purify and sanctify my body from all demonic pollution and every demonic sickness and infirmity that has gripped my body in Jesus' name.
-*   I ask the fire of God to roast and completely destroy, dismantle, and uproot every sickness. Call out the name of any sicknesses and tell them to leave now in the name of Jesus.
-*   I curse pain to its root. Let it shrivel up, die, and leave my body now in Jesus' name.
-*   I destroy every cancer devil and cancer cell. I command them to leave now in the name of Jesus.
-*   In Jesus' name, I destroy any issue of high blood pressure in my body. I destroy diabetes and command it to leave my body in the name of Jesus.
-*   I release the arsenals of heaven against any oppression and depression that have overtaken my mind, heart, and thinking. I destroy all of it by the blood of Jesus. Release me now in Jesus's name.
-*   I bind the strong man of sickness over my bloodline, on my father's side, and on my mother's side. I curse it to the root. Let it shrivel up and die now in the name of Jesus Christ.
-*   I destroy every satanic or demonic altar and every sickness and infirmity that has been sent by witchcraft to destroy me. Let it be sent back to the senders and fall on their heads in Jesus' name.
-*   In the name of Jesus, I destroy all premature death in my family's bloodline, in my life, and in my descendants lives.
-*   I completely and fully destroy all pharmarmacaya, including all demonic medications, pills, and treatments that have addicted my body. I curse them to the root. Let them shrivel up and die. And let my body be healed now in Jesus' name.
-*   I destroy completely and fully all asthma, all bronchitis, and all COVID 19 devils and every respiratory issue that has blocked my lungs. I curse them now in Jesus' name.
-*   I release the anointing and fire of God through my family's bloodline all the way down to Adam and Eve to purify, sanctify, and make me whole and complete in Jesus name.
-*   Father, in the name of Jesus Christ, I am healed, whole, and delivered out of the devil's hands and from every kind of infirmity spirit. Lord, my healer, I praise and worship you, and I give you all the glory in Jesus' name. Amen.
+* I command every evil sickness and every infirmity spirit that has been planted in my body by the devil to loose my body now in the name of Jesus. Name each sickness. Lay your hands on your head or wherever the sickness is. Then with the anointing and fire of the Holy Spirit, command that devil to come out in the name of Jesus.
+* by the fire of the Holy Spirit. I ask the Holy Spirit to purify and sanctify my body from all demonic pollution and every demonic sickness and infirmity that has gripped my body in Jesus' name.
+* I ask the fire of God to roast and completely destroy, dismantle, and uproot every sickness. Call out the name of any sicknesses and tell them to leave now in the name of Jesus.
+* I curse pain to its root. Let it shrivel up, die, and leave my body now in Jesus' name.
+* I destroy every cancer devil and cancer cell. I command them to leave now in the name of Jesus.
+* In Jesus' name, I destroy any issue of high blood pressure in my body. I destroy diabetes and command it to leave my body in the name of Jesus.
+* I release the arsenals of heaven against any oppression and depression that have overtaken my mind, heart, and thinking. I destroy all of it by the blood of Jesus. Release me now in Jesus's name.
+* I bind the strong man of sickness over my bloodline, on my father's side, and on my mother's side. I curse it to the root. Let it shrivel up and die now in the name of Jesus Christ.
+* I destroy every satanic or demonic altar and every sickness and infirmity that has been sent by witchcraft to destroy me. Let it be sent back to the senders and fall on their heads in Jesus' name.
+* In the name of Jesus, I destroy all premature death in my family's bloodline, in my life, and in my descendants lives.
+* I completely and fully destroy all pharmakeia, including all demonic medications, pills, and treatments that have addicted my body. I curse them to the root. Let them shrivel up and die. And let my body be healed now in Jesus' name.
+* I destroy completely and fully all asthma, all bronchitis, and all COVID 19 devils and every respiratory issue that has blocked my lungs. I curse them now in Jesus' name.
+* I release the anointing and fire of God through my family's bloodline all the way down to Adam and Eve to purify, sanctify, and make me whole and complete in Jesus name.
+* Father, in the name of Jesus Christ, I am healed, whole, and delivered out of the devil's hands and from every kind of infirmity spirit. Lord, my healer, I praise and worship you, and I give you all the glory in Jesus' name. Amen.
 
 ### Chapter 31: Premature Death Destruction
 
