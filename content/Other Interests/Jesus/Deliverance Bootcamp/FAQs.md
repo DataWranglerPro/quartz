@@ -58,11 +58,11 @@
 **Note:** Philip was a believer not a disciple of Jesus. 7 sons of Sceva were not a believers.
 
 **Here are all the Deliverance passages:**
-**Acts 5:16:** Crowds from the towns surrounding Jerusalem brought their sick and those tormented by impure spirits to the apostles, and all of them were healed.
-**Acts 8:7:** As Philip preached in a city in Samaria, he performed many signs, including casting out impure spirits which came out of many people with loud shrieks.
-**Acts 16:18:** In Philippi, Paul became annoyed with a female slave who had a spirit of divination and had been following them for days. He commanded the spirit in the name of Jesus Christ to come out of her, and it left her instantly.
-**Acts 19:12:** During Paul's time in Ephesus, God did extraordinary miracles through him. Handkerchiefs and aprons that had touched Paul were taken to the sick, which cured their illnesses and caused evil spirits to leave them.
-**Acts 19:13-16:** Seven sons of a Jewish chief priest named Sceva saw Paul's success and tried to invoke the name of Jesus over a demon-possessed man, saying, "In the name of the Jesus whom Paul preaches, I command you to come out." The evil spirit replied, "Jesus I know, and Paul I know about, but who are you?" and then attacked the men, who fled the house naked and bleeding.
+**Acts 5:16:** Crowds from the towns surrounding Jerusalem brought their sick and those tormented by impure spirits to the apostles, and all of them were healed.  
+**Acts 8:7:** As Philip preached in a city in Samaria, he performed many signs, including casting out impure spirits which came out of many people with loud shrieks.  
+**Acts 16:18:** In Philippi, Paul became annoyed with a female slave who had a spirit of divination and had been following them for days. He commanded the spirit in the name of Jesus Christ to come out of her, and it left her instantly.  
+**Acts 19:12:** During Paul's time in Ephesus, God did extraordinary miracles through him. Handkerchiefs and aprons that had touched Paul were taken to the sick, which cured their illnesses and caused evil spirits to leave them.  
+**Acts 19:13-16:** Seven sons of a Jewish chief priest named Sceva saw Paul's success and tried to invoke the name of Jesus over a demon-possessed man, saying, "In the name of the Jesus whom Paul preaches, I command you to come out." The evil spirit replied, "Jesus I know, and Paul I know about, but who are you?" and then attacked the men, who fled the house naked and bleeding.  
 
 
 * I have the Holy Spirit, why do I need deliverance?
@@ -99,17 +99,17 @@
 - **The Dynamic:** **Authority Delegated.**
     - Observation: Jesus gave them authority to drive out impure spirits. This confirms that casting out demons happened **while Jesus was on earth**, but He also delegated this power to His followers.
 
+- **Verse:** **Luke 10:17**
+- **Event:** The seventy-two disciples return with joy.
+- **Who:** The 72 "Others" (Extended Circle of Believers).
+- **The Dynamic:** **Authority Expanded.**
+    - Observation: Jesus expands His delegation of authority beyond the core Twelve to a larger group of seventy-two disciples. Their report ("Lord, even the demons submit to us in your name") confirms that spiritual authority was not limited to the inner circle but was accessible to other obedient followers sent in His name.
+
 - **Verse:** **Luke 13:16**
 - **Event:** Jesus heals a woman crippled for 18 years.
 - **Who:** A "Daughter of Abraham" (Covenant Believer).
 - **The Dynamic:** **Believer Bound.**
     - Observation: Jesus confirms she is a believer ("daughter of Abraham"), yet she was physically bound by Satan. This supports the point that **believers can be afflicted by demons**.
-        
-- **Verse:** **Matthew 18:7-8**
-- **Event:** Jesus teaches on stumbling blocks.
-- **Who:** General disciples/followers.
-- **The Dynamic:** **General Affliction/Temptation.**
-    - Observation: Jesus acknowledges that "woe" comes to the world because of stumbling blocks (often influenced by the enemy). It is a warning that affliction is inevitable in this life.
         
 - **Verse:** **Luke 22:3**
 - **Event:** Preparation for the Passover.
@@ -183,8 +183,7 @@ Based on the timeline of the verses provided, here is the confirmation of your s
 - Acts 5:3 also suggests that Ananias, who was in the presence of the Holy Spirit and the Apostles, allowed his heart to be filled by Satan to lie.
 
 
-	[![](https://mermaid.ink/img/pako:eNqVlM1u20YQx19lsEYuhuRwl7JEbV0DjKTEMazYMJlDWvWwEofWwiRXWK5iK46BvkBQJA3QQxwYBZJ-PUEvfRm_QP0IXZIyHTttEe-BO_yY3_z553BOyERFSDg50GI2hbA_ysCue_fg6_9Z9UNB-GxnENwhZ5KIPO9jDKgFxDJJ-Irruo2JSpTmK3EcN3Kj1SHyFcbYMm4eychMOZsdN2KVmeYRyoOp4WOVRNWFXL5ATr3Z8Ve3ijxHneOyTFyuGu953k08XVu3BfQxp06xL6r9E37rc_5EZRlOjNJwhRVCXGEjkU-F1mLBwQXXptY2DfZ9oND8klXl7Ibfjsjl-Y9nsLvTh3AQhP5w8CQcke8459bJq6csc_NlKFNMZIYvYVuNbd7qqt2BcspWVzfG-v7m5fn5h-Ie-HGcyInBCMYLCIQRWUUsbbull91FbwG3UmC4betfnL3_-88fYPj4yeMg3H8Guw9hexA8DT5RX2UNt6skYQx1SuFFCNThdKn84uw36Mt8ImcJ5vBIPscM9tQR6hu6S1YJKXk780OkbskrQqAup-3aite_X3z_6vL8l7-gL-a2rVCDisEfazEVKTxQ8yz6DF4Razhj13DGuEtr-K-vYA8LZCDjL7PZvYvNVfFSR88vnH73B4RbA-htPd3vbYH_aHCrQ6pjz1_6rA9pe-mzPgTa5rRTS3_7ER7YNsJCJPREbmB3bqCPqcryf3G7QJVUf2Ly9RJaRLDO3Rr55i34mcikyOGh_SX_y48CWFKqF1OaVv6yIgbK-LXIn34uOmtPzBMIlU4xW5o8xDzH7KD6lmWFMmFDbgYzqaVpLusv0Fz_BBv35eYNIaRhp6KMCDd6jg2Sok5FcUpOCpEjYqaY4ohwG0YYWxFmREbZqU2biewbpdKrTK1sZxEeiyS3Z_NZJAz2pbAjN62vaswi1D3bb4bYWdPplhTCT8gx4azVWVtnLmt3ut1Wh1KvQRaENz265rCW1-m0W47jtVr0tEFelHXpWtdx3Y7Tpp7HHNp1Wg2CkbSTaliN-3Lqn_4DZE7RUA?type=png)](https://mermaid.live/edit#pako:eNqVlM1u20YQx19lsEYuhuRwl7JEbV0DjKTEMazYMJlDWvWwEofWwiRXWK5iK46BvkBQJA3QQxwYBZJ-PUEvfRm_QP0IXZIyHTttEe-BO_yY3_z553BOyERFSDg50GI2hbA_ysCue_fg6_9Z9UNB-GxnENwhZ5KIPO9jDKgFxDJJ-Irruo2JSpTmK3EcN3Kj1SHyFcbYMm4eychMOZsdN2KVmeYRyoOp4WOVRNWFXL5ATr3Z8Ve3ijxHneOyTFyuGu953k08XVu3BfQxp06xL6r9E37rc_5EZRlOjNJwhRVCXGEjkU-F1mLBwQXXptY2DfZ9oND8klXl7Ibfjsjl-Y9nsLvTh3AQhP5w8CQcke8459bJq6csc_NlKFNMZIYvYVuNbd7qqt2BcspWVzfG-v7m5fn5h-Ie-HGcyInBCMYLCIQRWUUsbbull91FbwG3UmC4betfnL3_-88fYPj4yeMg3H8Guw9hexA8DT5RX2UNt6skYQx1SuFFCNThdKn84uw36Mt8ImcJ5vBIPscM9tQR6hu6S1YJKXk780OkbskrQqAup-3aite_X3z_6vL8l7-gL-a2rVCDisEfazEVKTxQ8yz6DF4Razhj13DGuEtr-K-vYA8LZCDjL7PZvYvNVfFSR88vnH73B4RbA-htPd3vbYH_aHCrQ6pjz1_6rA9pe-mzPgTa5rRTS3_7ER7YNsJCJPREbmB3bqCPqcryf3G7QJVUf2Ly9RJaRLDO3Rr55i34mcikyOGh_SX_y48CWFKqF1OaVv6yIgbK-LXIn34uOmtPzBMIlU4xW5o8xDzH7KD6lmWFMmFDbgYzqaVpLusv0Fz_BBv35eYNIaRhp6KMCDd6jg2Sok5FcUpOCpEjYqaY4ohwG0YYWxFmREbZqU2biewbpdKrTK1sZxEeiyS3Z_NZJAz2pbAjN62vaswi1D3bb4bYWdPplhTCT8gx4azVWVtnLmt3ut1Wh1KvQRaENz265rCW1-m0W47jtVr0tEFelHXpWtdx3Y7Tpp7HHNp1Wg2CkbSTaliN-3Lqn_4DZE7RUA)
-
+[![](https://mermaid.ink/img/pako:eNqVlV1u20YQx68yWCMvhuRwSYuiN64BRlLiGFZsmMxDUvVhJQ6thSmusFzFVhwDvUBQpA3QhzoQCqTpxwn60svkAvURulzqw3baIl6A3CG585s_Z4bLczKQCRJGjhUfDyFu93Iw4949-Op_xnJRFD_f70R38BlkvCjamAIqDqnIMrbmeV5tIDOp2FqaprVCK3mCbM113bldPxWJHjJ3fFZLZa7rpyiOh5r1ZZZUNwrxChkNxmcPbgV5iarAeZjUjiU-CIKbeLrRMAHUGaNOOU-r-Rp_83P-QOY5DrRUsMByzhfYhBdDrhSfMvDAM67LNHWOQqBQ_5JR-RzEX_fI1eyHSzjYb0PcieKw23ka98g3jDGTycUqw9x5HYsRZiLH17An-8Zvfd3MQBl119e3--r-ztVs9qF8BmGaZmKgMYH-FCKueV4Rbdpu6XXvoreEGynQ3TPxP12-__vP76D75OmTKD56DgePYK8TPYuuqa-8unuVE9eaOlZ4aQJ1GJ0r_3T5G7RFMRDjDAt4LF5iDofyFNUN3ZZlIZa3PznBOa80La-5AH775mr29kN5QDxEKNAg9bSuTyUki0A3k6Ir3grtXUN7jPrLLL_93eI__gVtPjEdiwpkCmFf8SEfwUM5yZPPdFfEJdx1V3DXZR5dwn99A4dYIiORflkFvbtUsApudbTCsog__QHxbgdau8-OWrsQPu7car7q3ArnJVQn1J-XUJ0A9Vcpv5q9-wUemg7FUiS0eKHhYKKhjSOZF_9SyBJlqeFAFw0LLS1oMG-J_P4dhDnPBS_gkfna_ysfJdBSqheTilb5dUsbqMtWIn_8uWzaQz7JIJZqZLqignaxKDA_rmppI1iHbbETjYUSuj6PP0W9-r6274udG0JIzWy4IiFMqwnWyAjViJeX5LwU2SN6iCPsEWbMBFMjQvdIL78wbmOev5BytPBU0nQWYSnPCnM1GSdcY1tws5uvlmCeoGqZdtPE7JKOZRB2Ts4Ic-lG4Dm-7zScra2m09yskSlhdRpsblCv6Zh5q-EHvhtc1MgrG5Zu-D7dbHqNRuAFPqVus0YwEWYP7FY_Evs_ufgH2JfyDw?type=png)](https://mermaid.live/edit#pako:eNqVlV1u20YQx68yWCMvhuRwSYuiN64BRlLiGFZsmMxDUvVhJQ6thSmusFzFVhwDvUBQpA3QhzoQCqTpxwn60svkAvURulzqw3baIl6A3CG585s_Z4bLczKQCRJGjhUfDyFu93Iw4949-Op_xnJRFD_f70R38BlkvCjamAIqDqnIMrbmeV5tIDOp2FqaprVCK3mCbM113bldPxWJHjJ3fFZLZa7rpyiOh5r1ZZZUNwrxChkNxmcPbgV5iarAeZjUjiU-CIKbeLrRMAHUGaNOOU-r-Rp_83P-QOY5DrRUsMByzhfYhBdDrhSfMvDAM67LNHWOQqBQ_5JR-RzEX_fI1eyHSzjYb0PcieKw23ka98g3jDGTycUqw9x5HYsRZiLH17An-8Zvfd3MQBl119e3--r-ztVs9qF8BmGaZmKgMYH-FCKueV4Rbdpu6XXvoreEGynQ3TPxP12-__vP76D75OmTKD56DgePYK8TPYuuqa-8unuVE9eaOlZ4aQJ1GJ0r_3T5G7RFMRDjDAt4LF5iDofyFNUN3ZZlIZa3PznBOa80La-5AH775mr29kN5QDxEKNAg9bSuTyUki0A3k6Ir3grtXUN7jPrLLL_93eI__gVtPjEdiwpkCmFf8SEfwUM5yZPPdFfEJdx1V3DXZR5dwn99A4dYIiORflkFvbtUsApudbTCsog__QHxbgdau8-OWrsQPu7car7q3ArnJVQn1J-XUJ0A9Vcpv5q9-wUemg7FUiS0eKHhYKKhjSOZF_9SyBJlqeFAFw0LLS1oMG-J_P4dhDnPBS_gkfna_ysfJdBSqheTilb5dUsbqMtWIn_8uWzaQz7JIJZqZLqignaxKDA_rmppI1iHbbETjYUSuj6PP0W9-r6274udG0JIzWy4IiFMqwnWyAjViJeX5LwU2SN6iCPsEWbMBFMjQvdIL78wbmOev5BytPBU0nQWYSnPCnM1GSdcY1tws5uvlmCeoGqZdtPE7JKOZRB2Ts4Ic-lG4Dm-7zScra2m09yskSlhdRpsblCv6Zh5q-EHvhtc1MgrG5Zu-D7dbHqNRuAFPqVus0YwEWYP7FY_Evs_ufgH2JfyDw)
 
 
 
