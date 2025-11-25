@@ -2,6 +2,8 @@ Using the **NIV**, here is the breakdown of what happens to your spirit when yo
 
 To answer the question directly: **The "Old Spirit" dies and is removed. It does not "come back," but a "New Spirit" is put in its place.**
 
+![[Pasted image 20251124154746.png]]
+
 Here is the step-by-step biblical proof.
 ### 1. Does the Old Spirit die? (YES)
 The Bible uses the strongest possible word for this: **Crucified.**  

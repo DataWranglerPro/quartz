@@ -4,6 +4,10 @@ Think of a human being like a **House**.
 1. **The Body** is the structure (wood, bricks, paint).
 2. **The Soul** is the life happening inside (the people, the conversation, the atmosphere).
 3. **The Spirit** is the electricity/power that connects the house to the grid (God).
+
+
+![[Pasted image 20251124154133.png]]
+
 ---
 
 ### Part 1: The 3 Parts of You (The Blueprint)
@@ -50,6 +54,8 @@ This is the deepest part of you. It is designed to "plug in" to God. Without God
 ### Part 2: Where Can Demons Mess with You?
 
 If you are a Christian, imagine your life is a castle owned by God.
+
+![[Pasted image 20251124154545.png]]
 
 **The Spirit is the "King's room."**  
 This is the secure heart of the castle where the King resides. The drawbridge is up and the door is locked. No enemy weapon can penetrate this stronghold.
