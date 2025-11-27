@@ -5,4 +5,6 @@
 	* driving out of demons
 * Deliverance can be done through the internet
 	* As long as you can video chat and share your screen for teaching sections of the process
-* 
+
+
+

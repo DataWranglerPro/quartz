@@ -11,7 +11,7 @@
 
 | **Action**               | **Matthew** | **Mark** | **Luke** | **John** | **Total** |
 | ------------------------ | ----------- | -------- | -------- | -------- | --------- |
-| **Casts Out Demons**     | 6           | 5        | 4        | 0        | **15**    |
+| **Casts Out Demons**     | 7           | 5        | 4        | 0        | **16**    |
 | **Brought Salvation**    | 2           | 1        | 4        | 4        | **11**    |
 | **Healed the Sick**      | 13          | 8        | 12       | 3        | **36**    |
 | **Raised from the Dead** | 1           | 1        | 2        | 1        | **5**     |
@@ -21,14 +21,15 @@
 
 | Action                   | Total Count | Percentage of Total Actions |
 | ------------------------ | ----------- | --------------------------- |
-| **Taught**               | 56          | **46%**                     |
+| **Taught**               | 56          | **45%**                     |
 | **Healed the Sick**      | 36          | **29%**                     |
-| **Casts Out Demons**     | 15          | **12%**                     |
+| **Casts Out Demons**     | 16          | **13%**                     |
 | **Brought Salvation**    | 11          | **9%**                      |
 | **Raised from the Dead** | 5           | **4%**                      |
-| **Total**                | **123**     | **100%**                    |
+| **Total**                | **124**     | **100%**                    |
 
 **Here are all the Deliverance passages:**
+- **Matthew 4:24:** News about him spread all over Syria, and people brought to him all who were ill with various diseases, those suffering severe pain, the demon-possessed, those having seizures, and the paralyzed; and he healed them.
 - **Matthew 8:16:** When evening came, many who were demon-possessed were brought to him, and he drove out the spirits with a word and healed all the sick.
 - **Matthew 8:28-32:** In the region of the Gadarenes, Jesus confronts two demon-possessed men, and at the demons' request, he sends them out of the men and into a herd of pigs.
 - **Matthew 9:32-33:** A man who was demon-possessed and unable to speak is brought to Jesus. When Jesus drives out the demon, "the man who had been mute spoke."
