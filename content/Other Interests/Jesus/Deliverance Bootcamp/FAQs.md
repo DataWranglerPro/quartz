@@ -5,65 +5,12 @@
 	* 1/3 of Jesus's ministry was Deliverance. He came to set the captives free.
 	* Do we have power and authority to cast out demons?
 		* Matthew 10:1 - Jesus called his twelve disciples to him and gave them authority to drive out impure spirits and to heal every disease and sickness.
-		* Matthew 18:7-8 - As you go, proclaim this message: ‘The kingdom of heaven has come near.’ 8 Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received; freely give.
+		* Matthew 10:7-8 - As you go, proclaim this message: ‘The kingdom of heaven has come near.’ 8 Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received; freely give.
 
-### Tally of Jesus's Actions in the Gospels (NIV)
 
-| **Action**               | **Matthew** | **Mark** | **Luke** | **John** | **Total** |
-| ------------------------ | ----------- | -------- | -------- | -------- | --------- |
-| **Casts Out Demons**     | 7           | 5        | 4        | 0        | **16**    |
-| **Brought Salvation**    | 2           | 1        | 4        | 4        | **11**    |
-| **Healed the Sick**      | 13          | 8        | 12       | 3        | **36**    |
-| **Raised from the Dead** | 1           | 1        | 2        | 1        | **5**     |
-| **Taught**               | 16          | 12       | 15       | 13       | **56**    |
 
-### Percentage of Jesus's Recorded Actions (NIV Gospels, Rounded)
 
-| Action                   | Total Count | Percentage of Total Actions |
-| ------------------------ | ----------- | --------------------------- |
-| **Taught**               | 56          | **45%**                     |
-| **Healed the Sick**      | 36          | **29%**                     |
-| **Casts Out Demons**     | 16          | **13%**                     |
-| **Brought Salvation**    | 11          | **9%**                      |
-| **Raised from the Dead** | 5           | **4%**                      |
-| **Total**                | **124**     | **100%**                    |
 
-**Here are all the Deliverance passages:**
-- **Matthew 4:24:** News about him spread all over Syria, and people brought to him all who were ill with various diseases, those suffering severe pain, the demon-possessed, those having seizures, and the paralyzed; and he healed them.
-- **Matthew 8:16:** When evening came, many who were demon-possessed were brought to him, and he drove out the spirits with a word and healed all the sick.
-- **Matthew 8:28-32:** In the region of the Gadarenes, Jesus confronts two demon-possessed men, and at the demons' request, he sends them out of the men and into a herd of pigs.
-- **Matthew 9:32-33:** A man who was demon-possessed and unable to speak is brought to Jesus. When Jesus drives out the demon, "the man who had been mute spoke."
-- **Matthew 12:22:** A demon-possessed man who was both blind and mute is brought to Jesus, and "Jesus healed him, so that he could both talk and see."
-- **Matthew 15:21-28:** A Canaanite woman begs Jesus to heal her demon-possessed daughter. Jesus grants her request, and her "daughter was healed at that moment."
-- **Matthew 17:14-18:** After the disciples fail to heal a boy with seizures, Jesus intervenes, rebukes the demon, and "it came out of the boy, and he was healed at that moment."
-- **Mark 1:23-26:** Jesus drives an impure spirit out of a man in the synagogue.
-- **Mark 5:1-13:** Jesus casts the legion of demons out of a man and into a herd of pigs.
-- **Mark 7:25-30:** Jesus heals the demon-possessed daughter of a Syrophoenician woman.
-- **Mark 9:17-27:** Jesus heals a boy possessed by an impure spirit that his disciples could not drive out.
-- **Mark 16:9:** Mentions that Jesus had previously driven seven demons out of Mary Magdalene.
-- **Luke 4:33-35:** Jesus drives an impure spirit out of a man in the synagogue at Capernaum.
-- **Luke 8:27-39:** Jesus heals the demon-possessed man (Legion) in the region of the Gerasenes.
-- **Luke 9:37-42:** Jesus heals a boy possessed by a demon after his disciples were unable to.
-- **Luke 11:14:** Jesus drives out a demon that was mute, enabling the man to speak.
-
-### Tally of Believer's Actions in the books of Acts (NIV)
-
-| **Action**               | **Total** |
-| ------------------------ | --------- |
-| **Taught**               | **53**    |
-| **Brought Salvation**    | **27**    |
-| **Healed the Sick**      | **9**     |
-| **Casts Out Demons**     | **5**     |
-| **Raised from the Dead** | **2**     |
-
-**Note:** Philip was a believer not a disciple of Jesus. 7 sons of Sceva were not a believers.
-
-**Here are all the Deliverance passages:**
-**Acts 5:16:** Crowds from the towns surrounding Jerusalem brought their sick and those tormented by impure spirits to the apostles, and all of them were healed.  
-**Acts 8:7:** As Philip preached in a city in Samaria, he performed many signs, including casting out impure spirits which came out of many people with loud shrieks.  
-**Acts 16:18:** In Philippi, Paul became annoyed with a female slave who had a spirit of divination and had been following them for days. He commanded the spirit in the name of Jesus Christ to come out of her, and it left her instantly.  
-**Acts 19:12:** During Paul's time in Ephesus, God did extraordinary miracles through him. Handkerchiefs and aprons that had touched Paul were taken to the sick, which cured their illnesses and caused evil spirits to leave them.  
-**Acts 19:13-16:** Seven sons of a Jewish chief priest named Sceva saw Paul's success and tried to invoke the name of Jesus over a demon-possessed man, saying, "In the name of the Jesus whom Paul preaches, I command you to come out." The evil spirit replied, "Jesus I know, and Paul I know about, but who are you?" and then attacked the men, who fled the house naked and bleeding.  
 
 
 * I have the Holy Spirit, why do I need deliverance?
