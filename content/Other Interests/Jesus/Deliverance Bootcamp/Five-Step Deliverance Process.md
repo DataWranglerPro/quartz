@@ -23,7 +23,7 @@ Below is each step in the order described.
 - They walk through a structured set of questions.
 - These questions come from patterns observed over many years and are also taught to people in their classes.
 - The goal is to gain **insight into the person’s life history** and discover:
-    - Possible **open doors**
+    - [[Open Doors|Possible open doors]]
     - Generational issues
     - Traumas
     - Sin patterns
@@ -59,7 +59,7 @@ Below is each step in the order described.
 ### What happens:
 - This session usually lasts about **one hour**.
 - A second teaching session builds on session #2.
-- The person is taught **specifically how to close the doors** that were identified in Step 1.
+- The person is taught **[[Closing Doors|specifically how to close the doors]]** that were identified in Step 1.
 - They learn how to:
     - Renounce past involvement
     - Forgive others

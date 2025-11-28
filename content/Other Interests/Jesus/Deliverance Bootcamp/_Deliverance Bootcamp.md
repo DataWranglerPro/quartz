@@ -2,6 +2,23 @@
 > [!NOTE] Note
 > `Deliverance` is the process of **driving out demons**
 
+# 🗣️ Small Group Questions
+1. Do you have a personal story where you encountered a demon? Please share with the group.
+2. Is deliverance ministry for today?
+3. Do Christians need Deliverance?
+4. Are a persons problems demonic or mental/emotional?
+5. How do you know when you are being attacked and when a demon is living inside of you?
+6. Why does the church avoid the topic of casting out demons?
+7. Do you believe we are made up of a body, soul, and spirit? Why or why not?
+
+# Cotacachi
+
+[[Ecuador2024_cotacachi|Click here to experience]] the entire missions trip to Ecuador.
+
+> We then got approached by a young man selling us little bags of "biscochos". He started going through the sales script. He was on drugs, in a bad place, but now, he is in a rehab center trying to do better in life. He then said if we will buy from him; he sells to support himself. We told him no and started asking him questions. He shared that he used to be a preacher in a nearby town. He then proceeded to preach to us and he sounded spot on. Carson another member of our team sensed something and told me to ask him if you need a prayer and what specifically can we pray for. Brian shared that he hears voices in his head that tell him to hurt others. He then showed us his back which was full of lacerations and large stab wounds. We all laid hands on him and started to pray powerfully in Spanish, English and in our holy language. Within seconds, Brian started to cry and his body was almost convulsing uncontrollably. We were praying that the demon that was torturing him leaves him in the name of Jesus and praying he forgives all those who have hurt him physically and emotionally. I don't know if God answered our prayers, we hugged him goodbye headed towards the Catholic Church. 
+
+---
+
 # Jesus's Ministry
 
 A [[Statistical Analysis of the Ministry of Jesus |statistical analysis of Jesus' time on earth]] reveals that casting out demons was a major pillar of His work, ranking third among all His activities.
@@ -46,13 +63,13 @@ A [[Statistical Analysis of the Church of Acts|statistical analysis of the churc
 
 # Can a Christian Have a Demon?
 
-The Bible says you are made of three parts (**1 Thessalonians 5:23**).
+The Bible says [[Body, Soul, and Spirit|you are made of three parts]] (**1 Thessalonians 5:23**).
 
 **1. The BODY**
 **2. The SOUL**
 **3. The SPIRIT**
 
-If you are a Christian, imagine you are a castle. Here is where the enemy can (and cannot) mess with you.
+If you are a Christian, imagine you are a castle. [[Where Can Demons Mess with You|Here is where the enemy can (and cannot) mess with you.]]
 
 **The Body (The Walls) → VULNERABLE**
 *   **Can the enemy attack here?** **YES.**
@@ -71,3 +88,12 @@ If you are a Christian, imagine you are a castle. Here is where the enemy can (a
 
 ---
 
+# The Deliverance Process
+
+[[Five-Step Deliverance Process|Click here for a deep dive on the 5 step process.]]
+
+1. **Interview & Assessment** – Identify open doors and demonic strongholds.
+2. **Teaching: Understanding Entry Points** – Learn how demons gain access.
+3. **Teaching: Closing Doors & Removing Legal Rights** – Prepare for deliverance.
+4. **Deliverance Session** – Quiet, structured, two-hour one-on-one session.
+5. **Post-Deliverance: How to Stay Free** – Fifteen principles for long-term freedom.
