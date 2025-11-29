@@ -2,6 +2,9 @@
 > [!NOTE] Note
 > `Deliverance` is the process of **driving out demons**
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lvv6XtEUXtQ?si=_YiG8q6auOxcRbX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # 🗣️ Small Group Questions
 1. Do you have a personal story where you encountered a demon? Please share with the group.
 2. Is deliverance ministry for today?
