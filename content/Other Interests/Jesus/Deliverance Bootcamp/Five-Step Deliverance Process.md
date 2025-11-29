@@ -45,7 +45,7 @@ Below is each step in the order described.
     - Common entry points
     - How demonic strongholds develop
     - Basic “nuts-and-bolts” information about the demonic realm
-- The person is also given **homework** to complete between sessions.  
+- The person is also given **[[Client Homework|homework]]** to complete between sessions.  
     This homework reinforces the teaching and gets the person to start recognizing patterns in their own life.
 
 ### Why this matters:
@@ -106,7 +106,7 @@ Below is each step in the order described.
 	- This can be a week later via a video call
 - During this session, they evaluate their progress and learn how to **stay free**.
 - Scripture warns that spirits attempt to “come back to the house,” so this step is crucial.
-- The ministry teaches **at least 15 specific principles** for maintaining freedom, such as:
+- The ministry teaches **at least 15 specific principles** for [[Staying Free|maintaining freedom]], such as:
     - How to guard thoughts
     - How to resist temptation
     - How to close new open doors quickly

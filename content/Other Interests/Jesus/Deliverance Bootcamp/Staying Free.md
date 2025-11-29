@@ -1,3 +1,5 @@
+Walking the Narrow Road (Matt 7:13-14)
+
 DEMONIC SPIRITS WILL SEEK TO RETURN
 1. Matthew 12:43-45. They are deceptive and will work in our minds and through
 others to try to find an open door or crack in your armor.

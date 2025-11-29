@@ -5,6 +5,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lvv6XtEUXtQ?si=_YiG8q6auOxcRbX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
+
 # 🗣️ Small Group Questions
 1. Do you have a personal story where you encountered a demon? Please share with the group.
 2. Is deliverance ministry for today?
@@ -14,6 +16,7 @@
 6. Why does the church avoid the topic of casting out demons?
 7. Do you believe we are made up of a body, soul, and spirit? Why or why not?
 
+---
 # Cotacachi
 
 [[Ecuador2024_cotacachi|Click here to experience]] the entire missions trip to Ecuador.
@@ -100,3 +103,4 @@ If you are a Christian, imagine you are a castle. [[Where Can Demons Mess with Y
 3. **Teaching: Closing Doors & Removing Legal Rights** – Prepare for deliverance.
 4. **Deliverance Session** – Quiet, structured, two-hour one-on-one session.
 5. **Post-Deliverance: How to Stay Free** – Fifteen principles for long-term freedom.
+
