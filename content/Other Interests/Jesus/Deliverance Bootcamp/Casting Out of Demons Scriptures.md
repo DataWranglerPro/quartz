@@ -7,6 +7,8 @@
 - **Matthew 15:21-28:** A Canaanite woman begs Jesus to heal her demon-possessed daughter. Jesus grants her request, and her "daughter was healed at that moment."
 - **Matthew 17:14-18:** After the disciples fail to heal a boy with seizures, Jesus intervenes, rebukes the demon, and "it came out of the boy, and he was healed at that moment."
 - **Mark 1:23-26:** Jesus drives an impure spirit out of a man in the synagogue.
+- **Mark 1:34:** and Jesus healed many who had various diseases. He also drove out many demons...
+- **Mark 1:39:** So he traveled throughout Galilee, preaching in their synagogues and driving out demons.
 - **Mark 5:1-13:** Jesus casts the legion of demons out of a man and into a herd of pigs.
 - **Mark 7:25-30:** Jesus heals the demon-possessed daughter of a Syrophoenician woman.
 - **Mark 9:17-27:** Jesus heals a boy possessed by an impure spirit that his disciples could not drive out.

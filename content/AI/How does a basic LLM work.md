@@ -1,0 +1,8 @@
+Large language models are trained on huge amounts of text data. They learn to understand the patterns and relationships between words and sentences. Based on that learning, they can generate new text that sounds coherent and relevant to the input you give them. It's kind of like they've learned the grammar and flow of human language from all the text they've read.
+
+> At its core, LLMs simply **receive text** as input and **generate text** as its output.
+
+[![](https://mermaid.ink/img/pako:eNqFks2K2zAUhV9F3GGgBSdjO5Z_VOhmhpaC00LpqqMuFOsqEWNLRpZppiHvXsVOTZhNvdK5PvrOEdIJGisRGOyd6A-k_s4NCd_9PXlCpQ2Swb-2OMzTphXDEOZEW6J027I7TBRVGA3e2Rdkd3FCi2p3lavfWvoDS_tj1NjWOrZrRfPy4Q2qC_HtlaaUqppsoaldE6fyf7Sl8NdAuhb9YvrRPz9w-IFHPysOD78YY9rOjrrevuNQC7dHUguzH0VYbC9dOLwPvqnWbP02-lvaLG9wS4FHaww2XltzW4OsVoTDJ5REG285BP3xEr_0mA2f0aATPpxgdlxjJhNE4Xq0BObdiBF06DpxkXC6_OfgD9ghBxaWEpUY21CPm3PY1gvz09ru305nx_0BmBLtENTYyxD4pEW4-26ZOjQS3aMdjQdGq3KCADvBEViRrLOiyGhepfGmquI0gldgCS3XeZ7ThKZlnGTZhp4j-DPFxuuyLOIip-WmommSlgGHUnvrtvOzm17f-S-IPMj1?type=png)](https://mermaid.live/edit#pako:eNqFks2K2zAUhV9F3GGgBSdjO5Z_VOhmhpaC00LpqqMuFOsqEWNLRpZppiHvXsVOTZhNvdK5PvrOEdIJGisRGOyd6A-k_s4NCd_9PXlCpQ2Swb-2OMzTphXDEOZEW6J027I7TBRVGA3e2Rdkd3FCi2p3lavfWvoDS_tj1NjWOrZrRfPy4Q2qC_HtlaaUqppsoaldE6fyf7Sl8NdAuhb9YvrRPz9w-IFHPysOD78YY9rOjrrevuNQC7dHUguzH0VYbC9dOLwPvqnWbP02-lvaLG9wS4FHaww2XltzW4OsVoTDJ5REG285BP3xEr_0mA2f0aATPpxgdlxjJhNE4Xq0BObdiBF06DpxkXC6_OfgD9ghBxaWEpUY21CPm3PY1gvz09ru305nx_0BmBLtENTYyxD4pEW4-26ZOjQS3aMdjQdGq3KCADvBEViRrLOiyGhepfGmquI0gldgCS3XeZ7ThKZlnGTZhp4j-DPFxuuyLOIip-WmommSlgGHUnvrtvOzm17f-S-IPMj1)
+
+
+
