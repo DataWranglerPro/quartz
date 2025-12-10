@@ -14,15 +14,17 @@
 - **Mark 9:17-27:** Jesus heals a boy possessed by an impure spirit that his disciples could not drive out.
 - **Mark 16:9:** Mentions that Jesus had previously driven seven demons out of Mary Magdalene.
 - **Luke 4:33-35:** Jesus drives an impure spirit out of a man in the synagogue at Capernaum.
+- **Luke 4:40-41:** Jesus mentioned driving out many demons from people.
 - **Luke 8:27-39:** Jesus heals the demon-possessed man (Legion) in the region of the Gerasenes.
 - **Luke 9:37-42:** Jesus heals a boy possessed by a demon after his disciples were unable to.
 - **Luke 11:14:** Jesus drives out a demon that was mute, enabling the man to speak.
 
 ---
 
-**Note:** Philip was a believer not a disciple of Jesus. 7 sons of Sceva were not a believers.
-
 **Here are all the Deliverance passages in the books of Acts:**
+
+> **Note:** Philip was a believer not a disciple of Jesus. 7 sons of Sceva were not a believers.
+
 **Acts 5:16:** Crowds from the towns surrounding Jerusalem brought their sick and those tormented by impure spirits to the apostles, and all of them were healed.  
 **Acts 8:7:** As Philip preached in a city in Samaria, he performed many signs, including casting out impure spirits which came out of many people with loud shrieks.  
 **Acts 16:18:** In Philippi, Paul became annoyed with a female slave who had a spirit of divination and had been following them for days. He commanded the spirit in the name of Jesus Christ to come out of her, and it left her instantly.  

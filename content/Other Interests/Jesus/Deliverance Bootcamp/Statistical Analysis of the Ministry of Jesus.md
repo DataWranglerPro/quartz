@@ -2,7 +2,7 @@
 
 | **Action**               | **Matthew** | **Mark** | **Luke** | **John** | **Total** |
 | ------------------------ | ----------- | -------- | -------- | -------- | --------- |
-| **Casts Out Demons**     | 7           | 7        | 4        | 0        | **18**    |
+| **Casts Out Demons**     | 7           | 7        | 5        | 0        | **19**    |
 | **Brought Salvation**    | 2           | 1        | 4        | 4        | **11**    |
 | **Healed the Sick**      | 13          | 8        | 12       | 3        | **36**    |
 | **Raised from the Dead** | 1           | 1        | 2        | 1        | **5**     |
@@ -13,9 +13,8 @@
 | Action                   | Total Count | Percentage of Total Actions |
 | ------------------------ | ----------- | --------------------------- |
 | **Taught**               | 56          | **44%**                     |
-| **Healed the Sick**      | 36          | **29%**                     |
-| **Casts Out Demons**     | ==18==      | ==**14%**==                 |
+| **Healed the Sick**      | 36          | **28%**                     |
+| **Casts Out Demons**     | ==19==      | **15%**                     |
 | **Brought Salvation**    | 11          | **9%**                      |
 | **Raised from the Dead** | 5           | **4%**                      |
-| **Total**                | **126**     | **100%**                    |
-|                          |             |                             |
+| **Total**                | **127**     | **100%**                    |
