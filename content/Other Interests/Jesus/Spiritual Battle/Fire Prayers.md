@@ -597,69 +597,68 @@ This document contains all the "Fire Prayers" found at the end of the chapters i
 ### Chapter 31: Premature Death Destruction
 
 **Fire Prayers:**
-*   I call out every premature death devil that is taunting, plaguing, tormenting, and trying to cut short my family's bloodline through any form of premature death, including sickness, accident, and suicide. Come out now in Jesus' name.
-*   I release the fire of the Holy Spirit on all premature death demons heads. Let the judgment of God fall on them and destroy them all. I release myself, my family, and my loved ones now in Jesus' name.
-*   In the name of Jesus, I come against every form of premature death that is trying to take my life. Let the fire of the Lord Jesus Christ burn and completely purge from my family's bloodline all kinds of premature death, including those resulting from the words of my own mouth. Let these demonic plans be destroyed in Jesus' name.
-*   Premature death, I serve you in eviction notice now in Jesus' name. Drown now in your own vomit.
-*   Spirit of premature death, I curse you to the root. In the name of Jesus Christ, shrivel up and die.
-*   Premature death, that is trying to swallow up my life before my time. I smite your head seven times with the blood of Jesus.
-*   I curse to the root every form of premature death that I have partnered with through words I have spoken over my life, family, or loved ones. In Jesus' name, amen.
-*   By the blood of Jesus, I rip out of my family any premature death devils now. In Jesus' name,
-*   in the name of Jesus, I suffocate every demonic premature death devil that is set against me. Come out and release me in Jesus' name.
-*   Oh God, let every premature death spirit die and permanently release me, my family, and my bloodline. destroy every curse, vex, and sickness, as well as every repeating negative pattern and cycle and all voodoo. Let it all drown in the blood of Jesus.
-*   By the fire of the Holy Spirit, I cancel every premature death the devil has against my life. In Jesus' name, amen.
-*   In the untouchable and mighty name of Jesus Christ, I declare that I shall live and not die and declare the works of the Lord. I will see his goodness in the land of the living.
-*   I disconnect myself and all my family members including my wife and child ren from any form of premature death in Jesus name. Amen.
-*   In the mighty name of Jesus Christ, I curse to the root all satanic forces that are trying to terminate my life prematurely. premature death. I give you your own death certificate now in the name of Jesus.
-*   By the fire of the Lord Jesus Christ, I declare that all the days of my life are already counted, blessed, ordained, sanctified, and covered by the blood of Jesus Christ. My family and I declare and decree the goodness of God in the land of the living. We will enter heaven when Jesus Christ calls us and not before. In his name I pray. Amen.
-*   By the blood of Jesus Christ, I destroy every COVID 19 symptom that would try to bring premature death. I destroy every COVID 19 devil in Jesus's name.
-*   I command any premature death that would try to come through the disease or the vaccine to loose me now in Jesus's name. Let every demonic side effect that would try to bring premature death through any vaccine be destroyed in Jesus' name.
-*   I curse any premature death that would take any baby through abortion, killing the baby and the baby's purpose, which is to be part of the church of Jesus Christ. Let the premature death of abortion shrivel up and die in Jesus' name. We curse to the root every abortion spirit completely and fully in Jesus' name.
-*   Lord God, I give you glory, honor, and praise for who you are and for your deliverance from every form of premature death.
+* I call out every premature death devil that is taunting, plaguing, tormenting, and trying to cut short my family's bloodline through any form of premature death, including sickness, accident, and suicide. Come out now in Jesus' name.
+* I release the fire of the Holy Spirit on all premature death demons heads. Let the judgment of God fall on them and destroy them all. I release myself, my family, and my loved ones now in Jesus' name.
+* In the name of Jesus, I come against every form of premature death that is trying to take my life. Let the fire of the Lord Jesus Christ burn and completely purge from my family's bloodline all kinds of premature death, including those resulting from the words of my own mouth. Let these demonic plans be destroyed in Jesus' name.
+* Premature death, I serve you in eviction notice now in Jesus' name. Drown now in your own vomit.
+* Spirit of premature death, I curse you to the root. In the name of Jesus Christ, shrivel up and die.
+* Premature death, that is trying to swallow up my life before my time. I smite your head seven times with the blood of Jesus.
+* I curse to the root every form of premature death that I have partnered with through words I have spoken over my life, family, or loved ones. In Jesus' name, amen.
+* By the blood of Jesus, I rip out of my family any premature death devils now. In Jesus' name,
+* In the name of Jesus, I suffocate every demonic premature death devil that is set against me. Come out and release me!
+* Oh God, let every premature death spirit die and permanently release me, my family, and my bloodline. destroy every curse, vex, and sickness, as well as every repeating negative pattern and cycle and all voodoo. Let it all drown in the blood of Jesus.
+* By the fire of the Holy Spirit, I cancel every premature death the devil has against my life. In Jesus' name, amen.
+* In the untouchable and mighty name of Jesus Christ, I declare that I shall live and not die and declare the works of the Lord. I will see his goodness in the land of the living.
+* I disconnect myself and all my family members including my wife and children from any form of premature death in Jesus name. Amen.
+* In the mighty name of Jesus Christ, I curse to the root all satanic forces that are trying to terminate my life prematurely. premature death. I give you your own death certificate now in the name of Jesus.
+* By the fire of the Lord Jesus Christ, I declare that all the days of my life are already counted, blessed, ordained, sanctified, and covered by the blood of Jesus Christ. My family and I declare and decree the goodness of God in the land of the living. We will enter heaven when Jesus Christ calls us and not before. In his name I pray. Amen.
+* By the blood of Jesus Christ, I destroy every COVID 19 symptom that would try to bring premature death. I destroy every COVID 19 devil in Jesus's name.
+* I command any premature death that would try to come through the disease or the vaccine to loose me now in Jesus's name. Let every demonic side effect that would try to bring premature death through any vaccine be destroyed in Jesus' name.
+* I curse any premature death that would take any baby through abortion, killing the baby and the baby's purpose, which is to be part of the church of Jesus Christ. Let the premature death of abortion shrivel up and die in Jesus' name. We curse to the root every abortion spirit completely and fully in Jesus' name.
+* Lord God, I give you glory, honor, and praise for who you are and for your deliverance from every form of premature death.
 
 ### Chapter 32: Breakthrough & Destiny Blockage Destruction
 
 **Fire Purveyors:**
-*   By the blood of Jesus, I destroy every devil that is trying to invade my purpose and destiny. I smite with the judgment of God the head of every demon of satanic hindrance, blockage, and delay in Jesus' name.
-*   In the name of Jesus, I set the fire of God to ambush every demon that is trying to slow me down or trip me up on the way to my promised land.
-*   I release the fire of God on every demon that brings hindrance, delay, and blockage to my purpose, destiny, family, loved ones, ministry, and finances. Let them all be destroyed completely and fully in Jesus' name. Amen.
-*   I break the chains that are pulling me back to my past and stopping my movement toward the amazing things Jesus Christ has prepared for me.
-*   Father, in Jesus mighty name, let every satanic agent that is causing blockage and delay drown in the blood of Jesus.
-*   Now I speak to every demonic mountain and roadblock that is trying to prevent my steps to the finish line of my purpose and destiny. Let every scheme against my family, marriage, child, ren, my inheritance, ministry, and relationship with the Lord Jesus Christ be completely and fully destroyed today in Jesus' name.
-*   Let the fire of the Holy Spirit burn to ashes. Every demon that is blocking my breakthrough. Let every devil that is hindering and blocking my promotion in my work and career drown today in the blood of Jesus.
-*   Father, let the favor of the Lord Jesus Christ open every door that the devil has closed in relation to my purpose, destiny, ministry, marriage, child ren, family, church, and finances in Jesus' name.
-*   Father, let the oil of heaven be poured on my head as it was on Aaron's. From the top of my head to the soles of my feet, I declare a fresh anointing on me, my marriage, my child Ren, and my family. Everything the devil meant for evil will be turned around for good. In Jesus' name,
-*   Father, let the anointing of the Holy Spirit be poured over every area of my life. Let every hindrance, delay, blockage, and distraction be destroyed. and let every enemy assignment against my life be cancelled in Jesus' name.
-*   Father, in Jesus' name, I declare that you will put your finger on all known or unknown hindrances and delays in my life and destroy them now in Jesus' name. Amen.
-*   Father, in the name of Jesus, I dip arrows in his precious blood and shoot them into the devil's camp. Let them destroy every demon that has been assigned to attack my purpose and destiny.
-*   Father, in the name of Jesus, I destroy every demonic plot, scheme, and while, and every devil that has been assigned to destroy my purpose and my destiny.
-*   In Jesus' name, I release the arsenals of heaven and the judgment of God on every foul and wicked spirit that is trying to intercept my purpose and destiny.
-*   Father, I baptize myself and my family, loved ones, church, ministry, purpose, and destiny in the blood of Jesus Christ. Let every blockage, hindrance, and stronghold that is stopping my breakthrough be completely and fully pulverized in Jesus' name. Amen.
-*   Lord, I give you the glory, praise, and honor. I worship you and thank you for your victory in Jesus' name.
+* By the blood of Jesus, I destroy every devil that is trying to invade my purpose and destiny. I smite with the judgment of God the head of every demon of satanic hindrance, blockage, and delay in Jesus' name.
+* In the name of Jesus, I set the fire of God to ambush every demon that is trying to slow me down or trip me up on the way to my promised land.
+* I release the fire of God on every demon that brings hindrance, delay, and blockage to my purpose, destiny, family, loved ones, ministry, and finances. Let them all be destroyed completely and fully in Jesus' name. Amen.
+* I break the chains that are pulling me back to my past and stopping my movement toward the amazing things Jesus Christ has prepared for me.
+* Father, in Jesus mighty name, let every satanic agent that is causing blockage and delay drown in the blood of Jesus.
+* Now I speak to every demonic mountain and roadblock that is trying to prevent my steps to the finish line of my purpose and destiny. Let every scheme against my family, marriage, children, my inheritance, ministry, and relationship with the Lord Jesus Christ be completely and fully destroyed today in Jesus' name.
+* Let the fire of the Holy Spirit burn to ashes every demon that is blocking my breakthrough. Let every devil that is hindering and blocking my promotion in my work and career drown today in the blood of Jesus.
+* Father, let the favor of the Lord Jesus Christ open every door that the devil has closed in relation to my purpose, destiny, ministry, marriage, children, family, church, and finances in Jesus' name.
+* Father, let the oil of heaven be poured on my head as it was on Aaron's. From the top of my head to the soles of my feet, I declare a fresh anointing on me, my marriage, my children, and my family. Everything the devil meant for evil will be turned around for good. In Jesus' name.
+* Father, let the anointing of the Holy Spirit be poured over every area of my life. Let every hindrance, delay, blockage, and distraction be destroyed. and let every enemy assignment against my life be cancelled in Jesus' name.
+* Father, in Jesus' name, I declare that you will put your finger on all known or unknown hindrances and delays in my life and destroy them now in Jesus' name. Amen.
+* Father, in the name of Jesus, I dip arrows in his precious blood and shoot them into the devil's camp. Let them destroy every demon that has been assigned to attack my purpose and destiny.
+* Father, in the name of Jesus, I destroy every demonic plot, scheme, and every devil that has been assigned to destroy my purpose and my destiny.
+* In Jesus' name, I release the arsenals of heaven and the judgment of God on every foul and wicked spirit that is trying to intercept my purpose and destiny.
+* Father, I baptize myself and my family, loved ones, church, ministry, purpose, and destiny in the blood of Jesus Christ. Let every blockage, hindrance, and stronghold that is stopping my breakthrough be completely and fully pulverized in Jesus' name. Amen.
+* Lord, I give you the glory, praise, and honor. I worship you and thank you for your victory in Jesus' name.
 
 ### Chapter 33: Financial Deliverance & Prosperity
 
 **Fire Prayers:**
-*   I curse to the root every demonic spirit released against me to dry up my finances. Let it shrivel up and die in Jesus' name.
-*   Spirit of mammon, the Lord rebukes you now in Jesus' name. I bind mammon and break all assignments of poverty against my life and my bloodline in Jesus's name. Amen.
-*   I break the demonic powers of every satanic priest that has cursed my finances and I wash my finances in the blood of Jesus Christ in Jesus' name. Amen.
-*   In Jesus' name, I reject all satanic money that is sent my way to curse me and my finances. I reject, renounce, and destroy every demonic lust spirit over me, over any uncertain finances, or over anything that seems to be a blessing but isn't. If the name of our Lord Jesus Christ isn't on it, I don't want it. It is only a setup and entrapment of the enemy.
-*   Father, in Jesus' name, I loose any finances that the spirit of mammon is hindering. Oh Lord, open doors of financial opportunity over my life in Jesus' name.
-*   Oh Lord, let every family curse that is trying to incarcerate my finances be uprooted now in Jesus' name.
-*   I curse to the root every devil that is tied to my finances in Jesus' name. Let the fire of God rain on every mammoth devil that is hindering my finances today in Jesus' name.
-*   In the name of Jesus, I curse to the root all witchcraft that is done over my finances.
-*   In Jesus' name, I curse to the root every satanic collection agency and every bankruptcy devil that Satan wants to send my way.
-*   I disconnect my maternal and paternal bloodlines from every demonic financial curse in Jesus' name.
-*   I disconnect my family from every poverty spirit in the name of Jesus Christ.
-*   In Jesus' name, I break every demonic curse or manipulation that has caused me to spend money unnecessarily.
-*   In Jesus' name, I destroy every plot, scheme, and while of the enemy that is designed to cause financial failure in my life.
-*   With the blood of Jesus Christ, I destroy the devourer over my finances. I break the powers of every demon of deception over my finances in Jesus' name. Amen.
-*   By the blood of Jesus, I loose my finances and all my potential to create wealth. I cancel every demonic debt in my family's bloodline in the name of Jesus.
-*   Let the spirit of lack be burned down by the fire of the Holy Spirit in Jesus' name.
-*   Father, give me the wisdom and knowledge to create wealth for my family and advance the kingdom of Jesus Christ on the earth in Jesus' name. Amen.
-*   Lord, open the windows of heaven and pour out a financial blessing that will overtake me and my family in the name of Jesus.
-*   Thank you, Lord, for purifying, cleansing, and redeeming my finances. Please give me the wisdom, knowledge, revelation, and clarity of spirit to balance my checking account, manage my income, and handle my financial accounts as a great steward who bears fruit in all seasons.
-*   In Jesus' name, Lord God, I worship you in spirit and in truth. Thank you for keeping me always in Jesus' name. Amen.
+* I curse to the root every demonic spirit released against me to dry up my finances. Let it shrivel up and die in Jesus' name.
+* Spirit of mammon, the Lord rebukes you now in Jesus' name. I bind mammon and break all assignments of poverty against my life and my bloodline in Jesus's name. Amen.
+* I break the demonic powers of every satanic priest that has cursed my finances and I wash my finances in the blood of Jesus Christ. Amen.
+* Father, in Jesus' name, I loose any finances that the spirit of mammon is hindering. Oh Lord, open doors of financial opportunity over my life in Jesus' name.
+* Oh Lord, let every family curse that is trying to incarcerate my finances be uprooted now in Jesus' name.
+* I curse to the root every devil that is tied to my finances in Jesus' name. Let the fire of God rain on every mammoth devil that is hindering my finances today in Jesus' name.
+* In the name of Jesus, I curse to the root all witchcraft that is done over my finances.
+* In Jesus' name, I curse to the root every satanic collection agency and every bankruptcy devil that Satan wants to send my way.
+* I disconnect my maternal and paternal bloodlines from every demonic financial curse in Jesus' name.
+* I disconnect my family from every poverty spirit in the name of Jesus Christ.
+* In Jesus' name, I break every demonic curse or manipulation that has caused me to spend money unnecessarily.
+* In Jesus' name, I destroy every plot, scheme, of the enemy that is designed to cause financial failure in my life.
+* With the blood of Jesus Christ, I destroy the devourer over my finances. I break the powers of every demon of deception over my finances in Jesus' name. Amen.
+* By the blood of Jesus, I loose my finances and all my potential to create wealth. I cancel every demonic debt in my family's bloodline in the name of Jesus.
+* Let the spirit of lack be burned down by the fire of the Holy Spirit in Jesus' name.
+* Father, give me the wisdom and knowledge to create wealth for my family and advance the kingdom of Jesus Christ on the earth in Jesus' name. Amen.
+* Lord, open the windows of heaven and pour out a financial blessing that will overtake me and my family in the name of Jesus.
+* Thank you, Lord, for purifying, cleansing, and redeeming my finances. Please give me the wisdom, knowledge, revelation, and clarity of spirit to balance my checking account, manage my income, and handle my financial accounts as a great steward who bears fruit in all seasons.
+* In Jesus' name, Lord God, I worship you in spirit and in truth.
 
 ---
 
@@ -668,51 +667,50 @@ This document contains all the "Fire Prayers" found at the end of the chapters i
 ### Chapter 35: Jezebel & Ahab Spirits Destruction
 
 **Fire Prayers:**
-*   I release the four winds of heaven to blow and destroy every plot, scheme, while entrapment of Jezebel on my life, ministry, church, and marriage in Jesus' name.
-*   I loose chaos on Jezebel's plans and schemes against my church in Jesus' name.
-*   I release the hounds of heaven to chase this wicked spirit. Eat up her flesh and lick her blood completely and fully in Jesus' name.
-*   I paralyze every demonic spirit that is operating in alignment with Jezebel and the spirit of Delilah. I destroy any spirit of witchcraft, lust, seduction, and intimidation that has been released on my church, ministry, and home in Jesus' name.
-*   I destroy the spirit of manipulation, control, and rebellion in Jesus' name.
-*   In Jesus' name, I release the spirit of Joo against the kingdom of Jezebel, her demons, and her false prophets. And I put the judgment of Jahu on her head. I strip Jezebel of all demonic authority and I leave her naked and powerless in Jesus' name.
-*   I destroy every demonic assignment against my finances, business, ministry, and home and every demonic plot that Jezebel has against me in the name of Jesus. Let them burn to the ground and never rise up again.
-*   I destroy every seduction spirit of every kind and every Jezebel demon that has been released on my church. Let them be destroyed by the fire of God in Jesus' name.
-*   I destroy every demonic prophecy spoken by Jezebel over my purpose, destiny, ministry, church, and home in Jesus' name.
-*   In Jesus' name, I destroy the demonic foundation of Jezebel. Whether it's in the leadership or congregation, I evict every Jezebel and Delilah spirit from my ministry and I command it to leave now in Jesus' name.
-*   Let all of Jezebel's demonic assignments spoken over my church be destroyed by the fire of God in Jesus' name.
-*   Let every demonic plot, scheme, and while of Jezebel's rot shrivel up and die in Jesus' name.
-*   I release the fire of the Holy Spirit on my church to expose all hidden agendas of Jezebel in my congregation and leadership. Let them be exposed now in Jesus' name.
-*   Let Jezebel and her demonic false prophets be evicted from my church now in Jesus' name.
-*   I destroy every Jezebel spirit that she tries to birth with a demonic assignment against my church, my ministry or my anointing in Jesus' name. Amen.
-*   In the name of Jesus, I destroy the complacent spirit of Ahab that operates in my church and stagnates my church's growth. Let the blood of Jesus purify my church, home, family, finances, purpose, and destiny in Jesus' name.
-*   Lord, strengthen my life, congregation, calling, purpose, and destiny in Jesus' name.
-*   I break every satanic assignment, plot, and scheme that Jezebel uses in my church. I command it to be uprooted now in Jesus' name.
-*   Lord, I command the fire of the Holy Spirit to purify the four corners of my church inside and out. Holy Spirit, you are welcome in my home, in the house of God, and in my marriage today and forever more. In Jesus' name, a Lord, I give you glory, honor, and praise for purifying and sanctifying your church. Let your perfect will be on your church and let your church reach the world for Jesus Christ. In his name I pray. Amen.
+* I release the four winds of heaven to blow and destroy every plot, scheme, entrapment of Jezebel on my life, ministry, church, and marriage in Jesus' name.
+* I loose chaos on Jezebel's plans and schemes against my church in Jesus' name.
+* I release the hounds of heaven to chase this wicked spirit. Eat up her flesh and lick her blood completely and fully in Jesus' name.
+* I paralyze every demonic spirit that is operating in alignment with Jezebel and the spirit of Delilah. I destroy any spirit of witchcraft, lust, seduction, and intimidation that has been released on my church, ministry, and home in Jesus' name.
+* I destroy the spirit of manipulation, control, and rebellion in Jesus' name.
+* In Jesus' name, I release the spirit of Jehu against the kingdom of Jezebel, her demons, and her false prophets. And I put the judgment of Yahweh on her head. I strip Jezebel of all demonic authority and I leave her naked and powerless in Jesus' name.
+* I destroy every demonic assignment against my finances, business, ministry, and home and every demonic plot that Jezebel has against me in the name of Jesus. Let them burn to the ground and never rise up again.
+* I destroy every seduction spirit of every kind and every Jezebel demon that has been released on my church. Let them be destroyed by the fire of God in Jesus' name.
+* I destroy every demonic prophecy spoken by Jezebel over my purpose, destiny, ministry, church, and home in Jesus' name.
+* In Jesus' name, I destroy the demonic foundation of Jezebel. Whether it's in the leadership or congregation, I evict every Jezebel and Delilah spirit from my ministry and I command it to leave now in Jesus' name.
+* Let all of Jezebel's demonic assignments spoken over my church be destroyed by the fire of God in Jesus' name.
+* Let every demonic plot, scheme of Jezebel, rot, shrivel up and die in Jesus' name.
+* I release the fire of the Holy Spirit on my church to expose all hidden agendas of Jezebel in my congregation and leadership. Let them be exposed now in Jesus' name.
+* Let Jezebel and her demonic false prophets be evicted from my church now in Jesus' name.
+* I destroy every Jezebel spirit that tries to birth with a demonic assignment against my church, my ministry or my anointing in Jesus' name. Amen.
+* In the name of Jesus, I destroy the complacent spirit of Ahab that operates in my church and stagnates my church's growth. Let the blood of Jesus purify my church, home, family, finances, purpose, and destiny in Jesus' name.
+* Lord, strengthen my life, congregation, calling, purpose, and destiny in Jesus' name.
+* I break every satanic assignment, plot, and scheme that Jezebel uses in my church. I command it to be uprooted now in Jesus' name.
+* Lord, I command the fire of the Holy Spirit to purify the four corners of my church inside and out. Holy Spirit, you are welcome in my home, in the house of God, and in my marriage today and forever more. In Jesus' name, a Lord, I give you glory, honor, and praise for purifying and sanctifying your church. Let your perfect will be on your church and let your church reach the world for Jesus Christ. In his name I pray. Amen.
 
 ### Chapter 36: Church Protection & Cleansing from Witchcraft
 
 **Fire Prayers:**
-*   God, you are a consuming fire. Let the enemies inside my church become uncomfortable as I release the fire of the Holy Spirit on them now in Jesus's name.
-*   In the name of Jesus Christ, I release a holy spirit earthquake to shake the foundations of my church.
-*   I break and destroy every pride spirit devil that has crept into my church, whether in leadership or through visitors. I serve them all eviction notices now. Come out in Jesus' name.
-*   I release the fire of heaven on every known and unknown Christian witch and warlock that has come into my church. Let that fire fall on them and remove them now in Jesus' name.
-*   In Jesus' name, I frustrate every plot, scheme, and agenda of every witch that has designed spiritual blueprints against my church.
-*   I break and curse to the root the silver cord of any witch's astral projecting in my congregation, church, and ministry. Let it shrivel and die in Jesus's name.
-*   I release the fire of God on all witches that have infiltrated our services. and I release God's judgments on their heads so they will come to repentance in Jesus's name.
-*   Lord, let the blood of Jesus Christ purify every seat in my church in Jesus' name. Let the blood of Jesus vomit every witch and warlock out of my church in Jesus' name.
-*   I curse to the root any witchcraft involving articles and objects that witches and warlocks have stolen from my church. I break and destroy all of it now in Jesus' name.
-*   I loose my church from every demonic altar from the north, south, east, and west that has my name or my church's name on it in Jesus' name.
-*   Lord, let the fire of God fall on my church the way Elijah's fire fell on the altar. Let it consume the offering of our lives in Jesus' name. Amen.
-*   I command every demonic spirit of mixture to come out of my church now in Jesus' name.
-*   Every new age devil, release my church now in Jesus' name.
-*   Every demonic false theology, release my church now in Jesus' name.
-*   Every Jezebel devil, whether in leadership or the congregation, come out of my church, shrivel up and die in Jesus' name.
-*   Every Ahab spirit that has crept into my church. I put the judgment of God on your head. Leave now in Jesus' name.
-*   With the blood of Jesus, I wash away all witchcraft, identification, marks, animals, and sacrifices, and any devils that lay hands on my church. I curse them to their roots. Let them shrivel up and die in Jesus' name.
-*   In Jesus' name, I destroy every witchcraft meeting that has taken place in my church. Let the terror of the Holy Spirit fall on every witch, warlock, divination act, and witchcraft spell that is over my ministry, purpose, and destiny. Release me now in Jesus' name.
-*   Let the fire of God fall on the head of the serpent and chop it off in Jesus' name.
-*   Let any path of the wicked that is assigned against my church and its members be diverted and uprooted in Jesus' name. Amen.
-*   I cover my church and its members in the blood of Jesus now in Jesus' name.
-*   I send confusion to the devil's camp and any demonic agenda or assignment against my church in Jesus' name.
-*   I remove and curse to the root every stubborn devil, every manipulation devil, and every witchcraft devil now in Jesus' name.
-*   As for me, my church, my home, and my family, we will serve Jesus Christ all the days of our lives. Let the goodness and mercies of God be poured over my house, family, church, purpose, ministry, and destiny in the unmatchable name of Jesus Christ. Amen.
-*   Father, we give you glory, honor, and praise for our deliverance. Thank you infinite spirit for sanctifying us and renewing our minds, hearts, spirits and souls. We will not negotiate or compromise and we will surrender all to have all you offer in Jesus mighty name. Amen.
+* God, you are a consuming fire. Let the enemies inside my church become uncomfortable as I release the fire of the Holy Spirit on them now in Jesus's name.
+* I break and destroy every pride spirit devil that has crept into my church, whether in leadership or through visitors. I serve them all eviction notices now. Come out in Jesus' name.
+* I release the fire of heaven on every known and unknown Christian witch and warlock that has come into my church. Let that fire fall on them and remove them now in Jesus' name.
+* In Jesus' name, I frustrate every plot, scheme, and agenda of every witch that has designed spiritual blueprints against my church.
+* I break and curse to the root the silver cord of any witch's astral projecting in my congregation, church, and ministry. Let it shrivel and die in Jesus's name.
+* I release the fire of God on all witches that have infiltrated our services. and I release God's judgments on their heads so they will come to repentance in Jesus's name.
+* Lord, let the blood of Jesus Christ purify every seat in my church in Jesus' name. Let the blood of Jesus vomit every witch and warlock out of my church in Jesus' name.
+* I curse to the root any witchcraft involving articles and objects that witches and warlocks have stolen from my church. I break and destroy all of it now in Jesus' name.
+* I loose my church from every demonic altar from the north, south, east, and west that has my name or my church's name on it in Jesus' name.
+* Lord, let the fire of God fall on any demons in my presence the way Elijah's fire fell on the altar. Let them feel the power of Jesus's name. Amen.
+* I command every demonic spirit of mixture to come out of my church now in Jesus' name.
+* Every new age devil, release my church now in Jesus' name.
+* Every demonic false theology, release my church now in Jesus' name.
+* Every Jezebel devil, whether in leadership or the congregation, come out of my church, shrivel up and die in Jesus' name.
+* Every Ahab spirit that has crept into my church. I put the judgment of God on your head. Leave now in Jesus' name.
+* With the blood of Jesus, I wash away all witchcraft, identification, marks, animals, and sacrifices, and any devils that lay hands on my church. I curse them to their roots. Let them shrivel up and die in Jesus' name.
+* In Jesus' name, I destroy every witchcraft meeting that has taken place in my church. Let the terror of the Holy Spirit fall on every witch, warlock, divination act, and witchcraft spell that is over my ministry, purpose, and destiny. Release me now in Jesus' name.
+* Let the fire of God fall on the head of the serpent and chop it off in Jesus' name.
+* Let any path of the wicked that is assigned against my church and its members be diverted and uprooted in Jesus' name. Amen.
+* I cover my church and its members in the blood of Jesus.
+* I send confusion to the devil's camp and any demonic agenda or assignment against my church in Jesus' name.
+* I remove and curse to the root every stubborn devil, every manipulation devil, and every witchcraft devil now in Jesus' name.
+* As for me, my church, my home, and my family, we will serve Jesus Christ all the days of our lives. Let the goodness and mercies of God be poured over my house, family, church, purpose, ministry, and destiny in the unmatchable name of Jesus Christ. Amen.
+* Father, we give you glory, honor, and praise for our deliverance. Thank you infinite spirit for sanctifying us and renewing our minds, hearts, spirits and souls. We will not negotiate or compromise and we will surrender all to have all you offer in Jesus mighty name. Amen.

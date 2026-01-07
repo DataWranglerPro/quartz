@@ -6,7 +6,7 @@ draft: false
 ![[hs_03.jpg]]
 
 > [!tip] Hi there!
-> My name is David and I have made over 1.2 million dollars working in Information Technology. I have cataloged the last 17 years of my journey, aspiring that my experiences may prove beneficial to others.
+> My name is David and I have made over 1.2 million dollars working in Information Technology. I have cataloged the last 19 years of my journey, aspiring that my experiences may prove beneficial to others.
 > 
 > * [[Education and Professional Experience]]
 
