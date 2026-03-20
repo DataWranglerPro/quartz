@@ -342,12 +342,11 @@ select{ min-width: 220px; max-width: 100%; }
     const LS_KEYS = { DRILLS:'df_drills_v1', SETTINGS:'df_settings_v1', SESSIONS:'df_sessions_v1' };
 
     const defaultDrills12 = () => ([
-      { name:'Drill #1', par:0.7, reps:5 }, { name:'Drill #2', par:0.9, reps:5 },
-      { name:'Drill #3', par:1.0, reps:5 }, { name:'Drill #4', par:1.2, reps:5 },
-      { name:'Drill #5', par:1.0, reps:5 }, { name:'Drill #6', par:1.1, reps:5 },
-      { name:'Drill #7', par:1.0, reps:5 }, { name:'Drill #8', par:1.0, reps:5 },
-      { name:'Drill #9', par:1.3, reps:5  }, { name:'Drill #10', par:1.1, reps:5 },
-      { name:'Drill #11', par:1.2, reps:5 }, { name:'Drill #12', par:1.3, reps:5 }
+      { name:'Sight Picture Confirmation', par:1.5, reps:10 }, { name:'10 Yard Index', par:1.5, reps:10 },
+      { name:'Surrender Index', par:2.0, reps:10 }, { name:'Strong Hand', par:2.0, reps:10 },
+      { name:'Weak Hand', par:2.0, reps:10 }, { name:'Burkett Reloads', par:1.5, reps:10 },
+      { name:'6 Reload 6', par:6.0, reps:5 }, { name:'6 Reload 6 Strong Hand', par:7.0, reps:5 },
+      { name:'6 Reload 6 Weak Hand', par:7.0, reps:5 }, { name:'6 Reload 6 Surrender', par:6.0, reps:5 }
     ]);
 
     const load = (k,fallback)=>{ try{ const v = JSON.parse(localStorage.getItem(k)); return v ?? fallback; }catch (e) { return fallback; } };

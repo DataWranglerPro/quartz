@@ -40,7 +40,7 @@ The following breakdown shows where Jesus spent His time:
 
 ---
 
-# Is the Deliverance Ministry Relevant in 2025?
+# Is the Deliverance Ministry Relevant in 2026?
 
 Jesus did not intend for the work of deliverance to end with Him; He explicitly transferred His authority to drive out demons to us. It began in **Matthew 10:1** when He commanded the disciples to `drive out demons.` But He expanded this scope in **Mark 16:17** and **John 14:12**, promising that all `who believe` would possess this same power to cast out spirits in His name. **Luke 10:19** confirms the extent of this gift, authority over `all the power of the enemy.` As we see in **Acts 16:18**, the early church used this power after Jesus ascended, proving that casting out demons is a current, active assignment for the believer.
 
